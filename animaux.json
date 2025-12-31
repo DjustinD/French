@@ -1,0 +1,152 @@
+[
+  {
+    "singular": "le chat",
+    "plural": "les chats",
+    "image": "images/chat.jpg"
+  },
+  {
+    "singular": "le chien",
+    "plural": "les chiens",
+    "image": "images/chien.jpg"
+  },
+  {
+    "singular": "l'oiseau",
+    "plural": "les oiseaux",
+    "image": "images/oiseau.jpg"
+  },
+  {
+    "singular": "le poisson",
+    "plural": "les poissons",
+    "image": "images/poisson.jpg"
+  },
+  {
+    "singular": "le cheval",
+    "plural": "les chevaux",
+    "image": "images/cheval.jpg"
+  },
+  {
+    "singular": "la vache",
+    "plural": "les vaches",
+    "image": "images/vache.jpg"
+  },
+  {
+    "singular": "le mouton",
+    "plural": "les moutons",
+    "image": "images/mouton.jpg"
+  },
+  {
+    "singular": "le cochon",
+    "plural": "les cochons",
+    "image": "images/cochon.jpg"
+  },
+  {
+    "singular": "la poule",
+    "plural": "les poules",
+    "image": "images/poule.jpg"
+  },
+  {
+    "singular": "le lapin",
+    "plural": "les lapins",
+    "image": "images/lapin.jpg"
+  },
+  {
+    "singular": "le lion",
+    "plural": "les lions",
+    "image": "images/lion.jpg"
+  },
+  {
+    "singular": "le tigre",
+    "plural": "les tigres",
+    "image": "images/tigre.jpg"
+  },
+  {
+    "singular": "l'éléphant",
+    "plural": "les éléphants",
+    "image": "images/elephant.jpg"
+  },
+  {
+    "singular": "la girafe",
+    "plural": "les girafes",
+    "image": "images/girafe.jpg"
+  },
+  {
+    "singular": "le singe",
+    "plural": "les singes",
+    "image": "images/singe.jpg"
+  },
+  {
+    "singular": "l'ours",
+    "plural": "les ours",
+    "image": "images/ours.jpg"
+  },
+  {
+    "singular": "le renard",
+    "plural": "les renards",
+    "image": "images/renard.jpg"
+  },
+  {
+    "singular": "le loup",
+    "plural": "les loups",
+    "image": "images/loup.jpg"
+  },
+  {
+    "singular": "la souris",
+    "plural": "les souris",
+    "image": "images/souris.jpg"
+  },
+  {
+    "singular": "le papillon",
+    "plural": "les papillons",
+    "image": "images/papillon.jpg"
+  },
+  {
+    "singular": "l'abeille",
+    "plural": "les abeilles",
+    "image": "images/abeille.jpg"
+  },
+  {
+    "singular": "la grenouille",
+    "plural": "les grenouilles",
+    "image": "images/grenouille.jpg"
+  },
+  {
+    "singular": "le serpent",
+    "plural": "les serpents",
+    "image": "images/serpent.jpg"
+  },
+  {
+    "singular": "la tortue",
+    "plural": "les tortues",
+    "image": "images/tortue.jpg"
+  },
+  {
+    "singular": "le canard",
+    "plural": "les canards",
+    "image": "images/canard.jpg"
+  },
+  {
+    "singular": "le cygne",
+    "plural": "les cygnes",
+    "image": "images/cygne.jpg"
+  },
+  {
+    "singular": "le dauphin",
+    "plural": "les dauphins",
+    "image": "images/dauphin.jpg"
+  },
+  {
+    "singular": "la baleine",
+    "plural": "les baleines",
+    "image": "images/baleine.jpg"
+  },
+  {
+    "singular": "le requin",
+    "plural": "les requins",
+    "image": "images/requin.jpg"
+  },
+  {
+    "singular": "le crocodile",
+    "plural": "les crocodiles",
+    "image": "images/crocodile.jpg"
+  }
+]

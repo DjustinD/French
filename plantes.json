@@ -1,0 +1,152 @@
+[
+  {
+    "singular": "la rose",
+    "plural": "les roses",
+    "image": "images/rose.jpg"
+  },
+  {
+    "singular": "la tulipe",
+    "plural": "les tulipes",
+    "image": "images/tulipe.jpg"
+  },
+  {
+    "singular": "le tournesol",
+    "plural": "les tournesols",
+    "image": "images/tournesol.jpg"
+  },
+  {
+    "singular": "la marguerite",
+    "plural": "les marguerites",
+    "image": "images/marguerite.jpg"
+  },
+  {
+    "singular": "le lys",
+    "plural": "les lys",
+    "image": "images/lys.jpg"
+  },
+  {
+    "singular": "l'orchidée",
+    "plural": "les orchidées",
+    "image": "images/orchidee.jpg"
+  },
+  {
+    "singular": "le coquelicot",
+    "plural": "les coquelicots",
+    "image": "images/coquelicot.jpg"
+  },
+  {
+    "singular": "la violette",
+    "plural": "les violettes",
+    "image": "images/violette.jpg"
+  },
+  {
+    "singular": "le chêne",
+    "plural": "les chênes",
+    "image": "images/chene.jpg"
+  },
+  {
+    "singular": "le sapin",
+    "plural": "les sapins",
+    "image": "images/sapin.jpg"
+  },
+  {
+    "singular": "le pin",
+    "plural": "les pins",
+    "image": "images/pin.jpg"
+  },
+  {
+    "singular": "le bouleau",
+    "plural": "les bouleaux",
+    "image": "images/bouleau.jpg"
+  },
+  {
+    "singular": "l'érable",
+    "plural": "les érables",
+    "image": "images/erable.jpg"
+  },
+  {
+    "singular": "le palmier",
+    "plural": "les palmiers",
+    "image": "images/palmier.jpg"
+  },
+  {
+    "singular": "le cactus",
+    "plural": "les cactus",
+    "image": "images/cactus.jpg"
+  },
+  {
+    "singular": "la fougère",
+    "plural": "les fougères",
+    "image": "images/fougere.jpg"
+  },
+  {
+    "singular": "le bambou",
+    "plural": "les bambous",
+    "image": "images/bambou.jpg"
+  },
+  {
+    "singular": "le lierre",
+    "plural": "les lierres",
+    "image": "images/lierre.jpg"
+  },
+  {
+    "singular": "la mousse",
+    "plural": "les mousses",
+    "image": "images/mousse.jpg"
+  },
+  {
+    "singular": "l'herbe",
+    "plural": "les herbes",
+    "image": "images/herbe.jpg"
+  },
+  {
+    "singular": "le trèfle",
+    "plural": "les trèfles",
+    "image": "images/trefle.jpg"
+  },
+  {
+    "singular": "la feuille",
+    "plural": "les feuilles",
+    "image": "images/feuille.jpg"
+  },
+  {
+    "singular": "la branche",
+    "plural": "les branches",
+    "image": "images/branche.jpg"
+  },
+  {
+    "singular": "la racine",
+    "plural": "les racines",
+    "image": "images/racine.jpg"
+  },
+  {
+    "singular": "la fleur",
+    "plural": "les fleurs",
+    "image": "images/fleur.jpg"
+  },
+  {
+    "singular": "le pommier",
+    "plural": "les pommiers",
+    "image": "images/pommier.jpg"
+  },
+  {
+    "singular": "le cerisier",
+    "plural": "les cerisiers",
+    "image": "images/cerisier.jpg"
+  },
+  {
+    "singular": "l'olivier",
+    "plural": "les oliviers",
+    "image": "images/olivier.jpg"
+  },
+  {
+    "singular": "le citronnier",
+    "plural": "les citronniers",
+    "image": "images/citronnier.jpg"
+  },
+  {
+    "singular": "la vigne",
+    "plural": "les vignes",
+    "image": "images/vigne.jpg"
+  }
+]
