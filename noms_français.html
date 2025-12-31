@@ -230,12 +230,25 @@
                 
                 const categories = await response.json();
                 
+                let animalsFile = null;
+                
                 categories.forEach(category => {
                     const option = document.createElement('option');
                     option.value = category.file;
                     option.textContent = category.name;
                     categorySelect.appendChild(option);
+                    
+                    // Check if this is the animals category
+                    if (category.name.toLowerCase().includes('animaux') || category.name.toLowerCase().includes('animal')) {
+                        animalsFile = category.file;
+                    }
                 });
+                
+                // Load animals by default if found
+                if (animalsFile) {
+                    categorySelect.value = animalsFile;
+                    loadWords(animalsFile);
+                }
             } catch (error) {
                 wordsContainer.innerHTML = `
                     <div class="error">
