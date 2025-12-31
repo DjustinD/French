@@ -1,0 +1,145 @@
+{
+  "infinitive": "vouloir",
+  "english": "to want",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": { "form": "veux", "english": "I want", "sentence": "Je veux partir.", "sentenceEnglish": "I want to leave." },
+            "tu": { "form": "veux", "english": "you want", "sentence": "Tu veux manger?", "sentenceEnglish": "Do you want to eat?" },
+            "il/elle": { "form": "veut", "english": "he/she wants", "sentence": "Elle veut dormir.", "sentenceEnglish": "She wants to sleep." },
+            "on": { "form": "veut", "english": "we want", "sentence": "On veut rester.", "sentenceEnglish": "We want to stay." },
+            "nous": { "form": "voulons", "english": "we want", "sentence": "Nous voulons réussir.", "sentenceEnglish": "We want to succeed." },
+            "vous": { "form": "voulez", "english": "you want", "sentence": "Vous voulez du café?", "sentenceEnglish": "Do you want coffee?" },
+            "ils/elles": { "form": "veulent", "english": "they want", "sentence": "Ils veulent venir.", "sentenceEnglish": "They want to come." }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": { "form": "suis en train de vouloir", "english": "I am wanting", "sentence": "Je suis en train de vouloir partir.", "sentenceEnglish": "I am wanting to leave." },
+            "tu": { "form": "es en train de vouloir", "english": "you are wanting", "sentence": "Tu es en train de vouloir quelque chose?", "sentenceEnglish": "Are you wanting something?" },
+            "il/elle": { "form": "est en train de vouloir", "english": "he/she is wanting", "sentence": "Elle est en train de vouloir comprendre.", "sentenceEnglish": "She is wanting to understand." },
+            "on": { "form": "est en train de vouloir", "english": "we are wanting", "sentence": "On est en train de vouloir changer.", "sentenceEnglish": "We are wanting to change." },
+            "nous": { "form": "sommes en train de vouloir", "english": "we are wanting", "sentence": "Nous sommes en train de vouloir progresser.", "sentenceEnglish": "We are wanting to progress." },
+            "vous": { "form": "êtes en train de vouloir", "english": "you are wanting", "sentence": "Vous êtes en train de vouloir partir?", "sentenceEnglish": "Are you wanting to leave?" },
+            "ils/elles": { "form": "sont en train de vouloir", "english": "they are wanting", "sentence": "Ils sont en train de vouloir réussir.", "sentenceEnglish": "They are wanting to succeed." }
+          }
+        }
+      },
+      "note": "Highly irregular verb. Must be memorized: je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed actions with present relevance",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "ai voulu", "english": "I wanted / I have wanted", "sentence": "J'ai voulu partir.", "sentenceEnglish": "I wanted to leave." },
+            "tu": { "form": "as voulu", "english": "you wanted / you have wanted", "sentence": "Tu as voulu m'aider?", "sentenceEnglish": "Did you want to help me?" },
+            "il/elle": { "form": "a voulu", "english": "he/she wanted / has wanted", "sentence": "Elle a voulu réussir.", "sentenceEnglish": "She wanted to succeed." },
+            "on": { "form": "a voulu", "english": "we wanted / we have wanted", "sentence": "On a voulu rester.", "sentenceEnglish": "We wanted to stay." },
+            "nous": { "form": "avons voulu", "english": "we wanted / we have wanted", "sentence": "Nous avons voulu venir.", "sentenceEnglish": "We wanted to come." },
+            "vous": { "form": "avez voulu", "english": "you wanted / you have wanted", "sentence": "Vous avez voulu partir?", "sentenceEnglish": "Did you want to leave?" },
+            "ils/elles": { "form": "ont voulu", "english": "they wanted / they have wanted", "sentence": "Ils ont voulu comprendre.", "sentenceEnglish": "They wanted to understand." }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Ongoing or habitual actions in the past",
+          "forms": {
+            "je": { "form": "voulais", "english": "I wanted / I used to want", "sentence": "Je voulais partir.", "sentenceEnglish": "I wanted to leave." },
+            "tu": { "form": "voulais", "english": "you wanted / you used to want", "sentence": "Tu voulais manger?", "sentenceEnglish": "Did you want to eat?" },
+            "il/elle": { "form": "voulait", "english": "he/she wanted / used to want", "sentence": "Elle voulait dormir.", "sentenceEnglish": "She wanted to sleep." },
+            "on": { "form": "voulait", "english": "we wanted / we used to want", "sentence": "On voulait rester.", "sentenceEnglish": "We wanted to stay." },
+            "nous": { "form": "voulions", "english": "we wanted / we used to want", "sentence": "Nous voulions réussir.", "sentenceEnglish": "We wanted to succeed." },
+            "vous": { "form": "vouliez", "english": "you wanted / you used to want", "sentence": "Vous vouliez du café?", "sentenceEnglish": "Did you want coffee?" },
+            "ils/elles": { "form": "voulaient", "english": "they wanted / they used to want", "sentence": "Ils voulaient venir.", "sentenceEnglish": "They wanted to come." }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Actions completed before another past action",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "avais voulu", "english": "I had wanted", "sentence": "J'avais voulu partir.", "sentenceEnglish": "I had wanted to leave." },
+            "tu": { "form": "avais voulu", "english": "you had wanted", "sentence": "Tu avais voulu m'aider?", "sentenceEnglish": "Had you wanted to help me?" },
+            "il/elle": { "form": "avait voulu", "english": "he/she had wanted", "sentence": "Elle avait voulu réussir.", "sentenceEnglish": "She had wanted to succeed." },
+            "on": { "form": "avait voulu", "english": "we had wanted", "sentence": "On avait voulu rester.", "sentenceEnglish": "We had wanted to stay." },
+            "nous": { "form": "avions voulu", "english": "we had wanted", "sentence": "Nous avions voulu venir.", "sentenceEnglish": "We had wanted to come." },
+            "vous": { "form": "aviez voulu", "english": "you had wanted", "sentence": "Vous aviez voulu partir?", "sentenceEnglish": "Had you wanted to leave?" },
+            "ils/elles": { "form": "avaient voulu", "english": "they had wanted", "sentence": "Ils avaient voulu comprendre.", "sentenceEnglish": "They had wanted to understand." }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": { "form": "voulus", "english": "I wanted", "sentence": "Je voulus partir.", "sentenceEnglish": "I wanted to leave." },
+            "tu": { "form": "voulus", "english": "you wanted", "sentence": "Tu voulus manger?", "sentenceEnglish": "Did you want to eat?" },
+            "il/elle": { "form": "voulut", "english": "he/she wanted", "sentence": "Elle voulut dormir.", "sentenceEnglish": "She wanted to sleep." },
+            "on": { "form": "voulut", "english": "we wanted", "sentence": "On voulut rester.", "sentenceEnglish": "We wanted to stay." },
+            "nous": { "form": "voulûmes", "english": "we wanted", "sentence": "Nous voulûmes réussir.", "sentenceEnglish": "We wanted to succeed." },
+            "vous": { "form": "voulûtes", "english": "you wanted", "sentence": "Vous voulûtes du café?", "sentenceEnglish": "Did you want coffee?" },
+            "ils/elles": { "form": "voulurent", "english": "they wanted", "sentence": "Ils voulurent venir.", "sentenceEnglish": "They wanted to come." }
+          }
+        }
+      },
+      "note": "Irregular imparfait stem 'voul-' (from 'nous voulons')"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Actions that will happen",
+          "forms": {
+            "je": { "form": "voudrai", "english": "I will want", "sentence": "Je voudrai partir.", "sentenceEnglish": "I will want to leave." },
+            "tu": { "form": "voudras", "english": "you will want", "sentence": "Tu voudras manger?", "sentenceEnglish": "Will you want to eat?" },
+            "il/elle": { "form": "voudra", "english": "he/she will want", "sentence": "Il voudra dormir.", "sentenceEnglish": "He will want to sleep." },
+            "on": { "form": "voudra", "english": "we will want", "sentence": "On voudra rester.", "sentenceEnglish": "We will want to stay." },
+            "nous": { "form": "voudrons", "english": "we will want", "sentence": "Nous voudrons réussir.", "sentenceEnglish": "We will want to succeed." },
+            "vous": { "form": "voudrez", "english": "you will want", "sentence": "Vous voudrez du café?", "sentenceEnglish": "Will you want coffee?" },
+            "ils/elles": { "form": "voudront", "english": "they will want", "sentence": "Elles voudront venir.", "sentenceEnglish": "They will want to come." }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future actions",
+          "forms": {
+            "je": { "form": "vais vouloir", "english": "I am going to want", "sentence": "Je vais vouloir partir.", "sentenceEnglish": "I am going to want to leave." },
+            "tu": { "form": "vas vouloir", "english": "you are going to want", "sentence": "Tu vas vouloir manger?", "sentenceEnglish": "Are you going to want to eat?" },
+            "il/elle": { "form": "va vouloir", "english": "he/she is going to want", "sentence": "Il va vouloir dormir.", "sentenceEnglish": "He is going to want to sleep." },
+            "on": { "form": "va vouloir", "english": "we are going to want", "sentence": "On va vouloir rester.", "sentenceEnglish": "We are going to want to stay." },
+            "nous": { "form": "allons vouloir", "english": "we are going to want", "sentence": "Nous allons vouloir réussir.", "sentenceEnglish": "We are going to want to succeed." },
+            "vous": { "form": "allez vouloir", "english": "you are going to want", "sentence": "Vous allez vouloir du café?", "sentenceEnglish": "Are you going to want coffee?" },
+            "ils/elles": { "form": "vont vouloir", "english": "they are going to want", "sentence": "Ils vont vouloir venir.", "sentenceEnglish": "They are going to want to come." }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Actions that will be completed by a future time",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "aurai voulu", "english": "I will have wanted", "sentence": "J'aurai voulu partir.", "sentenceEnglish": "I will have wanted to leave." },
+            "tu": { "form": "auras voulu", "english": "you will have wanted", "sentence": "Tu auras voulu m'aider?", "sentenceEnglish": "Will you have wanted to help me?" },
+            "il/elle": { "form": "aura voulu", "english": "he/she will have wanted", "sentence": "Elle aura voulu réussir.", "sentenceEnglish": "She will have wanted to succeed." },
+            "on": { "form": "aura voulu", "english": "we will have wanted", "sentence": "On aura voulu rester.", "sentenceEnglish": "We will have wanted to stay." },
+            "nous": { "form": "aurons voulu", "english": "we will have wanted", "sentence": "Nous aurons voulu venir.", "sentenceEnglish": "We will have wanted to come." },
+            "vous": { "form": "aurez voulu", "english": "you will have wanted", "sentence": "Vous aurez voulu partir?", "sentenceEnglish": "Will you have wanted to leave?" },
+            "ils/elles": { "form": "auront voulu", "english": "they will have wanted", "sentence": "Ils auront voulu comprendre.", "sentenceEnglish": "They will have wanted to understand." }
+          }
+        }
+      },
+      "note": "Irregular future stem 'voudr-'"
+    }
+  }
+}

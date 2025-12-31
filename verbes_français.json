@@ -1,0 +1,70 @@
+{
+  "verbs": [
+    {
+      "infinitive": "aller",
+      "english": "to go",
+      "irregular": true,
+      "file": "aller.json"
+    },
+    {
+      "infinitive": "avoir",
+      "english": "to have",
+      "irregular": true,
+      "file": "avoir.json"
+    },
+    {
+      "infinitive": "devoir",
+      "english": "to have to / must / to owe",
+      "irregular": true,
+      "file": "devoir.json"
+    },
+    {
+      "infinitive": "dire",
+      "english": "to say / to tell",
+      "irregular": true,
+      "file": "dire.json"
+    },
+    {
+      "infinitive": "être",
+      "english": "to be",
+      "irregular": true,
+      "file": "être.json"
+    },
+    {
+      "infinitive": "faire",
+      "english": "to do / to make",
+      "irregular": true,
+      "file": "faire.json"
+    },
+    {
+      "infinitive": "parler",
+      "english": "to speak / to talk",
+      "irregular": false,
+      "file": "parler.json"
+    },
+    {
+      "infinitive": "pouvoir",
+      "english": "to be able to / can",
+      "irregular": true,
+      "file": "pouvoir.json"
+    },
+    {
+      "infinitive": "prendre",
+      "english": "to take / to have (food/drink)",
+      "irregular": true,
+      "file": "prendre.json"
+    },
+    {
+      "infinitive": "savoir",
+      "english": "to know / to know how to",
+      "irregular": true,
+      "file": "savoir.json"
+    },
+    {
+      "infinitive": "vouloir",
+      "english": "to want",
+      "irregular": true,
+      "file": "vouloir.json"
+    }
+  ]
+}

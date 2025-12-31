@@ -1,0 +1,145 @@
+{
+  "infinitive": "faire",
+  "english": "to do / to make",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": { "form": "fais", "english": "I do / I make", "sentence": "Je fais mes devoirs.", "sentenceEnglish": "I do my homework." },
+            "tu": { "form": "fais", "english": "you do / you make", "sentence": "Tu fais du sport?", "sentenceEnglish": "Do you do sports?" },
+            "il/elle": { "form": "fait", "english": "he/she does / makes", "sentence": "Elle fait la cuisine.", "sentenceEnglish": "She does the cooking." },
+            "on": { "form": "fait", "english": "we do / we make", "sentence": "On fait quoi?", "sentenceEnglish": "What are we doing?" },
+            "nous": { "form": "faisons", "english": "we do / we make", "sentence": "Nous faisons attention.", "sentenceEnglish": "We pay attention." },
+            "vous": { "form": "faites", "english": "you do / you make", "sentence": "Vous faites du café?", "sentenceEnglish": "Are you making coffee?" },
+            "ils/elles": { "form": "font", "english": "they do / they make", "sentence": "Ils font du bruit.", "sentenceEnglish": "They are making noise." }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": { "form": "suis en train de faire", "english": "I am doing / making", "sentence": "Je suis en train de faire un gâteau.", "sentenceEnglish": "I am making a cake." },
+            "tu": { "form": "es en train de faire", "english": "you are doing / making", "sentence": "Tu es en train de faire tes devoirs?", "sentenceEnglish": "Are you doing your homework?" },
+            "il/elle": { "form": "est en train de faire", "english": "he/she is doing / making", "sentence": "Elle est en train de faire du café.", "sentenceEnglish": "She is making coffee." },
+            "on": { "form": "est en train de faire", "english": "we are doing / making", "sentence": "On est en train de faire les courses.", "sentenceEnglish": "We are doing the shopping." },
+            "nous": { "form": "sommes en train de faire", "english": "we are doing / making", "sentence": "Nous sommes en train de faire un projet.", "sentenceEnglish": "We are doing a project." },
+            "vous": { "form": "êtes en train de faire", "english": "you are doing / making", "sentence": "Vous êtes en train de faire quoi?", "sentenceEnglish": "What are you doing?" },
+            "ils/elles": { "form": "sont en train de faire", "english": "they are doing / making", "sentence": "Ils sont en train de faire du sport.", "sentenceEnglish": "They are doing sports." }
+          }
+        }
+      },
+      "note": "Highly irregular verb. Must be memorized: je fais, tu fais, il/elle fait, nous faisons, vous faites, ils/elles font"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed actions with present relevance",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "ai fait", "english": "I did / I have done / I made", "sentence": "J'ai fait mes devoirs.", "sentenceEnglish": "I did my homework." },
+            "tu": { "form": "as fait", "english": "you did / you have done / you made", "sentence": "Tu as fait du sport?", "sentenceEnglish": "Did you do sports?" },
+            "il/elle": { "form": "a fait", "english": "he/she did / has done / made", "sentence": "Elle a fait la cuisine.", "sentenceEnglish": "She did the cooking." },
+            "on": { "form": "a fait", "english": "we did / we have done / we made", "sentence": "On a fait de notre mieux.", "sentenceEnglish": "We did our best." },
+            "nous": { "form": "avons fait", "english": "we did / we have done / we made", "sentence": "Nous avons fait une erreur.", "sentenceEnglish": "We made a mistake." },
+            "vous": { "form": "avez fait", "english": "you did / you have done / you made", "sentence": "Vous avez fait du bon travail.", "sentenceEnglish": "You did good work." },
+            "ils/elles": { "form": "ont fait", "english": "they did / they have done / they made", "sentence": "Ils ont fait les courses.", "sentenceEnglish": "They did the shopping." }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Ongoing or habitual actions in the past",
+          "forms": {
+            "je": { "form": "faisais", "english": "I was doing / I used to do / I was making", "sentence": "Je faisais du vélo.", "sentenceEnglish": "I used to ride a bike." },
+            "tu": { "form": "faisais", "english": "you were doing / you used to do / you were making", "sentence": "Tu faisais quoi?", "sentenceEnglish": "What were you doing?" },
+            "il/elle": { "form": "faisait", "english": "he/she was doing / used to do / was making", "sentence": "Elle faisait la cuisine.", "sentenceEnglish": "She was cooking." },
+            "on": { "form": "faisait", "english": "we were doing / we used to do / we were making", "sentence": "On faisait du camping.", "sentenceEnglish": "We used to go camping." },
+            "nous": { "form": "faisions", "english": "we were doing / we used to do / we were making", "sentence": "Nous faisions attention.", "sentenceEnglish": "We were paying attention." },
+            "vous": { "form": "faisiez", "english": "you were doing / you used to do / you were making", "sentence": "Vous faisiez du sport?", "sentenceEnglish": "Did you use to do sports?" },
+            "ils/elles": { "form": "faisaient", "english": "they were doing / they used to do / they were making", "sentence": "Ils faisaient du bruit.", "sentenceEnglish": "They were making noise." }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Actions completed before another past action",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "avais fait", "english": "I had done / I had made", "sentence": "J'avais fait mes devoirs.", "sentenceEnglish": "I had done my homework." },
+            "tu": { "form": "avais fait", "english": "you had done / you had made", "sentence": "Tu avais fait du sport?", "sentenceEnglish": "Had you done sports?" },
+            "il/elle": { "form": "avait fait", "english": "he/she had done / had made", "sentence": "Elle avait fait une erreur.", "sentenceEnglish": "She had made a mistake." },
+            "on": { "form": "avait fait", "english": "we had done / we had made", "sentence": "On avait fait de notre mieux.", "sentenceEnglish": "We had done our best." },
+            "nous": { "form": "avions fait", "english": "we had done / we had made", "sentence": "Nous avions fait les courses.", "sentenceEnglish": "We had done the shopping." },
+            "vous": { "form": "aviez fait", "english": "you had done / you had made", "sentence": "Vous aviez fait attention?", "sentenceEnglish": "Had you paid attention?" },
+            "ils/elles": { "form": "avaient fait", "english": "they had done / they had made", "sentence": "Ils avaient fait du bon travail.", "sentenceEnglish": "They had done good work." }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": { "form": "fis", "english": "I did / I made", "sentence": "Je fis mes devoirs.", "sentenceEnglish": "I did my homework." },
+            "tu": { "form": "fis", "english": "you did / you made", "sentence": "Tu fis du sport?", "sentenceEnglish": "Did you do sports?" },
+            "il/elle": { "form": "fit", "english": "he/she did / made", "sentence": "Elle fit la cuisine.", "sentenceEnglish": "She did the cooking." },
+            "on": { "form": "fit", "english": "we did / we made", "sentence": "On fit de notre mieux.", "sentenceEnglish": "We did our best." },
+            "nous": { "form": "fîmes", "english": "we did / we made", "sentence": "Nous fîmes une erreur.", "sentenceEnglish": "We made a mistake." },
+            "vous": { "form": "fîtes", "english": "you did / you made", "sentence": "Vous fîtes du bon travail.", "sentenceEnglish": "You did good work." },
+            "ils/elles": { "form": "firent", "english": "they did / they made", "sentence": "Ils firent les courses.", "sentenceEnglish": "They did the shopping." }
+          }
+        }
+      },
+      "note": "Irregular imparfait stem 'fais-' (from 'nous faisons')"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Actions that will happen",
+          "forms": {
+            "je": { "form": "ferai", "english": "I will do / I will make", "sentence": "Je ferai mes devoirs.", "sentenceEnglish": "I will do my homework." },
+            "tu": { "form": "feras", "english": "you will do / you will make", "sentence": "Tu feras du sport?", "sentenceEnglish": "Will you do sports?" },
+            "il/elle": { "form": "fera", "english": "he/she will do / will make", "sentence": "Il fera beau demain.", "sentenceEnglish": "The weather will be nice tomorrow." },
+            "on": { "form": "fera", "english": "we will do / we will make", "sentence": "On fera de notre mieux.", "sentenceEnglish": "We will do our best." },
+            "nous": { "form": "ferons", "english": "we will do / we will make", "sentence": "Nous ferons attention.", "sentenceEnglish": "We will pay attention." },
+            "vous": { "form": "ferez", "english": "you will do / you will make", "sentence": "Vous ferez quoi?", "sentenceEnglish": "What will you do?" },
+            "ils/elles": { "form": "feront", "english": "they will do / they will make", "sentence": "Elles feront les courses.", "sentenceEnglish": "They will do the shopping." }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future actions",
+          "forms": {
+            "je": { "form": "vais faire", "english": "I am going to do / make", "sentence": "Je vais faire mes devoirs.", "sentenceEnglish": "I am going to do my homework." },
+            "tu": { "form": "vas faire", "english": "you are going to do / make", "sentence": "Tu vas faire du sport?", "sentenceEnglish": "Are you going to do sports?" },
+            "il/elle": { "form": "va faire", "english": "he/she is going to do / make", "sentence": "Il va faire beau.", "sentenceEnglish": "The weather is going to be nice." },
+            "on": { "form": "va faire", "english": "we are going to do / make", "sentence": "On va faire de notre mieux.", "sentenceEnglish": "We are going to do our best." },
+            "nous": { "form": "allons faire", "english": "we are going to do / make", "sentence": "Nous allons faire attention.", "sentenceEnglish": "We are going to pay attention." },
+            "vous": { "form": "allez faire", "english": "you are going to do / make", "sentence": "Vous allez faire quoi?", "sentenceEnglish": "What are you going to do?" },
+            "ils/elles": { "form": "vont faire", "english": "they are going to do / make", "sentence": "Ils vont faire les courses.", "sentenceEnglish": "They are going to do the shopping." }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Actions that will be completed by a future time",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "aurai fait", "english": "I will have done / made", "sentence": "J'aurai fait mes devoirs.", "sentenceEnglish": "I will have done my homework." },
+            "tu": { "form": "auras fait", "english": "you will have done / made", "sentence": "Tu auras fait du sport?", "sentenceEnglish": "Will you have done sports?" },
+            "il/elle": { "form": "aura fait", "english": "he/she will have done / made", "sentence": "Elle aura fait de son mieux.", "sentenceEnglish": "She will have done her best." },
+            "on": { "form": "aura fait", "english": "we will have done / made", "sentence": "On aura fait les courses.", "sentenceEnglish": "We will have done the shopping." },
+            "nous": { "form": "aurons fait", "english": "we will have done / made", "sentence": "Nous aurons fait une erreur.", "sentenceEnglish": "We will have made a mistake." },
+            "vous": { "form": "aurez fait", "english": "you will have done / made", "sentence": "Vous aurez fait attention?", "sentenceEnglish": "Will you have paid attention?" },
+            "ils/elles": { "form": "auront fait", "english": "they will have done / made", "sentence": "Ils auront fait du bon travail.", "sentenceEnglish": "They will have done good work." }
+          }
+        }
+      },
+      "note": "Irregular future stem 'fer-'"
+    }
+  }
+}

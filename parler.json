@@ -1,0 +1,145 @@
+{
+  "infinitive": "parler",
+  "english": "to speak / to talk",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": { "form": "parle", "english": "I speak / I talk", "sentence": "Je parle français.", "sentenceEnglish": "I speak French." },
+            "tu": { "form": "parles", "english": "you speak / you talk", "sentence": "Tu parles anglais?", "sentenceEnglish": "Do you speak English?" },
+            "il/elle": { "form": "parle", "english": "he/she speaks / talks", "sentence": "Elle parle vite.", "sentenceEnglish": "She speaks quickly." },
+            "on": { "form": "parle", "english": "we speak / we talk", "sentence": "On parle de quoi?", "sentenceEnglish": "What are we talking about?" },
+            "nous": { "form": "parlons", "english": "we speak / we talk", "sentence": "Nous parlons français.", "sentenceEnglish": "We speak French." },
+            "vous": { "form": "parlez", "english": "you speak / you talk", "sentence": "Vous parlez bien!", "sentenceEnglish": "You speak well!" },
+            "ils/elles": { "form": "parlent", "english": "they speak / they talk", "sentence": "Ils parlent trop.", "sentenceEnglish": "They talk too much." }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Continuous present - action in progress right now",
+          "forms": {
+            "je": { "form": "suis en train de parler", "english": "I am speaking", "sentence": "Je suis en train de parler avec lui.", "sentenceEnglish": "I am speaking with him." },
+            "tu": { "form": "es en train de parler", "english": "you are speaking", "sentence": "Tu es en train de parler au téléphone?", "sentenceEnglish": "Are you speaking on the phone?" },
+            "il/elle": { "form": "est en train de parler", "english": "he/she is speaking", "sentence": "Elle est en train de parler français.", "sentenceEnglish": "She is speaking French." },
+            "on": { "form": "est en train de parler", "english": "we are speaking", "sentence": "On est en train de parler de ça.", "sentenceEnglish": "We are talking about that." },
+            "nous": { "form": "sommes en train de parler", "english": "we are speaking", "sentence": "Nous sommes en train de parler affaires.", "sentenceEnglish": "We are talking business." },
+            "vous": { "form": "êtes en train de parler", "english": "you are speaking", "sentence": "Vous êtes en train de parler de moi?", "sentenceEnglish": "Are you talking about me?" },
+            "ils/elles": { "form": "sont en train de parler", "english": "they are speaking", "sentence": "Ils sont en train de parler ensemble.", "sentenceEnglish": "They are talking together." }
+          }
+        }
+      },
+      "note": "Regular -ER verb. Pattern: je -e, tu -es, il/elle -e, nous -ons, vous -ez, ils/elles -ent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Perfect aspect - completed actions with present relevance",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "ai parlé", "english": "I spoke / I have spoken", "sentence": "J'ai parlé avec lui.", "sentenceEnglish": "I spoke with him." },
+            "tu": { "form": "as parlé", "english": "you spoke / you have spoken", "sentence": "Tu as parlé au prof?", "sentenceEnglish": "Did you speak to the teacher?" },
+            "il/elle": { "form": "a parlé", "english": "he/she spoke / has spoken", "sentence": "Elle a parlé longtemps.", "sentenceEnglish": "She spoke for a long time." },
+            "on": { "form": "a parlé", "english": "we spoke / we have spoken", "sentence": "On a parlé de toi.", "sentenceEnglish": "We talked about you." },
+            "nous": { "form": "avons parlé", "english": "we spoke / we have spoken", "sentence": "Nous avons parlé français.", "sentenceEnglish": "We spoke French." },
+            "vous": { "form": "avez parlé", "english": "you spoke / you have spoken", "sentence": "Vous avez parlé avec elle?", "sentenceEnglish": "Did you speak with her?" },
+            "ils/elles": { "form": "ont parlé", "english": "they spoke / they have spoken", "sentence": "Ils ont parlé toute la nuit.", "sentenceEnglish": "They talked all night." }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Imperfect aspect - ongoing or habitual actions in the past",
+          "forms": {
+            "je": { "form": "parlais", "english": "I was speaking / I used to speak", "sentence": "Je parlais français couramment.", "sentenceEnglish": "I used to speak French fluently." },
+            "tu": { "form": "parlais", "english": "you were speaking / you used to speak", "sentence": "Tu parlais tout le temps.", "sentenceEnglish": "You used to talk all the time." },
+            "il/elle": { "form": "parlait", "english": "he/she was speaking / used to speak", "sentence": "Elle parlait vite.", "sentenceEnglish": "She used to speak quickly." },
+            "on": { "form": "parlait", "english": "we were speaking / we used to speak", "sentence": "On parlait de ça.", "sentenceEnglish": "We were talking about that." },
+            "nous": { "form": "parlions", "english": "we were speaking / we used to speak", "sentence": "Nous parlions français à la maison.", "sentenceEnglish": "We used to speak French at home." },
+            "vous": { "form": "parliez", "english": "you were speaking / you used to speak", "sentence": "Vous parliez de quoi?", "sentenceEnglish": "What were you talking about?" },
+            "ils/elles": { "form": "parlaient", "english": "they were speaking / they used to speak", "sentence": "Ils parlaient ensemble.", "sentenceEnglish": "They were talking together." }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Pluperfect - actions completed before another past action",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "avais parlé", "english": "I had spoken", "sentence": "J'avais parlé avec lui avant.", "sentenceEnglish": "I had spoken with him before." },
+            "tu": { "form": "avais parlé", "english": "you had spoken", "sentence": "Tu avais parlé avec le prof?", "sentenceEnglish": "Had you spoken with the teacher?" },
+            "il/elle": { "form": "avait parlé", "english": "he/she had spoken", "sentence": "Elle avait parlé trop vite.", "sentenceEnglish": "She had spoken too quickly." },
+            "on": { "form": "avait parlé", "english": "we had spoken", "sentence": "On avait parlé de ça.", "sentenceEnglish": "We had talked about that." },
+            "nous": { "form": "avions parlé", "english": "we had spoken", "sentence": "Nous avions parlé français.", "sentenceEnglish": "We had spoken French." },
+            "vous": { "form": "aviez parlé", "english": "you had spoken", "sentence": "Vous aviez parlé avec elle?", "sentenceEnglish": "Had you spoken with her?" },
+            "ils/elles": { "form": "avaient parlé", "english": "they had spoken", "sentence": "Ils avaient parlé ensemble.", "sentenceEnglish": "They had talked together." }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Simple past (literary) - completed past actions",
+          "forms": {
+            "je": { "form": "parlai", "english": "I spoke", "sentence": "Je parlai au roi.", "sentenceEnglish": "I spoke to the king." },
+            "tu": { "form": "parlas", "english": "you spoke", "sentence": "Tu parlas avec sagesse.", "sentenceEnglish": "You spoke with wisdom." },
+            "il/elle": { "form": "parla", "english": "he/she spoke", "sentence": "Elle parla doucement.", "sentenceEnglish": "She spoke softly." },
+            "on": { "form": "parla", "english": "we spoke", "sentence": "On parla de la guerre.", "sentenceEnglish": "We spoke of the war." },
+            "nous": { "form": "parlâmes", "english": "we spoke", "sentence": "Nous parlâmes toute la nuit.", "sentenceEnglish": "We spoke all night." },
+            "vous": { "form": "parlâtes", "english": "you spoke", "sentence": "Vous parlâtes avec franchise.", "sentenceEnglish": "You spoke frankly." },
+            "ils/elles": { "form": "parlèrent", "english": "they spoke", "sentence": "Ils parlèrent longuement.", "sentenceEnglish": "They spoke at length." }
+          }
+        }
+      },
+      "note": "Regular imparfait: take nous form of present, remove -ons, add -ais, -ais, -ait, -ions, -iez, -aient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future - actions that will happen",
+          "forms": {
+            "je": { "form": "parlerai", "english": "I will speak", "sentence": "Je parlerai demain.", "sentenceEnglish": "I will speak tomorrow." },
+            "tu": { "form": "parleras", "english": "you will speak", "sentence": "Tu parleras français?", "sentenceEnglish": "Will you speak French?" },
+            "il/elle": { "form": "parlera", "english": "he/she will speak", "sentence": "Il parlera plus tard.", "sentenceEnglish": "He will speak later." },
+            "on": { "form": "parlera", "english": "we will speak", "sentence": "On parlera demain.", "sentenceEnglish": "We will talk tomorrow." },
+            "nous": { "form": "parlerons", "english": "we will speak", "sentence": "Nous parlerons bientôt.", "sentenceEnglish": "We will speak soon." },
+            "vous": { "form": "parlerez", "english": "you will speak", "sentence": "Vous parlerez avec lui?", "sentenceEnglish": "Will you speak with him?" },
+            "ils/elles": { "form": "parleront", "english": "they will speak", "sentence": "Elles parleront ensemble.", "sentenceEnglish": "They will talk together." }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future - actions about to happen",
+          "forms": {
+            "je": { "form": "vais parler", "english": "I am going to speak", "sentence": "Je vais parler avec lui.", "sentenceEnglish": "I am going to speak with him." },
+            "tu": { "form": "vas parler", "english": "you are going to speak", "sentence": "Tu vas parler français?", "sentenceEnglish": "Are you going to speak French?" },
+            "il/elle": { "form": "va parler", "english": "he/she is going to speak", "sentence": "Elle va parler au directeur.", "sentenceEnglish": "She is going to speak to the director." },
+            "on": { "form": "va parler", "english": "we are going to speak", "sentence": "On va parler de ça.", "sentenceEnglish": "We are going to talk about that." },
+            "nous": { "form": "allons parler", "english": "we are going to speak", "sentence": "Nous allons parler ensemble.", "sentenceEnglish": "We are going to speak together." },
+            "vous": { "form": "allez parler", "english": "you are going to speak", "sentence": "Vous allez parler quand?", "sentenceEnglish": "When are you going to speak?" },
+            "ils/elles": { "form": "vont parler", "english": "they are going to speak", "sentence": "Ils vont parler bientôt.", "sentenceEnglish": "They are going to speak soon." }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect - actions that will be completed by a future time",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "aurai parlé", "english": "I will have spoken", "sentence": "J'aurai parlé avant midi.", "sentenceEnglish": "I will have spoken before noon." },
+            "tu": { "form": "auras parlé", "english": "you will have spoken", "sentence": "Tu auras parlé avec lui?", "sentenceEnglish": "Will you have spoken with him?" },
+            "il/elle": { "form": "aura parlé", "english": "he/she will have spoken", "sentence": "Elle aura parlé avant vous.", "sentenceEnglish": "She will have spoken before you." },
+            "on": { "form": "aura parlé", "english": "we will have spoken", "sentence": "On aura parlé de ça.", "sentenceEnglish": "We will have talked about that." },
+            "nous": { "form": "aurons parlé", "english": "we will have spoken", "sentence": "Nous aurons parlé français.", "sentenceEnglish": "We will have spoken French." },
+            "vous": { "form": "aurez parlé", "english": "you will have spoken", "sentence": "Vous aurez parlé avec elle?", "sentenceEnglish": "Will you have spoken with her?" },
+            "ils/elles": { "form": "auront parlé", "english": "they will have spoken", "sentence": "Ils auront parlé ensemble.", "sentenceEnglish": "They will have talked together." }
+          }
+        }
+      },
+      "note": "Regular future: infinitive + ai, as, a, ons, ez, ont"
+    }
+  }
+}

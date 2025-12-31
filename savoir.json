@@ -1,0 +1,145 @@
+{
+  "infinitive": "savoir",
+  "english": "to know / to know how to",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": { "form": "sais", "english": "I know", "sentence": "Je sais nager.", "sentenceEnglish": "I know how to swim." },
+            "tu": { "form": "sais", "english": "you know", "sentence": "Tu sais la réponse?", "sentenceEnglish": "Do you know the answer?" },
+            "il/elle": { "form": "sait", "english": "he/she knows", "sentence": "Elle sait conduire.", "sentenceEnglish": "She knows how to drive." },
+            "on": { "form": "sait", "english": "we know", "sentence": "On sait où aller.", "sentenceEnglish": "We know where to go." },
+            "nous": { "form": "savons", "english": "we know", "sentence": "Nous savons la vérité.", "sentenceEnglish": "We know the truth." },
+            "vous": { "form": "savez", "english": "you know", "sentence": "Vous savez parler français?", "sentenceEnglish": "Do you know how to speak French?" },
+            "ils/elles": { "form": "savent", "english": "they know", "sentence": "Ils savent tout.", "sentenceEnglish": "They know everything." }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": { "form": "suis en train de savoir", "english": "I am knowing", "sentence": "Je suis en train de savoir la vérité.", "sentenceEnglish": "I am getting to know the truth." },
+            "tu": { "form": "es en train de savoir", "english": "you are knowing", "sentence": "Tu es en train de savoir ce qui se passe.", "sentenceEnglish": "You are finding out what's happening." },
+            "il/elle": { "form": "est en train de savoir", "english": "he/she is knowing", "sentence": "Elle est en train de savoir pourquoi.", "sentenceEnglish": "She is finding out why." },
+            "on": { "form": "est en train de savoir", "english": "we are knowing", "sentence": "On est en train de savoir les détails.", "sentenceEnglish": "We are finding out the details." },
+            "nous": { "form": "sommes en train de savoir", "english": "we are knowing", "sentence": "Nous sommes en train de savoir la raison.", "sentenceEnglish": "We are finding out the reason." },
+            "vous": { "form": "êtes en train de savoir", "english": "you are knowing", "sentence": "Vous êtes en train de savoir la vérité?", "sentenceEnglish": "Are you finding out the truth?" },
+            "ils/elles": { "form": "sont en train de savoir", "english": "they are knowing", "sentence": "Ils sont en train de savoir ce qui s'est passé.", "sentenceEnglish": "They are finding out what happened." }
+          }
+        }
+      },
+      "note": "Highly irregular verb. Must be memorized: je sais, tu sais, il/elle sait, nous savons, vous savez, ils/elles savent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "ai su", "english": "I knew / I found out / I have known", "sentence": "J'ai su la vérité.", "sentenceEnglish": "I found out the truth." },
+            "tu": { "form": "as su", "english": "you knew / you found out / you have known", "sentence": "Tu as su la réponse?", "sentenceEnglish": "Did you find out the answer?" },
+            "il/elle": { "form": "a su", "english": "he/she knew / found out / has known", "sentence": "Elle a su conduire.", "sentenceEnglish": "She learned how to drive." },
+            "on": { "form": "a su", "english": "we knew / we found out / we have known", "sentence": "On a su où aller.", "sentenceEnglish": "We found out where to go." },
+            "nous": { "form": "avons su", "english": "we knew / we found out / we have known", "sentence": "Nous avons su la nouvelle.", "sentenceEnglish": "We found out the news." },
+            "vous": { "form": "avez su", "english": "you knew / you found out / you have known", "sentence": "Vous avez su pourquoi?", "sentenceEnglish": "Did you find out why?" },
+            "ils/elles": { "form": "ont su", "english": "they knew / they found out / they have known", "sentence": "Ils ont su tout de suite.", "sentenceEnglish": "They found out right away." }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": { "form": "savais", "english": "I knew / I used to know", "sentence": "Je savais la réponse.", "sentenceEnglish": "I knew the answer." },
+            "tu": { "form": "savais", "english": "you knew / you used to know", "sentence": "Tu savais nager?", "sentenceEnglish": "Did you know how to swim?" },
+            "il/elle": { "form": "savait", "english": "he/she knew / used to know", "sentence": "Elle savait tout.", "sentenceEnglish": "She knew everything." },
+            "on": { "form": "savait", "english": "we knew / we used to know", "sentence": "On savait où aller.", "sentenceEnglish": "We knew where to go." },
+            "nous": { "form": "savions", "english": "we knew / we used to know", "sentence": "Nous savions la vérité.", "sentenceEnglish": "We knew the truth." },
+            "vous": { "form": "saviez", "english": "you knew / you used to know", "sentence": "Vous saviez parler français?", "sentenceEnglish": "Did you know how to speak French?" },
+            "ils/elles": { "form": "savaient", "english": "they knew / they used to know", "sentence": "Ils savaient pourquoi.", "sentenceEnglish": "They knew why." }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "avais su", "english": "I had known", "sentence": "J'avais su la vérité.", "sentenceEnglish": "I had known the truth." },
+            "tu": { "form": "avais su", "english": "you had known", "sentence": "Tu avais su la réponse?", "sentenceEnglish": "Had you known the answer?" },
+            "il/elle": { "form": "avait su", "english": "he/she had known", "sentence": "Elle avait su conduire.", "sentenceEnglish": "She had known how to drive." },
+            "on": { "form": "avait su", "english": "we had known", "sentence": "On avait su où aller.", "sentenceEnglish": "We had known where to go." },
+            "nous": { "form": "avions su", "english": "we had known", "sentence": "Nous avions su la nouvelle.", "sentenceEnglish": "We had known the news." },
+            "vous": { "form": "aviez su", "english": "you had known", "sentence": "Vous aviez su pourquoi?", "sentenceEnglish": "Had you known why?" },
+            "ils/elles": { "form": "avaient su", "english": "they had known", "sentence": "Ils avaient su tout.", "sentenceEnglish": "They had known everything." }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": { "form": "sus", "english": "I knew", "sentence": "Je sus la vérité.", "sentenceEnglish": "I learned the truth." },
+            "tu": { "form": "sus", "english": "you knew", "sentence": "Tu sus la réponse.", "sentenceEnglish": "You learned the answer." },
+            "il/elle": { "form": "sut", "english": "he/she knew", "sentence": "Il sut tout.", "sentenceEnglish": "He learned everything." },
+            "on": { "form": "sut", "english": "we knew", "sentence": "On sut où aller.", "sentenceEnglish": "We learned where to go." },
+            "nous": { "form": "sûmes", "english": "we knew", "sentence": "Nous sûmes la nouvelle.", "sentenceEnglish": "We learned the news." },
+            "vous": { "form": "sûtes", "english": "you knew", "sentence": "Vous sûtes pourquoi.", "sentenceEnglish": "You learned why." },
+            "ils/elles": { "form": "surent", "english": "they knew", "sentence": "Ils surent tout de suite.", "sentenceEnglish": "They learned right away." }
+          }
+        }
+      },
+      "note": "Irregular imparfait stem 'sav-' (from 'nous savons'): je savais, tu savais, il/elle savait, nous savions, vous saviez, ils/elles savaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": { "form": "saurai", "english": "I will know", "sentence": "Je saurai demain.", "sentenceEnglish": "I will know tomorrow." },
+            "tu": { "form": "sauras", "english": "you will know", "sentence": "Tu sauras la réponse?", "sentenceEnglish": "Will you know the answer?" },
+            "il/elle": { "form": "saura", "english": "he/she will know", "sentence": "Il saura conduire.", "sentenceEnglish": "He will know how to drive." },
+            "on": { "form": "saura", "english": "we will know", "sentence": "On saura bientôt.", "sentenceEnglish": "We will know soon." },
+            "nous": { "form": "saurons", "english": "we will know", "sentence": "Nous saurons la vérité.", "sentenceEnglish": "We will know the truth." },
+            "vous": { "form": "saurez", "english": "you will know", "sentence": "Vous saurez pourquoi.", "sentenceEnglish": "You will know why." },
+            "ils/elles": { "form": "sauront", "english": "they will know", "sentence": "Elles sauront tout.", "sentenceEnglish": "They will know everything." }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": { "form": "vais savoir", "english": "I am going to know", "sentence": "Je vais savoir la vérité.", "sentenceEnglish": "I am going to know the truth." },
+            "tu": { "form": "vas savoir", "english": "you are going to know", "sentence": "Tu vas savoir ce qui se passe.", "sentenceEnglish": "You are going to find out what's happening." },
+            "il/elle": { "form": "va savoir", "english": "he/she is going to know", "sentence": "Elle va savoir pourquoi.", "sentenceEnglish": "She is going to find out why." },
+            "on": { "form": "va savoir", "english": "we are going to know", "sentence": "On va savoir les détails.", "sentenceEnglish": "We are going to find out the details." },
+            "nous": { "form": "allons savoir", "english": "we are going to know", "sentence": "Nous allons savoir la raison.", "sentenceEnglish": "We are going to find out the reason." },
+            "vous": { "form": "allez savoir", "english": "you are going to know", "sentence": "Vous allez savoir la vérité?", "sentenceEnglish": "Are you going to find out the truth?" },
+            "ils/elles": { "form": "vont savoir", "english": "they are going to know", "sentence": "Ils vont savoir ce qui s'est passé.", "sentenceEnglish": "They are going to find out what happened." }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "aurai su", "english": "I will have known", "sentence": "J'aurai su avant midi.", "sentenceEnglish": "I will have known before noon." },
+            "tu": { "form": "auras su", "english": "you will have known", "sentence": "Tu auras su la réponse?", "sentenceEnglish": "Will you have known the answer?" },
+            "il/elle": { "form": "aura su", "english": "he/she will have known", "sentence": "Elle aura su la vérité.", "sentenceEnglish": "She will have known the truth." },
+            "on": { "form": "aura su", "english": "we will have known", "sentence": "On aura su où aller.", "sentenceEnglish": "We will have known where to go." },
+            "nous": { "form": "aurons su", "english": "we will have known", "sentence": "Nous aurons su la nouvelle.", "sentenceEnglish": "We will have known the news." },
+            "vous": { "form": "aurez su", "english": "you will have known", "sentence": "Vous aurez su pourquoi?", "sentenceEnglish": "Will you have known why?" },
+            "ils/elles": { "form": "auront su", "english": "they will have known", "sentence": "Ils auront su tout.", "sentenceEnglish": "They will have known everything." }
+          }
+        }
+      },
+      "note": "Irregular future stem 'saur-': je saurai, tu sauras, il/elle saura, nous saurons, vous saurez, ils/elles sauront"
+    }
+  }
+}
