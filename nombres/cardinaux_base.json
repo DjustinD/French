@@ -2,259 +2,108 @@
     {
         "numeral": "0",
         "french": "zéro",
-        "english": "zero",
-        "pronunciation": "zay-roh",
-        "examples": [
-            {
-                "french": "Il y a zéro problème.",
-                "english": "There is zero problem."
-            }
-        ]
+        "english": "zero"
     },
     {
         "numeral": "1",
-        "french": "un / une",
+        "french": "un",
         "english": "one",
-        "pronunciation": "uhn / oon",
-        "note": "Use 'un' for masculine nouns, 'une' for feminine nouns",
-        "examples": [
-            {
-                "french": "un livre",
-                "english": "one book"
-            },
-            {
-                "french": "une pomme",
-                "english": "one apple"
-            }
-        ]
+        "note": "Use 'un' for masculine nouns, 'une' for feminine nouns"
     },
     {
         "numeral": "2",
         "french": "deux",
-        "english": "two",
-        "pronunciation": "duh",
-        "examples": [
-            {
-                "french": "deux chats",
-                "english": "two cats"
-            }
-        ]
+        "english": "two"
     },
     {
         "numeral": "3",
         "french": "trois",
-        "english": "three",
-        "pronunciation": "twah",
-        "examples": [
-            {
-                "french": "trois amis",
-                "english": "three friends"
-            }
-        ]
+        "english": "three"
     },
     {
         "numeral": "4",
         "french": "quatre",
-        "english": "four",
-        "pronunciation": "kat-ruh",
-        "examples": [
-            {
-                "french": "quatre saisons",
-                "english": "four seasons"
-            }
-        ]
+        "english": "four"
     },
     {
         "numeral": "5",
         "french": "cinq",
-        "english": "five",
-        "pronunciation": "sank",
-        "examples": [
-            {
-                "french": "cinq doigts",
-                "english": "five fingers"
-            }
-        ]
+        "english": "five"
     },
     {
         "numeral": "6",
         "french": "six",
-        "english": "six",
-        "pronunciation": "sees",
-        "examples": [
-            {
-                "french": "six heures",
-                "english": "six o'clock"
-            }
-        ]
+        "english": "six"
     },
     {
         "numeral": "7",
         "french": "sept",
-        "english": "seven",
-        "pronunciation": "set",
-        "examples": [
-            {
-                "french": "sept jours",
-                "english": "seven days"
-            }
-        ]
+        "english": "seven"
     },
     {
         "numeral": "8",
         "french": "huit",
-        "english": "eight",
-        "pronunciation": "weet",
-        "examples": [
-            {
-                "french": "huit ans",
-                "english": "eight years"
-            }
-        ]
+        "english": "eight"
     },
     {
         "numeral": "9",
         "french": "neuf",
-        "english": "nine",
-        "pronunciation": "nuhf",
-        "examples": [
-            {
-                "french": "neuf mois",
-                "english": "nine months"
-            }
-        ]
+        "english": "nine"
     },
     {
         "numeral": "10",
         "french": "dix",
-        "english": "ten",
-        "pronunciation": "dees",
-        "examples": [
-            {
-                "french": "dix euros",
-                "english": "ten euros"
-            }
-        ]
+        "english": "ten"
     },
     {
         "numeral": "11",
         "french": "onze",
-        "english": "eleven",
-        "pronunciation": "ohnz",
-        "examples": [
-            {
-                "french": "onze étudiants",
-                "english": "eleven students"
-            }
-        ]
+        "english": "eleven"
     },
     {
         "numeral": "12",
         "french": "douze",
-        "english": "twelve",
-        "pronunciation": "dooz",
-        "examples": [
-            {
-                "french": "douze mois",
-                "english": "twelve months"
-            }
-        ]
+        "english": "twelve"
     },
     {
         "numeral": "13",
         "french": "treize",
-        "english": "thirteen",
-        "pronunciation": "trez",
-        "examples": [
-            {
-                "french": "treize ans",
-                "english": "thirteen years old"
-            }
-        ]
+        "english": "thirteen"
     },
     {
         "numeral": "14",
         "french": "quatorze",
-        "english": "fourteen",
-        "pronunciation": "kah-tohrz",
-        "examples": [
-            {
-                "french": "quatorze jours",
-                "english": "fourteen days"
-            }
-        ]
+        "english": "fourteen"
     },
     {
         "numeral": "15",
         "french": "quinze",
-        "english": "fifteen",
-        "pronunciation": "kanz",
-        "examples": [
-            {
-                "french": "quinze minutes",
-                "english": "fifteen minutes"
-            }
-        ]
+        "english": "fifteen"
     },
     {
         "numeral": "16",
         "french": "seize",
-        "english": "sixteen",
-        "pronunciation": "sez",
-        "examples": [
-            {
-                "french": "seize personnes",
-                "english": "sixteen people"
-            }
-        ]
+        "english": "sixteen"
     },
     {
         "numeral": "17",
         "french": "dix-sept",
         "english": "seventeen",
-        "pronunciation": "dee-set",
-        "note": "Numbers 17-19 are formed by combining 10 (dix) + single digit",
-        "examples": [
-            {
-                "french": "dix-sept heures",
-                "english": "5 PM (17:00)"
-            }
-        ]
+        "note": "Numbers 17-19 are formed by combining 10 (dix) + single digit"
     },
     {
         "numeral": "18",
         "french": "dix-huit",
-        "english": "eighteen",
-        "pronunciation": "deez-weet",
-        "examples": [
-            {
-                "french": "dix-huit ans",
-                "english": "eighteen years old"
-            }
-        ]
+        "english": "eighteen"
     },
     {
         "numeral": "19",
         "french": "dix-neuf",
-        "english": "nineteen",
-        "pronunciation": "deez-nuhf",
-        "examples": [
-            {
-                "french": "dix-neuf euros",
-                "english": "nineteen euros"
-            }
-        ]
+        "english": "nineteen"
     },
     {
         "numeral": "20",
         "french": "vingt",
-        "english": "twenty",
-        "pronunciation": "van",
-        "examples": [
-            {
-                "french": "vingt ans",
-                "english": "twenty years"
-            }
-        ]
+        "english": "twenty"
     }
 ]

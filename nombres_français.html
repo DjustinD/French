@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nombres Français</title>
+    <title>Nombres Français - Pratique avec lecture automatique</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>🔢 Apprendre les Nombres Français</h1>
-            <p class="subtitle">Maîtrisez les nombres cardinaux et ordinaux</p>
+            <h1>🔢 Nombres Français</h1>
+            <p class="subtitle">Pratique des nombres avec lecture automatique</p>
         </header>
 
         <div class="controls">
@@ -22,14 +22,113 @@
             </div>
         </div>
 
+        <div id="category-info" class="level-info" style="display: none;"></div>
+
+        <div class="settings-group">
+            <h3>⚙️ Paramètres de lecture</h3>
+            
+            <div class="setting-row">
+                <label for="speed">Vitesse:</label>
+                <input type="range" id="speed" min="0.5" max="1.5" step="0.1" value="0.8">
+                <span id="speed-value">0.8x</span>
+            </div>
+            
+            <div class="setting-row">
+                <label for="pause">Pause (secondes):</label>
+                <input type="number" id="pause" min="1" max="10" step="0.5" value="2">
+            </div>
+            
+            <div class="setting-row">
+                <label for="voice-select">Voix française:</label>
+                <select id="voice-select">
+                    <option value="">Chargement des voix...</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="control-buttons">
+            <button id="play-btn" class="btn btn-primary" disabled>▶️ Commencer la lecture</button>
+            <button id="pause-btn" class="btn btn-secondary" disabled>⏸️ Pause</button>
+            <button id="stop-btn" class="btn btn-danger" disabled>⏹️ Arrêter</button>
+        </div>
+
+        <div id="progress-info" class="progress-info" style="display: none;"></div>
+
         <div id="numbers-container"></div>
     </div>
 
     <script>
+        let numbers = [];
+        let currentIndex = 0;
+        let isPlaying = false;
+        let isPaused = false;
+        let synthesis = window.speechSynthesis;
+        let currentUtterance = null;
+        let voices = [];
+        let selectedVoice = null;
+
+        // DOM elements
         const categorySelect = document.getElementById('category-select');
         const numbersContainer = document.getElementById('numbers-container');
+        const playBtn = document.getElementById('play-btn');
+        const pauseBtn = document.getElementById('pause-btn');
+        const stopBtn = document.getElementById('stop-btn');
+        const speedSlider = document.getElementById('speed');
+        const speedValue = document.getElementById('speed-value');
+        const pauseInput = document.getElementById('pause');
+        const voiceSelect = document.getElementById('voice-select');
+        const progressInfo = document.getElementById('progress-info');
+        const categoryInfo = document.getElementById('category-info');
 
-        // Load categories from main JSON file
+        // Load available voices
+        function loadVoices() {
+            voices = synthesis.getVoices();
+            const frenchVoices = voices.filter(voice => 
+                voice.lang.startsWith('fr') || voice.lang.startsWith('fr-')
+            );
+            
+            voiceSelect.innerHTML = '';
+            
+            if (frenchVoices.length === 0) {
+                voiceSelect.innerHTML = '<option value="">Aucune voix française trouvée</option>';
+                return;
+            }
+
+            let canadianFrenchIndex = -1;
+            
+            frenchVoices.forEach((voice, index) => {
+                const option = document.createElement('option');
+                option.value = index;
+                option.textContent = `${voice.name} (${voice.lang})`;
+                voiceSelect.appendChild(option);
+                
+                if (voice.lang === 'fr-CA' && canadianFrenchIndex === -1) {
+                    canadianFrenchIndex = index;
+                }
+            });
+            
+            const defaultIndex = canadianFrenchIndex >= 0 ? canadianFrenchIndex : 0;
+            selectedVoice = frenchVoices[defaultIndex];
+            voiceSelect.value = defaultIndex;
+        }
+
+        if (synthesis.onvoiceschanged !== undefined) {
+            synthesis.onvoiceschanged = loadVoices;
+        }
+        loadVoices();
+
+        voiceSelect.addEventListener('change', (e) => {
+            const frenchVoices = voices.filter(voice => 
+                voice.lang.startsWith('fr') || voice.lang.startsWith('fr-')
+            );
+            selectedVoice = frenchVoices[parseInt(e.target.value)] || frenchVoices[0];
+        });
+
+        speedSlider.addEventListener('input', (e) => {
+            speedValue.textContent = `${e.target.value}x`;
+        });
+
+        // Load categories
         async function loadCategories() {
             try {
                 const response = await fetch('nombres_français.json');
@@ -37,25 +136,14 @@
                 
                 const categories = await response.json();
                 
-                let defaultFile = null;
-                
                 categories.forEach(category => {
                     const option = document.createElement('option');
                     option.value = category.file;
-                    option.textContent = category.name;
+                    option.dataset.name = category.name;
+                    option.dataset.description = category.description;
+                    option.textContent = `${category.name}`;
                     categorySelect.appendChild(option);
-                    
-                    // Set first category as default
-                    if (!defaultFile) {
-                        defaultFile = category.file;
-                    }
                 });
-                
-                // Load default category
-                if (defaultFile) {
-                    categorySelect.value = defaultFile;
-                    loadNumbers(defaultFile);
-                }
                 
             } catch (error) {
                 console.error('Error loading categories:', error);
@@ -71,8 +159,24 @@
                 const response = await fetch(`nombres/${filename}`);
                 if (!response.ok) throw new Error('Impossible de charger les nombres');
                 
-                const numbers = await response.json();
-                displayNumbers(numbers);
+                const data = await response.json();
+                numbers = data.numbers || data;
+                
+                // Display category information
+                const selectedOption = categorySelect.options[categorySelect.selectedIndex];
+                if (selectedOption.dataset.name) {
+                    categoryInfo.style.display = 'block';
+                    categoryInfo.innerHTML = `
+                        <h3>${selectedOption.dataset.name}</h3>
+                        <p><strong>Description:</strong> ${selectedOption.dataset.description}</p>
+                        <p><strong>Nombre d'éléments:</strong> ${numbers.length}</p>
+                    `;
+                } else {
+                    categoryInfo.style.display = 'none';
+                }
+                
+                displayNumbers();
+                playBtn.disabled = false;
                 
             } catch (error) {
                 console.error('Error loading numbers:', error);
@@ -81,56 +185,156 @@
         }
 
         // Display numbers
-        function displayNumbers(numbers) {
+        function displayNumbers() {
             numbersContainer.innerHTML = '';
             
-            numbers.forEach(number => {
-                const numberCard = document.createElement('div');
-                numberCard.className = 'card number-card';
+            numbers.forEach((number, index) => {
+                const card = document.createElement('div');
+                card.className = 'card phrase-card';
+                card.id = `number-${index}`;
                 
                 let content = `
                     <div class="number-display">
-                        <div class="number-value">${number.numeral || number.number}</div>
-                        <div class="number-french">${number.french}</div>
-                        <div class="number-english">${number.english}</div>
+                        <div class="number-value">${number.numeral || number.number || ''}</div>
+                        <div class="french-text" lang="fr">${number.french}</div>
+                        <div class="english-translation">${number.english}</div>
                     </div>
                 `;
                 
-                // Add pronunciation guide if available
-                if (number.pronunciation) {
-                    content += `<div class="pronunciation">🔊 ${number.pronunciation}</div>`;
-                }
-                
-                // Add notes if available
                 if (number.note) {
-                    content += `<div class="note">💡 ${number.note}</div>`;
+                    content += `<div class="note-section">💡 ${number.note}</div>`;
                 }
                 
-                // Add examples if available
-                if (number.examples && number.examples.length > 0) {
-                    content += '<div class="examples"><strong>Exemples:</strong><ul>';
-                    number.examples.forEach(example => {
-                        content += `<li>${example.french} <span class="translation">(${example.english})</span></li>`;
-                    });
-                    content += '</ul></div>';
-                }
-                
-                numberCard.innerHTML = content;
-                numbersContainer.appendChild(numberCard);
+                card.innerHTML = content;
+                numbersContainer.appendChild(card);
             });
         }
 
-        // Event listener for category selection
-        categorySelect.addEventListener('change', (e) => {
-            const selectedFile = e.target.value;
-            if (selectedFile) {
-                loadNumbers(selectedFile);
+        // Speak a number
+        function speakNumber(index) {
+            if (index >= numbers.length) {
+                stopReading();
+                alert('Lecture terminée! 🎉');
+                return;
+            }
+
+            currentIndex = index;
+            updateProgress();
+
+            document.querySelectorAll('.phrase-card').forEach(card => {
+                card.classList.remove('playing');
+            });
+            document.getElementById(`number-${index}`).classList.add('playing');
+            
+            document.getElementById(`number-${index}`).scrollIntoView({ 
+                behavior: 'smooth', 
+                block: 'center' 
+            });
+
+            currentUtterance = new SpeechSynthesisUtterance(numbers[index].french);
+            currentUtterance.lang = 'fr-FR';
+            currentUtterance.rate = parseFloat(speedSlider.value);
+            
+            if (selectedVoice) {
+                currentUtterance.voice = selectedVoice;
+            }
+
+            currentUtterance.onend = () => {
+                if (isPlaying && !isPaused) {
+                    const pauseDuration = parseFloat(pauseInput.value) * 1000;
+                    setTimeout(() => {
+                        if (isPlaying && !isPaused) {
+                            speakNumber(index + 1);
+                        }
+                    }, pauseDuration);
+                }
+            };
+
+            synthesis.speak(currentUtterance);
+        }
+
+        function updateProgress() {
+            progressInfo.style.display = 'block';
+            progressInfo.textContent = `Nombre ${currentIndex + 1} / ${numbers.length}`;
+        }
+
+        function startReading() {
+            if (numbers.length === 0) return;
+            
+            isPlaying = true;
+            isPaused = false;
+            playBtn.disabled = true;
+            pauseBtn.disabled = false;
+            stopBtn.disabled = false;
+            categorySelect.disabled = true;
+            
+            if (currentIndex >= numbers.length) {
+                currentIndex = 0;
+            }
+            
+            speakNumber(currentIndex);
+        }
+
+        function pauseReading() {
+            isPaused = true;
+            synthesis.pause();
+            playBtn.disabled = false;
+            pauseBtn.disabled = true;
+        }
+
+        function resumeReading() {
+            isPaused = false;
+            playBtn.disabled = true;
+            pauseBtn.disabled = false;
+            
+            if (synthesis.paused) {
+                synthesis.resume();
             } else {
-                numbersContainer.innerHTML = '';
+                speakNumber(currentIndex);
+            }
+        }
+
+        function stopReading() {
+            isPlaying = false;
+            isPaused = false;
+            synthesis.cancel();
+            currentIndex = 0;
+            
+            playBtn.disabled = false;
+            pauseBtn.disabled = true;
+            stopBtn.disabled = true;
+            categorySelect.disabled = false;
+            
+            document.querySelectorAll('.phrase-card').forEach(card => {
+                card.classList.remove('playing');
+            });
+            
+            progressInfo.style.display = 'none';
+        }
+
+        playBtn.addEventListener('click', () => {
+            if (isPaused) {
+                resumeReading();
+            } else {
+                startReading();
             }
         });
 
-        // Initialize
+        pauseBtn.addEventListener('click', pauseReading);
+        stopBtn.addEventListener('click', stopReading);
+
+        categorySelect.addEventListener('change', (e) => {
+            const selectedFile = e.target.value;
+            if (selectedFile) {
+                stopReading();
+                loadNumbers(selectedFile);
+            } else {
+                numbersContainer.innerHTML = '';
+                categoryInfo.style.display = 'none';
+                playBtn.disabled = true;
+            }
+        });
+
         loadCategories();
     </script>
 </body>
