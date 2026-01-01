@@ -162,6 +162,1610 @@
         {
             "french": "Où sont les toilettes?",
             "english": "Where is the bathroom?"
+        },
+        {
+            "french": "Je suis désolé.",
+            "english": "I'm sorry. (masculine)"
+        },
+        {
+            "french": "Je suis désolée.",
+            "english": "I'm sorry. (feminine)"
+        },
+        {
+            "french": "Pas de problème.",
+            "english": "No problem."
+        },
+        {
+            "french": "D'accord.",
+            "english": "Okay. / Agreed."
+        },
+        {
+            "french": "Très bien.",
+            "english": "Very good."
+        },
+        {
+            "french": "Bien sûr.",
+            "english": "Of course."
+        },
+        {
+            "french": "Peut-être.",
+            "english": "Maybe."
+        },
+        {
+            "french": "Je ne sais pas.",
+            "english": "I don't know."
+        },
+        {
+            "french": "Aidez-moi, s'il vous plaît.",
+            "english": "Help me, please."
+        },
+        {
+            "french": "J'ai besoin d'aide.",
+            "english": "I need help."
+        },
+        {
+            "french": "Lundi",
+            "english": "Monday"
+        },
+        {
+            "french": "Mardi",
+            "english": "Tuesday"
+        },
+        {
+            "french": "Mercredi",
+            "english": "Wednesday"
+        },
+        {
+            "french": "Jeudi",
+            "english": "Thursday"
+        },
+        {
+            "french": "Vendredi",
+            "english": "Friday"
+        },
+        {
+            "french": "Samedi",
+            "english": "Saturday"
+        },
+        {
+            "french": "Dimanche",
+            "english": "Sunday"
+        },
+        {
+            "french": "Janvier",
+            "english": "January"
+        },
+        {
+            "french": "Février",
+            "english": "February"
+        },
+        {
+            "french": "Mars",
+            "english": "March"
+        },
+        {
+            "french": "Avril",
+            "english": "April"
+        },
+        {
+            "french": "Mai",
+            "english": "May"
+        },
+        {
+            "french": "Juin",
+            "english": "June"
+        },
+        {
+            "french": "Juillet",
+            "english": "July"
+        },
+        {
+            "french": "Août",
+            "english": "August"
+        },
+        {
+            "french": "Septembre",
+            "english": "September"
+        },
+        {
+            "french": "Octobre",
+            "english": "October"
+        },
+        {
+            "french": "Novembre",
+            "english": "November"
+        },
+        {
+            "french": "Décembre",
+            "english": "December"
+        },
+        {
+            "french": "Zéro",
+            "english": "Zero"
+        },
+        {
+            "french": "Un",
+            "english": "One"
+        },
+        {
+            "french": "Deux",
+            "english": "Two"
+        },
+        {
+            "french": "Trois",
+            "english": "Three"
+        },
+        {
+            "french": "Quatre",
+            "english": "Four"
+        },
+        {
+            "french": "Cinq",
+            "english": "Five"
+        },
+        {
+            "french": "Six",
+            "english": "Six"
+        },
+        {
+            "french": "Sept",
+            "english": "Seven"
+        },
+        {
+            "french": "Huit",
+            "english": "Eight"
+        },
+        {
+            "french": "Neuf",
+            "english": "Nine"
+        },
+        {
+            "french": "Dix",
+            "english": "Ten"
+        },
+        {
+            "french": "Onze",
+            "english": "Eleven"
+        },
+        {
+            "french": "Douze",
+            "english": "Twelve"
+        },
+        {
+            "french": "Treize",
+            "english": "Thirteen"
+        },
+        {
+            "french": "Quatorze",
+            "english": "Fourteen"
+        },
+        {
+            "french": "Quinze",
+            "english": "Fifteen"
+        },
+        {
+            "french": "Seize",
+            "english": "Sixteen"
+        },
+        {
+            "french": "Dix-sept",
+            "english": "Seventeen"
+        },
+        {
+            "french": "Dix-huit",
+            "english": "Eighteen"
+        },
+        {
+            "french": "Dix-neuf",
+            "english": "Nineteen"
+        },
+        {
+            "french": "Vingt",
+            "english": "Twenty"
+        },
+        {
+            "french": "Rouge",
+            "english": "Red"
+        },
+        {
+            "french": "Bleu",
+            "english": "Blue"
+        },
+        {
+            "french": "Vert",
+            "english": "Green"
+        },
+        {
+            "french": "Jaune",
+            "english": "Yellow"
+        },
+        {
+            "french": "Noir",
+            "english": "Black"
+        },
+        {
+            "french": "Blanc",
+            "english": "White"
+        },
+        {
+            "french": "Orange",
+            "english": "Orange"
+        },
+        {
+            "french": "Rose",
+            "english": "Pink"
+        },
+        {
+            "french": "Violet",
+            "english": "Purple"
+        },
+        {
+            "french": "Gris",
+            "english": "Gray"
+        },
+        {
+            "french": "Marron",
+            "english": "Brown"
+        },
+        {
+            "french": "Je suis français.",
+            "english": "I am French. (masculine)"
+        },
+        {
+            "french": "Je suis française.",
+            "english": "I am French. (feminine)"
+        },
+        {
+            "french": "Tu es anglais?",
+            "english": "Are you English? (masculine, informal)"
+        },
+        {
+            "french": "Il est espagnol.",
+            "english": "He is Spanish."
+        },
+        {
+            "french": "Elle est allemande.",
+            "english": "She is German."
+        },
+        {
+            "french": "Nous sommes étudiants.",
+            "english": "We are students."
+        },
+        {
+            "french": "Vous êtes professeur?",
+            "english": "Are you a teacher?"
+        },
+        {
+            "french": "Ils sont italiens.",
+            "english": "They are Italian. (masculine)"
+        },
+        {
+            "french": "Elles sont chinoises.",
+            "english": "They are Chinese. (feminine)"
+        },
+        {
+            "french": "J'ai un chat.",
+            "english": "I have a cat."
+        },
+        {
+            "french": "J'ai un chien.",
+            "english": "I have a dog."
+        },
+        {
+            "french": "Tu as un stylo?",
+            "english": "Do you have a pen?"
+        },
+        {
+            "french": "Il a une voiture.",
+            "english": "He has a car."
+        },
+        {
+            "french": "Elle a un vélo.",
+            "english": "She has a bike."
+        },
+        {
+            "french": "Nous avons une maison.",
+            "english": "We have a house."
+        },
+        {
+            "french": "Vous avez des enfants?",
+            "english": "Do you have children?"
+        },
+        {
+            "french": "Le père",
+            "english": "The father"
+        },
+        {
+            "french": "La mère",
+            "english": "The mother"
+        },
+        {
+            "french": "Le frère",
+            "english": "The brother"
+        },
+        {
+            "french": "La sœur",
+            "english": "The sister"
+        },
+        {
+            "french": "Le fils",
+            "english": "The son"
+        },
+        {
+            "french": "La fille",
+            "english": "The daughter"
+        },
+        {
+            "french": "Le grand-père",
+            "english": "The grandfather"
+        },
+        {
+            "french": "La grand-mère",
+            "english": "The grandmother"
+        },
+        {
+            "french": "L'oncle",
+            "english": "The uncle"
+        },
+        {
+            "french": "La tante",
+            "english": "The aunt"
+        },
+        {
+            "french": "Le cousin",
+            "english": "The cousin (masculine)"
+        },
+        {
+            "french": "La cousine",
+            "english": "The cousin (feminine)"
+        },
+        {
+            "french": "Le mari",
+            "english": "The husband"
+        },
+        {
+            "french": "La femme",
+            "english": "The wife"
+        },
+        {
+            "french": "L'ami",
+            "english": "The friend (masculine)"
+        },
+        {
+            "french": "L'amie",
+            "english": "The friend (feminine)"
+        },
+        {
+            "french": "Le pain",
+            "english": "The bread"
+        },
+        {
+            "french": "L'eau",
+            "english": "The water"
+        },
+        {
+            "french": "Le lait",
+            "english": "The milk"
+        },
+        {
+            "french": "Le café",
+            "english": "The coffee"
+        },
+        {
+            "french": "Le thé",
+            "english": "The tea"
+        },
+        {
+            "french": "Le jus",
+            "english": "The juice"
+        },
+        {
+            "french": "La viande",
+            "english": "The meat"
+        },
+        {
+            "french": "Le poisson",
+            "english": "The fish"
+        },
+        {
+            "french": "Le poulet",
+            "english": "The chicken"
+        },
+        {
+            "french": "Le fromage",
+            "english": "The cheese"
+        },
+        {
+            "french": "Le beurre",
+            "english": "The butter"
+        },
+        {
+            "french": "Le sucre",
+            "english": "The sugar"
+        },
+        {
+            "french": "Le sel",
+            "english": "The salt"
+        },
+        {
+            "french": "Le riz",
+            "english": "The rice"
+        },
+        {
+            "french": "Les pâtes",
+            "english": "The pasta"
+        },
+        {
+            "french": "La salade",
+            "english": "The salad"
+        },
+        {
+            "french": "La soupe",
+            "english": "The soup"
+        },
+        {
+            "french": "Le légume",
+            "english": "The vegetable"
+        },
+        {
+            "french": "Le fruit",
+            "english": "The fruit"
+        },
+        {
+            "french": "La banane",
+            "english": "The banana"
+        },
+        {
+            "french": "L'orange",
+            "english": "The orange"
+        },
+        {
+            "french": "La fraise",
+            "english": "The strawberry"
+        },
+        {
+            "french": "La tomate",
+            "english": "The tomato"
+        },
+        {
+            "french": "La carotte",
+            "english": "The carrot"
+        },
+        {
+            "french": "La pomme de terre",
+            "english": "The potato"
+        },
+        {
+            "french": "L'oignon",
+            "english": "The onion"
+        },
+        {
+            "french": "Je mange.",
+            "english": "I eat. / I am eating."
+        },
+        {
+            "french": "Tu manges du pain.",
+            "english": "You eat bread."
+        },
+        {
+            "french": "Il mange une pomme.",
+            "english": "He eats an apple."
+        },
+        {
+            "french": "Elle boit de l'eau.",
+            "english": "She drinks water."
+        },
+        {
+            "french": "Nous buvons du café.",
+            "english": "We drink coffee."
+        },
+        {
+            "french": "Vous buvez du thé?",
+            "english": "Do you drink tea?"
+        },
+        {
+            "french": "Je dors.",
+            "english": "I sleep. / I am sleeping."
+        },
+        {
+            "french": "Je marche.",
+            "english": "I walk. / I am walking."
+        },
+        {
+            "french": "Je cours.",
+            "english": "I run. / I am running."
+        },
+        {
+            "french": "Je lis un livre.",
+            "english": "I read a book."
+        },
+        {
+            "french": "J'écris une lettre.",
+            "english": "I write a letter."
+        },
+        {
+            "french": "J'écoute de la musique.",
+            "english": "I listen to music."
+        },
+        {
+            "french": "Je regarde la télévision.",
+            "english": "I watch television."
+        },
+        {
+            "french": "Je travaille.",
+            "english": "I work. / I am working."
+        },
+        {
+            "french": "J'étudie le français.",
+            "english": "I study French."
+        },
+        {
+            "french": "Je joue au football.",
+            "english": "I play soccer."
+        },
+        {
+            "french": "Je nage.",
+            "english": "I swim."
+        },
+        {
+            "french": "Je chante.",
+            "english": "I sing."
+        },
+        {
+            "french": "Je danse.",
+            "english": "I dance."
+        },
+        {
+            "french": "Grand",
+            "english": "Big / Tall"
+        },
+        {
+            "french": "Petit",
+            "english": "Small / Short"
+        },
+        {
+            "french": "Bon",
+            "english": "Good"
+        },
+        {
+            "french": "Mauvais",
+            "english": "Bad"
+        },
+        {
+            "french": "Beau",
+            "english": "Beautiful / Handsome"
+        },
+        {
+            "french": "Joli",
+            "english": "Pretty"
+        },
+        {
+            "french": "Jeune",
+            "english": "Young"
+        },
+        {
+            "french": "Vieux",
+            "english": "Old"
+        },
+        {
+            "french": "Nouveau",
+            "english": "New"
+        },
+        {
+            "french": "Ancien",
+            "english": "Old / Ancient"
+        },
+        {
+            "french": "Chaud",
+            "english": "Hot / Warm"
+        },
+        {
+            "french": "Froid",
+            "english": "Cold"
+        },
+        {
+            "french": "Rapide",
+            "english": "Fast"
+        },
+        {
+            "french": "Lent",
+            "english": "Slow"
+        },
+        {
+            "french": "Facile",
+            "english": "Easy"
+        },
+        {
+            "french": "Difficile",
+            "english": "Difficult"
+        },
+        {
+            "french": "Content",
+            "english": "Happy / Pleased"
+        },
+        {
+            "french": "Triste",
+            "english": "Sad"
+        },
+        {
+            "french": "La maison",
+            "english": "The house"
+        },
+        {
+            "french": "L'appartement",
+            "english": "The apartment"
+        },
+        {
+            "french": "La chambre",
+            "english": "The bedroom"
+        },
+        {
+            "french": "La cuisine",
+            "english": "The kitchen"
+        },
+        {
+            "french": "La salle de bain",
+            "english": "The bathroom"
+        },
+        {
+            "french": "Le salon",
+            "english": "The living room"
+        },
+        {
+            "french": "La porte",
+            "english": "The door"
+        },
+        {
+            "french": "La fenêtre",
+            "english": "The window"
+        },
+        {
+            "french": "La table",
+            "english": "The table"
+        },
+        {
+            "french": "La chaise",
+            "english": "The chair"
+        },
+        {
+            "french": "Le lit",
+            "english": "The bed"
+        },
+        {
+            "french": "Le bureau",
+            "english": "The desk / The office"
+        },
+        {
+            "french": "Le téléphone",
+            "english": "The telephone"
+        },
+        {
+            "french": "L'ordinateur",
+            "english": "The computer"
+        },
+        {
+            "french": "La télévision",
+            "english": "The television"
+        },
+        {
+            "french": "Le restaurant",
+            "english": "The restaurant"
+        },
+        {
+            "french": "Le café",
+            "english": "The café"
+        },
+        {
+            "french": "L'hôtel",
+            "english": "The hotel"
+        },
+        {
+            "french": "L'école",
+            "english": "The school"
+        },
+        {
+            "french": "L'université",
+            "english": "The university"
+        },
+        {
+            "french": "La bibliothèque",
+            "english": "The library"
+        },
+        {
+            "french": "L'hôpital",
+            "english": "The hospital"
+        },
+        {
+            "french": "La pharmacie",
+            "english": "The pharmacy"
+        },
+        {
+            "french": "Le magasin",
+            "english": "The store"
+        },
+        {
+            "french": "Le supermarché",
+            "english": "The supermarket"
+        },
+        {
+            "french": "La banque",
+            "english": "The bank"
+        },
+        {
+            "french": "La poste",
+            "english": "The post office"
+        },
+        {
+            "french": "Le parc",
+            "english": "The park"
+        },
+        {
+            "french": "La rue",
+            "english": "The street"
+        },
+        {
+            "french": "La ville",
+            "english": "The city"
+        },
+        {
+            "french": "Le village",
+            "english": "The village"
+        },
+        {
+            "french": "L'aéroport",
+            "english": "The airport"
+        },
+        {
+            "french": "La gare",
+            "english": "The train station"
+        },
+        {
+            "french": "Le bus",
+            "english": "The bus"
+        },
+        {
+            "french": "Le train",
+            "english": "The train"
+        },
+        {
+            "french": "Le métro",
+            "english": "The subway"
+        },
+        {
+            "french": "Le taxi",
+            "english": "The taxi"
+        },
+        {
+            "french": "Quel temps fait-il?",
+            "english": "What's the weather like?"
+        },
+        {
+            "french": "Il fait beau.",
+            "english": "It's nice weather."
+        },
+        {
+            "french": "Il fait mauvais.",
+            "english": "It's bad weather."
+        },
+        {
+            "french": "Il fait chaud.",
+            "english": "It's hot."
+        },
+        {
+            "french": "Il fait froid.",
+            "english": "It's cold."
+        },
+        {
+            "french": "Il pleut.",
+            "english": "It's raining."
+        },
+        {
+            "french": "Il neige.",
+            "english": "It's snowing."
+        },
+        {
+            "french": "Il y a du soleil.",
+            "english": "It's sunny."
+        },
+        {
+            "french": "Il y a du vent.",
+            "english": "It's windy."
+        },
+        {
+            "french": "Il y a des nuages.",
+            "english": "It's cloudy."
+        },
+        {
+            "french": "Le printemps",
+            "english": "Spring"
+        },
+        {
+            "french": "L'été",
+            "english": "Summer"
+        },
+        {
+            "french": "L'automne",
+            "english": "Fall / Autumn"
+        },
+        {
+            "french": "L'hiver",
+            "english": "Winter"
+        },
+        {
+            "french": "Où est la gare?",
+            "english": "Where is the train station?"
+        },
+        {
+            "french": "C'est loin?",
+            "english": "Is it far?"
+        },
+        {
+            "french": "C'est près.",
+            "english": "It's near."
+        },
+        {
+            "french": "C'est ici.",
+            "english": "It's here."
+        },
+        {
+            "french": "C'est là.",
+            "english": "It's there."
+        },
+        {
+            "french": "À droite",
+            "english": "To the right"
+        },
+        {
+            "french": "À gauche",
+            "english": "To the left"
+        },
+        {
+            "french": "Tout droit",
+            "english": "Straight ahead"
+        },
+        {
+            "french": "En face de",
+            "english": "Across from / Opposite"
+        },
+        {
+            "french": "À côté de",
+            "english": "Next to / Beside"
+        },
+        {
+            "french": "Derrière",
+            "english": "Behind"
+        },
+        {
+            "french": "Devant",
+            "english": "In front of"
+        },
+        {
+            "french": "Entre",
+            "english": "Between"
+        },
+        {
+            "french": "Sur",
+            "english": "On"
+        },
+        {
+            "french": "Sous",
+            "english": "Under"
+        },
+        {
+            "french": "Dans",
+            "english": "In"
+        },
+        {
+            "french": "Avec",
+            "english": "With"
+        },
+        {
+            "french": "Sans",
+            "english": "Without"
+        },
+        {
+            "french": "Pour",
+            "english": "For"
+        },
+        {
+            "french": "Contre",
+            "english": "Against"
+        },
+        {
+            "french": "Je voudrais un billet.",
+            "english": "I would like a ticket."
+        },
+        {
+            "french": "C'est combien?",
+            "english": "How much is it?"
+        },
+        {
+            "french": "Ça coûte cinq euros.",
+            "english": "It costs five euros."
+        },
+        {
+            "french": "J'achète du pain.",
+            "english": "I buy bread."
+        },
+        {
+            "french": "Je vends ma voiture.",
+            "english": "I sell my car."
+        },
+        {
+            "french": "Je cherche un hôtel.",
+            "english": "I'm looking for a hotel."
+        },
+        {
+            "french": "Vous avez une chambre?",
+            "english": "Do you have a room?"
+        },
+        {
+            "french": "Pour une nuit.",
+            "english": "For one night."
+        },
+        {
+            "french": "Pour deux personnes.",
+            "english": "For two people."
+        },
+        {
+            "french": "Je prends ça.",
+            "english": "I'll take that."
+        },
+        {
+            "french": "Puis-je payer par carte?",
+            "english": "Can I pay by card?"
+        },
+        {
+            "french": "En espèces",
+            "english": "In cash"
+        },
+        {
+            "french": "Le reçu, s'il vous plaît.",
+            "english": "The receipt, please."
+        },
+        {
+            "french": "C'est ouvert?",
+            "english": "Is it open?"
+        },
+        {
+            "french": "C'est fermé.",
+            "english": "It's closed."
+        },
+        {
+            "french": "À quelle heure ça ouvre?",
+            "english": "What time does it open?"
+        },
+        {
+            "french": "À quelle heure ça ferme?",
+            "english": "What time does it close?"
+        },
+        {
+            "french": "Asseyez-vous.",
+            "english": "Sit down. (formal)"
+        },
+        {
+            "french": "Levez-vous.",
+            "english": "Stand up. (formal)"
+        },
+        {
+            "french": "Entrez.",
+            "english": "Come in."
+        },
+        {
+            "french": "Sortez.",
+            "english": "Go out."
+        },
+        {
+            "french": "Attendez.",
+            "english": "Wait."
+        },
+        {
+            "french": "Écoutez.",
+            "english": "Listen."
+        },
+        {
+            "french": "Regardez.",
+            "english": "Look."
+        },
+        {
+            "french": "Lisez.",
+            "english": "Read."
+        },
+        {
+            "french": "Écrivez.",
+            "english": "Write."
+        },
+        {
+            "french": "Parlez.",
+            "english": "Speak."
+        },
+        {
+            "french": "Répétez.",
+            "english": "Repeat."
+        },
+        {
+            "french": "Ouvrez le livre.",
+            "english": "Open the book."
+        },
+        {
+            "french": "Fermez la porte.",
+            "english": "Close the door."
+        },
+        {
+            "french": "Le crayon",
+            "english": "The pencil"
+        },
+        {
+            "french": "Le stylo",
+            "english": "The pen"
+        },
+        {
+            "french": "Le cahier",
+            "english": "The notebook"
+        },
+        {
+            "french": "Le papier",
+            "english": "The paper"
+        },
+        {
+            "french": "La gomme",
+            "english": "The eraser"
+        },
+        {
+            "french": "La règle",
+            "english": "The ruler"
+        },
+        {
+            "french": "Le sac",
+            "english": "The bag"
+        },
+        {
+            "french": "Le professeur",
+            "english": "The teacher / The professor"
+        },
+        {
+            "french": "L'étudiant",
+            "english": "The student (masculine)"
+        },
+        {
+            "french": "L'étudiante",
+            "english": "The student (feminine)"
+        },
+        {
+            "french": "La classe",
+            "english": "The class / The classroom"
+        },
+        {
+            "french": "Le cours",
+            "english": "The course / The lesson"
+        },
+        {
+            "french": "L'examen",
+            "english": "The exam"
+        },
+        {
+            "french": "Le devoir",
+            "english": "The homework"
+        },
+        {
+            "french": "La question",
+            "english": "The question"
+        },
+        {
+            "french": "La réponse",
+            "english": "The answer"
+        },
+        {
+            "french": "J'ai une question.",
+            "english": "I have a question."
+        },
+        {
+            "french": "Je ne sais pas la réponse.",
+            "english": "I don't know the answer."
+        },
+        {
+            "french": "Le matin",
+            "english": "The morning"
+        },
+        {
+            "french": "L'après-midi",
+            "english": "The afternoon"
+        },
+        {
+            "french": "Le soir",
+            "english": "The evening"
+        },
+        {
+            "french": "La nuit",
+            "english": "The night"
+        },
+        {
+            "french": "Le jour",
+            "english": "The day"
+        },
+        {
+            "french": "La semaine",
+            "english": "The week"
+        },
+        {
+            "french": "Le mois",
+            "english": "The month"
+        },
+        {
+            "french": "L'année",
+            "english": "The year"
+        },
+        {
+            "french": "Aujourd'hui",
+            "english": "Today"
+        },
+        {
+            "french": "Hier",
+            "english": "Yesterday"
+        },
+        {
+            "french": "Demain",
+            "english": "Tomorrow"
+        },
+        {
+            "french": "Maintenant",
+            "english": "Now"
+        },
+        {
+            "french": "Bientôt",
+            "english": "Soon"
+        },
+        {
+            "french": "Plus tard",
+            "english": "Later"
+        },
+        {
+            "french": "Toujours",
+            "english": "Always"
+        },
+        {
+            "french": "Souvent",
+            "english": "Often"
+        },
+        {
+            "french": "Parfois",
+            "english": "Sometimes"
+        },
+        {
+            "french": "Rarement",
+            "english": "Rarely"
+        },
+        {
+            "french": "Jamais",
+            "english": "Never"
+        },
+        {
+            "french": "Déjà",
+            "english": "Already"
+        },
+        {
+            "french": "Encore",
+            "english": "Again / Still"
+        },
+        {
+            "french": "Il est une heure.",
+            "english": "It's one o'clock."
+        },
+        {
+            "french": "Il est deux heures.",
+            "english": "It's two o'clock."
+        },
+        {
+            "french": "Il est trois heures et demie.",
+            "english": "It's three thirty."
+        },
+        {
+            "french": "Il est quatre heures et quart.",
+            "english": "It's quarter past four."
+        },
+        {
+            "french": "Il est cinq heures moins le quart.",
+            "english": "It's quarter to five."
+        },
+        {
+            "french": "Le matin, je mange du pain.",
+            "english": "In the morning, I eat bread."
+        },
+        {
+            "french": "Le soir, je regarde la télé.",
+            "english": "In the evening, I watch TV."
+        },
+        {
+            "french": "La nuit, je dors.",
+            "english": "At night, I sleep."
+        },
+        {
+            "french": "Je me lève à sept heures.",
+            "english": "I wake up at seven o'clock."
+        },
+        {
+            "french": "Je me couche à dix heures.",
+            "english": "I go to bed at ten o'clock."
+        },
+        {
+            "french": "Très",
+            "english": "Very"
+        },
+        {
+            "french": "Trop",
+            "english": "Too / Too much"
+        },
+        {
+            "french": "Assez",
+            "english": "Enough / Quite"
+        },
+        {
+            "french": "Beaucoup",
+            "english": "A lot / Much / Many"
+        },
+        {
+            "french": "Peu",
+            "english": "Little / Few"
+        },
+        {
+            "french": "Plus",
+            "english": "More"
+        },
+        {
+            "french": "Moins",
+            "english": "Less"
+        },
+        {
+            "french": "Aussi",
+            "english": "Also / Too"
+        },
+        {
+            "french": "Seulement",
+            "english": "Only"
+        },
+        {
+            "french": "Ensemble",
+            "english": "Together"
+        },
+        {
+            "french": "Seul",
+            "english": "Alone"
+        },
+        {
+            "french": "Bien",
+            "english": "Well"
+        },
+        {
+            "french": "Mal",
+            "english": "Badly"
+        },
+        {
+            "french": "Vite",
+            "english": "Quickly"
+        },
+        {
+            "french": "Je suis heureux.",
+            "english": "I am happy. (masculine)"
+        },
+        {
+            "french": "Je suis heureuse.",
+            "english": "I am happy. (feminine)"
+        },
+        {
+            "french": "Je suis malade.",
+            "english": "I am sick."
+        },
+        {
+            "french": "Je suis en bonne santé.",
+            "english": "I am in good health."
+        },
+        {
+            "french": "Ça va?",
+            "english": "Are you okay? / How's it going?"
+        },
+        {
+            "french": "Ça va.",
+            "english": "I'm okay. / It's going."
+        },
+        {
+            "french": "Ça ne va pas.",
+            "english": "I'm not okay. / It's not going well."
+        },
+        {
+            "french": "J'ai mal à la tête.",
+            "english": "I have a headache."
+        },
+        {
+            "french": "J'ai mal au ventre.",
+            "english": "I have a stomachache."
+        },
+        {
+            "french": "La tête",
+            "english": "The head"
+        },
+        {
+            "french": "Les yeux",
+            "english": "The eyes"
+        },
+        {
+            "french": "Le nez",
+            "english": "The nose"
+        },
+        {
+            "french": "La bouche",
+            "english": "The mouth"
+        },
+        {
+            "french": "Les oreilles",
+            "english": "The ears"
+        },
+        {
+            "french": "Le bras",
+            "english": "The arm"
+        },
+        {
+            "french": "La main",
+            "english": "The hand"
+        },
+        {
+            "french": "La jambe",
+            "english": "The leg"
+        },
+        {
+            "french": "Le pied",
+            "english": "The foot"
+        },
+        {
+            "french": "Le corps",
+            "english": "The body"
+        },
+        {
+            "french": "Je veux manger.",
+            "english": "I want to eat."
+        },
+        {
+            "french": "Je peux t'aider.",
+            "english": "I can help you."
+        },
+        {
+            "french": "Je dois partir.",
+            "english": "I must leave. / I have to leave."
+        },
+        {
+            "french": "Tu veux du café?",
+            "english": "Do you want coffee?"
+        },
+        {
+            "french": "Peux-tu m'aider?",
+            "english": "Can you help me?"
+        },
+        {
+            "french": "Tu dois étudier.",
+            "english": "You must study. / You have to study."
+        },
+        {
+            "french": "J'aime bien ce livre.",
+            "english": "I really like this book."
+        },
+        {
+            "french": "Je préfère le thé.",
+            "english": "I prefer tea."
+        },
+        {
+            "french": "Je déteste les légumes.",
+            "english": "I hate vegetables."
+        },
+        {
+            "french": "C'est bon!",
+            "english": "It's good!"
+        },
+        {
+            "french": "C'est délicieux!",
+            "english": "It's delicious!"
+        },
+        {
+            "french": "C'est mauvais.",
+            "english": "It's bad."
+        },
+        {
+            "french": "C'est intéressant.",
+            "english": "It's interesting."
+        },
+        {
+            "french": "C'est ennuyeux.",
+            "english": "It's boring."
+        },
+        {
+            "french": "C'est facile.",
+            "english": "It's easy."
+        },
+        {
+            "french": "C'est difficile.",
+            "english": "It's difficult."
+        },
+        {
+            "french": "C'est important.",
+            "english": "It's important."
+        },
+        {
+            "french": "Ce n'est pas grave.",
+            "english": "It's not serious. / It's okay."
+        },
+        {
+            "french": "Félicitations!",
+            "english": "Congratulations!"
+        },
+        {
+            "french": "Bon anniversaire!",
+            "english": "Happy birthday!"
+        },
+        {
+            "french": "Bonne année!",
+            "english": "Happy New Year!"
+        },
+        {
+            "french": "Joyeux Noël!",
+            "english": "Merry Christmas!"
+        },
+        {
+            "french": "Bonne chance!",
+            "english": "Good luck!"
+        },
+        {
+            "french": "Bon appétit!",
+            "english": "Enjoy your meal!"
+        },
+        {
+            "french": "Santé!",
+            "english": "Cheers! / Bless you!"
+        },
+        {
+            "french": "Bienvenue!",
+            "english": "Welcome!"
+        },
+        {
+            "french": "À votre santé!",
+            "english": "To your health! / Cheers!"
+        },
+        {
+            "french": "Je t'aime.",
+            "english": "I love you. (informal)"
+        },
+        {
+            "french": "Je vous aime.",
+            "english": "I love you. (formal/plural)"
+        },
+        {
+            "french": "Mon",
+            "english": "My (masculine)"
+        },
+        {
+            "french": "Ma",
+            "english": "My (feminine)"
+        },
+        {
+            "french": "Mes",
+            "english": "My (plural)"
+        },
+        {
+            "french": "Ton",
+            "english": "Your (informal, masculine)"
+        },
+        {
+            "french": "Ta",
+            "english": "Your (informal, feminine)"
+        },
+        {
+            "french": "Tes",
+            "english": "Your (informal, plural)"
+        },
+        {
+            "french": "Son",
+            "english": "His / Her (masculine)"
+        },
+        {
+            "french": "Sa",
+            "english": "His / Her (feminine)"
+        },
+        {
+            "french": "Ses",
+            "english": "His / Her (plural)"
+        },
+        {
+            "french": "Notre",
+            "english": "Our (singular)"
+        },
+        {
+            "french": "Nos",
+            "english": "Our (plural)"
+        },
+        {
+            "french": "Votre",
+            "english": "Your (formal, singular)"
+        },
+        {
+            "french": "Vos",
+            "english": "Your (formal, plural)"
+        },
+        {
+            "french": "Ce",
+            "english": "This / That (masculine)"
+        },
+        {
+            "french": "Cette",
+            "english": "This / That (feminine)"
+        },
+        {
+            "french": "Ces",
+            "english": "These / Those"
+        },
+        {
+            "french": "Qui?",
+            "english": "Who?"
+        },
+        {
+            "french": "Quoi?",
+            "english": "What?"
+        },
+        {
+            "french": "Où?",
+            "english": "Where?"
+        },
+        {
+            "french": "Quand?",
+            "english": "When?"
+        },
+        {
+            "french": "Pourquoi?",
+            "english": "Why?"
+        },
+        {
+            "french": "Comment?",
+            "english": "How?"
+        },
+        {
+            "french": "Combien?",
+            "english": "How much? / How many?"
+        },
+        {
+            "french": "Quel?",
+            "english": "Which? / What?"
+        },
+        {
+            "french": "Quelle?",
+            "english": "Which? / What? (feminine)"
+        },
+        {
+            "french": "Parce que",
+            "english": "Because"
+        },
+        {
+            "french": "Mais",
+            "english": "But"
+        },
+        {
+            "french": "Et",
+            "english": "And"
+        },
+        {
+            "french": "Ou",
+            "english": "Or"
+        },
+        {
+            "french": "Donc",
+            "english": "Therefore / So"
+        },
+        {
+            "french": "Si",
+            "english": "If"
+        },
+        {
+            "french": "Quand",
+            "english": "When"
+        },
+        {
+            "french": "Comme",
+            "english": "Like / As"
         }
     ]
 }

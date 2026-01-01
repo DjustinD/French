@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Échelle Québécoise des Niveaux de Compétence en Français</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .page-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px 30px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        
+        .page-header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .intro-section {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .level-section {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            border-left: 6px solid #667eea;
+            transition: all 0.3s ease;
+        }
+        
+        .level-section:hover {
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+            transform: translateX(5px);
+        }
+        
+        .level-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .level-title {
+            font-size: 1.8em;
+            color: #2c3e50;
+            margin: 0;
+        }
+        
+        .level-badges {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        
+        .cefr-badge {
+            background: #4CAF50;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.9em;
+        }
+        
+        .stage-badge {
+            background: #2196F3;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.9em;
+        }
+        
+        .level-description {
+            color: #555;
+            line-height: 1.8;
+            margin-bottom: 20px;
+            font-size: 1.05em;
+        }
+        
+        .competencies {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+        
+        .competencies h4 {
+            color: #667eea;
+            margin-bottom: 12px;
+            font-size: 1.1em;
+        }
+        
+        .competencies ul {
+            margin: 0;
+            padding-left: 25px;
+        }
+        
+        .competencies li {
+            margin-bottom: 8px;
+            color: #555;
+            line-height: 1.6;
+        }
+        
+        .resources-section {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            margin-top: 30px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .resources-section h2 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        .resource-link {
+            display: block;
+            padding: 15px 20px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            text-decoration: none;
+            color: #2c3e50;
+            border-left: 4px solid #667eea;
+            transition: all 0.3s ease;
+        }
+        
+        .resource-link:hover {
+            background: #e7f0ff;
+            border-left-width: 8px;
+            transform: translateX(5px);
+        }
+        
+        .resource-link strong {
+            color: #667eea;
+            font-size: 1.1em;
+            display: block;
+            margin-bottom: 5px;
+        }
+        
+        .resource-link span {
+            color: #666;
+            font-size: 0.95em;
+        }
+        
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: white;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        
+        .comparison-table th {
+            background: #667eea;
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+        }
+        
+        .comparison-table td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .comparison-table tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .back-button {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            margin-top: 20px;
+            transition: all 0.3s ease;
+        }
+        
+        .back-button:hover {
+            background: #764ba2;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="page-header">
+            <h1>📊 Échelle Québécoise des Niveaux de Compétence</h1>
+            <p>Quebec Francisation Scale - Understanding Language Proficiency Levels</p>
+        </div>
+
+        <div class="intro-section">
+            <h2>What is the Quebec Francisation Scale?</h2>
+            <p>The <strong>Échelle québécoise des niveaux de compétence en français des personnes immigrantes adultes</strong> (Quebec Scale of French Competency Levels for Adult Immigrants) is a framework used in Quebec to assess and describe French language proficiency. It consists of <strong>12 levels</strong> that align with the Common European Framework of Reference for Languages (CEFR).</p>
+            
+            <p>This scale is particularly important for:</p>
+            <ul>
+                <li><strong>Immigration:</strong> Meeting language requirements for permanent residence and citizenship</li>
+                <li><strong>Employment:</strong> Demonstrating workplace French proficiency</li>
+                <li><strong>Education:</strong> Accessing French-language programs and courses</li>
+                <li><strong>Integration:</strong> Participating fully in Quebec society</li>
+            </ul>
+            
+            <p>The 12 levels progress from absolute beginner (Niveau 1) to advanced mastery (Niveau 12), corresponding to CEFR levels A1.1 through C2.2.</p>
+        </div>
+
+        <h2 style="color: #2c3e50; margin: 30px 0 20px 0; text-align: center; font-size: 2em;">The 12 Levels in Detail</h2>
+
+        <div class="level-section">
+            <div class="level-header">
+                <h3 class="level-title">Niveau 1 - Découverte</h3>
+                <div class="level-badges">
+                    <span class="cefr-badge">CEFR A1.1</span>
+                    <span class="stage-badge">Beginner</span>
+                </div>
+            </div>
+            <p class="level-description">
+                <strong>Absolute Beginner:</strong> You can understand and use very basic expressions related to immediate needs. You can introduce yourself and ask simple questions about personal details.
+            </p>
+            <div class="competencies">
+                <h4>What you can do:</h4>
+                <ul>
+                    <li>Greet people and say goodbye</li>
+                    <li>Introduce yourself (name, nationality)</li>
+                    <li>Understand very simple questions and instructions</li>
+                    <li>Use basic courtesy expressions (please, thank you)</li>
+                    <li>Count and use basic numbers</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="level-section">
+            <div class="level-header">
+                <h3 class="level-title">Niveau 2 - Survie</h3>
+                <div class="level-badges">
+                    <span class="cefr-badge">CEFR A1.2</span>
+                    <span class="stage-badge">Beginner</span>
+                </div>
+            </div>
+            <p class="level-description">
+                <strong>Elementary Beginner:</strong> You can communicate in simple routine tasks requiring direct exchange of information on familiar topics.
+            </p>
+            <div class="competencies">
+                <h4>What you can do:</h4>
+                <ul>
+                    <li>Describe your family, living conditions, and background</li>
+                    <li>Handle simple shopping transactions</li>
+                    <li>Understand simple announcements and messages</li>
+                    <li>Ask for and give directions (basic)</li>
+                    <li>Talk about daily routines and habits</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="level-section">
+            <div class="level-header">
+                <h3 class="level-title">Niveau 3 - Initiation</h3>
+                <div class="level-badges">
+                    <span class="cefr-badge">CEFR A2.1</span>
+                    <span class="stage-badge">Elementary</span>
+                </div>
+            </div>
+            <p class="level-description">
+                <strong>Elementary:</strong> You can describe immediate needs and participate in simple conversations on familiar topics.
+            </p>
+            <div class="competencies">
+                <h4>What you can do:</h4>
+                <ul>
+                    <li>Describe past events in simple terms</li>
+                    <li>Express likes and dislikes</li>
+                    <li>Make simple phone calls</li>
+                    <li>Understand main points of clear standard speech</li>
+                    <li>Fill out simple forms</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="level-section">
+            <div class="level-header">
+                <h3 class="level-title">Niveau 4 - Débrouillardise</h3>
+                <div class="level-badges">
+                    <span class="cefr-badge">CEFR A2.2</span>
+                    <span class="stage-badge">Elementary</span>
+                </div>
+            </div>
+            <p class="level-description">
+                <strong>Upper Elementary:</strong> You can deal with most situations likely to arise while traveling in a French-speaking area.
+            </p>
+            <div class="competencies">
+                <h4>What you can do:</h4>
+                <ul>
+                    <li>Narrate a story or describe experiences and events</li>
+                    <li>Give reasons and explanations for opinions</li>
+                    <li>Handle most social situations and short exchanges</li>
+                    <li>Understand the main point of TV programs on familiar topics</li>
+                    <li>Write simple connected text on familiar subjects</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="level-section">
+            <div class="level-header">
+                <h3 class="level-title">Niveau 5 - Socialisation</h3>
+                <div class="level-badges">
+                    <span class="cefr-badge">CEFR B1.1</span>
+                    <span class="stage-badge">Pre-Intermediate</span>
+                </div>
+            </div>
+            <p class="level-description">
+                <strong>Pre-Intermediate:</strong> You can interact with some fluency and spontaneity that makes regular interaction with native speakers possible.
+            </p>
+            <div class="competencies">
+                <h4>What you can do:</h4>
+                <ul>
+                    <li>Understand the main points of clear standard input on familiar matters</li>
+                    <li>Produce simple connected text on topics of personal interest</li>
+                    <li>Describe experiences, events, dreams, and ambitions</li>
+                    <li>Give brief reasons and explanations for opinions and plans</li>
+                    <li>Deal with most situations encountered while traveling</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="level-section">
+            <div class="level-header">
+                <h3 class="level-title">Niveau 6 - Autonomie</h3>
+                <div class="level-badges">
+                    <span class="cefr-badge">CEFR B1.2</span>
+                    <span class="stage-badge">Pre-Intermediate</span>
+                </div>
+            </div>
+            <p class="level-description">
+                <strong>Upper Pre-Intermediate:</strong> You can understand the main ideas of complex text and interact with a degree of fluency and spontaneity.
+            </p>
+            <div class="competencies">
+                <h4>What you can do:</h4>
+                <ul>
+                    <li>Understand main ideas of complex texts on concrete and abstract topics</li>
+                    <li>Interact with native speakers with sufficient fluency</li>
+                    <li>Produce clear, detailed text on a wide range of subjects</li>
+                    <li>Explain viewpoints giving advantages and disadvantages</li>
+                    <li>Understand contemporary literary prose</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="level-section">
+            <div class="level-header">
+                <h3 class="level-title">Niveau 7 - Exploration</h3>
+                <div class="level-badges">
+                    <span class="cefr-badge">CEFR B2.1</span>
+                    <span class="stage-badge">Intermediate</span>
+                </div>
+            </div>
+            <p class="level-description">
+                <strong>Intermediate:</strong> You can understand the main ideas of complex texts on both concrete and abstract topics, including technical discussions.
+            </p>
+            <div class="competencies">
+                <h4>What you can do:</h4>
+                <ul>
+                    <li>Understand extended speech and lectures</li>
+                    <li>Follow complex lines of argument</li>
+                    <li>Read articles and reports on contemporary problems</li>
+                    <li>Interact with native speakers fairly fluently and spontaneously</li>
+                    <li>Write clear, detailed text on a wide range of subjects</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="level-section">
+            <div class="level-header">
+                <h3 class="level-title">Niveau 8 - Maîtrise</h3>
+                <div class="level-badges">
+                    <span class="cefr-badge">CEFR B2.2</span>
+                    <span class="stage-badge">Intermediate</span>
+                </div>
+            </div>
+            <p class="level-description">
+                <strong>Upper Intermediate:</strong> You can express yourself fluently and spontaneously, using language flexibly for social, academic, and professional purposes.
+            </p>
+            <div class="competencies">
+                <h4>What you can do:</h4>
+                <ul>
+                    <li>Produce clear, well-structured, detailed text on complex subjects</li>
+                    <li>Understand complex technical or abstract discussions</li>
+                    <li>Interact fluently without much difficulty</li>
+                    <li>Present clear, detailed descriptions on complex subjects</li>
+                    <li>Use language effectively for most professional situations</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="level-section">
+            <div class="level-header">
+                <h3 class="level-title">Niveau 9 - Compétence</h3>
+                <div class="level-badges">
+                    <span class="cefr-badge">CEFR C1.1</span>
+                    <span class="stage-badge">Advanced</span>
+                </div>
+            </div>
+            <p class="level-description">
+                <strong>Advanced:</strong> You can express yourself fluently and spontaneously with only occasional difficulty in more complex situations.
+            </p>
+            <div class="competencies">
+                <h4>What you can do:</h4>
+                <ul>
+                    <li>Understand a wide range of demanding, longer texts</li>
+                    <li>Express ideas fluently without obvious searching for expressions</li>
+                    <li>Use language flexibly for social, academic, and professional purposes</li>
+                    <li>Produce clear, well-structured, detailed text on complex subjects</li>
+                    <li>Understand implicit meaning and subtle nuances</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="level-section">
+            <div class="level-header">
+                <h3 class="level-title">Niveau 10 - Expertise</h3>
+                <div class="level-badges">
+                    <span class="cefr-badge">CEFR C1.2</span>
+                    <span class="stage-badge">Advanced</span>
+                </div>
+            </div>
+            <p class="level-description">
+                <strong>Upper Advanced:</strong> You have excellent command of French and can express yourself with precision, showing control of complex language.
+            </p>
+            <div class="competencies">
+                <h4>What you can do:</h4>
+                <ul>
+                    <li>Understand virtually everything heard or read with ease</li>
+                    <li>Express yourself spontaneously with precision</li>
+                    <li>Differentiate finer shades of meaning in complex situations</li>
+                    <li>Use organizational patterns and connectors effectively</li>
+                    <li>Understand specialized academic or professional texts</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="level-section">
+            <div class="level-header">
+                <h3 class="level-title">Niveau 11 - Spécialisation</h3>
+                <div class="level-badges">
+                    <span class="cefr-badge">CEFR C2.1</span>
+                    <span class="stage-badge">Mastery</span>
+                </div>
+            </div>
+            <p class="level-description">
+                <strong>Near-Native Mastery:</strong> You can understand virtually everything with ease and express yourself spontaneously with near-perfect fluency and precision.
+            </p>
+            <div class="competencies">
+                <h4>What you can do:</h4>
+                <ul>
+                    <li>Understand complex specialized topics outside your field</li>
+                    <li>Summarize information from different sources coherently</li>
+                    <li>Express yourself spontaneously with high degree of fluency and precision</li>
+                    <li>Understand implied meanings and cultural references</li>
+                    <li>Use French effectively for complex professional tasks</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="level-section">
+            <div class="level-header">
+                <h3 class="level-title">Niveau 12 - Distinction</h3>
+                <div class="level-badges">
+                    <span class="cefr-badge">CEFR C2.2</span>
+                    <span class="stage-badge">Mastery</span>
+                </div>
+            </div>
+            <p class="level-description">
+                <strong>Full Mastery:</strong> You have complete mastery comparable to an educated native speaker. You can express yourself with sophistication and nuance in any situation.
+            </p>
+            <div class="competencies">
+                <h4>What you can do:</h4>
+                <ul>
+                    <li>Understand everything virtually without effort</li>
+                    <li>Summarize and reconstruct arguments from various sources</li>
+                    <li>Express yourself spontaneously, precisely, and fluently</li>
+                    <li>Differentiate subtle shades of meaning in complex situations</li>
+                    <li>Use sophisticated expressions and literary language appropriately</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="intro-section">
+            <h2>Quick Comparison: Quebec Scale vs CEFR</h2>
+            <table class="comparison-table">
+                <thead>
+                    <tr>
+                        <th>Quebec Level</th>
+                        <th>CEFR Level</th>
+                        <th>Stage</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Niveau 1-2</td>
+                        <td>A1</td>
+                        <td>Beginner</td>
+                        <td>Basic user - Survival French</td>
+                    </tr>
+                    <tr>
+                        <td>Niveau 3-4</td>
+                        <td>A2</td>
+                        <td>Elementary</td>
+                        <td>Basic user - Essential communication</td>
+                    </tr>
+                    <tr>
+                        <td>Niveau 5-6</td>
+                        <td>B1</td>
+                        <td>Pre-Intermediate</td>
+                        <td>Independent user - Practical situations</td>
+                    </tr>
+                    <tr>
+                        <td>Niveau 7-8</td>
+                        <td>B2</td>
+                        <td>Intermediate</td>
+                        <td>Independent user - Complex topics</td>
+                    </tr>
+                    <tr>
+                        <td>Niveau 9-10</td>
+                        <td>C1</td>
+                        <td>Advanced</td>
+                        <td>Proficient user - Flexible and effective</td>
+                    </tr>
+                    <tr>
+                        <td>Niveau 11-12</td>
+                        <td>C2</td>
+                        <td>Mastery</td>
+                        <td>Proficient user - Near-native fluency</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="resources-section">
+            <h2>📚 Further Information & Resources</h2>
+            
+            <a href="https://www.quebec.ca/en/immigration/learn-french" target="_blank" class="resource-link">
+                <strong>🏛️ Quebec Government - Learn French</strong>
+                <span>Official government resource for French language learning in Quebec, including information about francisation programs.</span>
+            </a>
+
+            <a href="https://www.immigration-quebec.gouv.qc.ca/en/french-language/index.html" target="_blank" class="resource-link">
+                <strong>🗂️ Immigration Quebec - French Language</strong>
+                <span>Information about French language requirements for immigration and available resources for newcomers.</span>
+            </a>
+
+            <a href="https://www.quebec.ca/en/immigration/learn-french/francisation-quebec" target="_blank" class="resource-link">
+                <strong>📖 Francisation Québec</strong>
+                <span>Free French courses offered by the Quebec government for permanent residents and accepted immigrants.</span>
+            </a>
+
+            <a href="https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions" target="_blank" class="resource-link">
+                <strong>🇪🇺 CEFR Official Descriptions</strong>
+                <span>Detailed descriptions of CEFR levels from the Council of Europe, which the Quebec scale is based on.</span>
+            </a>
+
+            <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility/language-proof.html" target="_blank" class="resource-link">
+                <strong>🍁 Canadian Citizenship Language Requirements</strong>
+                <span>Official information about language proficiency requirements for Canadian citizenship.</span>
+            </a>
+
+            <a href="écoute_française.html" class="resource-link">
+                <strong>🎧 Practice with Our Listening Module</strong>
+                <span>Use our Écoute Française tool to practice listening comprehension at each Quebec Francisation Scale level.</span>
+            </a>
+        </div>
+
+        <div style="text-align: center; margin: 30px 0;">
+            <a href="index.html" class="back-button">← Back to Home</a>
+        </div>
+    </div>
+</body>
+</html>
