@@ -1,0 +1,1291 @@
+{
+    "level": "Niveau 3",
+    "cefr": "A2.1",
+    "description": "Élémentaire - Besoins immédiats et situations familières",
+    "phrases": [
+        {
+            "french": "J'ai passé un bon week-end.",
+            "english": "I had a good weekend."
+        },
+        {
+            "french": "Qu'est-ce que tu as fait hier?",
+            "english": "What did you do yesterday?"
+        },
+        {
+            "french": "Je suis allé au cinéma.",
+            "english": "I went to the cinema."
+        },
+        {
+            "french": "Je suis allée au restaurant.",
+            "english": "I went to the restaurant. (feminine)"
+        },
+        {
+            "french": "J'ai vu un bon film.",
+            "english": "I saw a good movie."
+        },
+        {
+            "french": "J'ai mangé dans un restaurant italien.",
+            "english": "I ate at an Italian restaurant."
+        },
+        {
+            "french": "C'était délicieux.",
+            "english": "It was delicious."
+        },
+        {
+            "french": "C'était très intéressant.",
+            "english": "It was very interesting."
+        },
+        {
+            "french": "Je me suis bien amusé.",
+            "english": "I had a good time. (masculine)"
+        },
+        {
+            "french": "Je me suis bien amusée.",
+            "english": "I had a good time. (feminine)"
+        },
+        {
+            "french": "Nous sommes sortis avec des amis.",
+            "english": "We went out with friends."
+        },
+        {
+            "french": "Ils sont venus chez moi.",
+            "english": "They came to my place."
+        },
+        {
+            "french": "Elles sont arrivées en retard.",
+            "english": "They arrived late. (feminine)"
+        },
+        {
+            "french": "Je suis resté à la maison.",
+            "english": "I stayed home. (masculine)"
+        },
+        {
+            "french": "Je suis restée à la maison.",
+            "english": "I stayed home. (feminine)"
+        },
+        {
+            "french": "J'ai regardé la télévision.",
+            "english": "I watched television."
+        },
+        {
+            "french": "J'ai lu un livre.",
+            "english": "I read a book."
+        },
+        {
+            "french": "J'ai écouté de la musique.",
+            "english": "I listened to music."
+        },
+        {
+            "french": "J'ai fait du sport.",
+            "english": "I did sports."
+        },
+        {
+            "french": "J'ai joué au tennis.",
+            "english": "I played tennis."
+        },
+        {
+            "french": "Je vais aller au travail.",
+            "english": "I'm going to go to work."
+        },
+        {
+            "french": "Je vais faire les courses.",
+            "english": "I'm going to do the shopping."
+        },
+        {
+            "french": "Je vais voir mes parents.",
+            "english": "I'm going to see my parents."
+        },
+        {
+            "french": "Qu'est-ce que tu vas faire?",
+            "english": "What are you going to do?"
+        },
+        {
+            "french": "Je vais partir en vacances.",
+            "english": "I'm going to go on vacation."
+        },
+        {
+            "french": "Nous allons voyager en France.",
+            "english": "We're going to travel to France."
+        },
+        {
+            "french": "Ils vont visiter Paris.",
+            "english": "They're going to visit Paris."
+        },
+        {
+            "french": "Elle va étudier le français.",
+            "english": "She's going to study French."
+        },
+        {
+            "french": "Tu vas venir avec nous?",
+            "english": "Are you going to come with us?"
+        },
+        {
+            "french": "Je ne vais pas travailler demain.",
+            "english": "I'm not going to work tomorrow."
+        },
+        {
+            "french": "Je voudrais réserver une chambre.",
+            "english": "I would like to reserve a room."
+        },
+        {
+            "french": "Pour combien de nuits?",
+            "english": "For how many nights?"
+        },
+        {
+            "french": "Pour trois nuits.",
+            "english": "For three nights."
+        },
+        {
+            "french": "Du 15 au 18 juin.",
+            "english": "From June 15 to 18."
+        },
+        {
+            "french": "Une chambre simple ou double?",
+            "english": "A single or double room?"
+        },
+        {
+            "french": "Une chambre double, s'il vous plaît.",
+            "english": "A double room, please."
+        },
+        {
+            "french": "Avec salle de bain?",
+            "english": "With a bathroom?"
+        },
+        {
+            "french": "C'est combien par nuit?",
+            "english": "How much is it per night?"
+        },
+        {
+            "french": "Le petit-déjeuner est inclus?",
+            "english": "Is breakfast included?"
+        },
+        {
+            "french": "À quelle heure est le petit-déjeuner?",
+            "english": "What time is breakfast?"
+        },
+        {
+            "french": "De sept heures à dix heures.",
+            "english": "From seven to ten o'clock."
+        },
+        {
+            "french": "À quelle heure dois-je quitter la chambre?",
+            "english": "What time do I have to leave the room?"
+        },
+        {
+            "french": "Le check-out est à midi.",
+            "english": "Check-out is at noon."
+        },
+        {
+            "french": "Y a-t-il le wifi?",
+            "english": "Is there wifi?"
+        },
+        {
+            "french": "Quel est le mot de passe?",
+            "english": "What's the password?"
+        },
+        {
+            "french": "Où est l'ascenseur?",
+            "english": "Where is the elevator?"
+        },
+        {
+            "french": "Ma chambre est au troisième étage.",
+            "english": "My room is on the third floor."
+        },
+        {
+            "french": "Voici votre clé.",
+            "english": "Here's your key."
+        },
+        {
+            "french": "J'ai un problème avec ma chambre.",
+            "english": "I have a problem with my room."
+        },
+        {
+            "french": "La climatisation ne fonctionne pas.",
+            "english": "The air conditioning doesn't work."
+        },
+        {
+            "french": "Il n'y a pas d'eau chaude.",
+            "english": "There's no hot water."
+        },
+        {
+            "french": "La télévision est cassée.",
+            "english": "The television is broken."
+        },
+        {
+            "french": "Je peux changer de chambre?",
+            "english": "Can I change rooms?"
+        },
+        {
+            "french": "Bien sûr, pas de problème.",
+            "english": "Of course, no problem."
+        },
+        {
+            "french": "Je voudrais un aller simple pour Paris.",
+            "english": "I would like a one-way ticket to Paris."
+        },
+        {
+            "french": "Je voudrais un aller-retour.",
+            "english": "I would like a round-trip ticket."
+        },
+        {
+            "french": "Le train part à quelle heure?",
+            "english": "What time does the train leave?"
+        },
+        {
+            "french": "Le train arrive à quelle heure?",
+            "english": "What time does the train arrive?"
+        },
+        {
+            "french": "De quel quai?",
+            "english": "From which platform?"
+        },
+        {
+            "french": "Le train part du quai numéro 5.",
+            "english": "The train leaves from platform number 5."
+        },
+        {
+            "french": "Y a-t-il un train direct?",
+            "english": "Is there a direct train?"
+        },
+        {
+            "french": "Il faut changer de train?",
+            "english": "Do I have to change trains?"
+        },
+        {
+            "french": "Vous devez changer à Lyon.",
+            "english": "You have to change at Lyon."
+        },
+        {
+            "french": "Combien de temps dure le voyage?",
+            "english": "How long does the journey take?"
+        },
+        {
+            "french": "Le voyage dure trois heures.",
+            "english": "The journey takes three hours."
+        },
+        {
+            "french": "J'ai raté mon train.",
+            "english": "I missed my train."
+        },
+        {
+            "french": "Quand est le prochain train?",
+            "english": "When is the next train?"
+        },
+        {
+            "french": "Y a-t-il un supplément?",
+            "english": "Is there a supplement / extra charge?"
+        },
+        {
+            "french": "Où puis-je composter mon billet?",
+            "english": "Where can I validate my ticket?"
+        },
+        {
+            "french": "Excusez-moi, cette place est occupée.",
+            "english": "Excuse me, this seat is taken."
+        },
+        {
+            "french": "Cette place est libre?",
+            "english": "Is this seat free?"
+        },
+        {
+            "french": "Oui, elle est libre.",
+            "english": "Yes, it's free."
+        },
+        {
+            "french": "Je cherche le wagon-restaurant.",
+            "english": "I'm looking for the dining car."
+        },
+        {
+            "french": "C'est dans l'autre direction.",
+            "english": "It's in the other direction."
+        },
+        {
+            "french": "À quelle station dois-je descendre?",
+            "english": "At which station should I get off?"
+        },
+        {
+            "french": "Vous descendez où?",
+            "english": "Where are you getting off?"
+        },
+        {
+            "french": "Je descends à la prochaine station.",
+            "english": "I'm getting off at the next station."
+        },
+        {
+            "french": "Pouvez-vous me prévenir?",
+            "english": "Can you let me know?"
+        },
+        {
+            "french": "Je voudrais une table pour deux personnes.",
+            "english": "I would like a table for two people."
+        },
+        {
+            "french": "Avez-vous réservé?",
+            "english": "Have you reserved / Do you have a reservation?"
+        },
+        {
+            "french": "Non, je n'ai pas réservé.",
+            "english": "No, I haven't reserved."
+        },
+        {
+            "french": "Fumeur ou non-fumeur?",
+            "english": "Smoking or non-smoking?"
+        },
+        {
+            "french": "Près de la fenêtre, s'il vous plaît.",
+            "english": "Near the window, please."
+        },
+        {
+            "french": "En terrasse, si possible.",
+            "english": "On the terrace, if possible."
+        },
+        {
+            "french": "Je peux voir la carte?",
+            "english": "Can I see the menu?"
+        },
+        {
+            "french": "Qu'est-ce que vous prenez?",
+            "english": "What will you have?"
+        },
+        {
+            "french": "Je vais prendre le menu du jour.",
+            "english": "I'll have the daily special."
+        },
+        {
+            "french": "Qu'est-ce que c'est exactement?",
+            "english": "What is it exactly?"
+        },
+        {
+            "french": "C'est un plat à base de poisson.",
+            "english": "It's a fish-based dish."
+        },
+        {
+            "french": "C'est épicé?",
+            "english": "Is it spicy?"
+        },
+        {
+            "french": "Un peu, mais pas trop.",
+            "english": "A little, but not too much."
+        },
+        {
+            "french": "Je vais prendre ça.",
+            "english": "I'll take that."
+        },
+        {
+            "french": "Et comme boisson?",
+            "english": "And to drink?"
+        },
+        {
+            "french": "Une carafe d'eau, s'il vous plaît.",
+            "english": "A carafe of water, please."
+        },
+        {
+            "french": "Une bouteille de vin rouge.",
+            "english": "A bottle of red wine."
+        },
+        {
+            "french": "Un verre de vin blanc.",
+            "english": "A glass of white wine."
+        },
+        {
+            "french": "De l'eau gazeuse ou de l'eau plate?",
+            "english": "Sparkling water or still water?"
+        },
+        {
+            "french": "Vous désirez un dessert?",
+            "english": "Would you like a dessert?"
+        },
+        {
+            "french": "Qu'est-ce que vous avez comme dessert?",
+            "english": "What do you have for dessert?"
+        },
+        {
+            "french": "Nous avons de la tarte aux pommes.",
+            "english": "We have apple pie."
+        },
+        {
+            "french": "Un café, s'il vous plaît.",
+            "english": "A coffee, please."
+        },
+        {
+            "french": "C'était très bon.",
+            "english": "It was very good."
+        },
+        {
+            "french": "L'addition, s'il vous plaît.",
+            "english": "The bill, please."
+        },
+        {
+            "french": "C'est tout ensemble?",
+            "english": "Is it all together?"
+        },
+        {
+            "french": "Non, on paie séparément.",
+            "english": "No, we're paying separately."
+        },
+        {
+            "french": "Le service est compris?",
+            "english": "Is service included?"
+        },
+        {
+            "french": "Oui, le service est compris.",
+            "english": "Yes, service is included."
+        },
+        {
+            "french": "Je peux payer par carte?",
+            "english": "Can I pay by card?"
+        },
+        {
+            "french": "Il y a une erreur dans l'addition.",
+            "english": "There's an error in the bill."
+        },
+        {
+            "french": "Je n'ai pas commandé ça.",
+            "english": "I didn't order that."
+        },
+        {
+            "french": "Où se trouve la poste?",
+            "english": "Where is the post office located?"
+        },
+        {
+            "french": "C'est loin d'ici?",
+            "english": "Is it far from here?"
+        },
+        {
+            "french": "Non, c'est à cinq minutes à pied.",
+            "english": "No, it's five minutes on foot."
+        },
+        {
+            "french": "Vous allez tout droit.",
+            "english": "You go straight ahead."
+        },
+        {
+            "french": "Vous tournez à droite.",
+            "english": "You turn right."
+        },
+        {
+            "french": "Vous tournez à gauche.",
+            "english": "You turn left."
+        },
+        {
+            "french": "C'est au coin de la rue.",
+            "english": "It's at the corner of the street."
+        },
+        {
+            "french": "C'est en face de la banque.",
+            "english": "It's across from the bank."
+        },
+        {
+            "french": "C'est à côté du café.",
+            "english": "It's next to the café."
+        },
+        {
+            "french": "C'est entre la poste et la pharmacie.",
+            "english": "It's between the post office and the pharmacy."
+        },
+        {
+            "french": "Vous prenez la première rue à droite.",
+            "english": "You take the first street on the right."
+        },
+        {
+            "french": "Vous prenez la deuxième rue à gauche.",
+            "english": "You take the second street on the left."
+        },
+        {
+            "french": "Vous traversez la place.",
+            "english": "You cross the square."
+        },
+        {
+            "french": "Vous passez devant l'église.",
+            "english": "You pass in front of the church."
+        },
+        {
+            "french": "Pouvez-vous me montrer sur le plan?",
+            "english": "Can you show me on the map?"
+        },
+        {
+            "french": "Je me suis perdu.",
+            "english": "I got lost. (masculine)"
+        },
+        {
+            "french": "Je me suis perdue.",
+            "english": "I got lost. (feminine)"
+        },
+        {
+            "french": "Je cherche cette adresse.",
+            "english": "I'm looking for this address."
+        },
+        {
+            "french": "Je ne connais pas ce quartier.",
+            "english": "I don't know this neighborhood."
+        },
+        {
+            "french": "Je voudrais envoyer ce colis.",
+            "english": "I would like to send this package."
+        },
+        {
+            "french": "Je voudrais envoyer une lettre.",
+            "english": "I would like to send a letter."
+        },
+        {
+            "french": "Combien coûte un timbre?",
+            "english": "How much does a stamp cost?"
+        },
+        {
+            "french": "Pour le Canada.",
+            "english": "For Canada."
+        },
+        {
+            "french": "En recommandé ou normal?",
+            "english": "Registered or regular?"
+        },
+        {
+            "french": "Combien de temps ça prend?",
+            "english": "How long does it take?"
+        },
+        {
+            "french": "Trois à cinq jours ouvrables.",
+            "english": "Three to five business days."
+        },
+        {
+            "french": "Je voudrais retirer de l'argent.",
+            "english": "I would like to withdraw money."
+        },
+        {
+            "french": "Où est le distributeur automatique?",
+            "english": "Where is the ATM?"
+        },
+        {
+            "french": "Je voudrais changer de l'argent.",
+            "english": "I would like to exchange money."
+        },
+        {
+            "french": "Quel est le taux de change?",
+            "english": "What's the exchange rate?"
+        },
+        {
+            "french": "Y a-t-il des frais?",
+            "english": "Are there fees?"
+        },
+        {
+            "french": "Je voudrais ouvrir un compte.",
+            "english": "I would like to open an account."
+        },
+        {
+            "french": "Quels documents sont nécessaires?",
+            "english": "What documents are necessary?"
+        },
+        {
+            "french": "Votre passeport et un justificatif de domicile.",
+            "english": "Your passport and proof of address."
+        },
+        {
+            "french": "J'ai oublié mon code.",
+            "english": "I forgot my code."
+        },
+        {
+            "french": "Ma carte a été avalée.",
+            "english": "My card was swallowed."
+        },
+        {
+            "french": "Je voudrais des timbres.",
+            "english": "I would like stamps."
+        },
+        {
+            "french": "Combien en voulez-vous?",
+            "english": "How many do you want?"
+        },
+        {
+            "french": "Dix timbres, s'il vous plaît.",
+            "english": "Ten stamps, please."
+        },
+        {
+            "french": "Je cherche un pantalon.",
+            "english": "I'm looking for pants."
+        },
+        {
+            "french": "Quelle est votre taille?",
+            "english": "What's your size?"
+        },
+        {
+            "french": "Je fais du 38.",
+            "english": "I wear size 38."
+        },
+        {
+            "french": "Je ne connais pas ma taille française.",
+            "english": "I don't know my French size."
+        },
+        {
+            "french": "Où sont les cabines d'essayage?",
+            "english": "Where are the fitting rooms?"
+        },
+        {
+            "french": "C'est au fond du magasin.",
+            "english": "It's at the back of the store."
+        },
+        {
+            "french": "Vous en avez d'autres couleurs?",
+            "english": "Do you have other colors?"
+        },
+        {
+            "french": "Je vais regarder en réserve.",
+            "english": "I'll look in the stockroom."
+        },
+        {
+            "french": "Ça vous va très bien.",
+            "english": "It suits you very well."
+        },
+        {
+            "french": "Ce n'est pas tout à fait ma taille.",
+            "english": "It's not quite my size."
+        },
+        {
+            "french": "C'est un peu serré.",
+            "english": "It's a bit tight."
+        },
+        {
+            "french": "C'est un peu large.",
+            "english": "It's a bit loose."
+        },
+        {
+            "french": "Avez-vous une taille au-dessus?",
+            "english": "Do you have one size up?"
+        },
+        {
+            "french": "Avez-vous une taille en-dessous?",
+            "english": "Do you have one size down?"
+        },
+        {
+            "french": "Je peux l'échanger?",
+            "english": "Can I exchange it?"
+        },
+        {
+            "french": "Vous avez le reçu?",
+            "english": "Do you have the receipt?"
+        },
+        {
+            "french": "Oui, le voici.",
+            "english": "Yes, here it is."
+        },
+        {
+            "french": "Dans les 30 jours.",
+            "english": "Within 30 days."
+        },
+        {
+            "french": "Avec l'étiquette.",
+            "english": "With the tag."
+        },
+        {
+            "french": "C'est en solde?",
+            "english": "Is it on sale?"
+        },
+        {
+            "french": "Oui, il y a 20% de réduction.",
+            "english": "Yes, there's a 20% discount."
+        },
+        {
+            "french": "J'ai un rendez-vous chez le médecin.",
+            "english": "I have an appointment at the doctor's."
+        },
+        {
+            "french": "Je ne me sens pas bien.",
+            "english": "I don't feel well."
+        },
+        {
+            "french": "Qu'est-ce qui ne va pas?",
+            "english": "What's wrong?"
+        },
+        {
+            "french": "J'ai mal partout.",
+            "english": "I hurt everywhere."
+        },
+        {
+            "french": "Depuis quand?",
+            "english": "Since when?"
+        },
+        {
+            "french": "Depuis deux jours.",
+            "english": "For two days."
+        },
+        {
+            "french": "Vous avez de la fièvre?",
+            "english": "Do you have a fever?"
+        },
+        {
+            "french": "Oui, j'ai 38 de fièvre.",
+            "english": "Yes, I have a fever of 38 degrees."
+        },
+        {
+            "french": "Ouvrez la bouche.",
+            "english": "Open your mouth."
+        },
+        {
+            "french": "Respirez profondément.",
+            "english": "Breathe deeply."
+        },
+        {
+            "french": "Je vais vous ausculter.",
+            "english": "I'm going to examine you."
+        },
+        {
+            "french": "C'est grave?",
+            "english": "Is it serious?"
+        },
+        {
+            "french": "Non, ce n'est pas grave.",
+            "english": "No, it's not serious."
+        },
+        {
+            "french": "Vous avez une grippe.",
+            "english": "You have the flu."
+        },
+        {
+            "french": "Je vais vous prescrire des médicaments.",
+            "english": "I'm going to prescribe you medication."
+        },
+        {
+            "french": "Prenez ce médicament trois fois par jour.",
+            "english": "Take this medication three times a day."
+        },
+        {
+            "french": "Avant ou après les repas?",
+            "english": "Before or after meals?"
+        },
+        {
+            "french": "Après les repas.",
+            "english": "After meals."
+        },
+        {
+            "french": "Vous devez vous reposer.",
+            "english": "You must rest."
+        },
+        {
+            "french": "Restez au lit.",
+            "english": "Stay in bed."
+        },
+        {
+            "french": "Buvez beaucoup d'eau.",
+            "english": "Drink lots of water."
+        },
+        {
+            "french": "Si ça ne va pas mieux, revenez me voir.",
+            "english": "If you don't feel better, come see me again."
+        },
+        {
+            "french": "Je voudrais prendre rendez-vous.",
+            "english": "I would like to make an appointment."
+        },
+        {
+            "french": "C'est pour quand?",
+            "english": "For when?"
+        },
+        {
+            "french": "Le plus tôt possible.",
+            "english": "As soon as possible."
+        },
+        {
+            "french": "C'est urgent?",
+            "english": "Is it urgent?"
+        },
+        {
+            "french": "Assez urgent, oui.",
+            "english": "Quite urgent, yes."
+        },
+        {
+            "french": "J'ai une place demain à 10h.",
+            "english": "I have an opening tomorrow at 10 a.m."
+        },
+        {
+            "french": "Ça me convient.",
+            "english": "That works for me."
+        },
+        {
+            "french": "Quel est votre nom?",
+            "english": "What's your name?"
+        },
+        {
+            "french": "Votre numéro de téléphone?",
+            "english": "Your phone number?"
+        },
+        {
+            "french": "Je confirme votre rendez-vous.",
+            "english": "I confirm your appointment."
+        },
+        {
+            "french": "Je dois annuler mon rendez-vous.",
+            "english": "I have to cancel my appointment."
+        },
+        {
+            "french": "Je dois reporter mon rendez-vous.",
+            "english": "I have to postpone my appointment."
+        },
+        {
+            "french": "J'ai besoin de cette ordonnance.",
+            "english": "I need this prescription."
+        },
+        {
+            "french": "Vous en avez pour combien de temps?",
+            "english": "How long will it take?"
+        },
+        {
+            "french": "Environ 15 minutes.",
+            "english": "About 15 minutes."
+        },
+        {
+            "french": "Je reviens dans 15 minutes.",
+            "english": "I'll come back in 15 minutes."
+        },
+        {
+            "french": "Comment dois-je prendre ce médicament?",
+            "english": "How should I take this medication?"
+        },
+        {
+            "french": "Deux comprimés par jour.",
+            "english": "Two tablets per day."
+        },
+        {
+            "french": "Matin et soir.",
+            "english": "Morning and evening."
+        },
+        {
+            "french": "Y a-t-il des effets secondaires?",
+            "english": "Are there side effects?"
+        },
+        {
+            "french": "Vous pourriez avoir un peu de somnolence.",
+            "english": "You might have a bit of drowsiness."
+        },
+        {
+            "french": "Ne conduisez pas après avoir pris ce médicament.",
+            "english": "Don't drive after taking this medication."
+        },
+        {
+            "french": "Quel temps fait-il aujourd'hui?",
+            "english": "What's the weather like today?"
+        },
+        {
+            "french": "Il a fait beau hier.",
+            "english": "It was nice yesterday."
+        },
+        {
+            "french": "Il va faire chaud demain.",
+            "english": "It's going to be hot tomorrow."
+        },
+        {
+            "french": "Il a plu toute la journée.",
+            "english": "It rained all day."
+        },
+        {
+            "french": "Il va pleuvoir cet après-midi.",
+            "english": "It's going to rain this afternoon."
+        },
+        {
+            "french": "Il a neigé cette nuit.",
+            "english": "It snowed last night."
+        },
+        {
+            "french": "Il va neiger demain.",
+            "english": "It's going to snow tomorrow."
+        },
+        {
+            "french": "Les températures vont baisser.",
+            "english": "Temperatures are going to drop."
+        },
+        {
+            "french": "Les températures vont augmenter.",
+            "english": "Temperatures are going to rise."
+        },
+        {
+            "french": "Il y a du brouillard ce matin.",
+            "english": "There's fog this morning."
+        },
+        {
+            "french": "Il y avait de l'orage hier soir.",
+            "english": "There was a storm yesterday evening."
+        },
+        {
+            "french": "Le ciel est couvert.",
+            "english": "The sky is overcast."
+        },
+        {
+            "french": "Le ciel est dégagé.",
+            "english": "The sky is clear."
+        },
+        {
+            "french": "Il fait moins cinq degrés.",
+            "english": "It's minus five degrees."
+        },
+        {
+            "french": "Il fait plus trente degrés.",
+            "english": "It's over thirty degrees."
+        },
+        {
+            "french": "Quelle est la météo pour demain?",
+            "english": "What's the weather forecast for tomorrow?"
+        },
+        {
+            "french": "Je suis né en 1990.",
+            "english": "I was born in 1990. (masculine)"
+        },
+        {
+            "french": "Je suis née à Paris.",
+            "english": "I was born in Paris. (feminine)"
+        },
+        {
+            "french": "J'ai grandi à Montréal.",
+            "english": "I grew up in Montreal."
+        },
+        {
+            "french": "J'ai habité à Toronto pendant cinq ans.",
+            "english": "I lived in Toronto for five years."
+        },
+        {
+            "french": "J'ai étudié à l'université.",
+            "english": "I studied at university."
+        },
+        {
+            "french": "J'ai obtenu mon diplôme en 2015.",
+            "english": "I got my degree in 2015."
+        },
+        {
+            "french": "J'ai travaillé dans plusieurs pays.",
+            "english": "I worked in several countries."
+        },
+        {
+            "french": "J'ai voyagé en Europe.",
+            "english": "I traveled to Europe."
+        },
+        {
+            "french": "J'ai visité l'Italie l'année dernière.",
+            "english": "I visited Italy last year."
+        },
+        {
+            "french": "C'était magnifique.",
+            "english": "It was magnificent."
+        },
+        {
+            "french": "J'ai beaucoup aimé.",
+            "english": "I really liked it."
+        },
+        {
+            "french": "J'ai rencontré des gens intéressants.",
+            "english": "I met interesting people."
+        },
+        {
+            "french": "Nous avons passé deux semaines là-bas.",
+            "english": "We spent two weeks there."
+        },
+        {
+            "french": "Nous avons visité beaucoup de musées.",
+            "english": "We visited many museums."
+        },
+        {
+            "french": "Nous sommes montés sur la tour Eiffel.",
+            "english": "We went up the Eiffel Tower."
+        },
+        {
+            "french": "Ils sont partis en vacances.",
+            "english": "They left on vacation."
+        },
+        {
+            "french": "Elles sont revenues hier.",
+            "english": "They came back yesterday. (feminine)"
+        },
+        {
+            "french": "Le vol a été retardé.",
+            "english": "The flight was delayed."
+        },
+        {
+            "french": "L'avion est arrivé en retard.",
+            "english": "The plane arrived late."
+        },
+        {
+            "french": "J'ai perdu mes bagages.",
+            "english": "I lost my luggage."
+        },
+        {
+            "french": "Où puis-je récupérer mes bagages?",
+            "english": "Where can I collect my luggage?"
+        },
+        {
+            "french": "Ma valise n'est pas arrivée.",
+            "english": "My suitcase didn't arrive."
+        },
+        {
+            "french": "Je dois signaler un bagage manquant.",
+            "english": "I need to report missing luggage."
+        },
+        {
+            "french": "Remplissez ce formulaire.",
+            "english": "Fill out this form."
+        },
+        {
+            "french": "Quelle est votre destination finale?",
+            "english": "What's your final destination?"
+        },
+        {
+            "french": "Avez-vous quelque chose à déclarer?",
+            "english": "Do you have anything to declare?"
+        },
+        {
+            "french": "Non, je n'ai rien à déclarer.",
+            "english": "No, I have nothing to declare."
+        },
+        {
+            "french": "C'est pour un usage personnel.",
+            "english": "It's for personal use."
+        },
+        {
+            "french": "Combien de temps allez-vous rester?",
+            "english": "How long are you going to stay?"
+        },
+        {
+            "french": "Je vais rester une semaine.",
+            "english": "I'm going to stay one week."
+        },
+        {
+            "french": "Quel est le but de votre visite?",
+            "english": "What's the purpose of your visit?"
+        },
+        {
+            "french": "Tourisme.",
+            "english": "Tourism."
+        },
+        {
+            "french": "Affaires.",
+            "english": "Business."
+        },
+        {
+            "french": "Visite familiale.",
+            "english": "Family visit."
+        },
+        {
+            "french": "Puis-je voir votre passeport?",
+            "english": "May I see your passport?"
+        },
+        {
+            "french": "Voici mon passeport.",
+            "english": "Here's my passport."
+        },
+        {
+            "french": "Où allez-vous loger?",
+            "english": "Where are you going to stay?"
+        },
+        {
+            "french": "À l'hôtel.",
+            "english": "At the hotel."
+        },
+        {
+            "french": "Chez des amis.",
+            "english": "At friends' place."
+        },
+        {
+            "french": "J'ai loué un appartement.",
+            "english": "I rented an apartment."
+        },
+        {
+            "french": "C'est la première fois que vous venez?",
+            "english": "Is this your first time coming?"
+        },
+        {
+            "french": "Non, je suis déjà venu.",
+            "english": "No, I've already come. (masculine)"
+        },
+        {
+            "french": "Oui, c'est ma première fois.",
+            "english": "Yes, it's my first time."
+        },
+        {
+            "french": "Bon séjour!",
+            "english": "Have a good stay!"
+        },
+        {
+            "french": "Il est plus grand que moi.",
+            "english": "He is taller than me."
+        },
+        {
+            "french": "Elle est moins grande que lui.",
+            "english": "She is less tall than him."
+        },
+        {
+            "french": "Ils sont aussi grands.",
+            "english": "They are equally tall."
+        },
+        {
+            "french": "C'est plus cher qu'avant.",
+            "english": "It's more expensive than before."
+        },
+        {
+            "french": "C'est moins cher ici.",
+            "english": "It's less expensive here."
+        },
+        {
+            "french": "C'est aussi cher.",
+            "english": "It's just as expensive."
+        },
+        {
+            "french": "C'est le meilleur restaurant de la ville.",
+            "english": "It's the best restaurant in the city."
+        },
+        {
+            "french": "C'est la meilleure solution.",
+            "english": "It's the best solution."
+        },
+        {
+            "french": "C'est le plus grand musée.",
+            "english": "It's the biggest museum."
+        },
+        {
+            "french": "C'est la plus belle ville.",
+            "english": "It's the most beautiful city."
+        },
+        {
+            "french": "Il parle mieux français que moi.",
+            "english": "He speaks French better than me."
+        },
+        {
+            "french": "Je comprends mieux maintenant.",
+            "english": "I understand better now."
+        },
+        {
+            "french": "Ça va de mieux en mieux.",
+            "english": "It's getting better and better."
+        },
+        {
+            "french": "Il y a de plus en plus de touristes.",
+            "english": "There are more and more tourists."
+        },
+        {
+            "french": "Il y a de moins en moins de temps.",
+            "english": "There's less and less time."
+        },
+        {
+            "french": "Plus on pratique, plus on s'améliore.",
+            "english": "The more you practice, the more you improve."
+        },
+        {
+            "french": "J'aime bien ce quartier.",
+            "english": "I really like this neighborhood."
+        },
+        {
+            "french": "Je préfère celui-là.",
+            "english": "I prefer that one."
+        },
+        {
+            "french": "Lequel préférez-vous?",
+            "english": "Which one do you prefer?"
+        },
+        {
+            "french": "Celui-ci ou celui-là?",
+            "english": "This one or that one?"
+        },
+        {
+            "french": "Je prends celui-ci.",
+            "english": "I'll take this one."
+        },
+        {
+            "french": "Laquelle voulez-vous?",
+            "english": "Which one do you want? (feminine)"
+        },
+        {
+            "french": "Celle-ci est mieux.",
+            "english": "This one is better. (feminine)"
+        },
+        {
+            "french": "Ceux-ci sont trop chers.",
+            "english": "These ones are too expensive. (masculine plural)"
+        },
+        {
+            "french": "Celles-là sont en solde.",
+            "english": "Those ones are on sale. (feminine plural)"
+        },
+        {
+            "french": "Ça dépend.",
+            "english": "It depends."
+        },
+        {
+            "french": "Ça dépend du prix.",
+            "english": "It depends on the price."
+        },
+        {
+            "french": "Ça dépend de la météo.",
+            "english": "It depends on the weather."
+        },
+        {
+            "french": "On verra.",
+            "english": "We'll see."
+        },
+        {
+            "french": "Je ne suis pas sûr.",
+            "english": "I'm not sure. (masculine)"
+        },
+        {
+            "french": "Je ne suis pas sûre.",
+            "english": "I'm not sure. (feminine)"
+        },
+        {
+            "french": "Je suis certain.",
+            "english": "I'm certain. (masculine)"
+        },
+        {
+            "french": "J'en suis sûr.",
+            "english": "I'm sure of it. (masculine)"
+        },
+        {
+            "french": "J'en doute.",
+            "english": "I doubt it."
+        },
+        {
+            "french": "C'est possible.",
+            "english": "It's possible."
+        },
+        {
+            "french": "C'est probable.",
+            "english": "It's probable."
+        },
+        {
+            "french": "C'est impossible.",
+            "english": "It's impossible."
+        },
+        {
+            "french": "C'est peu probable.",
+            "english": "It's unlikely."
+        },
+        {
+            "french": "J'espère que oui.",
+            "english": "I hope so."
+        },
+        {
+            "french": "J'espère que non.",
+            "english": "I hope not."
+        },
+        {
+            "french": "Je l'espère.",
+            "english": "I hope so."
+        },
+        {
+            "french": "Tant mieux!",
+            "english": "So much the better! / That's good!"
+        },
+        {
+            "french": "Tant pis!",
+            "english": "Too bad! / Never mind!"
+        },
+        {
+            "french": "Quel dommage!",
+            "english": "What a shame!"
+        },
+        {
+            "french": "Quelle chance!",
+            "english": "What luck!"
+        },
+        {
+            "french": "Quelle surprise!",
+            "english": "What a surprise!"
+        },
+        {
+            "french": "Quelle coïncidence!",
+            "english": "What a coincidence!"
+        }
+    ]
+}

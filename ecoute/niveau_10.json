@@ -1,0 +1,1111 @@
+{
+    "level": "Niveau 10",
+    "cefr": "C1.2",
+    "description": "Avancé - Précision et nuances",
+    "phrases": [
+        {
+            "french": "Cette assertion péremptoire mérite d'être tempérée par une analyse circonstanciée.",
+            "english": "This peremptory assertion deserves to be tempered by a detailed analysis."
+        },
+        {
+            "french": "L'euphémisme, en l'occurrence, confine à la dissimulation pure et simple.",
+            "english": "The euphemism, in this case, borders on pure and simple concealment."
+        },
+        {
+            "french": "Son propos, émaillé de digressions érudites, s'avère néanmoins d'une limpidité remarquable.",
+            "english": "His remarks, studded with erudite digressions, nevertheless prove remarkably clear."
+        },
+        {
+            "french": "Cette rhétorique ampoulée dissimule mal la vacuité du raisonnement sous-jacent.",
+            "english": "This bombastic rhetoric poorly conceals the vacuity of the underlying reasoning."
+        },
+        {
+            "french": "L'auteur déploie une virtuosité stylistique qui transcende les conventions narratives.",
+            "english": "The author deploys a stylistic virtuosity that transcends narrative conventions."
+        },
+        {
+            "french": "Cette prose ciselée allie concision et densité sémantique avec un bonheur rare.",
+            "english": "This chiseled prose combines concision and semantic density with rare felicity."
+        },
+        {
+            "french": "L'ironie mordante qui sous-tend le récit confère à l'ensemble une portée subversive.",
+            "english": "The biting irony that underpins the narrative confers a subversive scope to the whole."
+        },
+        {
+            "french": "Cette métaphore filée se déploie avec une cohérence qui force l'admiration.",
+            "english": "This extended metaphor unfolds with a consistency that commands admiration."
+        },
+        {
+            "french": "L'ellipse narrative ménage une polysémie délibérée qui enrichit la lecture.",
+            "english": "The narrative ellipsis creates a deliberate polysemy that enriches the reading."
+        },
+        {
+            "french": "Cette écriture palimpseste révèle, à qui sait lire, de multiples strates de sens.",
+            "english": "This palimpsest writing reveals, to those who know how to read, multiple layers of meaning."
+        },
+        {
+            "french": "L'intertextualité foisonnante témoigne d'une culture littéraire d'une ampleur confondante.",
+            "english": "The abundant intertextuality testifies to a literary culture of staggering breadth."
+        },
+        {
+            "french": "Cette architecture narrative labyrinthique défie toute linéarité temporelle.",
+            "english": "This labyrinthine narrative architecture defies all temporal linearity."
+        },
+        {
+            "french": "Le jeu des focalisations multiples crée un effet de kaléidoscope perceptif.",
+            "english": "The play of multiple focalizations creates a perceptual kaleidoscope effect."
+        },
+        {
+            "french": "Cette mise en abyme vertigineuse brouille les frontières entre réel et fiction.",
+            "english": "This vertiginous mise en abyme blurs the boundaries between real and fiction."
+        },
+        {
+            "french": "L'indécidabilité délibérée du statut narratorial suscite une herméneutique ouverte.",
+            "english": "The deliberate undecidability of narratorial status elicits an open hermeneutics."
+        },
+        {
+            "french": "Cette poétique de la fragmentation épouse les contours d'une esthétique postmoderne.",
+            "english": "This poetics of fragmentation follows the contours of a postmodern aesthetic."
+        },
+        {
+            "french": "L'hybridité générique revendiquée transgresse allègrement les taxonomies conventionnelles.",
+            "english": "The claimed generic hybridity cheerfully transgresses conventional taxonomies."
+        },
+        {
+            "french": "Cette écriture performative ne se contente pas de décrire, elle actualise.",
+            "english": "This performative writing doesn't merely describe, it actualizes."
+        },
+        {
+            "french": "La dimension métatextuelle confère à l'œuvre une profondeur autoréflexive.",
+            "english": "The metatextual dimension confers an autoreflexive depth on the work."
+        },
+        {
+            "french": "Cette porosité assumée entre high et low culture bouscule les hiérarchies établies.",
+            "english": "This assumed porosity between high and low culture upends established hierarchies."
+        },
+        {
+            "french": "L'esthétique du fragment s'inscrit dans une logique de la discontinuité.",
+            "english": "The aesthetic of the fragment fits into a logic of discontinuity."
+        },
+        {
+            "french": "Cette œuvre protéiforme se dérobe à toute tentative de catégorisation univoque.",
+            "english": "This protean work eludes any attempt at univocal categorization."
+        },
+        {
+            "french": "La polyphonie énonciative démultiplie les instances narratives.",
+            "english": "Enunciative polyphony multiplies narrative instances."
+        },
+        {
+            "french": "Cette hétérogénéité discursive juxtapose des registres apparemment incompatibles.",
+            "english": "This discursive heterogeneity juxtaposes apparently incompatible registers."
+        },
+        {
+            "french": "L'œuvre se situe à la charnière entre modernité et postmodernité.",
+            "english": "The work sits at the hinge between modernity and postmodernity."
+        },
+        {
+            "french": "Cette démarche transgressive revendique une certaine iconoclastie.",
+            "english": "This transgressive approach claims a certain iconoclasm."
+        },
+        {
+            "french": "L'auteur récuse toute forme de didactisme au profit d'une ambiguïté féconde.",
+            "english": "The author rejects all forms of didacticism in favor of a fertile ambiguity."
+        },
+        {
+            "french": "Cette écriture spéculaire renvoie le lecteur à sa propre subjectivité.",
+            "english": "This specular writing refers the reader back to their own subjectivity."
+        },
+        {
+            "french": "L'opacité délibérée du texte appelle une herméneutique patiente.",
+            "english": "The deliberate opacity of the text calls for patient hermeneutics."
+        },
+        {
+            "french": "Cette esthétique de la soustraction privilégie l'ellipse et le non-dit.",
+            "english": "This aesthetic of subtraction favors ellipsis and the unsaid."
+        },
+        {
+            "french": "Le minimalisme affiché confine parfois à l'hermétisme.",
+            "english": "The displayed minimalism sometimes borders on hermeticism."
+        },
+        {
+            "french": "Cette épure stylistique dépouille le récit de tout artifice rhétorique.",
+            "english": "This stylistic refinement strips the narrative of all rhetorical artifice."
+        },
+        {
+            "french": "L'ascétisme verbal contraste avec la densité de la charge émotionnelle.",
+            "english": "Verbal asceticism contrasts with the density of emotional charge."
+        },
+        {
+            "french": "Cette économie de moyens décuple paradoxalement la puissance évocatoire.",
+            "english": "This economy of means paradoxically increases evocative power tenfold."
+        },
+        {
+            "french": "Le dépouillement formel laisse affleurer l'essentiel.",
+            "english": "Formal austerity allows the essential to surface."
+        },
+        {
+            "french": "Cette sobriété expressive n'exclut nullement la sophistication.",
+            "english": "This expressive sobriety in no way excludes sophistication."
+        },
+        {
+            "french": "L'apparente simplicité recèle en réalité une complexité insoupçonnée.",
+            "english": "The apparent simplicity actually harbors unsuspected complexity."
+        },
+        {
+            "french": "Cette limpidité de surface masque des profondeurs abyssales.",
+            "english": "This surface limpidity masks abyssal depths."
+        },
+        {
+            "french": "L'œuvre oscille entre transparence et opacité, lisibilité et obscurité.",
+            "english": "The work oscillates between transparency and opacity, legibility and obscurity."
+        },
+        {
+            "french": "Cette ambivalence constitutive résiste à toute réduction herméneutique.",
+            "english": "This constitutive ambivalence resists any hermeneutic reduction."
+        },
+        {
+            "french": "Le texte se prête à une multiplicité d'interprétations légitimes.",
+            "english": "The text lends itself to a multiplicity of legitimate interpretations."
+        },
+        {
+            "french": "Cette richesse polysémique témoigne de la fécondité de l'œuvre.",
+            "english": "This polysemic richness testifies to the work's fecundity."
+        },
+        {
+            "french": "L'indétermination sémantique ouvre un espace de liberté interprétative.",
+            "english": "Semantic indeterminacy opens a space of interpretive freedom."
+        },
+        {
+            "french": "Cette réticence à délivrer un sens univoque enrichit l'expérience de lecture.",
+            "english": "This reluctance to deliver a univocal meaning enriches the reading experience."
+        },
+        {
+            "french": "L'œuvre se dérobe à toute exégèse définitive.",
+            "english": "The work eludes any definitive exegesis."
+        },
+        {
+            "french": "Cette inépuisabilité herméneutique garantit la pérennité de l'intérêt critique.",
+            "english": "This hermeneutic inexhaustibility guarantees the longevity of critical interest."
+        },
+        {
+            "french": "Le caractère aporétique de certains passages stimule la réflexion.",
+            "english": "The aporetic character of certain passages stimulates reflection."
+        },
+        {
+            "french": "Cette tension irrésolue entre contraires structure l'ensemble.",
+            "english": "This unresolved tension between opposites structures the whole."
+        },
+        {
+            "french": "L'œuvre cultive délibérément les paradoxes et les apories.",
+            "english": "The work deliberately cultivates paradoxes and aporias."
+        },
+        {
+            "french": "Cette logique paradoxale défie les canons de la rationalité classique.",
+            "english": "This paradoxical logic defies the canons of classical rationality."
+        },
+        {
+            "french": "L'argumentation procède par cercles concentriques plutôt que de manière linéaire.",
+            "english": "The argumentation proceeds in concentric circles rather than linearly."
+        },
+        {
+            "french": "Cette pensée spiralaire revisite inlassablement les mêmes questions.",
+            "english": "This spiral thinking tirelessly revisits the same questions."
+        },
+        {
+            "french": "L'approche dialectique refuse toute synthèse rassurante.",
+            "english": "The dialectical approach refuses any reassuring synthesis."
+        },
+        {
+            "french": "Cette dialectique négative maintient la tension sans la résoudre.",
+            "english": "This negative dialectic maintains tension without resolving it."
+        },
+        {
+            "french": "L'auteur se garde de toute conclusion tranchée.",
+            "english": "The author refrains from any clear-cut conclusion."
+        },
+        {
+            "french": "Cette suspension du jugement cultive l'incertitude productive.",
+            "english": "This suspension of judgment cultivates productive uncertainty."
+        },
+        {
+            "french": "L'œuvre privilégie la question à la réponse, l'énigme à la solution.",
+            "english": "The work favors question over answer, enigma over solution."
+        },
+        {
+            "french": "Cette poétique de l'interrogation perpétue le questionnement.",
+            "english": "This poetics of interrogation perpetuates questioning."
+        },
+        {
+            "french": "L'incertitude fondamentale devient un principe compositeur.",
+            "english": "Fundamental uncertainty becomes a compositional principle."
+        },
+        {
+            "french": "Cette esthétique du doute s'oppose à toute dogmatique.",
+            "english": "This aesthetic of doubt opposes all dogmatics."
+        },
+        {
+            "french": "L'œuvre revendique une forme de scepticisme méthodique.",
+            "english": "The work claims a form of methodical skepticism."
+        },
+        {
+            "french": "Cette pensée critique ne cesse de s'interroger sur ses propres fondements.",
+            "english": "This critical thought constantly questions its own foundations."
+        },
+        {
+            "french": "L'autoréflexivité constitue le ressort essentiel de la démarche.",
+            "english": "Auto-reflexivity constitutes the essential spring of the approach."
+        },
+        {
+            "french": "Cette métacritique soumet la critique elle-même à l'examen critique.",
+            "english": "This metacritique subjects criticism itself to critical examination."
+        },
+        {
+            "french": "L'œuvre interroge les conditions de possibilité du discours qu'elle déploie.",
+            "english": "The work questions the conditions of possibility of the discourse it deploys."
+        },
+        {
+            "french": "Cette mise en question radicale n'épargne rien ni personne.",
+            "english": "This radical questioning spares nothing and no one."
+        },
+        {
+            "french": "L'exercice de déconstruction s'applique à l'œuvre elle-même.",
+            "english": "The exercise of deconstruction applies to the work itself."
+        },
+        {
+            "french": "Cette auto-déconstruction prévient toute sacralisation du texte.",
+            "english": "This auto-deconstruction prevents any sacralization of the text."
+        },
+        {
+            "french": "L'ironie généralisée mine de l'intérieur toute prétention à la vérité.",
+            "english": "Generalized irony undermines from within all pretense to truth."
+        },
+        {
+            "french": "Cette distance ironique institue un rapport problématique au langage.",
+            "english": "This ironic distance institutes a problematic relationship to language."
+        },
+        {
+            "french": "L'usage des guillemets signale une méfiance envers les mots.",
+            "english": "The use of quotation marks signals a mistrust of words."
+        },
+        {
+            "french": "Cette défiance linguistique caractérise la posture postmoderne.",
+            "english": "This linguistic wariness characterizes the postmodern posture."
+        },
+        {
+            "french": "Le soupçon jeté sur le langage traverse l'ensemble du texte.",
+            "english": "The suspicion cast on language runs through the entire text."
+        },
+        {
+            "french": "Cette crise de la représentation met en cause le pacte référentiel.",
+            "english": "This crisis of representation calls into question the referential pact."
+        },
+        {
+            "french": "L'arbitraire du signe devient un thème obsédant.",
+            "english": "The arbitrariness of the sign becomes an obsessive theme."
+        },
+        {
+            "french": "Cette opacité du langage interdit toute transparence communicationnelle.",
+            "english": "This opacity of language prohibits all communicational transparency."
+        },
+        {
+            "french": "L'œuvre thématise l'impossibilité même de la communication.",
+            "english": "The work thematizes the very impossibility of communication."
+        },
+        {
+            "french": "Cette aporie communicationnelle structure le dispositif narratif.",
+            "english": "This communicational aporia structures the narrative device."
+        },
+        {
+            "french": "L'incommunicabilité devient le sujet véritable de l'œuvre.",
+            "english": "Incommunicability becomes the true subject of the work."
+        },
+        {
+            "french": "Cette solitude ontologique des consciences traverse le récit.",
+            "english": "This ontological solitude of consciousnesses runs through the narrative."
+        },
+        {
+            "french": "L'altérité radicale de l'autre demeure irréductible.",
+            "english": "The radical alterity of the other remains irreducible."
+        },
+        {
+            "french": "Cette étrangeté insurmontable fonde la tragique de l'existence.",
+            "english": "This insurmountable strangeness founds the tragic of existence."
+        },
+        {
+            "french": "L'œuvre explore les limites de l'intersubjectivité.",
+            "english": "The work explores the limits of intersubjectivity."
+        },
+        {
+            "french": "Cette impossibilité de coïncider avec autrui génère une mélancolie diffuse.",
+            "english": "This impossibility of coinciding with others generates a diffuse melancholy."
+        },
+        {
+            "french": "Le sentiment d'exil métaphysique imprègne l'atmosphère narrative.",
+            "english": "The feeling of metaphysical exile permeates the narrative atmosphere."
+        },
+        {
+            "french": "Cette désappartenance constitutive caractérise la condition moderne.",
+            "english": "This constitutive unbelonging characterizes the modern condition."
+        },
+        {
+            "french": "L'errance existentielle devient un leitmotiv obsédant.",
+            "english": "Existential wandering becomes an obsessive leitmotif."
+        },
+        {
+            "french": "Cette quête sans objet précis structure la trajectoire des personnages.",
+            "english": "This quest without precise object structures the characters' trajectory."
+        },
+        {
+            "french": "L'absence de téléologie narrative reflète l'absurdité de l'existence.",
+            "english": "The absence of narrative teleology reflects the absurdity of existence."
+        },
+        {
+            "french": "Cette vacuité du sens épouse les contours d'un nihilisme tempéré.",
+            "english": "This vacuity of meaning follows the contours of a tempered nihilism."
+        },
+        {
+            "french": "L'œuvre oscille entre désespoir métaphysique et acceptation sereine.",
+            "english": "The work oscillates between metaphysical despair and serene acceptance."
+        },
+        {
+            "french": "Cette sagesse désabusée refuse tout pathos.",
+            "english": "This disillusioned wisdom refuses all pathos."
+        },
+        {
+            "french": "L'ironie distanciée tempère l'expression du tragique.",
+            "english": "Distanced irony tempers the expression of the tragic."
+        },
+        {
+            "french": "Cette pudeur émotionnelle confine parfois à la sécheresse.",
+            "english": "This emotional modesty sometimes borders on dryness."
+        },
+        {
+            "french": "L'ellipse affective laisse au lecteur le soin de combler les blancs.",
+            "english": "Affective ellipsis leaves the reader to fill in the blanks."
+        },
+        {
+            "french": "Cette retenue expressive accroît paradoxalement l'intensité émotionnelle.",
+            "english": "This expressive restraint paradoxically increases emotional intensity."
+        },
+        {
+            "french": "L'émotion contenue n'en acquiert que plus de force.",
+            "english": "The contained emotion only acquires more force."
+        },
+        {
+            "french": "Cette litote permanente sous-entend plus qu'elle ne dit.",
+            "english": "This permanent litotes implies more than it says."
+        },
+        {
+            "french": "L'art de la suggestion supplante celui de la description.",
+            "english": "The art of suggestion supplants that of description."
+        },
+        {
+            "french": "Cette poétique de l'implicite privilégie l'allusion à l'explicitation.",
+            "english": "This poetics of the implicit favors allusion over explication."
+        },
+        {
+            "french": "Le non-dit acquiert autant d'importance que le dit.",
+            "english": "The unsaid acquires as much importance as the said."
+        },
+        {
+            "french": "Cette dialectique entre silence et parole structure l'œuvre.",
+            "english": "This dialectic between silence and speech structures the work."
+        },
+        {
+            "french": "Les blancs typographiques participent pleinement de la signification.",
+            "english": "Typographical blanks fully participate in signification."
+        },
+        {
+            "french": "Cette spatialisation du texte confère une dimension visuelle à l'écrit.",
+            "english": "This spatialization of text confers a visual dimension on writing."
+        },
+        {
+            "french": "L'œuvre explore les potentialités plastiques de la page.",
+            "english": "The work explores the plastic potentialities of the page."
+        },
+        {
+            "french": "Cette matérialité du signifiant rappelle la dimension concrète du langage.",
+            "english": "This materiality of the signifier recalls the concrete dimension of language."
+        },
+        {
+            "french": "L'attention portée à la forme typographique enrichit l'expérience de lecture.",
+            "english": "Attention to typographic form enriches the reading experience."
+        },
+        {
+            "french": "Cette dimension calligraphique ajoute une strate supplémentaire de sens.",
+            "english": "This calligraphic dimension adds an additional layer of meaning."
+        },
+        {
+            "french": "L'œuvre se situe à la frontière entre littérature et arts visuels.",
+            "english": "The work sits on the boundary between literature and visual arts."
+        },
+        {
+            "french": "Cette hybridation générique brouille les catégories disciplinaires.",
+            "english": "This generic hybridization blurs disciplinary categories."
+        },
+        {
+            "french": "L'intermédialité revendiquée transgresse les cloisonnements établis.",
+            "english": "The claimed intermediality transgresses established compartmentalizations."
+        },
+        {
+            "french": "Cette porosité entre les arts témoigne d'une conception holistique de la création.",
+            "english": "This porosity between arts testifies to a holistic conception of creation."
+        },
+        {
+            "french": "L'œuvre totale rêvée demeure un horizon régulateur.",
+            "english": "The dreamed total work remains a regulating horizon."
+        },
+        {
+            "french": "Cette aspiration à la synthèse des arts traverse la modernité.",
+            "english": "This aspiration to the synthesis of arts runs through modernity."
+        },
+        {
+            "french": "Le Gesamtkunstwerk wagnerien trouve ici un écho lointain.",
+            "english": "The Wagnerian Gesamtkunstwerk finds a distant echo here."
+        },
+        {
+            "french": "Cette utopie artistique nourrit encore les avant-gardes contemporaines.",
+            "english": "This artistic utopia still nourishes contemporary avant-gardes."
+        },
+        {
+            "french": "L'expérimentation formelle repousse sans cesse les limites du possible.",
+            "english": "Formal experimentation constantly pushes back the limits of the possible."
+        },
+        {
+            "french": "Cette audace créatrice refuse toute forme d'académisme.",
+            "english": "This creative boldness refuses all forms of academicism."
+        },
+        {
+            "french": "L'iconoclastie revendiquée s'attaque aux conventions les plus ancrées.",
+            "english": "The claimed iconoclasm attacks the most deeply rooted conventions."
+        },
+        {
+            "french": "Cette posture transgressive cultive la provocation.",
+            "english": "This transgressive posture cultivates provocation."
+        },
+        {
+            "french": "Le scandale esthétique devient une stratégie délibérée.",
+            "english": "Aesthetic scandal becomes a deliberate strategy."
+        },
+        {
+            "french": "Cette volonté de choquer procède d'une logique avant-gardiste.",
+            "english": "This will to shock proceeds from an avant-garde logic."
+        },
+        {
+            "french": "L'épate-bourgeois reste un ressort de la création contemporaine.",
+            "english": "Épater le bourgeois remains a spring of contemporary creation."
+        },
+        {
+            "french": "Cette dimension polémique participe de la fonction critique de l'art.",
+            "english": "This polemical dimension participates in art's critical function."
+        },
+        {
+            "french": "L'œuvre se veut un ferment de subversion sociale.",
+            "english": "The work aims to be a ferment of social subversion."
+        },
+        {
+            "french": "Cette prétention révolutionnaire caractérise les avant-gardes historiques.",
+            "english": "This revolutionary pretension characterizes historical avant-gardes."
+        },
+        {
+            "french": "L'utopie d'une transformation sociale par l'art perdure.",
+            "english": "The utopia of social transformation through art endures."
+        },
+        {
+            "french": "Cette foi dans le pouvoir émancipateur de la création persiste.",
+            "english": "This faith in the emancipatory power of creation persists."
+        },
+        {
+            "french": "L'art engagé revendique une responsabilité éthique et politique.",
+            "english": "Engaged art claims an ethical and political responsibility."
+        },
+        {
+            "french": "Cette dimension militante anime nombre de créateurs contemporains.",
+            "english": "This militant dimension animates many contemporary creators."
+        },
+        {
+            "french": "L'œuvre se veut vecteur de conscientisation et de transformation.",
+            "english": "The work aims to be a vector of consciousness-raising and transformation."
+        },
+        {
+            "french": "Cette visée pragmatique dépasse la seule contemplation esthétique.",
+            "english": "This pragmatic aim goes beyond mere aesthetic contemplation."
+        },
+        {
+            "french": "L'art relationnel privilégie l'interaction à l'objet.",
+            "english": "Relational art favors interaction over object."
+        },
+        {
+            "french": "Cette dématérialisation de l'œuvre interroge le statut de l'art.",
+            "english": "This dematerialization of the work questions the status of art."
+        },
+        {
+            "french": "L'art conceptuel radicalise cette primauté de l'idée sur la forme.",
+            "english": "Conceptual art radicalizes this primacy of idea over form."
+        },
+        {
+            "french": "Cette réduction de l'art au concept soulève d'épineuses questions.",
+            "english": "This reduction of art to concept raises thorny questions."
+        },
+        {
+            "french": "La limite entre art et non-art devient indécidable.",
+            "english": "The limit between art and non-art becomes undecidable."
+        },
+        {
+            "french": "Cette indétermination ontologique déstabilise les catégories établies.",
+            "english": "This ontological indeterminacy destabilizes established categories."
+        },
+        {
+            "french": "L'œuvre questionne ses propres conditions de possibilité.",
+            "english": "The work questions its own conditions of possibility."
+        },
+        {
+            "french": "Cette auto-interrogation réflexive caractérise l'art contemporain.",
+            "english": "This reflexive self-interrogation characterizes contemporary art."
+        },
+        {
+            "french": "L'art s'interroge sur ce qui fait de lui de l'art.",
+            "english": "Art questions what makes it art."
+        },
+        {
+            "french": "Cette métaquestion devient le sujet même de l'œuvre.",
+            "english": "This meta-question becomes the very subject of the work."
+        },
+        {
+            "french": "L'art pour l'art cède la place à l'art sur l'art.",
+            "english": "Art for art's sake gives way to art about art."
+        },
+        {
+            "french": "Cette dimension métaartistique structure la création contemporaine.",
+            "english": "This meta-artistic dimension structures contemporary creation."
+        },
+        {
+            "french": "L'œuvre se pense elle-même en se faisant.",
+            "english": "The work thinks itself as it is made."
+        },
+        {
+            "french": "Cette autoréférentialité généralisée confine au solipsisme.",
+            "english": "This generalized self-referentiality borders on solipsism."
+        },
+        {
+            "french": "Le risque d'autisme esthétique guette l'art contemporain.",
+            "english": "The risk of aesthetic autism threatens contemporary art."
+        },
+        {
+            "french": "Cette coupure avec le public interroge la fonction sociale de l'art.",
+            "english": "This disconnect from the public questions the social function of art."
+        },
+        {
+            "french": "L'hermétisme croissant suscite l'incompréhension et la défiance.",
+            "english": "Growing hermeticism arouses incomprehension and distrust."
+        },
+        {
+            "french": "Cette élitisation de l'art contredit les ambitions démocratiques affichées.",
+            "english": "This elitization of art contradicts the displayed democratic ambitions."
+        },
+        {
+            "french": "Le fossé se creuse entre création savante et culture populaire.",
+            "english": "The gap widens between learned creation and popular culture."
+        },
+        {
+            "french": "Cette fracture culturelle questionne la pertinence de l'art contemporain.",
+            "english": "This cultural fracture questions the relevance of contemporary art."
+        },
+        {
+            "french": "La légitimité de la création d'avant-garde se trouve mise en cause.",
+            "english": "The legitimacy of avant-garde creation is called into question."
+        },
+        {
+            "french": "Cette crise de légitimation traverse l'ensemble du champ artistique.",
+            "english": "This legitimation crisis runs through the entire artistic field."
+        },
+        {
+            "french": "L'art contemporain peine à justifier son existence auprès du grand public.",
+            "english": "Contemporary art struggles to justify its existence to the general public."
+        },
+        {
+            "french": "Cette défiance populaire témoigne d'un malentendu profond.",
+            "english": "This popular distrust testifies to a profound misunderstanding."
+        },
+        {
+            "french": "Le décalage entre offre artistique et attentes du public s'accentue.",
+            "english": "The gap between artistic offering and public expectations widens."
+        },
+        {
+            "french": "Cette inadéquation alimente le ressentiment anti-intellectuel.",
+            "english": "This inadequacy fuels anti-intellectual resentment."
+        },
+        {
+            "french": "La déconnexion des élites culturelles nourrit le populisme.",
+            "english": "The disconnect of cultural elites feeds populism."
+        },
+        {
+            "french": "Cette coupure entre culture légitime et culture populaire interroge.",
+            "english": "This split between legitimate culture and popular culture raises questions."
+        },
+        {
+            "french": "Les hiérarchies culturelles traditionnelles vacillent.",
+            "english": "Traditional cultural hierarchies falter."
+        },
+        {
+            "french": "Cette remise en cause des canons établis bouscule les certitudes.",
+            "english": "This questioning of established canons upends certainties."
+        },
+        {
+            "french": "Le relativisme culturel ambiant érode les critères de jugement.",
+            "english": "Ambient cultural relativism erodes judgment criteria."
+        },
+        {
+            "french": "Cette dissolution des valeurs esthétiques désoriente.",
+            "english": "This dissolution of aesthetic values disorients."
+        },
+        {
+            "french": "L'absence de consensus sur ce qui fait œuvre inquiète.",
+            "english": "The absence of consensus on what constitutes a work worries."
+        },
+        {
+            "french": "Cette indétermination axiologique caractérise notre époque.",
+            "english": "This axiological indeterminacy characterizes our era."
+        },
+        {
+            "french": "Le pluralisme des valeurs rend problématique tout jugement normatif.",
+            "english": "The pluralism of values makes any normative judgment problematic."
+        },
+        {
+            "french": "Cette multiplicité des perspectives interdit toute hiérarchisation.",
+            "english": "This multiplicity of perspectives prohibits all hierarchization."
+        },
+        {
+            "french": "Le relativisme généralisé sape les fondements de la critique.",
+            "english": "Generalized relativism undermines the foundations of criticism."
+        },
+        {
+            "french": "Cette équivalence de tous les discours anéantit toute possibilité d'évaluation.",
+            "english": "This equivalence of all discourses annihilates all possibility of evaluation."
+        },
+        {
+            "french": "L'impossibilité de discriminer entre bon et mauvais paralyse le jugement.",
+            "english": "The impossibility of discriminating between good and bad paralyzes judgment."
+        },
+        {
+            "french": "Cette suspension généralisée du jugement favorise le n'importe quoi.",
+            "english": "This generalized suspension of judgment favors anything goes."
+        },
+        {
+            "french": "L'abdication de tout critère qualitatif inquiète les esprits exigeants.",
+            "english": "The abdication of all qualitative criteria worries demanding minds."
+        },
+        {
+            "french": "Cette démission intellectuelle ouvre la voie à tous les arbitraires.",
+            "english": "This intellectual resignation opens the way to all arbitrariness."
+        },
+        {
+            "french": "Le règne de l'opinion subjective évince toute objectivité.",
+            "english": "The reign of subjective opinion evicts all objectivity."
+        },
+        {
+            "french": "Cette tyrannie du goût personnel disqualifie l'expertise.",
+            "english": "This tyranny of personal taste disqualifies expertise."
+        },
+        {
+            "french": "L'érosion de l'autorité critique favorise la médiocrité.",
+            "english": "The erosion of critical authority favors mediocrity."
+        },
+        {
+            "french": "Cette dévalorisation de la compétence alarme.",
+            "english": "This devaluation of competence alarms."
+        },
+        {
+            "french": "Le nivellement par le bas menace l'excellence.",
+            "english": "Leveling down threatens excellence."
+        },
+        {
+            "french": "Cette standardisation appauvrissante uniformise la création.",
+            "english": "This impoverishing standardization homogenizes creation."
+        },
+        {
+            "french": "L'homogénéisation culturelle érode la diversité.",
+            "english": "Cultural homogenization erodes diversity."
+        },
+        {
+            "french": "Cette marchandisation de la culture la réduit à sa valeur d'échange.",
+            "english": "This commodification of culture reduces it to its exchange value."
+        },
+        {
+            "french": "L'industrie culturelle broie les singularités.",
+            "english": "The culture industry crushes singularities."
+        },
+        {
+            "french": "Cette logique de rentabilité étouffe la créativité.",
+            "english": "This logic of profitability stifles creativity."
+        },
+        {
+            "french": "L'impératif commercial dicte ses lois à la création.",
+            "english": "The commercial imperative dictates its laws to creation."
+        },
+        {
+            "french": "Cette subordination de l'art au marché appauvrit l'offre culturelle.",
+            "english": "This subordination of art to the market impoverishes cultural offerings."
+        },
+        {
+            "french": "Le formatage commercial tue l'innovation.",
+            "english": "Commercial formatting kills innovation."
+        },
+        {
+            "french": "Cette standardisation des produits culturels uniformise les consciences.",
+            "english": "This standardization of cultural products homogenizes consciousness."
+        },
+        {
+            "french": "L'aliénation marchande pervertit le rapport à la culture.",
+            "english": "Commercial alienation perverts the relationship to culture."
+        },
+        {
+            "french": "Cette réification de l'œuvre en marchandise la dénature.",
+            "english": "This reification of the work into merchandise denatures it."
+        },
+        {
+            "french": "La fétichisation de l'objet culturel occulte sa dimension symbolique.",
+            "english": "The fetishization of the cultural object obscures its symbolic dimension."
+        },
+        {
+            "french": "Cette perte de l'aura benjaminienne caractérise l'ère de la reproductibilité technique.",
+            "english": "This loss of Benjaminian aura characterizes the era of technical reproducibility."
+        },
+        {
+            "french": "La multiplication des copies érode l'unicité de l'original.",
+            "english": "The multiplication of copies erodes the uniqueness of the original."
+        },
+        {
+            "french": "Cette banalisation de l'œuvre d'art la vide de sa substance.",
+            "english": "This trivialization of the work of art empties it of its substance."
+        },
+        {
+            "french": "L'inflation des images génère une saturation perceptive.",
+            "english": "The inflation of images generates perceptual saturation."
+        },
+        {
+            "french": "Cette surcharge visuelle émousse la sensibilité.",
+            "english": "This visual overload dulls sensitivity."
+        },
+        {
+            "french": "L'anesthésie des sens résulte de cette exposition permanente.",
+            "english": "Anesthesia of the senses results from this permanent exposure."
+        },
+        {
+            "french": "Cette désensibilisation progressive inquiète.",
+            "english": "This progressive desensitization worries."
+        },
+        {
+            "french": "L'émoussement de la capacité d'émerveillement appauvrit l'expérience.",
+            "english": "The blunting of the capacity for wonder impoverishes experience."
+        },
+        {
+            "french": "Cette perte de naïveté perceptive caractérise la modernité tardive.",
+            "english": "This loss of perceptual naivety characterizes late modernity."
+        },
+        {
+            "french": "Le désenchantement du monde s'accompagne d'une atrophie sensorielle.",
+            "english": "The disenchantment of the world is accompanied by sensory atrophy."
+        },
+        {
+            "french": "Cette atrophie de l'imagination résulte de la surstimulation.",
+            "english": "This atrophy of imagination results from overstimulation."
+        },
+        {
+            "french": "Le paradoxe veut qu'une offre pléthorique appauvrisse l'expérience.",
+            "english": "The paradox is that an overabundant offering impoverishes experience."
+        },
+        {
+            "french": "Cette profusion génère un sentiment de vacuité.",
+            "english": "This profusion generates a feeling of emptiness."
+        },
+        {
+            "french": "L'abondance matérielle masque mal la pauvreté spirituelle.",
+            "english": "Material abundance poorly masks spiritual poverty."
+        },
+        {
+            "french": "Cette opulence extérieure contraste avec le dénuement intérieur.",
+            "english": "This exterior opulence contrasts with interior destitution."
+        },
+        {
+            "french": "Le foisonnement des stimuli occulte l'indigence du sens.",
+            "english": "The proliferation of stimuli obscures the indigence of meaning."
+        },
+        {
+            "french": "Cette hyperactivité superficielle dissimule un vide existentiel.",
+            "english": "This superficial hyperactivity conceals an existential void."
+        },
+        {
+            "french": "L'agitation frénétique compense mal l'absence de substance.",
+            "english": "Frenetic agitation poorly compensates for the absence of substance."
+        },
+        {
+            "french": "Cette course effrénée étourdit plus qu'elle ne comble.",
+            "english": "This frantic race stuns more than it fulfills."
+        },
+        {
+            "french": "L'accélération généralisée empêche toute pause réflexive.",
+            "english": "Generalized acceleration prevents all reflexive pause."
+        },
+        {
+            "french": "Cette tyrannie de l'urgence interdit le recul nécessaire.",
+            "english": "This tyranny of urgency prohibits necessary distance."
+        },
+        {
+            "french": "L'instantanéité imposée par le numérique détruit la temporalité longue.",
+            "english": "The instantaneity imposed by digital destroys long temporality."
+        },
+        {
+            "french": "Cette compression du temps appauvrit l'expérience.",
+            "english": "This compression of time impoverishes experience."
+        },
+        {
+            "french": "La disparition de la durée empêche la maturation.",
+            "english": "The disappearance of duration prevents maturation."
+        },
+        {
+            "french": "Cette immédiateté permanente frustre toute attente.",
+            "english": "This permanent immediacy frustrates all expectation."
+        },
+        {
+            "french": "L'abolition du délai anéantit le désir.",
+            "english": "The abolition of delay annihilates desire."
+        },
+        {
+            "french": "Cette satisfaction instantanée tarit les sources de la motivation.",
+            "english": "This instant satisfaction dries up the sources of motivation."
+        },
+        {
+            "french": "Le primat de l'immédiat hypothèque l'avenir.",
+            "english": "The primacy of the immediate mortgages the future."
+        },
+        {
+            "french": "Cette dictature du présent oblitère toute perspective temporelle.",
+            "english": "This dictatorship of the present obliterates all temporal perspective."
+        },
+        {
+            "french": "L'amnésie collective efface le passé.",
+            "english": "Collective amnesia erases the past."
+        },
+        {
+            "french": "Cette perte de mémoire historique déracine.",
+            "english": "This loss of historical memory uproots."
+        },
+        {
+            "french": "L'effacement des traces rompt la continuité temporelle.",
+            "english": "The erasure of traces breaks temporal continuity."
+        },
+        {
+            "french": "Cette discontinuité radicale désarçonne.",
+            "english": "This radical discontinuity bewilders."
+        },
+        {
+            "french": "L'absence de filiation génère un sentiment d'orfèlinat métaphysique.",
+            "english": "The absence of filiation generates a feeling of metaphysical orphanhood."
+        },
+        {
+            "french": "Cette rupture générationnelle coupe les ponts avec le passé.",
+            "english": "This generational rupture cuts bridges with the past."
+        },
+        {
+            "french": "Le refus de l'héritage condamne à tout réinventer.",
+            "english": "The refusal of inheritance condemns to reinventing everything."
+        },
+        {
+            "french": "Cette table rase permanente épuise les énergies.",
+            "english": "This permanent clean slate exhausts energies."
+        },
+        {
+            "french": "L'impératif de nouveauté devient tyrannique.",
+            "english": "The imperative of novelty becomes tyrannical."
+        },
+        {
+            "french": "Cette injonction au renouvellement constant génère de l'anxiété.",
+            "english": "This injunction to constant renewal generates anxiety."
+        },
+        {
+            "french": "La pression de l'innovation permanente stresse.",
+            "english": "The pressure of permanent innovation stresses."
+        },
+        {
+            "french": "Cette obsolescence programmée des idées déstabilise.",
+            "english": "This programmed obsolescence of ideas destabilizes."
+        },
+        {
+            "french": "Le culte du nouveau pour le nouveau confine au fétichisme.",
+            "english": "The cult of the new for new's sake borders on fetishism."
+        },
+        {
+            "french": "Cette néophilie compulsive masque une peur du vide.",
+            "english": "This compulsive neophilia masks a fear of emptiness."
+        },
+        {
+            "french": "L'agitation novatrice compense mal l'absence de projet.",
+            "english": "Innovative agitation poorly compensates for the absence of project."
+        },
+        {
+            "french": "Cette fuite en avant révèle une incapacité à se poser.",
+            "english": "This headlong rush reveals an inability to settle."
+        },
+        {
+            "french": "L'hyperactivité dissimule une vacuité essentielle.",
+            "english": "Hyperactivity conceals an essential vacuity."
+        },
+        {
+            "french": "Cette boulimie d'expériences trahit une quête insatiable de sens.",
+            "english": "This bulimia of experiences betrays an insatiable quest for meaning."
+        },
+        {
+            "french": "L'accumulation frénétique ne comble jamais le manque fondamental.",
+            "english": "Frenetic accumulation never fills the fundamental lack."
+        },
+        {
+            "french": "Cette course vaine épuise sans jamais satisfaire.",
+            "english": "This vain race exhausts without ever satisfying."
+        },
+        {
+            "french": "L'insatisfaction chronique caractérise la condition moderne.",
+            "english": "Chronic dissatisfaction characterizes the modern condition."
+        },
+        {
+            "french": "Ce désir toujours relancé, jamais assouvi, structure l'économie libidinale contemporaine.",
+            "english": "This desire always relaunched, never satisfied, structures contemporary libidinal economy."
+        },
+        {
+            "french": "La société de consommation capitalise sur cette frustration permanente.",
+            "english": "Consumer society capitalizes on this permanent frustration."
+        },
+        {
+            "french": "Cette insatiabilité constitue le moteur même du système.",
+            "english": "This insatiability constitutes the very engine of the system."
+        },
+        {
+            "french": "Le capitalisme tardif vampirise le désir pour le détourner à son profit.",
+            "english": "Late capitalism vampirizes desire to divert it to its profit."
+        },
+        {
+            "french": "Cette récupération marchande pervertit l'authenticité du désir.",
+            "english": "This commercial recuperation perverts the authenticity of desire."
+        },
+        {
+            "french": "L'aliénation consumériste colonise l'imaginaire collectif.",
+            "english": "Consumerist alienation colonizes the collective imaginary."
+        },
+        {
+            "french": "Cette colonisation de l'inconscient par la publicité inquiète.",
+            "english": "This colonization of the unconscious by advertising worries."
+        },
+        {
+            "french": "La manipulation des affects à des fins commerciales soulève des questions éthiques.",
+            "english": "The manipulation of affects for commercial purposes raises ethical questions."
+        },
+        {
+            "french": "Cette instrumentalisation de l'émotionnel déshumanise.",
+            "english": "This instrumentalization of the emotional dehumanizes."
+        },
+        {
+            "french": "La réduction de l'humain à sa dimension de consommateur appauvrit.",
+            "english": "The reduction of the human to their consumer dimension impoverishes."
+        },
+        {
+            "french": "Cette mutilation anthropologique ronge le tissu social.",
+            "english": "This anthropological mutilation gnaws at the social fabric."
+        },
+        {
+            "french": "L'homo economicus supplante l'homo sapiens.",
+            "english": "Homo economicus supplants homo sapiens."
+        },
+        {
+            "french": "Cette victoire de la rationalité instrumentale sur la raison substantielle inquiète.",
+            "english": "This victory of instrumental rationality over substantial reason worries."
+        },
+        {
+            "french": "Le triomphe de la technique évince toute considération éthique.",
+            "english": "The triumph of technique evicts all ethical consideration."
+        },
+        {
+            "french": "Cette colonisation du monde vécu par le système alerte.",
+            "english": "This colonization of the lifeworld by the system alerts."
+        },
+        {
+            "french": "L'emprise croissante de la logique systémique étouffe les espaces de liberté.",
+            "english": "The growing grip of systemic logic stifles spaces of freedom."
+        },
+        {
+            "french": "Cette réification généralisée chosifie les rapports humains.",
+            "english": "This generalized reification reifies human relations."
+        },
+        {
+            "french": "La déshumanisation progressive du lien social alarme.",
+            "english": "The progressive dehumanization of social bonds alarms."
+        },
+        {
+            "french": "Cette glaciation des rapports interpersonnels désole.",
+            "english": "This glaciation of interpersonal relations distresses."
+        },
+        {
+            "french": "L'atrophie de l'empathie résulte de cette mécanisation du social.",
+            "english": "The atrophy of empathy results from this mechanization of the social."
+        },
+        {
+            "french": "Cette dégradation du vivre-ensemble menace la cohésion collective.",
+            "english": "This degradation of living-together threatens collective cohesion."
+        },
+        {
+            "french": "L'effritement du lien civique fragilise le pacte républicain.",
+            "english": "The crumbling of the civic bond weakens the republican pact."
+        },
+        {
+            "french": "Cette érosion de la solidarité mine les fondements de la démocratie.",
+            "english": "This erosion of solidarity undermines the foundations of democracy."
+        },
+        {
+            "french": "Le délitement du corps social présage de lendemains difficiles.",
+            "english": "The disintegration of the social body presages difficult tomorrows."
+        },
+        {
+            "french": "Cette désagrégation collective appelle une réaction urgente.",
+            "english": "This collective disintegration calls for urgent reaction."
+        },
+        {
+            "french": "L'heure n'est plus aux tergiversations mais à l'action résolue.",
+            "english": "The time is no longer for procrastination but for resolute action."
+        },
+        {
+            "french": "Il appartient à chacun de se ressaisir et d'œuvrer au redressement collectif.",
+            "english": "It's up to everyone to pull themselves together and work toward collective recovery."
+        },
+        {
+            "french": "Seule une mobilisation générale permettra d'enrayer la spirale délétère.",
+            "english": "Only general mobilization will halt the deleterious spiral."
+        },
+        {
+            "french": "Cette prise de conscience collective constitue le préalable indispensable à tout changement.",
+            "english": "This collective awareness constitutes the essential prerequisite for any change."
+        },
+        {
+            "french": "Sachons puiser dans les ressources de l'esprit humain la force de surmonter les épreuves.",
+            "english": "Let's draw from the resources of the human spirit the strength to overcome trials."
+        },
+        {
+            "french": "L'optimisme de la volonté doit l'emporter sur le pessimisme de la raison.",
+            "english": "Optimism of the will must prevail over pessimism of reason."
+        },
+        {
+            "french": "Gardons foi en notre capacité collective à inventer un avenir désirable.",
+            "english": "Let's keep faith in our collective capacity to invent a desirable future."
+        },
+        {
+            "french": "C'est à cette condition seulement que nous pourrons léguer un monde vivable aux générations futures.",
+            "english": "It's only on this condition that we can bequeath a livable world to future generations."
+        },
+        {
+            "french": "L'histoire jugera notre génération à l'aune des choix que nous faisons aujourd'hui.",
+            "english": "History will judge our generation by the measure of the choices we make today."
+        },
+        {
+            "french": "Assumons pleinement la responsabilité qui nous incombe et agissons en conséquence.",
+            "english": "Let's fully assume the responsibility incumbent upon us and act accordingly."
+        }
+    ]
+}

@@ -1,0 +1,1299 @@
+{
+    "level": "Niveau 6",
+    "cefr": "B1.2",
+    "description": "Pré-intermédiaire - Opinions et récits détaillés",
+    "phrases": [
+        {
+            "french": "Si j'avais su, je ne serais pas venu.",
+            "english": "If I had known, I wouldn't have come."
+        },
+        {
+            "french": "J'aurais dû t'écouter.",
+            "english": "I should have listened to you."
+        },
+        {
+            "french": "Tu aurais pu me prévenir.",
+            "english": "You could have warned me."
+        },
+        {
+            "french": "Je regrette de ne pas avoir accepté cette offre.",
+            "english": "I regret not having accepted that offer."
+        },
+        {
+            "french": "Si seulement j'avais plus de temps libre.",
+            "english": "If only I had more free time."
+        },
+        {
+            "french": "J'aimerais tellement pouvoir voyager davantage.",
+            "english": "I would so much like to be able to travel more."
+        },
+        {
+            "french": "Ce serait formidable si on pouvait se voir plus souvent.",
+            "english": "It would be wonderful if we could see each other more often."
+        },
+        {
+            "french": "Dans l'idéal, j'aimerais travailler à l'étranger.",
+            "english": "Ideally, I would like to work abroad."
+        },
+        {
+            "french": "Mon rêve serait de créer ma propre entreprise.",
+            "english": "My dream would be to create my own company."
+        },
+        {
+            "french": "J'espère que mes enfants auront une meilleure vie que moi.",
+            "english": "I hope my children will have a better life than me."
+        },
+        {
+            "french": "Je souhaiterais que tout le monde ait les mêmes chances.",
+            "english": "I would wish that everyone had the same opportunities."
+        },
+        {
+            "french": "Il serait temps qu'on prenne ce problème au sérieux.",
+            "english": "It's about time we took this problem seriously."
+        },
+        {
+            "french": "Il faudrait que nous trouvions une solution rapidement.",
+            "english": "We would need to find a solution quickly."
+        },
+        {
+            "french": "Je doute qu'il puisse venir ce soir.",
+            "english": "I doubt he can come tonight."
+        },
+        {
+            "french": "Je ne pense pas qu'elle soit au courant.",
+            "english": "I don't think she's aware."
+        },
+        {
+            "french": "Il est peu probable qu'il fasse beau demain.",
+            "english": "It's unlikely it will be nice tomorrow."
+        },
+        {
+            "french": "J'ai bien peur qu'il soit trop tard.",
+            "english": "I'm afraid it's too late."
+        },
+        {
+            "french": "Quoi que tu décides, je te soutiendrai.",
+            "english": "Whatever you decide, I'll support you."
+        },
+        {
+            "french": "Où que tu ailles, je t'accompagnerai.",
+            "english": "Wherever you go, I'll accompany you."
+        },
+        {
+            "french": "Qui que ce soit, dis-lui que je ne suis pas là.",
+            "english": "Whoever it is, tell them I'm not here."
+        },
+        {
+            "french": "Bien qu'il soit très intelligent, il manque d'expérience.",
+            "english": "Although he's very intelligent, he lacks experience."
+        },
+        {
+            "french": "Malgré le fait qu'elle soit jeune, elle a beaucoup de responsabilités.",
+            "english": "Despite the fact that she's young, she has many responsibilities."
+        },
+        {
+            "french": "Même si je suis fatigué, je viendrai quand même.",
+            "english": "Even if I'm tired, I'll come anyway."
+        },
+        {
+            "french": "Contrairement à ce que tu penses, je suis d'accord avec toi.",
+            "english": "Contrary to what you think, I agree with you."
+        },
+        {
+            "french": "En revanche, je ne partage pas ton avis sur ce point.",
+            "english": "On the other hand, I don't share your opinion on this point."
+        },
+        {
+            "french": "Néanmoins, il faut reconnaître que c'est une bonne idée.",
+            "english": "Nevertheless, we must acknowledge it's a good idea."
+        },
+        {
+            "french": "Toutefois, je pense qu'on devrait y réfléchir davantage.",
+            "english": "However, I think we should think about it more."
+        },
+        {
+            "french": "Cependant, il reste encore beaucoup à faire.",
+            "english": "However, there's still a lot to do."
+        },
+        {
+            "french": "D'ailleurs, c'est exactement ce que j'allais dire.",
+            "english": "Besides, that's exactly what I was going to say."
+        },
+        {
+            "french": "De plus, cela nous permettrait d'économiser de l'argent.",
+            "english": "Moreover, that would allow us to save money."
+        },
+        {
+            "french": "En outre, il faudrait considérer les conséquences à long terme.",
+            "english": "Furthermore, we should consider the long-term consequences."
+        },
+        {
+            "french": "Par ailleurs, je voudrais ajouter quelque chose.",
+            "english": "Furthermore, I would like to add something."
+        },
+        {
+            "french": "À ce propos, j'ai une question à te poser.",
+            "english": "On this subject, I have a question to ask you."
+        },
+        {
+            "french": "En ce qui concerne ce problème, j'ai ma propre théorie.",
+            "english": "Regarding this problem, I have my own theory."
+        },
+        {
+            "french": "Pour ce qui est de la situation actuelle, je suis plutôt optimiste.",
+            "english": "As for the current situation, I'm rather optimistic."
+        },
+        {
+            "french": "Quant à moi, je préfère attendre un peu.",
+            "english": "As for me, I prefer to wait a bit."
+        },
+        {
+            "french": "Selon moi, nous devrions agir immédiatement.",
+            "english": "According to me, we should act immediately."
+        },
+        {
+            "french": "D'après ce que j'ai compris, il y a eu un malentendu.",
+            "english": "From what I understood, there was a misunderstanding."
+        },
+        {
+            "french": "Autant que je sache, il n'est pas encore arrivé.",
+            "english": "As far as I know, he hasn't arrived yet."
+        },
+        {
+            "french": "À ma connaissance, personne n'a été informé.",
+            "english": "To my knowledge, no one was informed."
+        },
+        {
+            "french": "Sauf erreur de ma part, la réunion est prévue pour demain.",
+            "english": "Unless I'm mistaken, the meeting is scheduled for tomorrow."
+        },
+        {
+            "french": "Si je ne me trompe pas, c'est la troisième fois que ça arrive.",
+            "english": "If I'm not mistaken, this is the third time it's happened."
+        },
+        {
+            "french": "Il me semble que tu as tort sur ce point.",
+            "english": "It seems to me that you're wrong on this point."
+        },
+        {
+            "french": "J'ai l'impression qu'il ne me dit pas tout.",
+            "english": "I have the impression he's not telling me everything."
+        },
+        {
+            "french": "On dirait qu'il va pleuvoir.",
+            "english": "It looks like it's going to rain."
+        },
+        {
+            "french": "Apparemment, ils ont changé d'avis.",
+            "english": "Apparently, they changed their mind."
+        },
+        {
+            "french": "Il paraît qu'il va déménager.",
+            "english": "It seems he's going to move."
+        },
+        {
+            "french": "D'après ce qu'on m'a dit, c'est un excellent restaurant.",
+            "english": "According to what I was told, it's an excellent restaurant."
+        },
+        {
+            "french": "À en croire les rumeurs, l'entreprise va fermer.",
+            "english": "If we believe the rumors, the company is going to close."
+        },
+        {
+            "french": "Il se peut qu'il soit en retard.",
+            "english": "He might be late."
+        },
+        {
+            "french": "Il est possible qu'elle ne vienne pas.",
+            "english": "It's possible she won't come."
+        },
+        {
+            "french": "Il arrive parfois que je me trompe.",
+            "english": "It sometimes happens that I'm wrong."
+        },
+        {
+            "french": "Il se pourrait bien qu'on doive tout recommencer.",
+            "english": "It might well be that we have to start everything over."
+        },
+        {
+            "french": "Tout porte à croire qu'il a raison.",
+            "english": "Everything suggests he's right."
+        },
+        {
+            "french": "Il y a fort à parier qu'il ne viendra pas.",
+            "english": "There's a good chance he won't come."
+        },
+        {
+            "french": "Il est évident que nous avons fait une erreur.",
+            "english": "It's obvious we made a mistake."
+        },
+        {
+            "french": "Il est clair que la situation s'est améliorée.",
+            "english": "It's clear the situation has improved."
+        },
+        {
+            "french": "Il est certain qu'on va y arriver.",
+            "english": "It's certain we'll get there."
+        },
+        {
+            "french": "Je suis persuadé qu'il dit la vérité.",
+            "english": "I'm convinced he's telling the truth."
+        },
+        {
+            "french": "Je suis sûr et certain qu'on a déjà parlé de ça.",
+            "english": "I'm absolutely certain we've already talked about this."
+        },
+        {
+            "french": "Sans aucun doute, c'est la meilleure option.",
+            "english": "Without a doubt, it's the best option."
+        },
+        {
+            "french": "Il n'y a aucun doute là-dessus.",
+            "english": "There's no doubt about it."
+        },
+        {
+            "french": "Je n'en doute pas un instant.",
+            "english": "I don't doubt it for a moment."
+        },
+        {
+            "french": "J'en suis absolument convaincu.",
+            "english": "I'm absolutely convinced of it."
+        },
+        {
+            "french": "Cela ne fait aucun doute.",
+            "english": "There's no doubt about it."
+        },
+        {
+            "french": "C'est une évidence.",
+            "english": "It's obvious."
+        },
+        {
+            "french": "Ça crève les yeux.",
+            "english": "It's staring you in the face."
+        },
+        {
+            "french": "C'est clair comme de l'eau de roche.",
+            "english": "It's crystal clear."
+        },
+        {
+            "french": "Ça va de soi.",
+            "english": "It goes without saying."
+        },
+        {
+            "french": "Ça tombe sous le sens.",
+            "english": "It's self-evident."
+        },
+        {
+            "french": "C'est du bon sens.",
+            "english": "It's common sense."
+        },
+        {
+            "french": "Il n'y a pas à tortiller.",
+            "english": "There's no getting around it."
+        },
+        {
+            "french": "Il n'y a pas photo.",
+            "english": "There's no comparison."
+        },
+        {
+            "french": "C'est noir sur blanc.",
+            "english": "It's black and white / in writing."
+        },
+        {
+            "french": "Je suis entièrement d'accord avec toi.",
+            "english": "I entirely agree with you."
+        },
+        {
+            "french": "Je ne pourrais pas être plus d'accord.",
+            "english": "I couldn't agree more."
+        },
+        {
+            "french": "Tu as tout à fait raison.",
+            "english": "You're absolutely right."
+        },
+        {
+            "french": "Tu as mis le doigt dessus.",
+            "english": "You've hit the nail on the head."
+        },
+        {
+            "french": "C'est exactement ce que je pense.",
+            "english": "That's exactly what I think."
+        },
+        {
+            "french": "Je partage complètement ton avis.",
+            "english": "I completely share your opinion."
+        },
+        {
+            "french": "Nous sommes sur la même longueur d'onde.",
+            "english": "We're on the same wavelength."
+        },
+        {
+            "french": "Je ne suis pas du tout d'accord.",
+            "english": "I don't agree at all."
+        },
+        {
+            "french": "Je suis en total désaccord.",
+            "english": "I'm in total disagreement."
+        },
+        {
+            "french": "Permets-moi de ne pas être d'accord.",
+            "english": "Allow me to disagree."
+        },
+        {
+            "french": "Je suis désolé, mais je ne partage pas ton point de vue.",
+            "english": "I'm sorry, but I don't share your point of view."
+        },
+        {
+            "french": "Je vois les choses différemment.",
+            "english": "I see things differently."
+        },
+        {
+            "french": "À mon humble avis, tu te trompes.",
+            "english": "In my humble opinion, you're wrong."
+        },
+        {
+            "french": "Avec tout le respect que je te dois, je pense que tu as tort.",
+            "english": "With all due respect, I think you're wrong."
+        },
+        {
+            "french": "Je ne suis pas convaincu par ton argument.",
+            "english": "I'm not convinced by your argument."
+        },
+        {
+            "french": "Ton raisonnement ne tient pas la route.",
+            "english": "Your reasoning doesn't hold up."
+        },
+        {
+            "french": "Ça ne me semble pas très logique.",
+            "english": "That doesn't seem very logical to me."
+        },
+        {
+            "french": "Je trouve que c'est un peu exagéré.",
+            "english": "I find that a bit exaggerated."
+        },
+        {
+            "french": "Tu ne crois pas que tu y vas un peu fort?",
+            "english": "Don't you think you're going a bit far?"
+        },
+        {
+            "french": "Je pense que tu dramatises la situation.",
+            "english": "I think you're dramatizing the situation."
+        },
+        {
+            "french": "Il ne faut pas tout voir en noir.",
+            "english": "You shouldn't see everything in black."
+        },
+        {
+            "french": "Essayons de rester positifs.",
+            "english": "Let's try to stay positive."
+        },
+        {
+            "french": "Regardons le bon côté des choses.",
+            "english": "Let's look at the bright side of things."
+        },
+        {
+            "french": "Il y a du pour et du contre.",
+            "english": "There are pros and cons."
+        },
+        {
+            "french": "Chaque médaille a son revers.",
+            "english": "Every coin has two sides."
+        },
+        {
+            "french": "Il faut peser le pour et le contre.",
+            "english": "We have to weigh the pros and cons."
+        },
+        {
+            "french": "Tout dépend de la façon dont on voit les choses.",
+            "english": "It all depends on how you look at things."
+        },
+        {
+            "french": "C'est une question de perspective.",
+            "english": "It's a question of perspective."
+        },
+        {
+            "french": "Tout est relatif.",
+            "english": "Everything is relative."
+        },
+        {
+            "french": "Ça dépend du point de vue.",
+            "english": "It depends on the point of view."
+        },
+        {
+            "french": "On ne peut pas généraliser.",
+            "english": "We can't generalize."
+        },
+        {
+            "french": "Chaque cas est unique.",
+            "english": "Each case is unique."
+        },
+        {
+            "french": "Il n'y a pas de règle absolue.",
+            "english": "There's no absolute rule."
+        },
+        {
+            "french": "C'est du cas par cas.",
+            "english": "It's case by case."
+        },
+        {
+            "french": "Il faut nuancer.",
+            "english": "We need to nuance."
+        },
+        {
+            "french": "La vérité se situe quelque part entre les deux.",
+            "english": "The truth lies somewhere between the two."
+        },
+        {
+            "french": "Il y a du vrai dans ce que tu dis.",
+            "english": "There's some truth in what you say."
+        },
+        {
+            "french": "Je dois admettre que tu as un point.",
+            "english": "I must admit you have a point."
+        },
+        {
+            "french": "Tu n'as pas complètement tort.",
+            "english": "You're not completely wrong."
+        },
+        {
+            "french": "Je vois où tu veux en venir.",
+            "english": "I see where you're going with this."
+        },
+        {
+            "french": "Je comprends ton point de vue.",
+            "english": "I understand your point of view."
+        },
+        {
+            "french": "Je peux comprendre que tu penses ainsi.",
+            "english": "I can understand you thinking that way."
+        },
+        {
+            "french": "Tu as le droit de penser ce que tu veux.",
+            "english": "You have the right to think what you want."
+        },
+        {
+            "french": "Chacun a droit à son opinion.",
+            "english": "Everyone is entitled to their opinion."
+        },
+        {
+            "french": "Les goûts et les couleurs, ça ne se discute pas.",
+            "english": "There's no accounting for taste."
+        },
+        {
+            "french": "À chacun son truc.",
+            "english": "To each their own thing."
+        },
+        {
+            "french": "Qu'est-ce que tu proposes alors?",
+            "english": "What do you suggest then?"
+        },
+        {
+            "french": "Aurais-tu une meilleure idée?",
+            "english": "Would you have a better idea?"
+        },
+        {
+            "french": "Je suggère qu'on essaie une autre approche.",
+            "english": "I suggest we try another approach."
+        },
+        {
+            "french": "Et si on faisait autrement?",
+            "english": "What if we did it differently?"
+        },
+        {
+            "french": "On pourrait peut-être envisager une alternative.",
+            "english": "We could perhaps consider an alternative."
+        },
+        {
+            "french": "Pourquoi ne pas tenter quelque chose de nouveau?",
+            "english": "Why not try something new?"
+        },
+        {
+            "french": "Ça vaudrait la peine d'explorer d'autres options.",
+            "english": "It would be worth exploring other options."
+        },
+        {
+            "french": "Il serait judicieux de consulter un expert.",
+            "english": "It would be wise to consult an expert."
+        },
+        {
+            "french": "À ta place, je demanderais conseil.",
+            "english": "In your place, I would ask for advice."
+        },
+        {
+            "french": "Si j'étais toi, je prendrais mon temps.",
+            "english": "If I were you, I would take my time."
+        },
+        {
+            "french": "Tu ferais mieux de réfléchir avant d'agir.",
+            "english": "You'd better think before acting."
+        },
+        {
+            "french": "Il vaudrait mieux attendre un peu.",
+            "english": "It would be better to wait a bit."
+        },
+        {
+            "french": "Je te conseille vivement de le faire.",
+            "english": "I strongly advise you to do it."
+        },
+        {
+            "french": "Je te déconseille de prendre ce risque.",
+            "english": "I advise you against taking this risk."
+        },
+        {
+            "french": "Fais attention à ne pas te tromper.",
+            "english": "Be careful not to make a mistake."
+        },
+        {
+            "french": "Méfie-toi des apparences.",
+            "english": "Beware of appearances."
+        },
+        {
+            "french": "Ne te fie pas aux premières impressions.",
+            "english": "Don't trust first impressions."
+        },
+        {
+            "french": "Il ne faut pas se fier aux on-dit.",
+            "english": "You shouldn't trust hearsay."
+        },
+        {
+            "french": "Prends tout ça avec des pincettes.",
+            "english": "Take all this with a grain of salt."
+        },
+        {
+            "french": "Il faut lire entre les lignes.",
+            "english": "You have to read between the lines."
+        },
+        {
+            "french": "Ce n'est pas aussi simple qu'il n'y paraît.",
+            "english": "It's not as simple as it seems."
+        },
+        {
+            "french": "Les choses sont plus compliquées qu'elles en ont l'air.",
+            "english": "Things are more complicated than they appear."
+        },
+        {
+            "french": "Il y a quelque chose qui cloche.",
+            "english": "There's something that's off."
+        },
+        {
+            "french": "Quelque chose me dit que ce n'est pas une bonne idée.",
+            "english": "Something tells me it's not a good idea."
+        },
+        {
+            "french": "J'ai comme un mauvais pressentiment.",
+            "english": "I have a bad feeling about this."
+        },
+        {
+            "french": "Mon instinct me dit de ne pas le faire.",
+            "english": "My instinct tells me not to do it."
+        },
+        {
+            "french": "Faisons confiance à notre intuition.",
+            "english": "Let's trust our intuition."
+        },
+        {
+            "french": "Écoutons notre petite voix intérieure.",
+            "english": "Let's listen to our inner voice."
+        },
+        {
+            "french": "Il faut suivre son cœur.",
+            "english": "You have to follow your heart."
+        },
+        {
+            "french": "Parfois, il faut savoir prendre des risques.",
+            "english": "Sometimes, you have to know how to take risks."
+        },
+        {
+            "french": "Qui ne tente rien n'a rien.",
+            "english": "Nothing ventured, nothing gained."
+        },
+        {
+            "french": "La fortune sourit aux audacieux.",
+            "english": "Fortune favors the bold."
+        },
+        {
+            "french": "Il faut oser sortir de sa zone de confort.",
+            "english": "You have to dare to leave your comfort zone."
+        },
+        {
+            "french": "Il ne faut pas avoir peur de l'échec.",
+            "english": "You shouldn't be afraid of failure."
+        },
+        {
+            "french": "On apprend de ses erreurs.",
+            "english": "We learn from our mistakes."
+        },
+        {
+            "french": "L'échec est le meilleur des professeurs.",
+            "english": "Failure is the best teacher."
+        },
+        {
+            "french": "Ce qui ne nous tue pas nous rend plus fort.",
+            "english": "What doesn't kill us makes us stronger."
+        },
+        {
+            "french": "Il faut savoir rebondir.",
+            "english": "You have to know how to bounce back."
+        },
+        {
+            "french": "Après la pluie, le beau temps.",
+            "english": "Every cloud has a silver lining."
+        },
+        {
+            "french": "Il faut voir le verre à moitié plein.",
+            "english": "You have to see the glass half full."
+        },
+        {
+            "french": "Tout finit par s'arranger.",
+            "english": "Everything works out in the end."
+        },
+        {
+            "french": "Le temps arrange les choses.",
+            "english": "Time heals all wounds."
+        },
+        {
+            "french": "Rien ne dure éternellement.",
+            "english": "Nothing lasts forever."
+        },
+        {
+            "french": "Cette situation aussi passera.",
+            "english": "This situation too shall pass."
+        },
+        {
+            "french": "Il faut être patient.",
+            "english": "You have to be patient."
+        },
+        {
+            "french": "Toute chose en son temps.",
+            "english": "All in good time."
+        },
+        {
+            "french": "Rome ne s'est pas faite en un jour.",
+            "english": "Rome wasn't built in a day."
+        },
+        {
+            "french": "Petit à petit, l'oiseau fait son nid.",
+            "english": "Little by little, the bird builds its nest."
+        },
+        {
+            "french": "C'est en forgeant qu'on devient forgeron.",
+            "english": "Practice makes perfect."
+        },
+        {
+            "french": "L'habitude fait le moine.",
+            "english": "Practice makes perfect. (lit: The habit makes the monk)"
+        },
+        {
+            "french": "La répétition est la mère de l'apprentissage.",
+            "english": "Repetition is the mother of learning."
+        },
+        {
+            "french": "Il faut persévérer.",
+            "english": "You have to persevere."
+        },
+        {
+            "french": "L'important, c'est de ne jamais abandonner.",
+            "english": "The important thing is to never give up."
+        },
+        {
+            "french": "Il ne faut jamais baisser les bras.",
+            "english": "You must never give up."
+        },
+        {
+            "french": "Quand on veut, on peut.",
+            "english": "Where there's a will, there's a way."
+        },
+        {
+            "french": "Impossible n'est pas français.",
+            "english": "Nothing is impossible."
+        },
+        {
+            "french": "Vouloir, c'est pouvoir.",
+            "english": "To want is to be able."
+        },
+        {
+            "french": "Il suffit d'y croire.",
+            "english": "You just have to believe in it."
+        },
+        {
+            "french": "Tout est possible si on s'en donne les moyens.",
+            "english": "Anything is possible if you give yourself the means."
+        },
+        {
+            "french": "Il faut y mettre du sien.",
+            "english": "You have to do your part."
+        },
+        {
+            "french": "Le succès demande des efforts.",
+            "english": "Success requires effort."
+        },
+        {
+            "french": "Rien ne tombe du ciel.",
+            "english": "Nothing falls from the sky."
+        },
+        {
+            "french": "On n'a rien sans rien.",
+            "english": "You can't get something for nothing."
+        },
+        {
+            "french": "Le travail paie toujours.",
+            "english": "Hard work always pays off."
+        },
+        {
+            "french": "Ce qui compte, c'est le résultat.",
+            "english": "What counts is the result."
+        },
+        {
+            "french": "La fin justifie les moyens.",
+            "english": "The end justifies the means."
+        },
+        {
+            "french": "L'essentiel, c'est de faire de son mieux.",
+            "english": "The essential thing is to do your best."
+        },
+        {
+            "french": "Il n'y a pas de honte à échouer.",
+            "english": "There's no shame in failing."
+        },
+        {
+            "french": "L'important, c'est d'avoir essayé.",
+            "english": "The important thing is to have tried."
+        },
+        {
+            "french": "On ne peut pas gagner à tous les coups.",
+            "english": "You can't win every time."
+        },
+        {
+            "french": "On ne peut pas plaire à tout le monde.",
+            "english": "You can't please everyone."
+        },
+        {
+            "french": "Chacun fait comme il peut.",
+            "english": "Everyone does what they can."
+        },
+        {
+            "french": "Il faut faire avec les moyens du bord.",
+            "english": "You have to make do with what you have."
+        },
+        {
+            "french": "On fait avec ce qu'on a.",
+            "english": "We work with what we have."
+        },
+        {
+            "french": "Mieux vaut tard que jamais.",
+            "english": "Better late than never."
+        },
+        {
+            "french": "Il n'est jamais trop tard pour bien faire.",
+            "english": "It's never too late to do the right thing."
+        },
+        {
+            "french": "Tant qu'il y a de la vie, il y a de l'espoir.",
+            "english": "While there's life, there's hope."
+        },
+        {
+            "french": "Il ne faut jamais perdre espoir.",
+            "english": "You must never lose hope."
+        },
+        {
+            "french": "Gardons espoir.",
+            "english": "Let's keep hope."
+        },
+        {
+            "french": "Restons optimistes.",
+            "english": "Let's stay optimistic."
+        },
+        {
+            "french": "L'avenir nous le dira.",
+            "english": "The future will tell."
+        },
+        {
+            "french": "Seul l'avenir nous dira si nous avons eu raison.",
+            "english": "Only the future will tell if we were right."
+        },
+        {
+            "french": "On verra bien.",
+            "english": "We'll see."
+        },
+        {
+            "french": "L'avenir nous réserve des surprises.",
+            "english": "The future holds surprises for us."
+        },
+        {
+            "french": "Qui vivra verra.",
+            "english": "Time will tell."
+        },
+        {
+            "french": "On ne sait jamais ce que demain nous réserve.",
+            "english": "You never know what tomorrow holds."
+        },
+        {
+            "french": "Il faut vivre au jour le jour.",
+            "english": "You have to live day by day."
+        },
+        {
+            "french": "Profitons du moment présent.",
+            "english": "Let's enjoy the present moment."
+        },
+        {
+            "french": "Il faut savoir profiter de la vie.",
+            "english": "You have to know how to enjoy life."
+        },
+        {
+            "french": "La vie est trop courte pour avoir des regrets.",
+            "english": "Life is too short to have regrets."
+        },
+        {
+            "french": "Il faut croquer la vie à pleines dents.",
+            "english": "You have to seize life with both hands."
+        },
+        {
+            "french": "Carpe diem - il faut cueillir le jour.",
+            "english": "Carpe diem - seize the day."
+        },
+        {
+            "french": "La vie est faite pour être vécue.",
+            "english": "Life is meant to be lived."
+        },
+        {
+            "french": "Il faut oser vivre ses rêves.",
+            "english": "You have to dare to live your dreams."
+        },
+        {
+            "french": "N'attendons pas qu'il soit trop tard.",
+            "english": "Let's not wait until it's too late."
+        },
+        {
+            "french": "Le temps passe vite.",
+            "english": "Time passes quickly."
+        },
+        {
+            "french": "Les années filent à toute allure.",
+            "english": "The years fly by."
+        },
+        {
+            "french": "On n'a qu'une vie.",
+            "english": "We only have one life."
+        },
+        {
+            "french": "Il faut en profiter tant qu'on peut.",
+            "english": "We have to enjoy it while we can."
+        },
+        {
+            "french": "Je me demande ce que l'avenir me réserve.",
+            "english": "I wonder what the future holds for me."
+        },
+        {
+            "french": "J'espère réaliser tous mes projets.",
+            "english": "I hope to accomplish all my projects."
+        },
+        {
+            "french": "Mon objectif est de devenir bilingue.",
+            "english": "My goal is to become bilingual."
+        },
+        {
+            "french": "Je compte bien atteindre mes objectifs.",
+            "english": "I fully intend to reach my goals."
+        },
+        {
+            "french": "Je ferai tout mon possible pour réussir.",
+            "english": "I'll do everything possible to succeed."
+        },
+        {
+            "french": "Rien ne m'arrêtera.",
+            "english": "Nothing will stop me."
+        },
+        {
+            "french": "Je suis déterminé à aller jusqu'au bout.",
+            "english": "I'm determined to see it through."
+        },
+        {
+            "french": "J'ai la ferme intention de continuer.",
+            "english": "I have every intention of continuing."
+        },
+        {
+            "french": "Je ne lâcherai pas prise.",
+            "english": "I won't let go."
+        },
+        {
+            "french": "Je tiendrai bon quoi qu'il arrive.",
+            "english": "I'll hold on no matter what happens."
+        },
+        {
+            "french": "Coûte que coûte, j'irai au bout de mes ambitions.",
+            "english": "Whatever it takes, I'll pursue my ambitions to the end."
+        },
+        {
+            "french": "Envers et contre tout, je continuerai.",
+            "english": "Against all odds, I'll continue."
+        },
+        {
+            "french": "Je ne me découragerai pas.",
+            "english": "I won't get discouraged."
+        },
+        {
+            "french": "Même si c'est difficile, je persévérerai.",
+            "english": "Even if it's difficult, I'll persevere."
+        },
+        {
+            "french": "Les obstacles ne font que me motiver davantage.",
+            "english": "Obstacles only motivate me more."
+        },
+        {
+            "french": "Chaque difficulté est une opportunité d'apprendre.",
+            "english": "Each difficulty is an opportunity to learn."
+        },
+        {
+            "french": "Je considère les échecs comme des leçons.",
+            "english": "I consider failures as lessons."
+        },
+        {
+            "french": "Tout ce qui ne me tue pas me rend plus fort.",
+            "english": "Everything that doesn't kill me makes me stronger."
+        },
+        {
+            "french": "J'ai beaucoup appris de mes erreurs passées.",
+            "english": "I've learned a lot from my past mistakes."
+        },
+        {
+            "french": "Grâce à mes expériences, je suis devenu plus sage.",
+            "english": "Thanks to my experiences, I've become wiser."
+        },
+        {
+            "french": "Je ne regrette rien car tout m'a mené où je suis.",
+            "english": "I regret nothing because everything led me to where I am."
+        },
+        {
+            "french": "Chaque expérience compte, bonne ou mauvaise.",
+            "english": "Every experience counts, good or bad."
+        },
+        {
+            "french": "C'est en se trompant qu'on apprend.",
+            "english": "It's by making mistakes that we learn."
+        },
+        {
+            "french": "L'erreur est humaine.",
+            "english": "To err is human."
+        },
+        {
+            "french": "Personne n'est parfait.",
+            "english": "Nobody's perfect."
+        },
+        {
+            "french": "Nous avons tous nos défauts.",
+            "english": "We all have our flaws."
+        },
+        {
+            "french": "Il faut accepter nos imperfections.",
+            "english": "We have to accept our imperfections."
+        },
+        {
+            "french": "Ce qui compte, c'est d'essayer de s'améliorer.",
+            "english": "What counts is trying to improve."
+        },
+        {
+            "french": "On peut toujours progresser.",
+            "english": "We can always progress."
+        },
+        {
+            "french": "Il n'y a pas d'âge pour apprendre.",
+            "english": "There's no age for learning."
+        },
+        {
+            "french": "On apprend à tout âge.",
+            "english": "We learn at any age."
+        },
+        {
+            "french": "Il n'est jamais trop tard pour se former.",
+            "english": "It's never too late to get training."
+        },
+        {
+            "french": "Je suis toujours ouvert à de nouvelles connaissances.",
+            "english": "I'm always open to new knowledge."
+        },
+        {
+            "french": "J'aime élargir mes horizons.",
+            "english": "I like to broaden my horizons."
+        },
+        {
+            "french": "La curiosité est une qualité.",
+            "english": "Curiosity is a quality."
+        },
+        {
+            "french": "Il faut rester curieux.",
+            "english": "You have to stay curious."
+        },
+        {
+            "french": "Ne cessons jamais de nous questionner.",
+            "english": "Let's never stop questioning ourselves."
+        },
+        {
+            "french": "Il est important de garder l'esprit ouvert.",
+            "english": "It's important to keep an open mind."
+        },
+        {
+            "french": "Remettons nos certitudes en question.",
+            "english": "Let's question our certainties."
+        },
+        {
+            "french": "Il faut savoir se remettre en question.",
+            "english": "You have to know how to question yourself."
+        },
+        {
+            "french": "L'introspection est essentielle.",
+            "english": "Introspection is essential."
+        },
+        {
+            "french": "Il est bon de réfléchir sur soi-même.",
+            "english": "It's good to reflect on oneself."
+        },
+        {
+            "french": "Connaître ses forces et ses faiblesses est important.",
+            "english": "Knowing your strengths and weaknesses is important."
+        },
+        {
+            "french": "Je travaille constamment sur moi-même.",
+            "english": "I'm constantly working on myself."
+        },
+        {
+            "french": "Je m'efforce d'être une meilleure personne.",
+            "english": "I strive to be a better person."
+        },
+        {
+            "french": "Le développement personnel me passionne.",
+            "english": "Personal development fascinates me."
+        },
+        {
+            "french": "Je crois en l'importance de l'évolution personnelle.",
+            "english": "I believe in the importance of personal evolution."
+        },
+        {
+            "french": "Nous sommes tous en perpétuelle évolution.",
+            "english": "We're all in perpetual evolution."
+        },
+        {
+            "french": "Le changement fait partie de la vie.",
+            "english": "Change is part of life."
+        },
+        {
+            "french": "Il faut savoir s'adapter.",
+            "english": "You have to know how to adapt."
+        },
+        {
+            "french": "L'adaptabilité est une compétence clé.",
+            "english": "Adaptability is a key skill."
+        },
+        {
+            "french": "Dans un monde qui change, il faut évoluer.",
+            "english": "In a changing world, we must evolve."
+        },
+        {
+            "french": "Ceux qui ne s'adaptent pas restent en arrière.",
+            "english": "Those who don't adapt stay behind."
+        },
+        {
+            "french": "Il faut aller de l'avant.",
+            "english": "We have to move forward."
+        },
+        {
+            "french": "Ne restons pas bloqués dans le passé.",
+            "english": "Let's not stay stuck in the past."
+        },
+        {
+            "french": "Tournons la page.",
+            "english": "Let's turn the page."
+        },
+        {
+            "french": "Il est temps de passer à autre chose.",
+            "english": "It's time to move on."
+        },
+        {
+            "french": "Regardons vers l'avenir.",
+            "english": "Let's look toward the future."
+        },
+        {
+            "french": "L'avenir est plein de promesses.",
+            "english": "The future is full of promise."
+        },
+        {
+            "french": "De belles choses nous attendent.",
+            "english": "Beautiful things await us."
+        },
+        {
+            "french": "Le meilleur reste à venir.",
+            "english": "The best is yet to come."
+        },
+        {
+            "french": "J'ai confiance en l'avenir.",
+            "english": "I have confidence in the future."
+        },
+        {
+            "french": "Je suis optimiste quant à ce qui nous attend.",
+            "english": "I'm optimistic about what awaits us."
+        },
+        {
+            "french": "L'espoir fait vivre.",
+            "english": "Hope keeps us alive."
+        },
+        {
+            "french": "Gardons espoir, même dans les moments difficiles.",
+            "english": "Let's keep hope, even in difficult times."
+        },
+        {
+            "french": "Les temps difficiles ne durent pas éternellement.",
+            "english": "Hard times don't last forever."
+        },
+        {
+            "french": "Tout finit toujours par s'arranger.",
+            "english": "Everything always works out in the end."
+        },
+        {
+            "french": "Il faut croire en des jours meilleurs.",
+            "english": "We must believe in better days."
+        },
+        {
+            "french": "Demain sera un autre jour.",
+            "english": "Tomorrow will be another day."
+        },
+        {
+            "french": "Chaque jour est un nouveau départ.",
+            "english": "Each day is a new beginning."
+        },
+        {
+            "french": "Chaque matin est une nouvelle chance.",
+            "english": "Each morning is a new chance."
+        },
+        {
+            "french": "La vie nous offre toujours de nouvelles opportunités.",
+            "english": "Life always offers us new opportunities."
+        },
+        {
+            "french": "Il suffit de savoir les saisir.",
+            "english": "You just have to know how to seize them."
+        },
+        {
+            "french": "Ne laissons pas passer notre chance.",
+            "english": "Let's not miss our chance."
+        },
+        {
+            "french": "Il faut foncer quand l'occasion se présente.",
+            "english": "You have to go for it when the opportunity arises."
+        },
+        {
+            "french": "Les occasions ne se présentent pas deux fois.",
+            "english": "Opportunities don't come twice."
+        },
+        {
+            "french": "Il faut battre le fer tant qu'il est chaud.",
+            "english": "You have to strike while the iron is hot."
+        },
+        {
+            "french": "C'est maintenant ou jamais.",
+            "english": "It's now or never."
+        },
+        {
+            "french": "Il ne faut pas hésiter.",
+            "english": "You mustn't hesitate."
+        },
+        {
+            "french": "Osons faire le premier pas.",
+            "english": "Let's dare to take the first step."
+        },
+        {
+            "french": "Le plus difficile, c'est de commencer.",
+            "english": "The hardest part is getting started."
+        },
+        {
+            "french": "Une fois lancé, tout devient plus facile.",
+            "english": "Once you get started, everything becomes easier."
+        },
+        {
+            "french": "L'essentiel, c'est de se lancer.",
+            "english": "The essential thing is to get started."
+        },
+        {
+            "french": "Arrêtons de tergiverser.",
+            "english": "Let's stop procrastinating."
+        },
+        {
+            "french": "Il est temps d'agir.",
+            "english": "It's time to act."
+        },
+        {
+            "french": "Les paroles, c'est bien, mais les actes, c'est mieux.",
+            "english": "Words are good, but actions are better."
+        },
+        {
+            "french": "Il faut joindre le geste à la parole.",
+            "english": "You have to walk the talk."
+        },
+        {
+            "french": "Les actes valent mieux que les mots.",
+            "english": "Actions speak louder than words."
+        },
+        {
+            "french": "Ce qui compte, c'est ce qu'on fait, pas ce qu'on dit.",
+            "english": "What counts is what we do, not what we say."
+        },
+        {
+            "french": "Montrons l'exemple.",
+            "english": "Let's set an example."
+        },
+        {
+            "french": "Soyons le changement que nous voulons voir.",
+            "english": "Let's be the change we want to see."
+        },
+        {
+            "french": "Tout commence par soi-même.",
+            "english": "Everything starts with oneself."
+        },
+        {
+            "french": "Si chacun fait sa part, nous y arriverons.",
+            "english": "If everyone does their part, we'll get there."
+        },
+        {
+            "french": "Ensemble, nous sommes plus forts.",
+            "english": "Together, we're stronger."
+        },
+        {
+            "french": "L'union fait la force.",
+            "english": "Unity is strength."
+        },
+        {
+            "french": "Seul on va plus vite, ensemble on va plus loin.",
+            "english": "Alone we go faster, together we go further."
+        },
+        {
+            "french": "La solidarité est notre plus grande force.",
+            "english": "Solidarity is our greatest strength."
+        },
+        {
+            "french": "Il faut s'entraider.",
+            "english": "We must help each other."
+        },
+        {
+            "french": "Tendons-nous la main les uns aux autres.",
+            "english": "Let's lend each other a helping hand."
+        },
+        {
+            "french": "Personne ne devrait rester seul face aux difficultés.",
+            "english": "No one should face difficulties alone."
+        },
+        {
+            "french": "Nous sommes tous dans le même bateau.",
+            "english": "We're all in the same boat."
+        },
+        {
+            "french": "Nous partageons tous les mêmes défis.",
+            "english": "We all share the same challenges."
+        },
+        {
+            "french": "Ce qui nous unit est plus fort que ce qui nous divise.",
+            "english": "What unites us is stronger than what divides us."
+        },
+        {
+            "french": "Au-delà de nos différences, nous sommes humains.",
+            "english": "Beyond our differences, we are human."
+        }
+    ]
+}

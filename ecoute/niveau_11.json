@@ -1,0 +1,1355 @@
+{
+    "level": "Niveau 11",
+    "cefr": "C2.1",
+    "description": "Maîtrise - Expression sans effort",
+    "phrases": [
+        {
+            "french": "L'auteur manie la langue avec une dextérité qui confine au prodige.",
+            "english": "The author handles the language with a dexterity bordering on the prodigious."
+        },
+        {
+            "french": "Cette prose ciselée révèle un orfèvre du verbe.",
+            "english": "This chiseled prose reveals a goldsmith of the word."
+        },
+        {
+            "french": "La plume de l'écrivain distille une poésie âpre et incandescente.",
+            "english": "The writer's pen distills a harsh and incandescent poetry."
+        },
+        {
+            "french": "Son style, d'une élégance désuète, exhale un parfum d'ancien régime.",
+            "english": "His style, of outdated elegance, exudes a perfume of the ancien régime."
+        },
+        {
+            "french": "Cette écriture protéiforme se joue des contraintes génériques.",
+            "english": "This protean writing plays with generic constraints."
+        },
+        {
+            "french": "L'auteur jongle avec les registres de langue en virtuose accompli.",
+            "english": "The author juggles language registers as an accomplished virtuoso."
+        },
+        {
+            "french": "Cette prose lapidaire atteint une densité aphoristique saisissante.",
+            "english": "This lapidary prose attains a striking aphoristic density."
+        },
+        {
+            "french": "L'économie verbale confine à l'ellipse télégraphique.",
+            "english": "The verbal economy borders on telegraphic ellipsis."
+        },
+        {
+            "french": "Ce style haché, syncopé, épouse le rythme haletant de la conscience.",
+            "english": "This choppy, syncopated style follows the breathless rhythm of consciousness."
+        },
+        {
+            "french": "L'écriture fragmentaire mime l'éclatement de la subjectivité moderne.",
+            "english": "Fragmentary writing mimics the shattering of modern subjectivity."
+        },
+        {
+            "french": "Cette prose fluviale charrie des alluvions de sens multiples.",
+            "english": "This fluvial prose carries alluvium of multiple meanings."
+        },
+        {
+            "french": "Le flux de conscience s'écoule en un fleuve ininterrompu de perceptions.",
+            "english": "The stream of consciousness flows in an uninterrupted river of perceptions."
+        },
+        {
+            "french": "Cette écriture hypotactique déploie des périodes cicéroniennes.",
+            "english": "This hypotactic writing deploys Ciceronian periods."
+        },
+        {
+            "french": "La phrase serpente en méandres syntaxiques d'une complexité byzantine.",
+            "english": "The sentence snakes in syntactic meanders of Byzantine complexity."
+        },
+        {
+            "french": "L'architecture périodique révèle une maîtrise consommée de la période oratoire.",
+            "english": "The periodic architecture reveals a consummate mastery of oratorical period."
+        },
+        {
+            "french": "Cette phraséologie ampoulée fleure bon la rhétorique classique.",
+            "english": "This pompous phraseology smacks of classical rhetoric."
+        },
+        {
+            "french": "L'emphase cicéronienne se teinte d'une ironie voltairienne.",
+            "english": "Ciceronian emphasis is tinged with Voltairean irony."
+        },
+        {
+            "french": "Le pastiche virtuose brouille les frontières entre hommage et parodie.",
+            "english": "The virtuoso pastiche blurs boundaries between homage and parody."
+        },
+        {
+            "french": "Cette récriture palimpsestueuse superpose les strates textuelles.",
+            "english": "This palimpsestuous rewriting superimposes textual strata."
+        },
+        {
+            "french": "L'intertextualité foisonnante tisse une toile d'araignée de références.",
+            "english": "Abundant intertextuality weaves a spider's web of references."
+        },
+        {
+            "french": "Cette mosaïque citationnelle relève du centon postmoderne.",
+            "english": "This citational mosaic constitutes a postmodern cento."
+        },
+        {
+            "french": "Le texte se nourrit de ses prédécesseurs par capillarité intertextuelle.",
+            "english": "The text feeds on its predecessors through intertextual capillarity."
+        },
+        {
+            "french": "Cette porosité assumée fait du texte un carrefour de discours.",
+            "english": "This assumed porosity makes the text a crossroads of discourses."
+        },
+        {
+            "french": "L'œuvre se situe à la confluence de multiples traditions littéraires.",
+            "english": "The work sits at the confluence of multiple literary traditions."
+        },
+        {
+            "french": "Ce syncrétisme esthétique brasse les influences les plus hétéroclites.",
+            "english": "This aesthetic syncretism mixes the most heteroclite influences."
+        },
+        {
+            "french": "L'hybridation générique procède d'une logique de décloisonnement.",
+            "english": "Generic hybridization proceeds from a logic of decompartmentalization."
+        },
+        {
+            "french": "Cette poétique de la contamination transgresse allègrement les catégories établies.",
+            "english": "This poetics of contamination cheerfully transgresses established categories."
+        },
+        {
+            "french": "Le brouillage taxonomique défie toute assignation générique univoque.",
+            "english": "Taxonomic blurring defies any univocal generic assignment."
+        },
+        {
+            "french": "Cette indétermination revendiquée participe d'une esthétique de l'indécidable.",
+            "english": "This claimed indeterminacy participates in an aesthetic of the undecidable."
+        },
+        {
+            "french": "L'œuvre se dérobe à toute tentative de classification rigide.",
+            "english": "The work eludes any attempt at rigid classification."
+        },
+        {
+            "french": "Cette fluidité générique épouse les contours d'une modernité liquide.",
+            "english": "This generic fluidity follows the contours of liquid modernity."
+        },
+        {
+            "french": "L'auteur se plaît à dynamiter les conventions narratives.",
+            "english": "The author delights in dynamiting narrative conventions."
+        },
+        {
+            "french": "Cette déconstruction ludique subvertit les codes du récit traditionnel.",
+            "english": "This playful deconstruction subverts the codes of traditional narrative."
+        },
+        {
+            "french": "Le narrateur malicieux ne cesse de mettre en abyme sa propre entreprise.",
+            "english": "The mischievous narrator constantly puts his own enterprise en abyme."
+        },
+        {
+            "french": "Cette autoréflexivité vertigineuse fait du roman un miroir tendu à lui-même.",
+            "english": "This vertiginous auto-reflexivity makes the novel a mirror held to itself."
+        },
+        {
+            "french": "L'œuvre s'interroge sur ses propres modalités d'existence.",
+            "english": "The work questions its own modalities of existence."
+        },
+        {
+            "french": "Cette spécularité constitutive institue le texte en objet problématique.",
+            "english": "This constitutive specularity institutes the text as problematic object."
+        },
+        {
+            "french": "Le roman se pense lui-même en se faisant.",
+            "english": "The novel thinks itself as it is made."
+        },
+        {
+            "french": "Cette réflexivité généralisée confère à l'œuvre une densité métacritique.",
+            "english": "This generalized reflexivity confers a metacritical density on the work."
+        },
+        {
+            "french": "Le commentaire métatextuel irrigue la trame narrative.",
+            "english": "Metatextual commentary irrigates the narrative fabric."
+        },
+        {
+            "french": "Cette glose permanente redouble l'histoire qu'elle raconte.",
+            "english": "This permanent gloss doubles the story it tells."
+        },
+        {
+            "french": "L'auteur ne craint pas de malmener son lecteur.",
+            "english": "The author doesn't fear manhandling his reader."
+        },
+        {
+            "french": "Cette brutalité narrative bouscule les attentes conventionnelles.",
+            "english": "This narrative brutality upends conventional expectations."
+        },
+        {
+            "french": "Le texte se complaît dans une opacité délibérément rébarbative.",
+            "english": "The text revels in a deliberately rebarbative opacity."
+        },
+        {
+            "french": "Cette hermétisme assumé filtre impitoyablement son lectorat.",
+            "english": "This assumed hermeticism ruthlessly filters its readership."
+        },
+        {
+            "french": "L'exigence du texte requiert un lecteur aguerri aux expérimentations formelles.",
+            "english": "The text's demands require a reader seasoned in formal experimentations."
+        },
+        {
+            "french": "Cette littérature d'avant-garde ne s'adresse qu'aux happy few.",
+            "english": "This avant-garde literature addresses only the happy few."
+        },
+        {
+            "french": "L'élitisme revendiqué assume pleinement sa rupture avec le grand public.",
+            "english": "The claimed elitism fully assumes its break with the general public."
+        },
+        {
+            "french": "Cette coupure avec le lectorat populaire procède d'un choix esthétique radical.",
+            "english": "This separation from popular readership proceeds from a radical aesthetic choice."
+        },
+        {
+            "french": "L'auteur cultive une marginalité hautaine.",
+            "english": "The author cultivates a haughty marginality."
+        },
+        {
+            "french": "Cette posture aristocratique ne craint pas de se marginaliser.",
+            "english": "This aristocratic posture doesn't fear marginalizing itself."
+        },
+        {
+            "french": "Le dandysme littéraire affiche un mépris souverain pour la vulgarité ambiante.",
+            "english": "Literary dandyism displays sovereign contempt for ambient vulgarity."
+        },
+        {
+            "french": "Cette morgue patricienne relève d'une stratégie de distinction.",
+            "english": "This patrician haughtiness constitutes a strategy of distinction."
+        },
+        {
+            "french": "L'auteur se drape dans une dignité offensée face à la médiocrité triomphante.",
+            "english": "The author drapes himself in offended dignity facing triumphant mediocrity."
+        },
+        {
+            "french": "Cette grandeur dans la défaite caractérise l'artiste maudit.",
+            "english": "This grandeur in defeat characterizes the cursed artist."
+        },
+        {
+            "french": "Le créateur incompris cultive sa légende de génie méconnu.",
+            "english": "The misunderstood creator cultivates his legend of unrecognized genius."
+        },
+        {
+            "french": "Cette mythologie romantique de l'artiste inspire encore bien des vocations.",
+            "english": "This romantic mythology of the artist still inspires many vocations."
+        },
+        {
+            "french": "Le mythe prométhéen du créateur habite l'imaginaire collectif.",
+            "english": "The Promethean myth of the creator inhabits the collective imaginary."
+        },
+        {
+            "french": "Cette figure titanesque du démiurge fascine et effraie.",
+            "english": "This titanic figure of the demiurge fascinates and frightens."
+        },
+        {
+            "french": "L'hubris créatrice côtoie dangereusement la folie.",
+            "english": "Creative hubris dangerously neighbors madness."
+        },
+        {
+            "french": "Cette démesure constitutive caractérise le génie dans sa splendeur et sa malédiction.",
+            "english": "This constitutive excess characterizes genius in its splendor and curse."
+        },
+        {
+            "french": "Le prix à payer pour l'excellence se mesure en souffrances indicibles.",
+            "english": "The price to pay for excellence is measured in unspeakable sufferings."
+        },
+        {
+            "french": "Cette martyrologie de l'artiste nourrit une hagiographie douteuse.",
+            "english": "This martyrology of the artist feeds a dubious hagiography."
+        },
+        {
+            "french": "La sanctification posthume compense mal l'indifférence du vivant.",
+            "english": "Posthumous sanctification poorly compensates for indifference during life."
+        },
+        {
+            "french": "Cette glorification tardive arrive trop tard pour réparer l'injustice.",
+            "english": "This belated glorification comes too late to repair injustice."
+        },
+        {
+            "french": "Le génie ne connaît sa vraie mesure qu'à titre posthume.",
+            "english": "Genius knows its true measure only posthumously."
+        },
+        {
+            "french": "Cette reconnaissance différée illustre l'aveuglement des contemporains.",
+            "english": "This deferred recognition illustrates the blindness of contemporaries."
+        },
+        {
+            "french": "Nul n'est prophète en son pays, dit l'adage.",
+            "english": "No one is a prophet in their own country, says the adage."
+        },
+        {
+            "french": "L'incompréhension du présent garantit parfois la gloire future.",
+            "english": "Present incomprehension sometimes guarantees future glory."
+        },
+        {
+            "french": "Ce renversement posthume des valeurs rachète l'ostracisme initial.",
+            "english": "This posthumous reversal of values redeems initial ostracism."
+        },
+        {
+            "french": "Le temps, juge suprême, rétablit chacun dans son droit.",
+            "english": "Time, supreme judge, restores everyone to their rights."
+        },
+        {
+            "french": "Cette justice immanente de l'histoire apaise les rancœurs.",
+            "english": "This immanent justice of history appeases rancors."
+        },
+        {
+            "french": "La postérité se charge de départager les vrais artistes des imposteurs.",
+            "english": "Posterity takes charge of separating true artists from impostors."
+        },
+        {
+            "french": "Ce tribunal de l'histoire prononce des verdicts sans appel.",
+            "english": "This tribunal of history pronounces verdicts without appeal."
+        },
+        {
+            "french": "L'épreuve du temps constitue le crible ultime.",
+            "english": "The test of time constitutes the ultimate sieve."
+        },
+        {
+            "french": "Seules les œuvres majeures résistent à l'érosion temporelle.",
+            "english": "Only major works resist temporal erosion."
+        },
+        {
+            "french": "Cette pérennité témoigne d'une valeur intrinsèque.",
+            "english": "This perenniality testifies to intrinsic value."
+        },
+        {
+            "french": "L'universalité transcende les contingences historiques.",
+            "english": "Universality transcends historical contingencies."
+        },
+        {
+            "french": "Les chefs-d'œuvre parlent à toutes les époques.",
+            "english": "Masterpieces speak to all eras."
+        },
+        {
+            "french": "Cette intemporalité fonde la notion même de classique.",
+            "english": "This timelessness founds the very notion of classic."
+        },
+        {
+            "french": "Le classique, c'est ce qui ne cesse de parler au présent.",
+            "english": "The classic is what never ceases to speak to the present."
+        },
+        {
+            "french": "Cette actualité perpétuelle défie l'obsolescence.",
+            "english": "This perpetual relevance defies obsolescence."
+        },
+        {
+            "french": "L'œuvre classique se renouvelle à chaque lecture.",
+            "english": "The classic work renews itself with each reading."
+        },
+        {
+            "french": "Cette richesse inépuisable garantit sa survie.",
+            "english": "This inexhaustible richness guarantees its survival."
+        },
+        {
+            "french": "La polysémie constitutive autorise des appropriations successives.",
+            "english": "Constitutive polysemy authorizes successive appropriations."
+        },
+        {
+            "french": "Chaque époque réinvente l'œuvre à son image.",
+            "english": "Each era reinvents the work in its image."
+        },
+        {
+            "french": "Cette plasticité herméneutique assure la pérennité.",
+            "english": "This hermeneutic plasticity ensures perenniality."
+        },
+        {
+            "french": "Le texte se prête à une multiplicité de lectures légitimes.",
+            "english": "The text lends itself to a multiplicity of legitimate readings."
+        },
+        {
+            "french": "Cette ouverture sémantique enrichit le patrimoine commun.",
+            "english": "This semantic openness enriches the common heritage."
+        },
+        {
+            "french": "L'œuvre appartient à tous et à personne.",
+            "english": "The work belongs to everyone and no one."
+        },
+        {
+            "french": "Cette communalisation progressive intègre l'œuvre au patrimoine universel.",
+            "english": "This progressive communalization integrates the work into universal heritage."
+        },
+        {
+            "french": "Le chef-d'œuvre devient bien commun de l'humanité.",
+            "english": "The masterpiece becomes common property of humanity."
+        },
+        {
+            "french": "Cette universalisation transcende les frontières nationales.",
+            "english": "This universalization transcends national borders."
+        },
+        {
+            "french": "L'œuvre majeure parle une langue compréhensible par tous.",
+            "english": "The major work speaks a language understandable by all."
+        },
+        {
+            "french": "Cette espéranto esthétique franchit les barrières culturelles.",
+            "english": "This aesthetic Esperanto crosses cultural barriers."
+        },
+        {
+            "french": "L'art véritable communique par-delà les différences.",
+            "english": "True art communicates beyond differences."
+        },
+        {
+            "french": "Cette transversalité atteste de l'universalité du sentiment esthétique.",
+            "english": "This transversality attests to the universality of aesthetic sentiment."
+        },
+        {
+            "french": "Le beau parle au cœur de tous les hommes.",
+            "english": "Beauty speaks to the heart of all people."
+        },
+        {
+            "french": "Cette communion esthétique fonde une fraternité humaine.",
+            "english": "This aesthetic communion founds a human fraternity."
+        },
+        {
+            "french": "L'expérience du beau rapproche les êtres.",
+            "english": "The experience of beauty brings beings together."
+        },
+        {
+            "french": "Cette communauté de sentiment transcende les clivages.",
+            "english": "This community of sentiment transcends divisions."
+        },
+        {
+            "french": "L'art constitue un langage universel de l'humanité.",
+            "english": "Art constitutes a universal language of humanity."
+        },
+        {
+            "french": "Cette koinè artistique unit les peuples dans une commune admiration.",
+            "english": "This artistic koinè unites peoples in common admiration."
+        },
+        {
+            "french": "La contemplation esthétique élève l'âme.",
+            "english": "Aesthetic contemplation elevates the soul."
+        },
+        {
+            "french": "Cette élévation spirituelle arrache à la trivialité quotidienne.",
+            "english": "This spiritual elevation tears away from daily triviality."
+        },
+        {
+            "french": "L'expérience du sublime transporte hors de soi.",
+            "english": "The experience of the sublime transports outside oneself."
+        },
+        {
+            "french": "Cette ekstasis esthétique procure une jouissance indicible.",
+            "english": "This aesthetic ekstasis provides ineffable jouissance."
+        },
+        {
+            "french": "Le ravissement face au beau confine au mystique.",
+            "english": "Rapture before beauty borders on the mystical."
+        },
+        {
+            "french": "Cette expérience quasi religieuse transcende le profane.",
+            "english": "This quasi-religious experience transcends the profane."
+        },
+        {
+            "french": "L'art se substitue au sacré dans un monde désenchanté.",
+            "english": "Art substitutes for the sacred in a disenchanted world."
+        },
+        {
+            "french": "Cette religion de l'art comble le vide laissé par le retrait du divin.",
+            "english": "This religion of art fills the void left by divine withdrawal."
+        },
+        {
+            "french": "L'esthétique devient l'ultime refuge du spirituel.",
+            "english": "Aesthetics becomes the ultimate refuge of the spiritual."
+        },
+        {
+            "french": "Cette sacralisation de l'art témoigne d'une quête de transcendance.",
+            "english": "This sacralization of art testifies to a quest for transcendence."
+        },
+        {
+            "french": "Le besoin d'absolu se reporte sur l'œuvre d'art.",
+            "english": "The need for the absolute transfers to the work of art."
+        },
+        {
+            "french": "Cette idolâtrie esthétique révèle une soif d'infini.",
+            "english": "This aesthetic idolatry reveals a thirst for infinity."
+        },
+        {
+            "french": "L'art offre un ersatz de salut dans un monde sans dieu.",
+            "english": "Art offers an ersatz salvation in a godless world."
+        },
+        {
+            "french": "Cette sotériologie laïque se substitue aux religions défaillantes.",
+            "english": "This secular soteriology substitutes for failing religions."
+        },
+        {
+            "french": "Le culte de l'art procure un réconfort face à l'absurde.",
+            "english": "The cult of art provides comfort facing the absurd."
+        },
+        {
+            "french": "Cette consolation esthétique apaise l'angoisse existentielle.",
+            "english": "This aesthetic consolation soothes existential anguish."
+        },
+        {
+            "french": "L'œuvre d'art conjure le néant.",
+            "english": "The work of art wards off nothingness."
+        },
+        {
+            "french": "Cette victoire sur la mort par la création nourrit l'orgueil prométhéen.",
+            "english": "This victory over death through creation feeds Promethean pride."
+        },
+        {
+            "french": "L'artiste défie la finitude par l'œuvre impérissable.",
+            "english": "The artist defies finitude through imperishable work."
+        },
+        {
+            "french": "Cette immortalité par procuration compense la brièveté de l'existence.",
+            "english": "This immortality by proxy compensates for life's brevity."
+        },
+        {
+            "french": "Le désir de pérennité anime tout créateur.",
+            "english": "The desire for perenniality animates every creator."
+        },
+        {
+            "french": "Cette soif d'éternité transcende les contingences mortelles.",
+            "english": "This thirst for eternity transcends mortal contingencies."
+        },
+        {
+            "french": "L'œuvre survit à son auteur comme un enfant posthume.",
+            "english": "The work survives its author like a posthumous child."
+        },
+        {
+            "french": "Cette paternité symbolique assure une forme de survie.",
+            "english": "This symbolic paternity ensures a form of survival."
+        },
+        {
+            "french": "L'artiste se prolonge dans son œuvre au-delà du trépas.",
+            "english": "The artist extends into his work beyond death."
+        },
+        {
+            "french": "Cette projection de soi dans la création défie la mort.",
+            "english": "This projection of self into creation defies death."
+        },
+        {
+            "french": "L'œuvre constitue une trace indélébile du passage terrestre.",
+            "english": "The work constitutes an indelible trace of earthly passage."
+        },
+        {
+            "french": "Cette empreinte pérenne témoigne d'une existence singulière.",
+            "english": "This perennial imprint testifies to a singular existence."
+        },
+        {
+            "french": "Le créateur grave son nom au fronton de l'éternité.",
+            "english": "The creator engraves his name on the pediment of eternity."
+        },
+        {
+            "french": "Cette inscription dans la durée arrache à l'oubli.",
+            "english": "This inscription in duration tears from oblivion."
+        },
+        {
+            "french": "La mémoire collective préserve les noms illustres.",
+            "english": "Collective memory preserves illustrious names."
+        },
+        {
+            "french": "Cette gloire posthume rachète l'anonymat de la multitude.",
+            "english": "This posthumous glory redeems the anonymity of the multitude."
+        },
+        {
+            "french": "L'immortalité nominale distingue les grands hommes du commun des mortels.",
+            "english": "Nominal immortality distinguishes great men from common mortals."
+        },
+        {
+            "french": "Cette aristocratie méritocratique repose sur le talent.",
+            "english": "This meritocratic aristocracy rests on talent."
+        },
+        {
+            "french": "Le génie seul fonde une noblesse véritable.",
+            "english": "Genius alone founds true nobility."
+        },
+        {
+            "french": "Cette élite naturelle supplante les hiérarchies artificielles.",
+            "english": "This natural elite supplants artificial hierarchies."
+        },
+        {
+            "french": "Le mérite intrinsèque l'emporte sur les privilèges de naissance.",
+            "english": "Intrinsic merit prevails over privileges of birth."
+        },
+        {
+            "french": "Cette méritocratie artistique consacre les talents authentiques.",
+            "english": "This artistic meritocracy consecrates authentic talents."
+        },
+        {
+            "french": "Le tribunal de la postérité ne s'en laisse pas conter.",
+            "english": "The tribunal of posterity is not easily fooled."
+        },
+        {
+            "french": "Cette instance impartiale juge sur pièces.",
+            "english": "This impartial instance judges on evidence."
+        },
+        {
+            "french": "L'histoire fait le tri entre la paille et le grain.",
+            "english": "History separates the chaff from the grain."
+        },
+        {
+            "french": "Ce crible impitoyable ne laisse passer que l'essentiel.",
+            "english": "This pitiless sieve lets through only the essential."
+        },
+        {
+            "french": "La durée décante les valeurs éphémères des valeurs durables.",
+            "english": "Duration decants ephemeral values from durable values."
+        },
+        {
+            "french": "Cette alchimie temporelle transmue le plomb en or.",
+            "english": "This temporal alchemy transmutes lead into gold."
+        },
+        {
+            "french": "Le temps, grand ordonnateur, met chacun à sa juste place.",
+            "english": "Time, great organizer, puts everyone in their proper place."
+        },
+        {
+            "french": "Cette rectification historique rétablit la vérité des hiérarchies.",
+            "english": "This historical rectification reestablishes the truth of hierarchies."
+        },
+        {
+            "french": "L'erreur des contemporains se dissipe à la lumière de l'histoire.",
+            "english": "The error of contemporaries dissipates in history's light."
+        },
+        {
+            "french": "Cette révision perpétuelle affine le jugement critique.",
+            "english": "This perpetual revision refines critical judgment."
+        },
+        {
+            "french": "Le canon se constitue par sédimentation progressive.",
+            "english": "The canon is constituted by progressive sedimentation."
+        },
+        {
+            "french": "Cette cristallisation lente fixe le patrimoine commun.",
+            "english": "This slow crystallization fixes common heritage."
+        },
+        {
+            "french": "La tradition se forge dans la longue durée.",
+            "english": "Tradition is forged in the long duration."
+        },
+        {
+            "french": "Ce processus séculaire échappe aux modes passagères.",
+            "english": "This secular process escapes passing fashions."
+        },
+        {
+            "french": "Les engouements éphémères ne résistent pas à l'épreuve du temps.",
+            "english": "Ephemeral crazes don't resist the test of time."
+        },
+        {
+            "french": "Cette volatilité du goût contraste avec la permanence des valeurs.",
+            "english": "This volatility of taste contrasts with the permanence of values."
+        },
+        {
+            "french": "Le fugace se dissipe, l'essentiel demeure.",
+            "english": "The fleeting dissipates, the essential remains."
+        },
+        {
+            "french": "Cette dialectique de l'éphémère et du durable structure l'histoire culturelle.",
+            "english": "This dialectic of ephemeral and durable structures cultural history."
+        },
+        {
+            "french": "La mode passe, le style reste, disait Coco Chanel.",
+            "english": "Fashion passes, style remains, said Coco Chanel."
+        },
+        {
+            "french": "Cette formule lapidaire résume une vérité profonde.",
+            "english": "This lapidary formula summarizes a profound truth."
+        },
+        {
+            "french": "L'accessoire se fane, l'essentiel perdure.",
+            "english": "The accessory fades, the essential endures."
+        },
+        {
+            "french": "Cette pérennité du fondamental transcende les variations superficielles.",
+            "english": "This perenniality of the fundamental transcends superficial variations."
+        },
+        {
+            "french": "Le socle demeure quand l'écume se dissipe.",
+            "english": "The foundation remains when the foam dissipates."
+        },
+        {
+            "french": "Cette permanence dans le changement définit la tradition vivante.",
+            "english": "This permanence in change defines living tradition."
+        },
+        {
+            "french": "La fidélité créatrice renouvelle sans trahir.",
+            "english": "Creative fidelity renews without betraying."
+        },
+        {
+            "french": "Cette dialéctique de la continuité et de la rupture anime toute création.",
+            "english": "This dialectic of continuity and rupture animates all creation."
+        },
+        {
+            "french": "L'innovation authentique s'enracine dans l'héritage.",
+            "english": "Authentic innovation is rooted in heritage."
+        },
+        {
+            "french": "Cette filiation revendiquée n'exclut pas la transgression.",
+            "english": "This claimed filiation doesn't exclude transgression."
+        },
+        {
+            "french": "Le respect des anciens autorise la prise de liberté.",
+            "english": "Respect for elders authorizes taking liberties."
+        },
+        {
+            "french": "Cette piété filiale permet le parricide symbolique.",
+            "english": "This filial piety allows symbolic parricide."
+        },
+        {
+            "french": "Il faut tuer le père pour advenir à soi-même.",
+            "english": "One must kill the father to come into oneself."
+        },
+        {
+            "french": "Cette mise à mort rituelle libère la création.",
+            "english": "This ritual killing frees creation."
+        },
+        {
+            "french": "L'émancipation passe par la rupture avec les modèles.",
+            "english": "Emancipation passes through break with models."
+        },
+        {
+            "french": "Cette table rase ouvre l'espace du possible.",
+            "english": "This clean slate opens the space of the possible."
+        },
+        {
+            "french": "Le geste iconoclaste affranchit des tutelles.",
+            "english": "The iconoclastic gesture frees from tutelage."
+        },
+        {
+            "french": "Cette destruction créatrice régénère les formes épuisées.",
+            "english": "This creative destruction regenerates exhausted forms."
+        },
+        {
+            "french": "L'avant-garde fait table rase du passé.",
+            "english": "The avant-garde makes a clean slate of the past."
+        },
+        {
+            "french": "Cette radicalité assumée caractérise les révolutions esthétiques.",
+            "english": "This assumed radicality characterizes aesthetic revolutions."
+        },
+        {
+            "french": "Le nouveau s'édifie sur les ruines de l'ancien.",
+            "english": "The new is built on the ruins of the old."
+        },
+        {
+            "french": "Cette dialectique destructrice-constructrice anime l'histoire de l'art.",
+            "english": "This destructive-constructive dialectic animates art history."
+        },
+        {
+            "french": "Chaque génération réinvente les codes à son aune.",
+            "english": "Each generation reinvents codes by its own measure."
+        },
+        {
+            "french": "Cette appropriation créatrice métamorphose l'héritage.",
+            "english": "This creative appropriation metamorphoses heritage."
+        },
+        {
+            "french": "La tradition se perpétue par sa transformation continuelle.",
+            "english": "Tradition perpetuates itself through its continual transformation."
+        },
+        {
+            "french": "Ce paradoxe apparent réconcilie conservation et innovation.",
+            "english": "This apparent paradox reconciles conservation and innovation."
+        },
+        {
+            "french": "L'identité se maintient dans la métamorphose.",
+            "english": "Identity maintains itself in metamorphosis."
+        },
+        {
+            "french": "Cette permanence dynamique caractérise toute culture vivante.",
+            "english": "This dynamic permanence characterizes all living culture."
+        },
+        {
+            "french": "La fossilisation guette toute tradition sclérosée.",
+            "english": "Fossilization threatens all sclerosed tradition."
+        },
+        {
+            "french": "Cette pétrification mortifère stérilise la création.",
+            "english": "This mortifying petrification sterilizes creation."
+        },
+        {
+            "french": "L'académisme tue l'esprit au profit de la lettre.",
+            "english": "Academicism kills spirit in favor of letter."
+        },
+        {
+            "french": "Cette ritualisation vide les formes de leur substance.",
+            "english": "This ritualization empties forms of their substance."
+        },
+        {
+            "french": "Le formalisme desséchant évacue la vie.",
+            "english": "Desiccating formalism evacuates life."
+        },
+        {
+            "french": "Cette momification transforme l'organisme vivant en cadavre.",
+            "english": "This mummification transforms living organism into corpse."
+        },
+        {
+            "french": "L'embaumement culturel préserve l'apparence en tuant l'essence.",
+            "english": "Cultural embalming preserves appearance while killing essence."
+        },
+        {
+            "french": "Cette conservation mortifère fige dans le formol.",
+            "english": "This deadly conservation freezes in formaldehyde."
+        },
+        {
+            "french": "Le musée devient nécropole de formes défuntes.",
+            "english": "The museum becomes necropolis of defunct forms."
+        },
+        {
+            "french": "Cette muséification sépare l'art de la vie.",
+            "english": "This museumification separates art from life."
+        },
+        {
+            "french": "L'œuvre exilée dans le temple perd sa force subversive.",
+            "english": "The work exiled in the temple loses its subversive force."
+        },
+        {
+            "french": "Cette domestication neutralise la charge explosive.",
+            "english": "This domestication neutralizes the explosive charge."
+        },
+        {
+            "french": "L'institutionnalisation châtre l'œuvre révolutionnaire.",
+            "english": "Institutionalization castrates revolutionary work."
+        },
+        {
+            "french": "Cette récupération par le système annihile la portée critique.",
+            "english": "This recuperation by the system annihilates critical scope."
+        },
+        {
+            "french": "Le scandale d'hier devient aujourd'hui pièce de musée.",
+            "english": "Yesterday's scandal becomes today's museum piece."
+        },
+        {
+            "french": "Cette banalisation dévitalise l'audace initiale.",
+            "english": "This trivialization devitalizes initial audacity."
+        },
+        {
+            "french": "L'usure du temps émousse le tranchant de la provocation.",
+            "english": "The wear of time blunts the edge of provocation."
+        },
+        {
+            "french": "Cette patine historique adoucit les aspérités.",
+            "english": "This historical patina softens asperities."
+        },
+        {
+            "french": "Le recul temporel pacifie les œuvres rebelles.",
+            "english": "Temporal distance pacifies rebellious works."
+        },
+        {
+            "french": "Cette domestication rétrospective apprivoise les fauves.",
+            "english": "This retrospective domestication tames wild beasts."
+        },
+        {
+            "french": "Le classicisme posthume consacre ce qui fut maudit.",
+            "english": "Posthumous classicism consecrates what was cursed."
+        },
+        {
+            "french": "Cette canonisation tardive blanchi les réputations sulfureuses.",
+            "english": "This belated canonization whitewashes sulfurous reputations."
+        },
+        {
+            "french": "L'artiste maudit devient figure tutélaire.",
+            "english": "The cursed artist becomes tutelary figure."
+        },
+        {
+            "french": "Cette réhabilitation transforme le paria en icône.",
+            "english": "This rehabilitation transforms pariah into icon."
+        },
+        {
+            "french": "Le marginal d'hier s'impose en maître vénéré.",
+            "english": "Yesterday's marginal becomes venerated master."
+        },
+        {
+            "french": "Cette inversion des valeurs illustre les caprices de la postérité.",
+            "english": "This inversion of values illustrates posterity's whims."
+        },
+        {
+            "french": "Le jugement de l'histoire renverse les hiérarchies établies.",
+            "english": "History's judgment overturns established hierarchies."
+        },
+        {
+            "french": "Cette révolution posthume bouleverse les réputations.",
+            "english": "This posthumous revolution upends reputations."
+        },
+        {
+            "french": "Les gloires d'un jour sombrent dans l'oubli.",
+            "english": "One-day glories sink into oblivion."
+        },
+        {
+            "french": "Cette éclipse rétrospective sanctionne l'imposture.",
+            "english": "This retrospective eclipse sanctions imposture."
+        },
+        {
+            "french": "Le temps démêle le vrai du faux, l'or du clinquant.",
+            "english": "Time untangles true from false, gold from tinsel."
+        },
+        {
+            "french": "Cette décantation sépare le bon grain de l'ivraie.",
+            "english": "This decantation separates wheat from chaff."
+        },
+        {
+            "french": "L'épreuve temporelle révèle la véritable valeur.",
+            "english": "The temporal ordeal reveals true value."
+        },
+        {
+            "french": "Cette vérification a posteriori confirme ou infirme les intuitions premières.",
+            "english": "This a posteriori verification confirms or invalidates first intuitions."
+        },
+        {
+            "french": "Le recul historique permet d'évaluer sereinement.",
+            "english": "Historical distance allows serene evaluation."
+        },
+        {
+            "french": "Cette objectivation progressive dépasse les passions du moment.",
+            "english": "This progressive objectivation surpasses passions of the moment."
+        },
+        {
+            "french": "L'histoire refroidit les ardeurs partisanes.",
+            "english": "History cools partisan ardors."
+        },
+        {
+            "french": "Cette neutralisation axiologique permet le jugement esthétique.",
+            "english": "This axiological neutralization allows aesthetic judgment."
+        },
+        {
+            "french": "Le désintéressement kantien caractérise l'attitude esthétique.",
+            "english": "Kantian disinterestedness characterizes aesthetic attitude."
+        },
+        {
+            "french": "Cette suspension du jugement pratique ouvre à la contemplation pure.",
+            "english": "This suspension of practical judgment opens to pure contemplation."
+        },
+        {
+            "french": "L'expérience esthétique requiert une mise entre parenthèses des enjeux.",
+            "english": "Aesthetic experience requires bracketing stakes."
+        },
+        {
+            "french": "Cette epochè phénoménologique institue le regard esthétique.",
+            "english": "This phenomenological epochè institutes aesthetic gaze."
+        },
+        {
+            "french": "La beauté se dévoile à qui sait faire taire ses intérêts.",
+            "english": "Beauty unveils itself to those who know how to silence their interests."
+        },
+        {
+            "french": "Cette ascèse perceptive purifie le regard.",
+            "english": "This perceptual asceticism purifies the gaze."
+        },
+        {
+            "french": "L'œil innocent voit ce que l'œil intéressé manque.",
+            "english": "The innocent eye sees what the interested eye misses."
+        },
+        {
+            "french": "Cette naïveté retrouvée ouvre les portes de la perception.",
+            "english": "This rediscovered naivety opens the doors of perception."
+        },
+        {
+            "french": "Le regard lavé des préjugés accède à l'essence.",
+            "english": "The gaze washed of prejudices accedes to essence."
+        },
+        {
+            "french": "Cette réduction phénoménologique dégage l'être des apparences.",
+            "english": "This phenomenological reduction releases being from appearances."
+        },
+        {
+            "french": "L'intuition eidétique saisit la forme pure.",
+            "english": "Eidetic intuition grasps pure form."
+        },
+        {
+            "french": "Cette vision essentielle transcende l'empirique.",
+            "english": "This essential vision transcends the empirical."
+        },
+        {
+            "french": "Le sensible devient transparent à l'intelligible.",
+            "english": "The sensible becomes transparent to the intelligible."
+        },
+        {
+            "french": "Cette transfiguration platonicienne élève du particulier à l'universel.",
+            "english": "This Platonic transfiguration elevates from particular to universal."
+        },
+        {
+            "french": "L'œuvre singulière incarne l'Idée éternelle.",
+            "english": "The singular work incarnates eternal Idea."
+        },
+        {
+            "french": "Cette participation au monde des Formes fonde l'expérience du Beau.",
+            "english": "This participation in world of Forms founds experience of Beauty."
+        },
+        {
+            "french": "Le Beau en soi se manifeste dans ses incarnations multiples.",
+            "english": "Beauty in itself manifests in its multiple incarnations."
+        },
+        {
+            "french": "Cette épiphanie sensible de l'Idée caractérise l'œuvre d'art.",
+            "english": "This sensible epiphany of Idea characterizes work of art."
+        },
+        {
+            "french": "L'artiste médiateur fait descendre l'intelligible dans le sensible.",
+            "english": "The mediating artist brings down intelligible into sensible."
+        },
+        {
+            "french": "Cette fonction démiurgique rapproche le créateur du divin.",
+            "english": "This demiurgic function brings creator close to divine."
+        },
+        {
+            "french": "L'acte créateur participe de la Création cosmique.",
+            "english": "The creative act participates in cosmic Creation."
+        },
+        {
+            "french": "Cette mimesis divine élève l'homme au rang de co-créateur.",
+            "english": "This divine mimesis elevates man to rank of co-creator."
+        },
+        {
+            "french": "L'artiste prolonge l'œuvre du Créateur.",
+            "english": "The artist extends Creator's work."
+        },
+        {
+            "french": "Cette collaboration avec le divin sacralise la création.",
+            "english": "This collaboration with divine sacralizes creation."
+        },
+        {
+            "french": "L'inspiration vient d'en haut comme une grâce.",
+            "english": "Inspiration comes from above like grace."
+        },
+        {
+            "french": "Cette effusion de l'Esprit transfigure l'artiste possédé.",
+            "english": "This effusion of Spirit transfigures possessed artist."
+        },
+        {
+            "french": "L'enthousiasme platonicien habite le poète inspiré.",
+            "english": "Platonic enthusiasm inhabits inspired poet."
+        },
+        {
+            "french": "Cette possession divine dessaisit le créateur de lui-même.",
+            "english": "This divine possession dispossesses creator of himself."
+        },
+        {
+            "french": "L'artiste n'est que le médium d'une force qui le dépasse.",
+            "english": "The artist is only medium of force that surpasses him."
+        },
+        {
+            "french": "Cette passivité créatrice abandonne la volonté au souffle inspirateur.",
+            "english": "This creative passivity abandons will to inspiring breath."
+        },
+        {
+            "french": "L'œuvre s'impose à l'artiste plutôt qu'elle n'émane de lui.",
+            "english": "The work imposes itself on artist rather than emanating from him."
+        },
+        {
+            "french": "Cette hétéronomie créatrice relativise l'idée d'auteur.",
+            "english": "This creative heteronomy relativizes idea of author."
+        },
+        {
+            "french": "L'écrivain n'est qu'un scribe au service de forces obscures.",
+            "english": "The writer is only scribe in service of obscure forces."
+        },
+        {
+            "french": "Cette dépossession auctoriale fait de l'artiste un passeur.",
+            "english": "This authorial dispossession makes artist a ferryman."
+        },
+        {
+            "french": "Le créateur sert d'intermédiaire entre l'invisible et le visible.",
+            "english": "The creator serves as intermediary between invisible and visible."
+        },
+        {
+            "french": "Cette médiation shamanique révèle l'artiste en voyant.",
+            "english": "This shamanic mediation reveals artist as seer."
+        },
+        {
+            "french": "Le poète voit ce que les autres ne voient pas.",
+            "english": "The poet sees what others don't see."
+        },
+        {
+            "french": "Cette clairvoyance exceptionnelle fonde le charisme artistique.",
+            "english": "This exceptional clairvoyance founds artistic charisma."
+        },
+        {
+            "french": "Le don de seconde vue distingue le génie du commun.",
+            "english": "The gift of second sight distinguishes genius from common."
+        },
+        {
+            "french": "Cette perception augmentée perce le voile des apparences.",
+            "english": "This augmented perception pierces veil of appearances."
+        },
+        {
+            "french": "L'artiste déchiffre les hiéroglyphes du réel.",
+            "english": "The artist deciphers hieroglyphics of the real."
+        },
+        {
+            "french": "Cette herméneutique du sensible révèle le sens caché.",
+            "english": "This hermeneutics of sensible reveals hidden meaning."
+        },
+        {
+            "french": "Le monde parle à qui sait l'entendre.",
+            "english": "The world speaks to those who know how to hear it."
+        },
+        {
+            "french": "Cette écoute attentive capte les chuchotements de l'Être.",
+            "english": "This attentive listening captures whispers of Being."
+        },
+        {
+            "french": "L'artiste se met à l'écoute du silence primordial.",
+            "english": "The artist listens to primordial silence."
+        },
+        {
+            "french": "Cette attention flottante laisse advenir la révélation.",
+            "english": "This floating attention lets revelation happen."
+        },
+        {
+            "french": "L'œuvre surgit de l'ouverture à l'inattendu.",
+            "english": "The work surges from openness to unexpected."
+        },
+        {
+            "french": "Cette disponibilité créatrice accueille l'imprévisible.",
+            "english": "This creative availability welcomes unpredictable."
+        },
+        {
+            "french": "Le lâcher-prise libère les forces de l'inconscient.",
+            "english": "Letting go frees forces of unconscious."
+        },
+        {
+            "french": "Cette plongée dans les profondeurs régénère la création.",
+            "english": "This dive into depths regenerates creation."
+        },
+        {
+            "french": "L'artiste puise aux sources vives de l'imaginaire.",
+            "english": "The artist draws from living sources of imaginary."
+        },
+        {
+            "french": "Cette irrigation par les nappes phréatiques du psychisme féconde l'œuvre.",
+            "english": "This irrigation by psyche's groundwater fertilizes work."
+        },
+        {
+            "french": "La création jaillit des profondeurs comme une source.",
+            "english": "Creation springs from depths like a source."
+        },
+        {
+            "french": "Cette spontanéité essentielle échappe à la volonté.",
+            "english": "This essential spontaneity escapes will."
+        },
+        {
+            "french": "L'œuvre advient plutôt qu'elle ne se fabrique.",
+            "english": "The work happens rather than being fabricated."
+        },
+        {
+            "french": "Cette émergence organique se distingue de la production mécanique.",
+            "english": "This organic emergence distinguishes itself from mechanical production."
+        },
+        {
+            "french": "L'art véritable croît comme un organisme vivant.",
+            "english": "True art grows like living organism."
+        },
+        {
+            "french": "Cette métaphore végétale saisit le mystère de la création.",
+            "english": "This vegetal metaphor grasps mystery of creation."
+        },
+        {
+            "french": "L'œuvre germe, croît, fleurit selon sa loi propre.",
+            "english": "The work germinates, grows, blooms according to its own law."
+        },
+        {
+            "french": "Cette autonomie vivante échappe au contrôle total.",
+            "english": "This living autonomy escapes total control."
+        },
+        {
+            "french": "L'artiste accompagne plus qu'il ne dirige.",
+            "english": "The artist accompanies more than directs."
+        },
+        {
+            "french": "Cette sage-femme aide à l'accouchement sans forcer.",
+            "english": "This midwife aids birthing without forcing."
+        },
+        {
+            "french": "L'œuvre naît d'elle-même quand les conditions sont réunies.",
+            "english": "The work is born by itself when conditions are met."
+        },
+        {
+            "french": "Cette maïeutique artistique révèle ce qui était en puissance.",
+            "english": "This artistic maieutics reveals what was in potentiality."
+        },
+        {
+            "french": "Le créateur actualise des virtualités latentes.",
+            "english": "The creator actualizes latent virtualities."
+        },
+        {
+            "french": "Cette révélation progressive dévoile l'essence cachée.",
+            "english": "This progressive revelation unveils hidden essence."
+        },
+        {
+            "french": "L'œuvre préexiste à sa manifestation sensible.",
+            "english": "The work preexists its sensible manifestation."
+        },
+        {
+            "french": "Cette préformation idéale attend son incarnation matérielle.",
+            "english": "This ideal preformation awaits its material incarnation."
+        },
+        {
+            "french": "L'artiste ne crée pas ex nihilo mais sculpte dans le possible.",
+            "english": "The artist doesn't create ex nihilo but sculpts in the possible."
+        },
+        {
+            "french": "Cette extraction de la forme du chaos primordial rappelle la cosmogonie.",
+            "english": "This extraction of form from primordial chaos recalls cosmogony."
+        },
+        {
+            "french": "Le créateur ordonne le désordre, structure l'informe.",
+            "english": "The creator orders disorder, structures formless."
+        },
+        {
+            "french": "Cette victoire du cosmos sur le chaos caractérise l'acte créateur.",
+            "english": "This victory of cosmos over chaos characterizes creative act."
+        },
+        {
+            "french": "L'œuvre impose sa forme à la matière récalcitrante.",
+            "english": "The work imposes its form on recalcitrant matter."
+        },
+        {
+            "french": "Cette lutte titanesque oppose l'esprit et la matière.",
+            "english": "This titanic struggle opposes spirit and matter."
+        },
+        {
+            "french": "Le combat de l'artiste rejoue la lutte primordiale.",
+            "english": "The artist's combat replays primordial struggle."
+        },
+        {
+            "french": "Cette reprise du geste démiurgique élève l'homme au divin.",
+            "english": "This resumption of demiurgic gesture elevates man to divine."
+        },
+        {
+            "french": "Par la création, l'humain participe de la puissance divine.",
+            "english": "Through creation, human participates in divine power."
+        },
+        {
+            "french": "Cette divinisation par l'art réalise l'aspiration prométhéenne.",
+            "english": "This divinization through art realizes Promethean aspiration."
+        },
+        {
+            "french": "L'artiste arrache le feu sacré pour en faire don à l'humanité.",
+            "english": "The artist seizes sacred fire to make gift of it to humanity."
+        },
+        {
+            "french": "Ce vol prométhéen encourt la colère des dieux jaloux.",
+            "english": "This Promethean theft incurs wrath of jealous gods."
+        },
+        {
+            "french": "L'hubris créatrice attire le châtiment céleste.",
+            "english": "Creative hubris attracts celestial punishment."
+        },
+        {
+            "french": "Cette transgression nécessaire fonde la grandeur tragique de l'artiste.",
+            "english": "This necessary transgression founds tragic grandeur of artist."
+        },
+        {
+            "french": "Le prix de la création se paie en souffrances infinies.",
+            "english": "The price of creation is paid in infinite sufferings."
+        },
+        {
+            "french": "Cette passion christique rachète l'humanité par le sacrifice.",
+            "english": "This Christic passion redeems humanity through sacrifice."
+        },
+        {
+            "french": "L'artiste expie pour tous en assumant la condition humaine dans sa radicalité.",
+            "english": "The artist expiates for all by assuming human condition in its radicality."
+        },
+        {
+            "french": "Cette fonction sotériologique de l'art transcende l'esthétique.",
+            "english": "This soteriological function of art transcends aesthetics."
+        },
+        {
+            "french": "Par-delà le beau, l'œuvre vise le salut.",
+            "english": "Beyond beauty, work aims at salvation."
+        },
+        {
+            "french": "Cette ambition métaphysique dépasse l'ordre du sensible.",
+            "english": "This metaphysical ambition surpasses order of sensible."
+        },
+        {
+            "french": "L'art devient chemin vers l'absolu.",
+            "english": "Art becomes path toward absolute."
+        },
+        {
+            "french": "Cette quête spirituelle transfigure la matérialité de l'œuvre.",
+            "english": "This spiritual quest transfigures materiality of work."
+        },
+        {
+            "french": "Le visible s'efface devant l'invisible qu'il révèle.",
+            "english": "The visible fades before invisible it reveals."
+        },
+        {
+            "french": "Cette transparence du signifiant au signifié caractérise le symbole.",
+            "english": "This transparency of signifier to signified characterizes symbol."
+        },
+        {
+            "french": "L'œuvre symbolique pointe au-delà d'elle-même.",
+            "english": "Symbolic work points beyond itself."
+        },
+        {
+            "french": "Cette transcendance immanente définit le mystère artistique.",
+            "english": "This immanent transcendence defines artistic mystery."
+        },
+        {
+            "french": "L'art donne à voir l'invisible, à entendre l'inaudible.",
+            "english": "Art makes visible the invisible, audible the inaudible."
+        },
+        {
+            "french": "Cette révélation de l'occulte constitue la mission première de l'artiste.",
+            "english": "This revelation of occult constitutes artist's primary mission."
+        },
+        {
+            "french": "Dévoiler le voilé, manifester le latent, telle est la vocation artistique.",
+            "english": "To unveil the veiled, manifest the latent, such is artistic vocation."
+        },
+        {
+            "french": "Cette maïeutique de l'être arrache le réel à son mutisme.",
+            "english": "This maieutics of being tears real from its muteness."
+        },
+        {
+            "french": "L'artiste fait parler ce qui se tait, chanter ce qui demeure muet.",
+            "english": "The artist makes speak what is silent, sing what remains mute."
+        },
+        {
+            "french": "Cette ventriloquie cosmique prête voix à l'univers aphasique.",
+            "english": "This cosmic ventriloquism lends voice to aphasic universe."
+        },
+        {
+            "french": "Par la grâce de l'art, le monde accède au langage.",
+            "english": "Through grace of art, world accedes to language."
+        },
+        {
+            "french": "Cette nomination primordiale répète le geste adamique.",
+            "english": "This primordial nomination repeats Adamic gesture."
+        },
+        {
+            "french": "Nommer, c'est faire advenir à l'existence.",
+            "english": "To name is to bring into existence."
+        },
+        {
+            "french": "Le verbe créateur engendre ce qu'il nomme.",
+            "english": "Creative verb engenders what it names."
+        },
+        {
+            "french": "Cette performativité radicale du langage poétique fait l'artiste démiurge.",
+            "english": "This radical performativity of poetic language makes artist demiurge."
+        },
+        {
+            "french": "Dire, c'est créer; nommer, c'est enfanter.",
+            "english": "To speak is to create; to name is to give birth."
+        },
+        {
+            "french": "Cette puissance génésique du verbe fonde la magie de l'art.",
+            "english": "This genesic power of verb founds magic of art."
+        },
+        {
+            "french": "L'incantation poétique convoque les présences absentes.",
+            "english": "Poetic incantation summons absent presences."
+        },
+        {
+            "french": "Cette invocation shamanique fait surgir l'être du néant.",
+            "english": "This shamanic invocation makes being surge from nothingness."
+        },
+        {
+            "french": "L'artiste arrache des lambeaux d'éternité au flux du temps.",
+            "english": "The artist tears shreds of eternity from flow of time."
+        },
+        {
+            "french": "Cette victoire sur le devenir fixe l'éphémère dans le marbre de l'œuvre.",
+            "english": "This victory over becoming fixes ephemeral in marble of work."
+        },
+        {
+            "french": "Ainsi l'art défie-t-il la mort en immortalisant l'instant.",
+            "english": "Thus art defies death by immortalizing instant."
+        }
+    ]
+}

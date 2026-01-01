@@ -1,0 +1,1235 @@
+{
+    "level": "Niveau 4",
+    "cefr": "A2.2",
+    "description": "Élémentaire - Descriptions et expériences personnelles",
+    "phrases": [
+        {
+            "french": "Je te présente mon ami Marc.",
+            "english": "Let me introduce you to my friend Marc."
+        },
+        {
+            "french": "Enchanté de faire votre connaissance.",
+            "english": "Pleased to make your acquaintance."
+        },
+        {
+            "french": "Comment est-ce que vous vous êtes rencontrés?",
+            "english": "How did you meet?"
+        },
+        {
+            "french": "Nous nous sommes rencontrés à l'université.",
+            "english": "We met at university."
+        },
+        {
+            "french": "Nous nous connaissons depuis longtemps.",
+            "english": "We've known each other for a long time."
+        },
+        {
+            "french": "C'est un de mes meilleurs amis.",
+            "english": "He's one of my best friends."
+        },
+        {
+            "french": "Nous avons beaucoup de choses en commun.",
+            "english": "We have a lot in common."
+        },
+        {
+            "french": "Il a le même âge que moi.",
+            "english": "He's the same age as me."
+        },
+        {
+            "french": "Elle ressemble à sa mère.",
+            "english": "She looks like her mother."
+        },
+        {
+            "french": "Il est très différent de son frère.",
+            "english": "He's very different from his brother."
+        },
+        {
+            "french": "Ma sœur est plus jeune que moi.",
+            "english": "My sister is younger than me."
+        },
+        {
+            "french": "Mon frère est l'aîné de la famille.",
+            "english": "My brother is the oldest in the family."
+        },
+        {
+            "french": "Je suis le cadet.",
+            "english": "I'm the youngest."
+        },
+        {
+            "french": "J'ai deux frères et une sœur.",
+            "english": "I have two brothers and one sister."
+        },
+        {
+            "french": "Nous sommes une famille nombreuse.",
+            "english": "We're a large family."
+        },
+        {
+            "french": "Je suis enfant unique.",
+            "english": "I'm an only child."
+        },
+        {
+            "french": "Mes parents sont divorcés.",
+            "english": "My parents are divorced."
+        },
+        {
+            "french": "Mon père s'est remarié.",
+            "english": "My father remarried."
+        },
+        {
+            "french": "J'ai une belle-mère très gentille.",
+            "english": "I have a very nice stepmother."
+        },
+        {
+            "french": "Mes grands-parents habitent à la campagne.",
+            "english": "My grandparents live in the countryside."
+        },
+        {
+            "french": "Je leur rends visite régulièrement.",
+            "english": "I visit them regularly."
+        },
+        {
+            "french": "Je vais chez eux tous les mois.",
+            "english": "I go to their place every month."
+        },
+        {
+            "french": "Ils sont très importants pour moi.",
+            "english": "They're very important to me."
+        },
+        {
+            "french": "J'adore passer du temps avec eux.",
+            "english": "I love spending time with them."
+        },
+        {
+            "french": "Ma grand-mère fait la meilleure tarte aux pommes.",
+            "english": "My grandmother makes the best apple pie."
+        },
+        {
+            "french": "Mon grand-père me raconte toujours des histoires intéressantes.",
+            "english": "My grandfather always tells me interesting stories."
+        },
+        {
+            "french": "Il était agriculteur avant.",
+            "english": "He was a farmer before."
+        },
+        {
+            "french": "Maintenant il est à la retraite.",
+            "english": "Now he's retired."
+        },
+        {
+            "french": "Ils ont fêté leurs noces d'or l'année dernière.",
+            "english": "They celebrated their golden wedding anniversary last year."
+        },
+        {
+            "french": "Ils sont mariés depuis cinquante ans.",
+            "english": "They've been married for fifty years."
+        },
+        {
+            "french": "C'est un bel exemple pour moi.",
+            "english": "It's a good example for me."
+        },
+        {
+            "french": "Comment décririez-vous votre personnalité?",
+            "english": "How would you describe your personality?"
+        },
+        {
+            "french": "Je suis plutôt optimiste.",
+            "english": "I'm rather optimistic."
+        },
+        {
+            "french": "Je suis quelqu'un de sociable.",
+            "english": "I'm a sociable person."
+        },
+        {
+            "french": "Je suis assez réservé.",
+            "english": "I'm quite reserved."
+        },
+        {
+            "french": "Je ne suis pas très bavard.",
+            "english": "I'm not very talkative."
+        },
+        {
+            "french": "J'ai tendance à être perfectionniste.",
+            "english": "I tend to be a perfectionist."
+        },
+        {
+            "french": "Je suis un peu têtu parfois.",
+            "english": "I'm a bit stubborn sometimes."
+        },
+        {
+            "french": "Mais je suis aussi très patient.",
+            "english": "But I'm also very patient."
+        },
+        {
+            "french": "Je suis de nature calme.",
+            "english": "I'm calm by nature."
+        },
+        {
+            "french": "Je ne me mets pas facilement en colère.",
+            "english": "I don't get angry easily."
+        },
+        {
+            "french": "Je suis plutôt sensible.",
+            "english": "I'm rather sensitive."
+        },
+        {
+            "french": "J'ai le sens de l'humour.",
+            "english": "I have a sense of humor."
+        },
+        {
+            "french": "J'aime faire rire les gens.",
+            "english": "I like to make people laugh."
+        },
+        {
+            "french": "Je suis très organisé.",
+            "english": "I'm very organized."
+        },
+        {
+            "french": "Je planifie toujours tout à l'avance.",
+            "english": "I always plan everything in advance."
+        },
+        {
+            "french": "J'aime que les choses soient bien rangées.",
+            "english": "I like things to be well organized."
+        },
+        {
+            "french": "Je ne supporte pas le désordre.",
+            "english": "I can't stand disorder."
+        },
+        {
+            "french": "Par contre, mon colocataire est très désordonné.",
+            "english": "On the other hand, my roommate is very messy."
+        },
+        {
+            "french": "Ça crée parfois des tensions.",
+            "english": "That sometimes creates tensions."
+        },
+        {
+            "french": "Mais on s'entend bien dans l'ensemble.",
+            "english": "But we get along well overall."
+        },
+        {
+            "french": "Qu'est-ce que tu as fait ce week-end?",
+            "english": "What did you do this weekend?"
+        },
+        {
+            "french": "Samedi matin, j'ai fait du sport.",
+            "english": "Saturday morning, I did sports."
+        },
+        {
+            "french": "L'après-midi, je suis allé faire des courses.",
+            "english": "In the afternoon, I went shopping."
+        },
+        {
+            "french": "Le soir, j'ai retrouvé des amis au restaurant.",
+            "english": "In the evening, I met friends at a restaurant."
+        },
+        {
+            "french": "On a passé une excellente soirée.",
+            "english": "We had an excellent evening."
+        },
+        {
+            "french": "Dimanche, j'ai fait la grasse matinée.",
+            "english": "Sunday, I slept in."
+        },
+        {
+            "french": "Je me suis levé vers 11 heures.",
+            "english": "I got up around 11 o'clock."
+        },
+        {
+            "french": "J'ai pris mon petit-déjeuner tranquillement.",
+            "english": "I had my breakfast leisurely."
+        },
+        {
+            "french": "Ensuite, j'ai lu le journal.",
+            "english": "Then I read the newspaper."
+        },
+        {
+            "french": "L'après-midi, je suis resté à la maison.",
+            "english": "In the afternoon, I stayed home."
+        },
+        {
+            "french": "J'ai regardé un film à la télé.",
+            "english": "I watched a movie on TV."
+        },
+        {
+            "french": "C'était un week-end très reposant.",
+            "english": "It was a very relaxing weekend."
+        },
+        {
+            "french": "J'en avais vraiment besoin.",
+            "english": "I really needed it."
+        },
+        {
+            "french": "La semaine avait été épuisante.",
+            "english": "The week had been exhausting."
+        },
+        {
+            "french": "J'avais beaucoup travaillé.",
+            "english": "I had worked a lot."
+        },
+        {
+            "french": "Heureusement, c'est bientôt les vacances.",
+            "english": "Fortunately, it's soon vacation time."
+        },
+        {
+            "french": "Qu'est-ce que tu feras pendant les vacances?",
+            "english": "What will you do during the vacation?"
+        },
+        {
+            "french": "Je partirai deux semaines en Italie.",
+            "english": "I'll leave for two weeks in Italy."
+        },
+        {
+            "french": "Je visiterai Rome et Florence.",
+            "english": "I'll visit Rome and Florence."
+        },
+        {
+            "french": "Ce sera la première fois que j'irai en Italie.",
+            "english": "It will be the first time I go to Italy."
+        },
+        {
+            "french": "J'ai très envie de voir le Colisée.",
+            "english": "I really want to see the Colosseum."
+        },
+        {
+            "french": "Et j'aimerais aussi visiter le Vatican.",
+            "english": "And I'd also like to visit the Vatican."
+        },
+        {
+            "french": "Je prendrai beaucoup de photos.",
+            "english": "I'll take lots of photos."
+        },
+        {
+            "french": "Je goûterai la cuisine italienne.",
+            "english": "I'll taste Italian cuisine."
+        },
+        {
+            "french": "J'espère que le temps sera beau.",
+            "english": "I hope the weather will be nice."
+        },
+        {
+            "french": "Normalement, il fait beau en juin.",
+            "english": "Normally, the weather is nice in June."
+        },
+        {
+            "french": "Tu voyages seul?",
+            "english": "Are you traveling alone?"
+        },
+        {
+            "french": "Non, je pars avec ma copine.",
+            "english": "No, I'm leaving with my girlfriend."
+        },
+        {
+            "french": "On se réjouit beaucoup de ce voyage.",
+            "english": "We're really looking forward to this trip."
+        },
+        {
+            "french": "On en parle depuis des mois.",
+            "english": "We've been talking about it for months."
+        },
+        {
+            "french": "On a enfin réussi à économiser assez d'argent.",
+            "english": "We finally managed to save enough money."
+        },
+        {
+            "french": "Ça fait longtemps qu'on planifie ce voyage.",
+            "english": "We've been planning this trip for a long time."
+        },
+        {
+            "french": "Raconte-moi tes dernières vacances.",
+            "english": "Tell me about your last vacation."
+        },
+        {
+            "french": "L'été dernier, je suis allé au Mexique.",
+            "english": "Last summer, I went to Mexico."
+        },
+        {
+            "french": "J'ai passé trois semaines sur la côte.",
+            "english": "I spent three weeks on the coast."
+        },
+        {
+            "french": "J'ai fait de la plongée sous-marine.",
+            "english": "I went scuba diving."
+        },
+        {
+            "french": "C'était vraiment magnifique.",
+            "english": "It was really magnificent."
+        },
+        {
+            "french": "J'ai vu des poissons tropicaux de toutes les couleurs.",
+            "english": "I saw tropical fish of all colors."
+        },
+        {
+            "french": "J'ai même vu des tortues de mer.",
+            "english": "I even saw sea turtles."
+        },
+        {
+            "french": "C'était une expérience inoubliable.",
+            "english": "It was an unforgettable experience."
+        },
+        {
+            "french": "J'ai aussi visité des ruines mayas.",
+            "english": "I also visited Mayan ruins."
+        },
+        {
+            "french": "L'histoire de cette civilisation est fascinante.",
+            "english": "The history of this civilization is fascinating."
+        },
+        {
+            "french": "J'ai appris beaucoup de choses.",
+            "english": "I learned a lot of things."
+        },
+        {
+            "french": "Je recommande vivement cette destination.",
+            "english": "I highly recommend this destination."
+        },
+        {
+            "french": "Ça a l'air super!",
+            "english": "That sounds great!"
+        },
+        {
+            "french": "Tu me donnes envie d'y aller.",
+            "english": "You're making me want to go there."
+        },
+        {
+            "french": "J'aimerais bien voyager plus souvent.",
+            "english": "I'd like to travel more often."
+        },
+        {
+            "french": "Malheureusement, je n'ai pas toujours le temps.",
+            "english": "Unfortunately, I don't always have the time."
+        },
+        {
+            "french": "Et puis, voyager coûte cher.",
+            "english": "And then, traveling is expensive."
+        },
+        {
+            "french": "C'est vrai, mais ça en vaut la peine.",
+            "english": "That's true, but it's worth it."
+        },
+        {
+            "french": "Voyager permet de découvrir d'autres cultures.",
+            "english": "Traveling allows you to discover other cultures."
+        },
+        {
+            "french": "On rencontre des gens intéressants.",
+            "english": "You meet interesting people."
+        },
+        {
+            "french": "On apprend à voir les choses différemment.",
+            "english": "You learn to see things differently."
+        },
+        {
+            "french": "Ça ouvre l'esprit.",
+            "english": "It opens the mind."
+        },
+        {
+            "french": "Je suis tout à fait d'accord.",
+            "english": "I completely agree."
+        },
+        {
+            "french": "Parle-moi de ta ville natale.",
+            "english": "Tell me about your hometown."
+        },
+        {
+            "french": "Je viens d'une petite ville de province.",
+            "english": "I come from a small provincial town."
+        },
+        {
+            "french": "C'est une ville très tranquille.",
+            "english": "It's a very quiet town."
+        },
+        {
+            "french": "Il n'y a pas beaucoup d'animation.",
+            "english": "There's not much going on."
+        },
+        {
+            "french": "Mais c'est agréable pour se reposer.",
+            "english": "But it's nice for resting."
+        },
+        {
+            "french": "Les gens sont très accueillants.",
+            "english": "People are very welcoming."
+        },
+        {
+            "french": "Tout le monde se connaît.",
+            "english": "Everyone knows each other."
+        },
+        {
+            "french": "C'est un peu comme une grande famille.",
+            "english": "It's a bit like a big family."
+        },
+        {
+            "french": "Il y a un joli parc au centre-ville.",
+            "english": "There's a nice park in the city center."
+        },
+        {
+            "french": "On peut y faire de belles promenades.",
+            "english": "You can take nice walks there."
+        },
+        {
+            "french": "Il y a aussi un vieux château.",
+            "english": "There's also an old castle."
+        },
+        {
+            "french": "Il date du Moyen Âge.",
+            "english": "It dates from the Middle Ages."
+        },
+        {
+            "french": "C'est un monument historique.",
+            "english": "It's a historical monument."
+        },
+        {
+            "french": "On peut le visiter en été.",
+            "english": "You can visit it in summer."
+        },
+        {
+            "french": "Ça attire quelques touristes.",
+            "english": "It attracts some tourists."
+        },
+        {
+            "french": "Mais en général, c'est très calme.",
+            "english": "But in general, it's very calm."
+        },
+        {
+            "french": "Tu préfères la ville ou la campagne?",
+            "english": "Do you prefer the city or the countryside?"
+        },
+        {
+            "french": "J'aime les deux, en fait.",
+            "english": "I like both, actually."
+        },
+        {
+            "french": "La ville, c'est dynamique.",
+            "english": "The city is dynamic."
+        },
+        {
+            "french": "Il y a toujours quelque chose à faire.",
+            "english": "There's always something to do."
+        },
+        {
+            "french": "On trouve facilement des restaurants, des cinémas.",
+            "english": "You easily find restaurants, cinemas."
+        },
+        {
+            "french": "Les transports en commun sont pratiques.",
+            "english": "Public transportation is practical."
+        },
+        {
+            "french": "Par contre, il y a beaucoup de bruit.",
+            "english": "On the other hand, there's a lot of noise."
+        },
+        {
+            "french": "Et la pollution aussi.",
+            "english": "And pollution too."
+        },
+        {
+            "french": "À la campagne, l'air est plus pur.",
+            "english": "In the countryside, the air is purer."
+        },
+        {
+            "french": "C'est plus calme, plus paisible.",
+            "english": "It's quieter, more peaceful."
+        },
+        {
+            "french": "On est plus proche de la nature.",
+            "english": "You're closer to nature."
+        },
+        {
+            "french": "Mais il y a moins d'activités.",
+            "english": "But there are fewer activities."
+        },
+        {
+            "french": "Et on a besoin d'une voiture.",
+            "english": "And you need a car."
+        },
+        {
+            "french": "L'idéal serait de vivre en banlieue.",
+            "english": "The ideal would be to live in the suburbs."
+        },
+        {
+            "french": "On profite du calme.",
+            "english": "You enjoy the calm."
+        },
+        {
+            "french": "Mais on n'est pas loin de la ville.",
+            "english": "But you're not far from the city."
+        },
+        {
+            "french": "C'est le meilleur des deux mondes.",
+            "english": "It's the best of both worlds."
+        },
+        {
+            "french": "Qu'est-ce que tu fais comme sport?",
+            "english": "What sport do you do?"
+        },
+        {
+            "french": "Je fais de la natation deux fois par semaine.",
+            "english": "I go swimming twice a week."
+        },
+        {
+            "french": "Je vais à la piscine le mardi et le jeudi.",
+            "english": "I go to the pool on Tuesdays and Thursdays."
+        },
+        {
+            "french": "J'essaie de nager au moins une heure.",
+            "english": "I try to swim at least one hour."
+        },
+        {
+            "french": "C'est bon pour la santé.",
+            "english": "It's good for health."
+        },
+        {
+            "french": "Et ça me détend.",
+            "english": "And it relaxes me."
+        },
+        {
+            "french": "Le week-end, je fais parfois du vélo.",
+            "english": "On weekends, I sometimes bike."
+        },
+        {
+            "french": "J'aime me promener en forêt.",
+            "english": "I like walking in the forest."
+        },
+        {
+            "french": "Quand j'étais plus jeune, je jouais au tennis.",
+            "english": "When I was younger, I played tennis."
+        },
+        {
+            "french": "Mais j'ai arrêté il y a quelques années.",
+            "english": "But I stopped a few years ago."
+        },
+        {
+            "french": "Je n'avais plus assez de temps.",
+            "english": "I no longer had enough time."
+        },
+        {
+            "french": "Maintenant, j'aimerais bien reprendre.",
+            "english": "Now, I'd like to start again."
+        },
+        {
+            "french": "Tu joues d'un instrument de musique?",
+            "english": "Do you play a musical instrument?"
+        },
+        {
+            "french": "Oui, je joue du piano.",
+            "english": "Yes, I play piano."
+        },
+        {
+            "french": "J'ai commencé quand j'avais sept ans.",
+            "english": "I started when I was seven years old."
+        },
+        {
+            "french": "Au début, je n'aimais pas trop.",
+            "english": "At first, I didn't like it much."
+        },
+        {
+            "french": "Mais avec le temps, c'est devenu une passion.",
+            "english": "But with time, it became a passion."
+        },
+        {
+            "french": "Maintenant, je ne peux plus m'en passer.",
+            "english": "Now, I can't do without it."
+        },
+        {
+            "french": "Je joue presque tous les jours.",
+            "english": "I play almost every day."
+        },
+        {
+            "french": "Ça me permet de me relaxer.",
+            "english": "It allows me to relax."
+        },
+        {
+            "french": "J'oublie tous mes soucis quand je joue.",
+            "english": "I forget all my worries when I play."
+        },
+        {
+            "french": "J'aimerais bien apprendre la guitare aussi.",
+            "english": "I'd like to learn guitar too."
+        },
+        {
+            "french": "Un jour peut-être.",
+            "english": "Maybe one day."
+        },
+        {
+            "french": "Qu'est-ce que tu aimes lire?",
+            "english": "What do you like to read?"
+        },
+        {
+            "french": "J'aime beaucoup les romans policiers.",
+            "english": "I really like detective novels."
+        },
+        {
+            "french": "J'adore les histoires avec du suspense.",
+            "english": "I love stories with suspense."
+        },
+        {
+            "french": "Mon auteur préféré est Agatha Christie.",
+            "english": "My favorite author is Agatha Christie."
+        },
+        {
+            "french": "J'ai lu presque tous ses livres.",
+            "english": "I've read almost all her books."
+        },
+        {
+            "french": "Je lis aussi des romans d'aventure.",
+            "english": "I also read adventure novels."
+        },
+        {
+            "french": "De temps en temps, je lis des biographies.",
+            "english": "From time to time, I read biographies."
+        },
+        {
+            "french": "J'aime découvrir la vie de personnages célèbres.",
+            "english": "I like discovering the lives of famous people."
+        },
+        {
+            "french": "Par contre, je ne lis jamais de poésie.",
+            "english": "On the other hand, I never read poetry."
+        },
+        {
+            "french": "Ce n'est pas trop mon genre.",
+            "english": "It's not really my thing."
+        },
+        {
+            "french": "En ce moment, je lis un livre passionnant.",
+            "english": "Right now, I'm reading a fascinating book."
+        },
+        {
+            "french": "Je te le prêterai quand j'aurai fini.",
+            "english": "I'll lend it to you when I've finished."
+        },
+        {
+            "french": "Tu regardes souvent la télévision?",
+            "english": "Do you often watch television?"
+        },
+        {
+            "french": "Pas vraiment.",
+            "english": "Not really."
+        },
+        {
+            "french": "Je n'ai pas beaucoup de temps.",
+            "english": "I don't have much time."
+        },
+        {
+            "french": "Le soir, je suis souvent fatigué.",
+            "english": "In the evening, I'm often tired."
+        },
+        {
+            "french": "Je préfère lire ou écouter de la musique.",
+            "english": "I prefer to read or listen to music."
+        },
+        {
+            "french": "Mais je regarde les informations.",
+            "english": "But I watch the news."
+        },
+        {
+            "french": "J'aime me tenir au courant de l'actualité.",
+            "english": "I like to keep up with current events."
+        },
+        {
+            "french": "Et le week-end, je regarde parfois un film.",
+            "english": "And on weekends, I sometimes watch a movie."
+        },
+        {
+            "french": "J'aime bien les films d'action.",
+            "english": "I like action movies."
+        },
+        {
+            "french": "Mais aussi les comédies.",
+            "english": "But also comedies."
+        },
+        {
+            "french": "Ça dépend de mon humeur.",
+            "english": "It depends on my mood."
+        },
+        {
+            "french": "Tu as vu le dernier film de ce réalisateur?",
+            "english": "Did you see the latest film by this director?"
+        },
+        {
+            "french": "Oui, je l'ai vu la semaine dernière.",
+            "english": "Yes, I saw it last week."
+        },
+        {
+            "french": "Je l'ai trouvé excellent.",
+            "english": "I found it excellent."
+        },
+        {
+            "french": "L'histoire était captivante.",
+            "english": "The story was captivating."
+        },
+        {
+            "french": "Les acteurs étaient formidables.",
+            "english": "The actors were wonderful."
+        },
+        {
+            "french": "La fin m'a vraiment surpris.",
+            "english": "The ending really surprised me."
+        },
+        {
+            "french": "Je ne m'y attendais pas du tout.",
+            "english": "I wasn't expecting it at all."
+        },
+        {
+            "french": "Je te le conseille vivement.",
+            "english": "I highly recommend it to you."
+        },
+        {
+            "french": "D'accord, j'irai le voir ce week-end.",
+            "english": "Okay, I'll go see it this weekend."
+        },
+        {
+            "french": "Qu'est-ce que tu fais dans la vie?",
+            "english": "What do you do for a living?"
+        },
+        {
+            "french": "Je travaille dans l'informatique.",
+            "english": "I work in IT."
+        },
+        {
+            "french": "Je suis développeur de logiciels.",
+            "english": "I'm a software developer."
+        },
+        {
+            "french": "Ça fait cinq ans que je fais ce métier.",
+            "english": "I've been doing this job for five years."
+        },
+        {
+            "french": "C'est un travail intéressant.",
+            "english": "It's an interesting job."
+        },
+        {
+            "french": "Mais parfois stressant.",
+            "english": "But sometimes stressful."
+        },
+        {
+            "french": "Il y a souvent des délais serrés.",
+            "english": "There are often tight deadlines."
+        },
+        {
+            "french": "On doit travailler vite et bien.",
+            "english": "We have to work fast and well."
+        },
+        {
+            "french": "Heureusement, j'aime ce que je fais.",
+            "english": "Fortunately, I like what I do."
+        },
+        {
+            "french": "Et mes collègues sont sympathiques.",
+            "english": "And my colleagues are nice."
+        },
+        {
+            "french": "L'ambiance de travail est bonne.",
+            "english": "The work atmosphere is good."
+        },
+        {
+            "french": "Comment est ton patron?",
+            "english": "What's your boss like?"
+        },
+        {
+            "french": "Il est plutôt compréhensif.",
+            "english": "He's rather understanding."
+        },
+        {
+            "french": "Il nous fait confiance.",
+            "english": "He trusts us."
+        },
+        {
+            "french": "Il nous laisse de l'autonomie.",
+            "english": "He gives us autonomy."
+        },
+        {
+            "french": "Mais il est aussi exigeant.",
+            "english": "But he's also demanding."
+        },
+        {
+            "french": "Il veut des résultats.",
+            "english": "He wants results."
+        },
+        {
+            "french": "C'est normal, c'est son rôle.",
+            "english": "It's normal, it's his role."
+        },
+        {
+            "french": "Dans l'ensemble, on s'entend bien.",
+            "english": "Overall, we get along well."
+        },
+        {
+            "french": "Tu travailles combien d'heures par semaine?",
+            "english": "How many hours a week do you work?"
+        },
+        {
+            "french": "Environ 40 heures.",
+            "english": "About 40 hours."
+        },
+        {
+            "french": "De 9h à 17h du lundi au vendredi.",
+            "english": "From 9 a.m. to 5 p.m. Monday to Friday."
+        },
+        {
+            "french": "Avec une heure de pause à midi.",
+            "english": "With a one-hour lunch break."
+        },
+        {
+            "french": "Parfois, je fais des heures supplémentaires.",
+            "english": "Sometimes, I work overtime."
+        },
+        {
+            "french": "Surtout quand on a un projet urgent.",
+            "english": "Especially when we have an urgent project."
+        },
+        {
+            "french": "Mais ce n'est pas trop souvent.",
+            "english": "But it's not too often."
+        },
+        {
+            "french": "J'essaie de garder un bon équilibre.",
+            "english": "I try to keep a good balance."
+        },
+        {
+            "french": "Entre le travail et la vie personnelle.",
+            "english": "Between work and personal life."
+        },
+        {
+            "french": "C'est important pour moi.",
+            "english": "It's important to me."
+        },
+        {
+            "french": "Tu as combien de jours de vacances?",
+            "english": "How many vacation days do you have?"
+        },
+        {
+            "french": "J'ai cinq semaines de congés par an.",
+            "english": "I have five weeks of vacation per year."
+        },
+        {
+            "french": "C'est assez généreux.",
+            "english": "It's quite generous."
+        },
+        {
+            "french": "Je prends généralement deux semaines en été.",
+            "english": "I generally take two weeks in summer."
+        },
+        {
+            "french": "Et une semaine à Noël.",
+            "english": "And one week at Christmas."
+        },
+        {
+            "french": "Le reste, je le prends au cours de l'année.",
+            "english": "The rest, I take during the year."
+        },
+        {
+            "french": "Un long week-end par-ci, par-là.",
+            "english": "A long weekend here and there."
+        },
+        {
+            "french": "Ça permet de faire une pause.",
+            "english": "It allows for a break."
+        },
+        {
+            "french": "Comment vas-tu au travail?",
+            "english": "How do you get to work?"
+        },
+        {
+            "french": "Je prends le métro.",
+            "english": "I take the subway."
+        },
+        {
+            "french": "C'est plus rapide que la voiture.",
+            "english": "It's faster than the car."
+        },
+        {
+            "french": "Surtout aux heures de pointe.",
+            "english": "Especially during rush hour."
+        },
+        {
+            "french": "Il y a souvent des embouteillages.",
+            "english": "There are often traffic jams."
+        },
+        {
+            "french": "Le trajet me prend environ 30 minutes.",
+            "english": "The commute takes me about 30 minutes."
+        },
+        {
+            "french": "C'est assez pratique.",
+            "english": "It's quite convenient."
+        },
+        {
+            "french": "J'en profite pour lire le journal.",
+            "english": "I take the opportunity to read the newspaper."
+        },
+        {
+            "french": "Ou pour écouter de la musique.",
+            "english": "Or to listen to music."
+        },
+        {
+            "french": "Ça rend le trajet plus agréable.",
+            "english": "It makes the commute more pleasant."
+        },
+        {
+            "french": "Qu'est-ce que tu as mangé à midi?",
+            "english": "What did you eat for lunch?"
+        },
+        {
+            "french": "J'ai pris une salade au restaurant d'entreprise.",
+            "english": "I had a salad at the company cafeteria."
+        },
+        {
+            "french": "C'était bon et léger.",
+            "english": "It was good and light."
+        },
+        {
+            "french": "Je mange souvent au restaurant d'entreprise.",
+            "english": "I often eat at the company cafeteria."
+        },
+        {
+            "french": "C'est pratique et pas cher.",
+            "english": "It's convenient and inexpensive."
+        },
+        {
+            "french": "Il y a beaucoup de choix.",
+            "english": "There's a lot of choice."
+        },
+        {
+            "french": "Parfois, j'apporte mon repas de la maison.",
+            "english": "Sometimes, I bring my meal from home."
+        },
+        {
+            "french": "Je prépare des sandwichs la veille.",
+            "english": "I prepare sandwiches the night before."
+        },
+        {
+            "french": "Comme ça, c'est encore plus économique.",
+            "english": "That way, it's even more economical."
+        },
+        {
+            "french": "Et puis, je sais exactement ce que je mange.",
+            "english": "And then, I know exactly what I'm eating."
+        },
+        {
+            "french": "Tu fais attention à ton alimentation?",
+            "english": "Do you watch what you eat?"
+        },
+        {
+            "french": "Oui, j'essaie de manger équilibré.",
+            "english": "Yes, I try to eat balanced meals."
+        },
+        {
+            "french": "Je mange beaucoup de fruits et légumes.",
+            "english": "I eat a lot of fruits and vegetables."
+        },
+        {
+            "french": "J'évite les aliments trop gras ou trop sucrés.",
+            "english": "I avoid foods that are too fatty or too sweet."
+        },
+        {
+            "french": "Je bois beaucoup d'eau.",
+            "english": "I drink a lot of water."
+        },
+        {
+            "french": "Par contre, j'aime bien me faire plaisir le week-end.",
+            "english": "On the other hand, I like to treat myself on weekends."
+        },
+        {
+            "french": "Je mange parfois au restaurant.",
+            "english": "I sometimes eat at restaurants."
+        },
+        {
+            "french": "Ou je me prépare un bon repas.",
+            "english": "Or I prepare myself a good meal."
+        },
+        {
+            "french": "Il faut savoir profiter de la vie.",
+            "english": "You have to know how to enjoy life."
+        },
+        {
+            "french": "Mais avec modération.",
+            "english": "But in moderation."
+        },
+        {
+            "french": "Tu as des allergies alimentaires?",
+            "english": "Do you have food allergies?"
+        },
+        {
+            "french": "Non, heureusement.",
+            "english": "No, fortunately."
+        },
+        {
+            "french": "Je peux manger de tout.",
+            "english": "I can eat everything."
+        },
+        {
+            "french": "Mais mon frère est allergique aux fruits de mer.",
+            "english": "But my brother is allergic to seafood."
+        },
+        {
+            "french": "Il doit faire très attention.",
+            "english": "He has to be very careful."
+        },
+        {
+            "french": "Il lit toujours les étiquettes.",
+            "english": "He always reads labels."
+        },
+        {
+            "french": "Au restaurant, il pose toujours des questions.",
+            "english": "At restaurants, he always asks questions."
+        },
+        {
+            "french": "Pour être sûr qu'il n'y a pas de fruits de mer.",
+            "english": "To be sure there's no seafood."
+        },
+        {
+            "french": "C'est assez contraignant.",
+            "english": "It's quite restrictive."
+        },
+        {
+            "french": "Mais on s'y habitue.",
+            "english": "But you get used to it."
+        },
+        {
+            "french": "Qu'est-ce que tu fais ce soir?",
+            "english": "What are you doing tonight?"
+        },
+        {
+            "french": "Je n'ai rien de prévu.",
+            "english": "I have nothing planned."
+        },
+        {
+            "french": "Probablement rester à la maison.",
+            "english": "Probably stay home."
+        },
+        {
+            "french": "Ça te dit de venir dîner?",
+            "english": "Would you like to come for dinner?"
+        },
+        {
+            "french": "Avec plaisir!",
+            "english": "With pleasure!"
+        },
+        {
+            "french": "Qu'est-ce que je peux apporter?",
+            "english": "What can I bring?"
+        },
+        {
+            "french": "Tu pourrais apporter le dessert.",
+            "english": "You could bring dessert."
+        },
+        {
+            "french": "D'accord, je vais acheter une tarte.",
+            "english": "Okay, I'll buy a pie."
+        },
+        {
+            "french": "À quelle heure je viens?",
+            "english": "What time should I come?"
+        },
+        {
+            "french": "Vers 19h30, ça te va?",
+            "english": "Around 7:30 p.m., does that work for you?"
+        },
+        {
+            "french": "Parfait, à ce soir alors!",
+            "english": "Perfect, see you tonight then!"
+        },
+        {
+            "french": "Merci pour l'invitation.",
+            "english": "Thanks for the invitation."
+        },
+        {
+            "french": "De rien, ça me fait plaisir.",
+            "english": "You're welcome, it's my pleasure."
+        },
+        {
+            "french": "On sera combien?",
+            "english": "How many will we be?"
+        },
+        {
+            "french": "Quatre en tout.",
+            "english": "Four in total."
+        },
+        {
+            "french": "J'ai aussi invité Sophie et Marc.",
+            "english": "I also invited Sophie and Marc."
+        },
+        {
+            "french": "Super, ça va être sympa!",
+            "english": "Great, it's going to be nice!"
+        },
+        {
+            "french": "Ça faisait longtemps qu'on ne s'était pas vus.",
+            "english": "It had been a long time since we'd seen each other."
+        },
+        {
+            "french": "Oui, depuis l'été dernier.",
+            "english": "Yes, since last summer."
+        },
+        {
+            "french": "Il faut qu'on se voie plus souvent.",
+            "english": "We need to see each other more often."
+        },
+        {
+            "french": "Tu as raison.",
+            "english": "You're right."
+        },
+        {
+            "french": "On pourrait organiser ça régulièrement.",
+            "english": "We could organize this regularly."
+        },
+        {
+            "french": "Une fois par mois, par exemple.",
+            "english": "Once a month, for example."
+        },
+        {
+            "french": "Excellente idée!",
+            "english": "Excellent idea!"
+        },
+        {
+            "french": "On en parle ce soir.",
+            "english": "We'll talk about it tonight."
+        },
+        {
+            "french": "D'accord, à tout à l'heure.",
+            "english": "Okay, see you later."
+        },
+        {
+            "french": "Je ne vais pas être à l'heure.",
+            "english": "I'm not going to be on time."
+        },
+        {
+            "french": "Ce n'est pas grave.",
+            "english": "It's not a problem."
+        },
+        {
+            "french": "Prends ton temps.",
+            "english": "Take your time."
+        },
+        {
+            "french": "J'ai raté mon bus.",
+            "english": "I missed my bus."
+        },
+        {
+            "french": "Le prochain passe dans 15 minutes.",
+            "english": "The next one comes in 15 minutes."
+        },
+        {
+            "french": "Pas de souci, on t'attend.",
+            "english": "No worries, we'll wait for you."
+        },
+        {
+            "french": "Désolé pour le retard.",
+            "english": "Sorry for being late."
+        },
+        {
+            "french": "Ne t'inquiète pas.",
+            "english": "Don't worry."
+        },
+        {
+            "french": "L'important, c'est que tu sois là.",
+            "english": "The important thing is that you're here."
+        },
+        {
+            "french": "Merci de votre compréhension.",
+            "english": "Thank you for your understanding."
+        }
+    ]
+}

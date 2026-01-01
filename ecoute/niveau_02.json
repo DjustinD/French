@@ -162,6 +162,1246 @@
         {
             "french": "La semaine prochaine.",
             "english": "Next week."
+        },
+        {
+            "french": "J'habite dans un appartement.",
+            "english": "I live in an apartment."
+        },
+        {
+            "french": "J'habite dans une maison.",
+            "english": "I live in a house."
+        },
+        {
+            "french": "J'habite avec mes parents.",
+            "english": "I live with my parents."
+        },
+        {
+            "french": "J'habite seul.",
+            "english": "I live alone. (masculine)"
+        },
+        {
+            "french": "J'habite seule.",
+            "english": "I live alone. (feminine)"
+        },
+        {
+            "french": "Mon appartement est petit.",
+            "english": "My apartment is small."
+        },
+        {
+            "french": "Ma maison est grande.",
+            "english": "My house is big."
+        },
+        {
+            "french": "J'ai deux chambres.",
+            "english": "I have two bedrooms."
+        },
+        {
+            "french": "Il y a une cuisine.",
+            "english": "There is a kitchen."
+        },
+        {
+            "french": "Il y a un jardin.",
+            "english": "There is a garden."
+        },
+        {
+            "french": "Je suis médecin.",
+            "english": "I am a doctor."
+        },
+        {
+            "french": "Je suis infirmier.",
+            "english": "I am a nurse. (masculine)"
+        },
+        {
+            "french": "Je suis infirmière.",
+            "english": "I am a nurse. (feminine)"
+        },
+        {
+            "french": "Je suis professeur.",
+            "english": "I am a teacher."
+        },
+        {
+            "french": "Je suis ingénieur.",
+            "english": "I am an engineer."
+        },
+        {
+            "french": "Je suis avocat.",
+            "english": "I am a lawyer. (masculine)"
+        },
+        {
+            "french": "Je suis avocate.",
+            "english": "I am a lawyer. (feminine)"
+        },
+        {
+            "french": "Je suis serveur.",
+            "english": "I am a waiter."
+        },
+        {
+            "french": "Je suis serveuse.",
+            "english": "I am a waitress."
+        },
+        {
+            "french": "Je suis cuisinier.",
+            "english": "I am a cook. (masculine)"
+        },
+        {
+            "french": "Je suis cuisinière.",
+            "english": "I am a cook. (feminine)"
+        },
+        {
+            "french": "Je travaille dans un hôpital.",
+            "english": "I work in a hospital."
+        },
+        {
+            "french": "Je travaille dans une école.",
+            "english": "I work in a school."
+        },
+        {
+            "french": "Je travaille dans un restaurant.",
+            "english": "I work in a restaurant."
+        },
+        {
+            "french": "Je travaille à temps plein.",
+            "english": "I work full-time."
+        },
+        {
+            "french": "Je travaille à temps partiel.",
+            "english": "I work part-time."
+        },
+        {
+            "french": "Je cherche un travail.",
+            "english": "I'm looking for a job."
+        },
+        {
+            "french": "Je suis au chômage.",
+            "english": "I am unemployed."
+        },
+        {
+            "french": "Je suis à la retraite.",
+            "english": "I am retired."
+        },
+        {
+            "french": "J'ai un frère.",
+            "english": "I have a brother."
+        },
+        {
+            "french": "J'ai une sœur.",
+            "english": "I have a sister."
+        },
+        {
+            "french": "J'ai deux frères.",
+            "english": "I have two brothers."
+        },
+        {
+            "french": "Je n'ai pas de frères.",
+            "english": "I don't have any brothers."
+        },
+        {
+            "french": "J'ai trois enfants.",
+            "english": "I have three children."
+        },
+        {
+            "french": "Mon frère a dix ans.",
+            "english": "My brother is ten years old."
+        },
+        {
+            "french": "Ma sœur est étudiante.",
+            "english": "My sister is a student."
+        },
+        {
+            "french": "Mes parents habitent à Paris.",
+            "english": "My parents live in Paris."
+        },
+        {
+            "french": "Mon père est professeur.",
+            "english": "My father is a teacher."
+        },
+        {
+            "french": "Ma mère est médecin.",
+            "english": "My mother is a doctor."
+        },
+        {
+            "french": "Je suis marié.",
+            "english": "I am married. (masculine)"
+        },
+        {
+            "french": "Je suis mariée.",
+            "english": "I am married. (feminine)"
+        },
+        {
+            "french": "Je suis célibataire.",
+            "english": "I am single."
+        },
+        {
+            "french": "Je suis divorcé.",
+            "english": "I am divorced. (masculine)"
+        },
+        {
+            "french": "J'ai un petit ami.",
+            "english": "I have a boyfriend."
+        },
+        {
+            "french": "J'ai une petite amie.",
+            "english": "I have a girlfriend."
+        },
+        {
+            "french": "Je voudrais un croissant.",
+            "english": "I would like a croissant."
+        },
+        {
+            "french": "Je voudrais une baguette.",
+            "english": "I would like a baguette."
+        },
+        {
+            "french": "Je prends un thé.",
+            "english": "I'll have a tea."
+        },
+        {
+            "french": "Je prends un café au lait.",
+            "english": "I'll have a coffee with milk."
+        },
+        {
+            "french": "Avec du sucre?",
+            "english": "With sugar?"
+        },
+        {
+            "french": "Sans sucre, merci.",
+            "english": "Without sugar, thank you."
+        },
+        {
+            "french": "Un verre de vin, s'il vous plaît.",
+            "english": "A glass of wine, please."
+        },
+        {
+            "french": "Une bouteille d'eau.",
+            "english": "A bottle of water."
+        },
+        {
+            "french": "Pour emporter.",
+            "english": "To go / Takeaway."
+        },
+        {
+            "french": "Pour manger sur place.",
+            "english": "To eat here / Dine in."
+        },
+        {
+            "french": "Le menu, s'il vous plaît.",
+            "english": "The menu, please."
+        },
+        {
+            "french": "Qu'est-ce que vous recommandez?",
+            "english": "What do you recommend?"
+        },
+        {
+            "french": "C'est quoi la spécialité?",
+            "english": "What's the specialty?"
+        },
+        {
+            "french": "Je suis végétarien.",
+            "english": "I am vegetarian. (masculine)"
+        },
+        {
+            "french": "Je suis végétarienne.",
+            "english": "I am vegetarian. (feminine)"
+        },
+        {
+            "french": "Je suis allergique aux noix.",
+            "english": "I am allergic to nuts."
+        },
+        {
+            "french": "C'est délicieux!",
+            "english": "It's delicious!"
+        },
+        {
+            "french": "C'est très bon!",
+            "english": "It's very good!"
+        },
+        {
+            "french": "Je n'aime pas ça.",
+            "english": "I don't like that."
+        },
+        {
+            "french": "Il fait quel temps?",
+            "english": "What's the weather like?"
+        },
+        {
+            "french": "Il fait beau aujourd'hui.",
+            "english": "It's nice today."
+        },
+        {
+            "french": "Il fait mauvais.",
+            "english": "The weather is bad."
+        },
+        {
+            "french": "Il y a du soleil.",
+            "english": "It's sunny."
+        },
+        {
+            "french": "Il y a des nuages.",
+            "english": "It's cloudy."
+        },
+        {
+            "french": "Il pleut beaucoup.",
+            "english": "It's raining a lot."
+        },
+        {
+            "french": "Il va pleuvoir.",
+            "english": "It's going to rain."
+        },
+        {
+            "french": "Il neige.",
+            "english": "It's snowing."
+        },
+        {
+            "french": "Il fait froid ce matin.",
+            "english": "It's cold this morning."
+        },
+        {
+            "french": "Il fait chaud cet après-midi.",
+            "english": "It's hot this afternoon."
+        },
+        {
+            "french": "Quelle est la température?",
+            "english": "What's the temperature?"
+        },
+        {
+            "french": "Il fait vingt degrés.",
+            "english": "It's twenty degrees."
+        },
+        {
+            "french": "Je vais au travail.",
+            "english": "I'm going to work."
+        },
+        {
+            "french": "Je vais à l'école.",
+            "english": "I'm going to school."
+        },
+        {
+            "french": "Je vais au cinéma.",
+            "english": "I'm going to the cinema."
+        },
+        {
+            "french": "Je vais à la plage.",
+            "english": "I'm going to the beach."
+        },
+        {
+            "french": "Je vais chez le médecin.",
+            "english": "I'm going to the doctor's."
+        },
+        {
+            "french": "Je vais chez mes parents.",
+            "english": "I'm going to my parents' place."
+        },
+        {
+            "french": "Je rentre à la maison.",
+            "english": "I'm going home."
+        },
+        {
+            "french": "Je reste à la maison.",
+            "english": "I'm staying home."
+        },
+        {
+            "french": "Je sors ce soir.",
+            "english": "I'm going out tonight."
+        },
+        {
+            "french": "Tu viens avec moi?",
+            "english": "Are you coming with me?"
+        },
+        {
+            "french": "Oui, je viens.",
+            "english": "Yes, I'm coming."
+        },
+        {
+            "french": "Non, je ne peux pas.",
+            "english": "No, I can't."
+        },
+        {
+            "french": "Je suis occupé.",
+            "english": "I'm busy. (masculine)"
+        },
+        {
+            "french": "Je suis occupée.",
+            "english": "I'm busy. (feminine)"
+        },
+        {
+            "french": "Je suis libre.",
+            "english": "I'm free."
+        },
+        {
+            "french": "J'ai le temps.",
+            "english": "I have time."
+        },
+        {
+            "french": "Je n'ai pas le temps.",
+            "english": "I don't have time."
+        },
+        {
+            "french": "Je suis en retard.",
+            "english": "I'm late."
+        },
+        {
+            "french": "Je suis à l'heure.",
+            "english": "I'm on time."
+        },
+        {
+            "french": "Je suis en avance.",
+            "english": "I'm early."
+        },
+        {
+            "french": "Je prends le bus.",
+            "english": "I take the bus."
+        },
+        {
+            "french": "Je prends le métro.",
+            "english": "I take the subway."
+        },
+        {
+            "french": "Je prends le train.",
+            "english": "I take the train."
+        },
+        {
+            "french": "Je vais à pied.",
+            "english": "I go on foot / I walk."
+        },
+        {
+            "french": "Je vais à vélo.",
+            "english": "I go by bike."
+        },
+        {
+            "french": "Je vais en voiture.",
+            "english": "I go by car."
+        },
+        {
+            "french": "Combien de temps ça prend?",
+            "english": "How long does it take?"
+        },
+        {
+            "french": "Ça prend dix minutes.",
+            "english": "It takes ten minutes."
+        },
+        {
+            "french": "Ça prend une heure.",
+            "english": "It takes one hour."
+        },
+        {
+            "french": "C'est près d'ici.",
+            "english": "It's near here."
+        },
+        {
+            "french": "C'est loin d'ici.",
+            "english": "It's far from here."
+        },
+        {
+            "french": "Je me réveille à six heures.",
+            "english": "I wake up at six o'clock."
+        },
+        {
+            "french": "Je me lève à sept heures.",
+            "english": "I get up at seven o'clock."
+        },
+        {
+            "french": "Je prends mon petit-déjeuner.",
+            "english": "I have my breakfast."
+        },
+        {
+            "french": "Je prends une douche.",
+            "english": "I take a shower."
+        },
+        {
+            "french": "Je m'habille.",
+            "english": "I get dressed."
+        },
+        {
+            "french": "Je pars à huit heures.",
+            "english": "I leave at eight o'clock."
+        },
+        {
+            "french": "Je déjeune à midi.",
+            "english": "I have lunch at noon."
+        },
+        {
+            "french": "Je dîne à sept heures.",
+            "english": "I have dinner at seven o'clock."
+        },
+        {
+            "french": "Je me couche à dix heures.",
+            "english": "I go to bed at ten o'clock."
+        },
+        {
+            "french": "Je dors huit heures.",
+            "english": "I sleep eight hours."
+        },
+        {
+            "french": "Qu'est-ce que tu fais le week-end?",
+            "english": "What do you do on the weekend?"
+        },
+        {
+            "french": "Je fais du sport.",
+            "english": "I do sports."
+        },
+        {
+            "french": "Je fais du jogging.",
+            "english": "I go jogging."
+        },
+        {
+            "french": "Je fais de la natation.",
+            "english": "I go swimming."
+        },
+        {
+            "french": "Je fais du yoga.",
+            "english": "I do yoga."
+        },
+        {
+            "french": "Je joue au tennis.",
+            "english": "I play tennis."
+        },
+        {
+            "french": "Je joue au basketball.",
+            "english": "I play basketball."
+        },
+        {
+            "french": "Je joue de la guitare.",
+            "english": "I play guitar."
+        },
+        {
+            "french": "Je joue du piano.",
+            "english": "I play piano."
+        },
+        {
+            "french": "J'écoute de la musique.",
+            "english": "I listen to music."
+        },
+        {
+            "french": "Je regarde un film.",
+            "english": "I watch a movie."
+        },
+        {
+            "french": "Je lis un livre.",
+            "english": "I read a book."
+        },
+        {
+            "french": "Je fais les courses.",
+            "english": "I do the shopping."
+        },
+        {
+            "french": "Je fais le ménage.",
+            "english": "I do the housework."
+        },
+        {
+            "french": "Je fais la cuisine.",
+            "english": "I do the cooking."
+        },
+        {
+            "french": "Je fais la vaisselle.",
+            "english": "I do the dishes."
+        },
+        {
+            "french": "Je fais la lessive.",
+            "english": "I do the laundry."
+        },
+        {
+            "french": "Je me repose.",
+            "english": "I rest."
+        },
+        {
+            "french": "Je me détends.",
+            "english": "I relax."
+        },
+        {
+            "french": "Je sors avec mes amis.",
+            "english": "I go out with my friends."
+        },
+        {
+            "french": "Je vois mes amis.",
+            "english": "I see my friends."
+        },
+        {
+            "french": "Je rends visite à ma famille.",
+            "english": "I visit my family."
+        },
+        {
+            "french": "Qu'est-ce que tu aimes faire?",
+            "english": "What do you like to do?"
+        },
+        {
+            "french": "J'aime voyager.",
+            "english": "I like to travel."
+        },
+        {
+            "french": "J'aime lire.",
+            "english": "I like to read."
+        },
+        {
+            "french": "J'aime cuisiner.",
+            "english": "I like to cook."
+        },
+        {
+            "french": "J'aime danser.",
+            "english": "I like to dance."
+        },
+        {
+            "french": "J'aime chanter.",
+            "english": "I like to sing."
+        },
+        {
+            "french": "J'aime le cinéma.",
+            "english": "I like cinema."
+        },
+        {
+            "french": "J'aime le sport.",
+            "english": "I like sports."
+        },
+        {
+            "french": "J'aime la nature.",
+            "english": "I like nature."
+        },
+        {
+            "french": "J'aime les animaux.",
+            "english": "I like animals."
+        },
+        {
+            "french": "Je n'aime pas le bruit.",
+            "english": "I don't like noise."
+        },
+        {
+            "french": "Je déteste le froid.",
+            "english": "I hate the cold."
+        },
+        {
+            "french": "Je préfère l'été.",
+            "english": "I prefer summer."
+        },
+        {
+            "french": "J'ai sommeil.",
+            "english": "I'm sleepy."
+        },
+        {
+            "french": "J'ai peur.",
+            "english": "I'm afraid."
+        },
+        {
+            "french": "J'ai raison.",
+            "english": "I'm right."
+        },
+        {
+            "french": "Tu as tort.",
+            "english": "You're wrong."
+        },
+        {
+            "french": "J'ai de la chance.",
+            "english": "I'm lucky."
+        },
+        {
+            "french": "Je n'ai pas de chance.",
+            "english": "I'm unlucky."
+        },
+        {
+            "french": "J'ai envie de dormir.",
+            "english": "I feel like sleeping."
+        },
+        {
+            "french": "J'ai envie d'un café.",
+            "english": "I feel like having a coffee."
+        },
+        {
+            "french": "J'ai besoin de repos.",
+            "english": "I need rest."
+        },
+        {
+            "french": "J'ai besoin d'argent.",
+            "english": "I need money."
+        },
+        {
+            "french": "Je cherche un livre.",
+            "english": "I'm looking for a book."
+        },
+        {
+            "french": "Je cherche la poste.",
+            "english": "I'm looking for the post office."
+        },
+        {
+            "french": "Vous cherchez quelque chose?",
+            "english": "Are you looking for something?"
+        },
+        {
+            "french": "Je ne trouve pas mes clés.",
+            "english": "I can't find my keys."
+        },
+        {
+            "french": "J'ai perdu mon téléphone.",
+            "english": "I lost my phone."
+        },
+        {
+            "french": "J'ai oublié mon sac.",
+            "english": "I forgot my bag."
+        },
+        {
+            "french": "Ce sac est à moi.",
+            "english": "This bag is mine."
+        },
+        {
+            "french": "C'est à toi?",
+            "english": "Is it yours?"
+        },
+        {
+            "french": "Ce n'est pas à moi.",
+            "english": "It's not mine."
+        },
+        {
+            "french": "Ça m'appartient.",
+            "english": "It belongs to me."
+        },
+        {
+            "french": "C'est bon marché.",
+            "english": "It's cheap / It's inexpensive."
+        },
+        {
+            "french": "C'est cher.",
+            "english": "It's expensive."
+        },
+        {
+            "french": "C'est gratuit.",
+            "english": "It's free."
+        },
+        {
+            "french": "Il y a une promotion.",
+            "english": "There's a sale."
+        },
+        {
+            "french": "Il y a une réduction.",
+            "english": "There's a discount."
+        },
+        {
+            "french": "Vous acceptez les cartes?",
+            "english": "Do you accept cards?"
+        },
+        {
+            "french": "Je paie en espèces.",
+            "english": "I'm paying in cash."
+        },
+        {
+            "french": "Je paie par carte.",
+            "english": "I'm paying by card."
+        },
+        {
+            "french": "Gardez la monnaie.",
+            "english": "Keep the change."
+        },
+        {
+            "french": "Je peux essayer?",
+            "english": "Can I try?"
+        },
+        {
+            "french": "Quelle taille?",
+            "english": "What size?"
+        },
+        {
+            "french": "Quelle couleur?",
+            "english": "What color?"
+        },
+        {
+            "french": "Vous avez en bleu?",
+            "english": "Do you have it in blue?"
+        },
+        {
+            "french": "C'est trop grand.",
+            "english": "It's too big."
+        },
+        {
+            "french": "C'est trop petit.",
+            "english": "It's too small."
+        },
+        {
+            "french": "Ça me va bien.",
+            "english": "It fits me well."
+        },
+        {
+            "french": "Je le prends.",
+            "english": "I'll take it."
+        },
+        {
+            "french": "Je ne le prends pas.",
+            "english": "I won't take it."
+        },
+        {
+            "french": "J'ai rendez-vous à trois heures.",
+            "english": "I have an appointment at three o'clock."
+        },
+        {
+            "french": "Je voudrais prendre rendez-vous.",
+            "english": "I would like to make an appointment."
+        },
+        {
+            "french": "C'est possible demain?",
+            "english": "Is tomorrow possible?"
+        },
+        {
+            "french": "Quel jour vous convient?",
+            "english": "What day suits you?"
+        },
+        {
+            "french": "Lundi, ça va.",
+            "english": "Monday is fine."
+        },
+        {
+            "french": "Je ne suis pas disponible.",
+            "english": "I'm not available."
+        },
+        {
+            "french": "Je suis disponible.",
+            "english": "I'm available."
+        },
+        {
+            "french": "On se voit quand?",
+            "english": "When shall we meet?"
+        },
+        {
+            "french": "On se voit demain?",
+            "english": "Shall we meet tomorrow?"
+        },
+        {
+            "french": "D'accord, à demain.",
+            "english": "Okay, see you tomorrow."
+        },
+        {
+            "french": "À tout à l'heure.",
+            "english": "See you later."
+        },
+        {
+            "french": "À plus tard.",
+            "english": "See you later."
+        },
+        {
+            "french": "À ce soir.",
+            "english": "See you tonight."
+        },
+        {
+            "french": "À la semaine prochaine.",
+            "english": "See you next week."
+        },
+        {
+            "french": "Il est quelle heure?",
+            "english": "What time is it?"
+        },
+        {
+            "french": "Il est six heures du matin.",
+            "english": "It's six in the morning."
+        },
+        {
+            "french": "Il est six heures du soir.",
+            "english": "It's six in the evening."
+        },
+        {
+            "french": "Il est midi et demi.",
+            "english": "It's half past noon."
+        },
+        {
+            "french": "Il est minuit et quart.",
+            "english": "It's quarter past midnight."
+        },
+        {
+            "french": "Dans cinq minutes.",
+            "english": "In five minutes."
+        },
+        {
+            "french": "Dans une heure.",
+            "english": "In one hour."
+        },
+        {
+            "french": "Il y a dix minutes.",
+            "english": "Ten minutes ago."
+        },
+        {
+            "french": "Il y a une semaine.",
+            "english": "A week ago."
+        },
+        {
+            "french": "Ce matin",
+            "english": "This morning"
+        },
+        {
+            "french": "Cet après-midi",
+            "english": "This afternoon"
+        },
+        {
+            "french": "Ce soir",
+            "english": "This evening / Tonight"
+        },
+        {
+            "french": "Cette nuit",
+            "english": "Last night / Tonight"
+        },
+        {
+            "french": "Cette semaine",
+            "english": "This week"
+        },
+        {
+            "french": "Ce week-end",
+            "english": "This weekend"
+        },
+        {
+            "french": "Ce mois-ci",
+            "english": "This month"
+        },
+        {
+            "french": "Cette année",
+            "english": "This year"
+        },
+        {
+            "french": "La semaine dernière",
+            "english": "Last week"
+        },
+        {
+            "french": "Le mois dernier",
+            "english": "Last month"
+        },
+        {
+            "french": "L'année dernière",
+            "english": "Last year"
+        },
+        {
+            "french": "Le week-end prochain",
+            "english": "Next weekend"
+        },
+        {
+            "french": "Le mois prochain",
+            "english": "Next month"
+        },
+        {
+            "french": "L'année prochaine",
+            "english": "Next year"
+        },
+        {
+            "french": "Combien de personnes?",
+            "english": "How many people?"
+        },
+        {
+            "french": "Combien de temps?",
+            "english": "How long? / How much time?"
+        },
+        {
+            "french": "Combien de fois?",
+            "english": "How many times?"
+        },
+        {
+            "french": "Beaucoup de gens",
+            "english": "Many people"
+        },
+        {
+            "french": "Peu de gens",
+            "english": "Few people"
+        },
+        {
+            "french": "Plusieurs fois",
+            "english": "Several times"
+        },
+        {
+            "french": "Une fois",
+            "english": "Once"
+        },
+        {
+            "french": "Deux fois",
+            "english": "Twice"
+        },
+        {
+            "french": "Trois fois",
+            "english": "Three times"
+        },
+        {
+            "french": "Tout le monde",
+            "english": "Everyone"
+        },
+        {
+            "french": "Personne",
+            "english": "No one / Nobody"
+        },
+        {
+            "french": "Quelqu'un",
+            "english": "Someone / Somebody"
+        },
+        {
+            "french": "Quelque chose",
+            "english": "Something"
+        },
+        {
+            "french": "Rien",
+            "english": "Nothing"
+        },
+        {
+            "french": "Tout",
+            "english": "Everything / All"
+        },
+        {
+            "french": "Mon ami s'appelle Pierre.",
+            "english": "My friend's name is Pierre."
+        },
+        {
+            "french": "Il est grand.",
+            "english": "He is tall."
+        },
+        {
+            "french": "Elle est petite.",
+            "english": "She is short."
+        },
+        {
+            "french": "Il a les cheveux noirs.",
+            "english": "He has black hair."
+        },
+        {
+            "french": "Elle a les cheveux blonds.",
+            "english": "She has blonde hair."
+        },
+        {
+            "french": "Il a les yeux bleus.",
+            "english": "He has blue eyes."
+        },
+        {
+            "french": "Elle a les yeux verts.",
+            "english": "She has green eyes."
+        },
+        {
+            "french": "Il est gentil.",
+            "english": "He is nice / kind."
+        },
+        {
+            "french": "Elle est sympathique.",
+            "english": "She is nice / friendly."
+        },
+        {
+            "french": "Il est drôle.",
+            "english": "He is funny."
+        },
+        {
+            "french": "Elle est intelligente.",
+            "english": "She is intelligent."
+        },
+        {
+            "french": "Il est timide.",
+            "english": "He is shy."
+        },
+        {
+            "french": "Elle est bavarde.",
+            "english": "She is talkative."
+        },
+        {
+            "french": "C'est un bon ami.",
+            "english": "He's a good friend."
+        },
+        {
+            "french": "C'est une bonne amie.",
+            "english": "She's a good friend."
+        },
+        {
+            "french": "Le pantalon",
+            "english": "The pants / The trousers"
+        },
+        {
+            "french": "La chemise",
+            "english": "The shirt"
+        },
+        {
+            "french": "Le pull",
+            "english": "The sweater"
+        },
+        {
+            "french": "La robe",
+            "english": "The dress"
+        },
+        {
+            "french": "La jupe",
+            "english": "The skirt"
+        },
+        {
+            "french": "Le manteau",
+            "english": "The coat"
+        },
+        {
+            "french": "La veste",
+            "english": "The jacket"
+        },
+        {
+            "french": "Les chaussures",
+            "english": "The shoes"
+        },
+        {
+            "french": "Les chaussettes",
+            "english": "The socks"
+        },
+        {
+            "french": "Le chapeau",
+            "english": "The hat"
+        },
+        {
+            "french": "Le t-shirt",
+            "english": "The t-shirt"
+        },
+        {
+            "french": "Le jean",
+            "english": "The jeans"
+        },
+        {
+            "french": "Je porte un pantalon noir.",
+            "english": "I'm wearing black pants."
+        },
+        {
+            "french": "Elle porte une robe rouge.",
+            "english": "She's wearing a red dress."
+        },
+        {
+            "french": "Qu'est-ce que tu portes?",
+            "english": "What are you wearing?"
+        },
+        {
+            "french": "J'ai mal à la gorge.",
+            "english": "I have a sore throat."
+        },
+        {
+            "french": "J'ai mal aux dents.",
+            "english": "I have a toothache."
+        },
+        {
+            "french": "J'ai mal au dos.",
+            "english": "I have a backache."
+        },
+        {
+            "french": "Je tousse.",
+            "english": "I'm coughing."
+        },
+        {
+            "french": "J'ai de la fièvre.",
+            "english": "I have a fever."
+        },
+        {
+            "french": "Je suis enrhumé.",
+            "english": "I have a cold. (masculine)"
+        },
+        {
+            "french": "Je suis enrhumée.",
+            "english": "I have a cold. (feminine)"
+        },
+        {
+            "french": "Je ne me sens pas bien.",
+            "english": "I don't feel well."
+        },
+        {
+            "french": "Je me sens mieux.",
+            "english": "I feel better."
+        },
+        {
+            "french": "Je vais bien.",
+            "english": "I'm fine."
+        },
+        {
+            "french": "Bon week-end!",
+            "english": "Have a good weekend!"
+        },
+        {
+            "french": "Bonnes vacances!",
+            "english": "Have a good vacation!"
+        },
+        {
+            "french": "Bon courage!",
+            "english": "Good luck! / Hang in there!"
+        },
+        {
+            "french": "Amuse-toi bien!",
+            "english": "Have fun!"
+        },
+        {
+            "french": "Fais attention!",
+            "english": "Be careful!"
+        },
+        {
+            "french": "Prends soin de toi!",
+            "english": "Take care of yourself!"
+        },
+        {
+            "french": "Repose-toi bien!",
+            "english": "Rest well!"
+        },
+        {
+            "french": "Dépêche-toi!",
+            "english": "Hurry up!"
+        },
+        {
+            "french": "Ne t'inquiète pas.",
+            "english": "Don't worry."
+        },
+        {
+            "french": "Ça va aller.",
+            "english": "It will be okay."
+        },
+        {
+            "french": "C'est vrai.",
+            "english": "It's true."
+        },
+        {
+            "french": "Ce n'est pas vrai.",
+            "english": "It's not true."
+        },
+        {
+            "french": "Je pense que oui.",
+            "english": "I think so."
+        },
+        {
+            "french": "Je pense que non.",
+            "english": "I don't think so."
+        },
+        {
+            "french": "Je suis d'accord.",
+            "english": "I agree."
+        },
+        {
+            "french": "Je ne suis pas d'accord.",
+            "english": "I don't agree."
+        },
+        {
+            "french": "Tu as raison.",
+            "english": "You're right."
+        },
+        {
+            "french": "C'est une bonne idée.",
+            "english": "That's a good idea."
+        },
+        {
+            "french": "Pourquoi pas?",
+            "english": "Why not?"
+        },
+        {
+            "french": "Avec plaisir.",
+            "english": "With pleasure."
+        },
+        {
+            "french": "Volontiers.",
+            "english": "Gladly."
+        },
+        {
+            "french": "Je veux bien.",
+            "english": "I'd like to / Sure."
+        },
+        {
+            "french": "Ça m'est égal.",
+            "english": "I don't mind / It's all the same to me."
+        },
+        {
+            "french": "Comme tu veux.",
+            "english": "As you wish."
+        },
+        {
+            "french": "À toi de choisir.",
+            "english": "It's up to you to choose."
+        },
+        {
+            "french": "Qu'est-ce que tu en penses?",
+            "english": "What do you think about it?"
+        },
+        {
+            "french": "Je ne sais pas encore.",
+            "english": "I don't know yet."
+        },
+        {
+            "french": "Je vais réfléchir.",
+            "english": "I'm going to think about it."
         }
     ]
 }
