@@ -1,0 +1,167 @@
+{
+    "level": "Niveau 1",
+    "cefr": "A1.1",
+    "description": "Débutant absolu - Salutations et phrases de base",
+    "phrases": [
+        {
+            "french": "Bonjour!",
+            "english": "Hello! / Good morning!"
+        },
+        {
+            "french": "Bonsoir!",
+            "english": "Good evening!"
+        },
+        {
+            "french": "Salut!",
+            "english": "Hi!"
+        },
+        {
+            "french": "Comment ça va?",
+            "english": "How are you?"
+        },
+        {
+            "french": "Ça va bien, merci.",
+            "english": "I'm fine, thank you."
+        },
+        {
+            "french": "Et toi?",
+            "english": "And you? (informal)"
+        },
+        {
+            "french": "Et vous?",
+            "english": "And you? (formal)"
+        },
+        {
+            "french": "Je m'appelle Marie.",
+            "english": "My name is Marie."
+        },
+        {
+            "french": "Comment tu t'appelles?",
+            "english": "What's your name? (informal)"
+        },
+        {
+            "french": "Comment vous appelez-vous?",
+            "english": "What's your name? (formal)"
+        },
+        {
+            "french": "Enchanté.",
+            "english": "Nice to meet you. (masculine)"
+        },
+        {
+            "french": "Enchantée.",
+            "english": "Nice to meet you. (feminine)"
+        },
+        {
+            "french": "Oui.",
+            "english": "Yes."
+        },
+        {
+            "french": "Non.",
+            "english": "No."
+        },
+        {
+            "french": "S'il vous plaît.",
+            "english": "Please. (formal)"
+        },
+        {
+            "french": "S'il te plaît.",
+            "english": "Please. (informal)"
+        },
+        {
+            "french": "Merci.",
+            "english": "Thank you."
+        },
+        {
+            "french": "Merci beaucoup.",
+            "english": "Thank you very much."
+        },
+        {
+            "french": "De rien.",
+            "english": "You're welcome."
+        },
+        {
+            "french": "Excusez-moi.",
+            "english": "Excuse me. (formal)"
+        },
+        {
+            "french": "Pardon.",
+            "english": "Sorry. / Pardon me."
+        },
+        {
+            "french": "Au revoir.",
+            "english": "Goodbye."
+        },
+        {
+            "french": "À bientôt.",
+            "english": "See you soon."
+        },
+        {
+            "french": "À demain.",
+            "english": "See you tomorrow."
+        },
+        {
+            "french": "Bonne journée!",
+            "english": "Have a good day!"
+        },
+        {
+            "french": "Bonne soirée!",
+            "english": "Have a good evening!"
+        },
+        {
+            "french": "Bonne nuit!",
+            "english": "Good night!"
+        },
+        {
+            "french": "Je suis canadien.",
+            "english": "I am Canadian. (masculine)"
+        },
+        {
+            "french": "Je suis canadienne.",
+            "english": "I am Canadian. (feminine)"
+        },
+        {
+            "french": "Je suis américain.",
+            "english": "I am American. (masculine)"
+        },
+        {
+            "french": "Je parle anglais.",
+            "english": "I speak English."
+        },
+        {
+            "french": "Je parle un peu français.",
+            "english": "I speak a little French."
+        },
+        {
+            "french": "Je ne comprends pas.",
+            "english": "I don't understand."
+        },
+        {
+            "french": "Pouvez-vous répéter?",
+            "english": "Can you repeat?"
+        },
+        {
+            "french": "Plus lentement, s'il vous plaît.",
+            "english": "More slowly, please."
+        },
+        {
+            "french": "Comment dit-on en français?",
+            "english": "How do you say that in French?"
+        },
+        {
+            "french": "Qu'est-ce que c'est?",
+            "english": "What is this?"
+        },
+        {
+            "french": "C'est un livre.",
+            "english": "It's a book."
+        },
+        {
+            "french": "C'est une pomme.",
+            "english": "It's an apple."
+        },
+        {
+            "french": "Où sont les toilettes?",
+            "english": "Where is the bathroom?"
+        }
+    ]
+}

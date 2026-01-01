@@ -1,0 +1,167 @@
+{
+    "level": "Niveau 2",
+    "cefr": "A1.2",
+    "description": "Débutant - Interactions quotidiennes simples",
+    "phrases": [
+        {
+            "french": "J'habite à Montréal.",
+            "english": "I live in Montreal."
+        },
+        {
+            "french": "Tu habites où?",
+            "english": "Where do you live?"
+        },
+        {
+            "french": "Je viens du Canada.",
+            "english": "I come from Canada."
+        },
+        {
+            "french": "D'où viens-tu?",
+            "english": "Where do you come from?"
+        },
+        {
+            "french": "J'ai vingt-cinq ans.",
+            "english": "I am 25 years old."
+        },
+        {
+            "french": "Quel âge as-tu?",
+            "english": "How old are you?"
+        },
+        {
+            "french": "Je suis étudiant.",
+            "english": "I am a student. (masculine)"
+        },
+        {
+            "french": "Je suis étudiante.",
+            "english": "I am a student. (feminine)"
+        },
+        {
+            "french": "Je travaille dans un bureau.",
+            "english": "I work in an office."
+        },
+        {
+            "french": "Qu'est-ce que tu fais dans la vie?",
+            "english": "What do you do for a living?"
+        },
+        {
+            "french": "J'aime le café.",
+            "english": "I like coffee."
+        },
+        {
+            "french": "Je n'aime pas le thé.",
+            "english": "I don't like tea."
+        },
+        {
+            "french": "J'adore le chocolat.",
+            "english": "I love chocolate."
+        },
+        {
+            "french": "Tu aimes la musique?",
+            "english": "Do you like music?"
+        },
+        {
+            "french": "Oui, j'aime beaucoup la musique.",
+            "english": "Yes, I really like music."
+        },
+        {
+            "french": "Je voudrais un café, s'il vous plaît.",
+            "english": "I would like a coffee, please."
+        },
+        {
+            "french": "Je voudrais l'addition.",
+            "english": "I would like the bill."
+        },
+        {
+            "french": "Combien ça coûte?",
+            "english": "How much does it cost?"
+        },
+        {
+            "french": "Ça coûte dix dollars.",
+            "english": "It costs ten dollars."
+        },
+        {
+            "french": "C'est trop cher.",
+            "english": "It's too expensive."
+        },
+        {
+            "french": "Quelle heure est-il?",
+            "english": "What time is it?"
+        },
+        {
+            "french": "Il est trois heures.",
+            "english": "It's three o'clock."
+        },
+        {
+            "french": "Il est midi.",
+            "english": "It's noon."
+        },
+        {
+            "french": "Il est minuit.",
+            "english": "It's midnight."
+        },
+        {
+            "french": "J'ai faim.",
+            "english": "I'm hungry."
+        },
+        {
+            "french": "J'ai soif.",
+            "english": "I'm thirsty."
+        },
+        {
+            "french": "J'ai froid.",
+            "english": "I'm cold."
+        },
+        {
+            "french": "J'ai chaud.",
+            "english": "I'm hot."
+        },
+        {
+            "french": "Je suis fatigué.",
+            "english": "I'm tired. (masculine)"
+        },
+        {
+            "french": "Je suis fatiguée.",
+            "english": "I'm tired. (feminine)"
+        },
+        {
+            "french": "Je vais au supermarché.",
+            "english": "I'm going to the supermarket."
+        },
+        {
+            "french": "Tu vas où?",
+            "english": "Where are you going?"
+        },
+        {
+            "french": "Je dois partir.",
+            "english": "I have to leave."
+        },
+        {
+            "french": "À quelle heure?",
+            "english": "At what time?"
+        },
+        {
+            "french": "Maintenant.",
+            "english": "Now."
+        },
+        {
+            "french": "Tout à l'heure.",
+            "english": "Later. / In a bit."
+        },
+        {
+            "french": "Aujourd'hui.",
+            "english": "Today."
+        },
+        {
+            "french": "Demain.",
+            "english": "Tomorrow."
+        },
+        {
+            "french": "Hier.",
+            "english": "Yesterday."
+        },
+        {
+            "french": "La semaine prochaine.",
+            "english": "Next week."
+        }
+    ]
+}

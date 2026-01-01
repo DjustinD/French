@@ -1,0 +1,212 @@
+[
+    {
+        "numeral": "100",
+        "french": "cent",
+        "english": "one hundred",
+        "pronunciation": "sahn",
+        "note": "No 'un' before cent for 100",
+        "examples": [
+            {
+                "french": "cent personnes",
+                "english": "one hundred people"
+            }
+        ]
+    },
+    {
+        "numeral": "101",
+        "french": "cent un",
+        "english": "one hundred and one",
+        "pronunciation": "sahn-uhn",
+        "examples": [
+            {
+                "french": "cent un dalmatiens",
+                "english": "one hundred and one dalmatians"
+            }
+        ]
+    },
+    {
+        "numeral": "200",
+        "french": "deux cents",
+        "english": "two hundred",
+        "pronunciation": "duh-sahn",
+        "note": "Add 's' to cent when it's multiplied and stands alone",
+        "examples": [
+            {
+                "french": "deux cents ans",
+                "english": "two hundred years"
+            }
+        ]
+    },
+    {
+        "numeral": "201",
+        "french": "deux cent un",
+        "english": "two hundred and one",
+        "pronunciation": "duh-sahn-uhn",
+        "note": "No 's' on cent when followed by another number",
+        "examples": [
+            {
+                "french": "deux cent un euros",
+                "english": "two hundred and one euros"
+            }
+        ]
+    },
+    {
+        "numeral": "300",
+        "french": "trois cents",
+        "english": "three hundred",
+        "pronunciation": "twah-sahn",
+        "examples": [
+            {
+                "french": "trois cents pages",
+                "english": "three hundred pages"
+            }
+        ]
+    },
+    {
+        "numeral": "500",
+        "french": "cinq cents",
+        "english": "five hundred",
+        "pronunciation": "sank-sahn",
+        "examples": [
+            {
+                "french": "cinq cents euros",
+                "english": "five hundred euros"
+            }
+        ]
+    },
+    {
+        "numeral": "1,000",
+        "french": "mille",
+        "english": "one thousand",
+        "pronunciation": "meel",
+        "note": "Mille is invariable (never takes an 's'). No 'un' before mille",
+        "examples": [
+            {
+                "french": "mille ans",
+                "english": "one thousand years"
+            },
+            {
+                "french": "l'an deux mille",
+                "english": "the year 2000"
+            }
+        ]
+    },
+    {
+        "numeral": "1,001",
+        "french": "mille un",
+        "english": "one thousand and one",
+        "pronunciation": "meel-uhn",
+        "examples": [
+            {
+                "french": "Les Mille et Une Nuits",
+                "english": "One Thousand and One Nights"
+            }
+        ]
+    },
+    {
+        "numeral": "1,100",
+        "french": "mille cent / onze cents",
+        "english": "one thousand one hundred / eleven hundred",
+        "pronunciation": "meel-sahn / ohnz-sahn",
+        "note": "Both forms are acceptable",
+        "examples": [
+            {
+                "french": "mille cent euros",
+                "english": "eleven hundred euros"
+            }
+        ]
+    },
+    {
+        "numeral": "2,000",
+        "french": "deux mille",
+        "english": "two thousand",
+        "pronunciation": "duh-meel",
+        "note": "Mille never takes an 's'",
+        "examples": [
+            {
+                "french": "deux mille ans",
+                "english": "two thousand years"
+            }
+        ]
+    },
+    {
+        "numeral": "10,000",
+        "french": "dix mille",
+        "english": "ten thousand",
+        "pronunciation": "dee-meel",
+        "examples": [
+            {
+                "french": "dix mille habitants",
+                "english": "ten thousand inhabitants"
+            }
+        ]
+    },
+    {
+        "numeral": "100,000",
+        "french": "cent mille",
+        "english": "one hundred thousand",
+        "pronunciation": "sahn-meel",
+        "examples": [
+            {
+                "french": "cent mille euros",
+                "english": "one hundred thousand euros"
+            }
+        ]
+    },
+    {
+        "numeral": "1,000,000",
+        "french": "un million",
+        "english": "one million",
+        "pronunciation": "uhn-meel-yohn",
+        "note": "Million is a noun, so it requires 'un' before it and 'de' after it before another noun",
+        "examples": [
+            {
+                "french": "un million d'euros",
+                "english": "one million euros"
+            },
+            {
+                "french": "un million de personnes",
+                "english": "one million people"
+            }
+        ]
+    },
+    {
+        "numeral": "2,000,000",
+        "french": "deux millions",
+        "english": "two million",
+        "pronunciation": "duh-meel-yohn",
+        "note": "Million takes an 's' when plural",
+        "examples": [
+            {
+                "french": "deux millions d'habitants",
+                "english": "two million inhabitants"
+            }
+        ]
+    },
+    {
+        "numeral": "1,000,000,000",
+        "french": "un milliard",
+        "english": "one billion",
+        "pronunciation": "uhn-meel-yahr",
+        "note": "Like million, milliard requires 'de' before another noun",
+        "examples": [
+            {
+                "french": "un milliard de dollars",
+                "english": "one billion dollars"
+            }
+        ]
+    },
+    {
+        "numeral": "2,000,000,000",
+        "french": "deux milliards",
+        "english": "two billion",
+        "pronunciation": "duh-meel-yahr",
+        "note": "Milliard takes an 's' when plural",
+        "examples": [
+            {
+                "french": "deux milliards d'euros",
+                "english": "two billion euros"
+            }
+        ]
+    }
+]

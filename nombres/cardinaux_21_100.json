@@ -1,0 +1,258 @@
+[
+    {
+        "numeral": "21",
+        "french": "vingt et un",
+        "english": "twenty-one",
+        "pronunciation": "van-tay-uhn",
+        "note": "Use 'et' (and) between 20 and 1",
+        "examples": [
+            {
+                "french": "vingt et un jours",
+                "english": "twenty-one days"
+            }
+        ]
+    },
+    {
+        "numeral": "22",
+        "french": "vingt-deux",
+        "english": "twenty-two",
+        "pronunciation": "van-duh",
+        "note": "No 'et' for other numbers (use hyphen)",
+        "examples": [
+            {
+                "french": "vingt-deux ans",
+                "english": "twenty-two years"
+            }
+        ]
+    },
+    {
+        "numeral": "30",
+        "french": "trente",
+        "english": "thirty",
+        "pronunciation": "trahnt",
+        "examples": [
+            {
+                "french": "trente minutes",
+                "english": "thirty minutes"
+            }
+        ]
+    },
+    {
+        "numeral": "31",
+        "french": "trente et un",
+        "english": "thirty-one",
+        "pronunciation": "trahnt-ay-uhn",
+        "examples": [
+            {
+                "french": "trente et un décembre",
+                "english": "December 31st"
+            }
+        ]
+    },
+    {
+        "numeral": "40",
+        "french": "quarante",
+        "english": "forty",
+        "pronunciation": "kah-rahnt",
+        "examples": [
+            {
+                "french": "quarante ans",
+                "english": "forty years"
+            }
+        ]
+    },
+    {
+        "numeral": "41",
+        "french": "quarante et un",
+        "english": "forty-one",
+        "pronunciation": "kah-rahnt-ay-uhn",
+        "examples": [
+            {
+                "french": "quarante et un euros",
+                "english": "forty-one euros"
+            }
+        ]
+    },
+    {
+        "numeral": "50",
+        "french": "cinquante",
+        "english": "fifty",
+        "pronunciation": "san-kahnt",
+        "examples": [
+            {
+                "french": "cinquante états",
+                "english": "fifty states"
+            }
+        ]
+    },
+    {
+        "numeral": "51",
+        "french": "cinquante et un",
+        "english": "fifty-one",
+        "pronunciation": "san-kahnt-ay-uhn",
+        "examples": [
+            {
+                "french": "cinquante et un ans",
+                "english": "fifty-one years"
+            }
+        ]
+    },
+    {
+        "numeral": "60",
+        "french": "soixante",
+        "english": "sixty",
+        "pronunciation": "swah-sahnt",
+        "examples": [
+            {
+                "french": "soixante secondes",
+                "english": "sixty seconds"
+            }
+        ]
+    },
+    {
+        "numeral": "61",
+        "french": "soixante et un",
+        "english": "sixty-one",
+        "pronunciation": "swah-sahnt-ay-uhn",
+        "examples": [
+            {
+                "french": "soixante et un jours",
+                "english": "sixty-one days"
+            }
+        ]
+    },
+    {
+        "numeral": "70",
+        "french": "soixante-dix",
+        "english": "seventy",
+        "pronunciation": "swah-sahnt-dees",
+        "note": "Literally 'sixty-ten' - French continues counting from 60",
+        "examples": [
+            {
+                "french": "soixante-dix ans",
+                "english": "seventy years"
+            }
+        ]
+    },
+    {
+        "numeral": "71",
+        "french": "soixante et onze",
+        "english": "seventy-one",
+        "pronunciation": "swah-sahnt-ay-ohnz",
+        "note": "Literally 'sixty and eleven'",
+        "examples": [
+            {
+                "french": "soixante et onze personnes",
+                "english": "seventy-one people"
+            }
+        ]
+    },
+    {
+        "numeral": "72",
+        "french": "soixante-douze",
+        "english": "seventy-two",
+        "pronunciation": "swah-sahnt-dooz",
+        "note": "Literally 'sixty-twelve'",
+        "examples": [
+            {
+                "french": "soixante-douze heures",
+                "english": "seventy-two hours"
+            }
+        ]
+    },
+    {
+        "numeral": "75",
+        "french": "soixante-quinze",
+        "english": "seventy-five",
+        "pronunciation": "swah-sahnt-kanz",
+        "note": "Literally 'sixty-fifteen'",
+        "examples": [
+            {
+                "french": "soixante-quinze ans",
+                "english": "seventy-five years"
+            }
+        ]
+    },
+    {
+        "numeral": "80",
+        "french": "quatre-vingts",
+        "english": "eighty",
+        "pronunciation": "kat-ruh-van",
+        "note": "Literally 'four-twenties'. Note the 's' on vingts when it stands alone",
+        "examples": [
+            {
+                "french": "quatre-vingts ans",
+                "english": "eighty years"
+            }
+        ]
+    },
+    {
+        "numeral": "81",
+        "french": "quatre-vingt-un",
+        "english": "eighty-one",
+        "pronunciation": "kat-ruh-van-uhn",
+        "note": "No 's' on vingt when followed by another number",
+        "examples": [
+            {
+                "french": "quatre-vingt-un euros",
+                "english": "eighty-one euros"
+            }
+        ]
+    },
+    {
+        "numeral": "90",
+        "french": "quatre-vingt-dix",
+        "english": "ninety",
+        "pronunciation": "kat-ruh-van-dees",
+        "note": "Literally 'four-twenty-ten'",
+        "examples": [
+            {
+                "french": "quatre-vingt-dix jours",
+                "english": "ninety days"
+            }
+        ]
+    },
+    {
+        "numeral": "91",
+        "french": "quatre-vingt-onze",
+        "english": "ninety-one",
+        "pronunciation": "kat-ruh-van-ohnz",
+        "note": "Literally 'four-twenty-eleven'",
+        "examples": [
+            {
+                "french": "quatre-vingt-onze personnes",
+                "english": "ninety-one people"
+            }
+        ]
+    },
+    {
+        "numeral": "95",
+        "french": "quatre-vingt-quinze",
+        "english": "ninety-five",
+        "pronunciation": "kat-ruh-van-kanz",
+        "note": "Literally 'four-twenty-fifteen'",
+        "examples": [
+            {
+                "french": "quatre-vingt-quinze ans",
+                "english": "ninety-five years"
+            }
+        ]
+    },
+    {
+        "numeral": "100",
+        "french": "cent",
+        "english": "one hundred",
+        "pronunciation": "sahn",
+        "note": "No 's' on cent when it stands alone. No 'un' before cent for 100",
+        "examples": [
+            {
+                "french": "cent ans",
+                "english": "one hundred years"
+            },
+            {
+                "french": "cent euros",
+                "english": "one hundred euros"
+            }
+        ]
+    }
+]

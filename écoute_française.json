@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Niveau 1",
+        "file": "niveau_01.json",
+        "description": "Débutant absolu - Salutations et phrases de base",
+        "cefr": "A1.1"
+    },
+    {
+        "name": "Niveau 2",
+        "file": "niveau_02.json",
+        "description": "Débutant - Interactions quotidiennes simples",
+        "cefr": "A1.2"
+    },
+    {
+        "name": "Niveau 3",
+        "file": "niveau_03.json",
+        "description": "Élémentaire - Besoins immédiats et situations familières",
+        "cefr": "A2.1"
+    },
+    {
+        "name": "Niveau 4",
+        "file": "niveau_04.json",
+        "description": "Élémentaire - Descriptions et expériences personnelles",
+        "cefr": "A2.2"
+    },
+    {
+        "name": "Niveau 5",
+        "file": "niveau_05.json",
+        "description": "Pré-intermédiaire - Conversations sur des sujets familiers",
+        "cefr": "B1.1"
+    },
+    {
+        "name": "Niveau 6",
+        "file": "niveau_06.json",
+        "description": "Pré-intermédiaire - Opinions et récits détaillés",
+        "cefr": "B1.2"
+    },
+    {
+        "name": "Niveau 7",
+        "file": "niveau_07.json",
+        "description": "Intermédiaire - Argumentation et sujets abstraits",
+        "cefr": "B2.1"
+    },
+    {
+        "name": "Niveau 8",
+        "file": "niveau_08.json",
+        "description": "Intermédiaire - Expression spontanée et nuancée",
+        "cefr": "B2.2"
+    },
+    {
+        "name": "Niveau 9",
+        "file": "niveau_09.json",
+        "description": "Intermédiaire-avancé - Textes complexes et spécialisés",
+        "cefr": "C1.1"
+    },
+    {
+        "name": "Niveau 10",
+        "file": "niveau_10.json",
+        "description": "Intermédiaire-avancé - Expression précise et subtile",
+        "cefr": "C1.2"
+    },
+    {
+        "name": "Niveau 11",
+        "file": "niveau_11.json",
+        "description": "Avancé - Compréhension de textes exigeants",
+        "cefr": "C2.1"
+    },
+    {
+        "name": "Niveau 12",
+        "file": "niveau_12.json",
+        "description": "Avancé - Maîtrise complète et expression sophistiquée",
+        "cefr": "C2.2"
+    }
+]

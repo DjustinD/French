@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Nombres Cardinaux (0-20)",
+        "file": "cardinaux_base.json",
+        "description": "Basic cardinal numbers from 0 to 20"
+    },
+    {
+        "name": "Nombres Cardinaux (21-100)",
+        "file": "cardinaux_21_100.json",
+        "description": "Cardinal numbers from 21 to 100"
+    },
+    {
+        "name": "Nombres Cardinaux (100+)",
+        "file": "cardinaux_grands.json",
+        "description": "Large cardinal numbers: hundreds, thousands, millions"
+    },
+    {
+        "name": "Nombres Ordinaux",
+        "file": "ordinaux.json",
+        "description": "Ordinal numbers: first, second, third, etc."
+    },
+    {
+        "name": "Fractions et Décimales",
+        "file": "fractions.json",
+        "description": "Fractions and decimal numbers"
+    }
+]

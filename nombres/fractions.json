@@ -1,0 +1,202 @@
+[
+    {
+        "number": "1/2",
+        "french": "un demi / une demie",
+        "english": "one half",
+        "pronunciation": "uhn duh-mee / oon duh-mee",
+        "note": "As an adjective, 'demi' is invariable before a noun but agrees after",
+        "examples": [
+            {
+                "french": "une demi-heure",
+                "english": "a half hour"
+            },
+            {
+                "french": "une heure et demie",
+                "english": "an hour and a half"
+            },
+            {
+                "french": "la moitié du gâteau",
+                "english": "half of the cake (noun form)"
+            }
+        ]
+    },
+    {
+        "number": "1/3",
+        "french": "un tiers",
+        "english": "one third",
+        "pronunciation": "uhn tyehr",
+        "examples": [
+            {
+                "french": "un tiers de la population",
+                "english": "one third of the population"
+            }
+        ]
+    },
+    {
+        "number": "2/3",
+        "french": "deux tiers",
+        "english": "two thirds",
+        "pronunciation": "duh tyehr",
+        "examples": [
+            {
+                "french": "les deux tiers des étudiants",
+                "english": "two thirds of the students"
+            }
+        ]
+    },
+    {
+        "number": "1/4",
+        "french": "un quart",
+        "english": "one quarter",
+        "pronunciation": "uhn kar",
+        "examples": [
+            {
+                "french": "un quart d'heure",
+                "english": "a quarter of an hour"
+            },
+            {
+                "french": "trois heures et quart",
+                "english": "quarter past three"
+            }
+        ]
+    },
+    {
+        "number": "3/4",
+        "french": "trois quarts",
+        "english": "three quarters",
+        "pronunciation": "twah kar",
+        "examples": [
+            {
+                "french": "les trois quarts du temps",
+                "english": "three quarters of the time"
+            },
+            {
+                "french": "trois heures moins le quart",
+                "english": "quarter to three"
+            }
+        ]
+    },
+    {
+        "number": "1/5",
+        "french": "un cinquième",
+        "english": "one fifth",
+        "pronunciation": "uhn san-kyehm",
+        "note": "For fractions 1/5 and higher, use ordinal numbers",
+        "examples": [
+            {
+                "french": "un cinquième de la distance",
+                "english": "one fifth of the distance"
+            }
+        ]
+    },
+    {
+        "number": "2/5",
+        "french": "deux cinquièmes",
+        "english": "two fifths",
+        "pronunciation": "duh san-kyehm",
+        "examples": [
+            {
+                "french": "deux cinquièmes du budget",
+                "english": "two fifths of the budget"
+            }
+        ]
+    },
+    {
+        "number": "0.5",
+        "french": "zéro virgule cinq",
+        "english": "zero point five",
+        "pronunciation": "zay-roh veer-gool sank",
+        "note": "Use 'virgule' (comma) instead of 'point' for decimal separator",
+        "examples": [
+            {
+                "french": "0,5 kilomètre",
+                "english": "0.5 kilometer"
+            }
+        ]
+    },
+    {
+        "number": "1.5",
+        "french": "un virgule cinq",
+        "english": "one point five",
+        "pronunciation": "uhn veer-gool sank",
+        "examples": [
+            {
+                "french": "1,5 litre",
+                "english": "1.5 liters"
+            }
+        ]
+    },
+    {
+        "number": "3.14",
+        "french": "trois virgule quatorze",
+        "english": "three point fourteen",
+        "pronunciation": "twah veer-gool kah-tohrz",
+        "note": "Pi (π) in French",
+        "examples": [
+            {
+                "french": "π = 3,14159...",
+                "english": "π = 3.14159..."
+            }
+        ]
+    },
+    {
+        "number": "10%",
+        "french": "dix pour cent",
+        "english": "ten percent",
+        "pronunciation": "dees poor sahn",
+        "examples": [
+            {
+                "french": "une réduction de 10%",
+                "english": "a 10% discount"
+            }
+        ]
+    },
+    {
+        "number": "50%",
+        "french": "cinquante pour cent",
+        "english": "fifty percent",
+        "pronunciation": "san-kahnt poor sahn",
+        "examples": [
+            {
+                "french": "50% de la population",
+                "english": "50% of the population"
+            }
+        ]
+    },
+    {
+        "number": "100%",
+        "french": "cent pour cent",
+        "english": "one hundred percent",
+        "pronunciation": "sahn poor sahn",
+        "examples": [
+            {
+                "french": "Je suis sûr à 100%.",
+                "english": "I'm 100% sure."
+            }
+        ]
+    },
+    {
+        "number": "×2",
+        "french": "le double",
+        "english": "double / twice",
+        "pronunciation": "luh doobl",
+        "examples": [
+            {
+                "french": "C'est le double du prix.",
+                "english": "It's double the price."
+            }
+        ]
+    },
+    {
+        "number": "×3",
+        "french": "le triple",
+        "english": "triple",
+        "pronunciation": "luh treepl",
+        "examples": [
+            {
+                "french": "le triple de la quantité",
+                "english": "triple the quantity"
+            }
+        ]
+    }
+]

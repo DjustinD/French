@@ -1,0 +1,263 @@
+[
+    {
+        "number": "1st",
+        "french": "premier / première",
+        "english": "first",
+        "pronunciation": "pruh-myay / pruh-myehr",
+        "note": "Use 'premier' for masculine, 'première' for feminine. This is irregular.",
+        "examples": [
+            {
+                "french": "le premier jour",
+                "english": "the first day"
+            },
+            {
+                "french": "la première fois",
+                "english": "the first time"
+            },
+            {
+                "french": "C'est mon premier livre.",
+                "english": "It's my first book."
+            }
+        ]
+    },
+    {
+        "number": "2nd",
+        "french": "deuxième / second(e)",
+        "english": "second",
+        "pronunciation": "duh-zyehm / suh-gohn(d)",
+        "note": "Both forms are correct. 'Second' is used when there are only two items.",
+        "examples": [
+            {
+                "french": "le deuxième étage",
+                "english": "the second floor"
+            },
+            {
+                "french": "la seconde guerre mondiale",
+                "english": "the Second World War"
+            }
+        ]
+    },
+    {
+        "number": "3rd",
+        "french": "troisième",
+        "english": "third",
+        "pronunciation": "twah-zyehm",
+        "note": "Regular formation: trois + -ième",
+        "examples": [
+            {
+                "french": "le troisième livre",
+                "english": "the third book"
+            },
+            {
+                "french": "C'est la troisième fois.",
+                "english": "It's the third time."
+            }
+        ]
+    },
+    {
+        "number": "4th",
+        "french": "quatrième",
+        "english": "fourth",
+        "pronunciation": "kat-ree-yehm",
+        "examples": [
+            {
+                "french": "le quatrième arrondissement",
+                "english": "the fourth district"
+            }
+        ]
+    },
+    {
+        "number": "5th",
+        "french": "cinquième",
+        "english": "fifth",
+        "pronunciation": "san-kyehm",
+        "note": "Drop the 'q' from cinq before adding -ième",
+        "examples": [
+            {
+                "french": "la Cinquième Avenue",
+                "english": "Fifth Avenue"
+            }
+        ]
+    },
+    {
+        "number": "6th",
+        "french": "sixième",
+        "english": "sixth",
+        "pronunciation": "see-zyehm",
+        "examples": [
+            {
+                "french": "le sixième sens",
+                "english": "the sixth sense"
+            }
+        ]
+    },
+    {
+        "number": "7th",
+        "french": "septième",
+        "english": "seventh",
+        "pronunciation": "set-yehm",
+        "examples": [
+            {
+                "french": "le septième art",
+                "english": "the seventh art (cinema)"
+            }
+        ]
+    },
+    {
+        "number": "8th",
+        "french": "huitième",
+        "english": "eighth",
+        "pronunciation": "wee-tyehm",
+        "examples": [
+            {
+                "french": "la huitième merveille du monde",
+                "english": "the eighth wonder of the world"
+            }
+        ]
+    },
+    {
+        "number": "9th",
+        "french": "neuvième",
+        "english": "ninth",
+        "pronunciation": "nuh-vyehm",
+        "note": "F changes to v: neuf → neuvième",
+        "examples": [
+            {
+                "french": "le neuvième mois",
+                "english": "the ninth month"
+            }
+        ]
+    },
+    {
+        "number": "10th",
+        "french": "dixième",
+        "english": "tenth",
+        "pronunciation": "dee-zyehm",
+        "examples": [
+            {
+                "french": "le dixième anniversaire",
+                "english": "the tenth anniversary"
+            }
+        ]
+    },
+    {
+        "number": "11th",
+        "french": "onzième",
+        "english": "eleventh",
+        "pronunciation": "ohn-zyehm",
+        "examples": [
+            {
+                "french": "le onzième étage",
+                "english": "the eleventh floor"
+            }
+        ]
+    },
+    {
+        "number": "12th",
+        "french": "douzième",
+        "english": "twelfth",
+        "pronunciation": "doo-zyehm",
+        "examples": [
+            {
+                "french": "le douzième jour",
+                "english": "the twelfth day"
+            }
+        ]
+    },
+    {
+        "number": "20th",
+        "french": "vingtième",
+        "english": "twentieth",
+        "pronunciation": "van-tyehm",
+        "examples": [
+            {
+                "french": "le vingtième siècle",
+                "english": "the twentieth century"
+            }
+        ]
+    },
+    {
+        "number": "21st",
+        "french": "vingt et unième",
+        "english": "twenty-first",
+        "pronunciation": "van-tay-oon-yehm",
+        "examples": [
+            {
+                "french": "le vingt et unième siècle",
+                "english": "the twenty-first century"
+            }
+        ]
+    },
+    {
+        "number": "30th",
+        "french": "trentième",
+        "english": "thirtieth",
+        "pronunciation": "trahn-tyehm",
+        "examples": [
+            {
+                "french": "son trentième anniversaire",
+                "english": "his/her thirtieth birthday"
+            }
+        ]
+    },
+    {
+        "number": "40th",
+        "french": "quarantième",
+        "english": "fortieth",
+        "pronunciation": "kah-rahn-tyehm",
+        "examples": [
+            {
+                "french": "le quarantième jour",
+                "english": "the fortieth day"
+            }
+        ]
+    },
+    {
+        "number": "50th",
+        "french": "cinquantième",
+        "english": "fiftieth",
+        "pronunciation": "san-kahn-tyehm",
+        "examples": [
+            {
+                "french": "le cinquantième anniversaire",
+                "english": "the fiftieth anniversary"
+            }
+        ]
+    },
+    {
+        "number": "100th",
+        "french": "centième",
+        "english": "hundredth",
+        "pronunciation": "sahn-tyehm",
+        "examples": [
+            {
+                "french": "le centième jour",
+                "english": "the hundredth day"
+            }
+        ]
+    },
+    {
+        "number": "1000th",
+        "french": "millième",
+        "english": "thousandth",
+        "pronunciation": "meel-yehm",
+        "examples": [
+            {
+                "french": "le millième visiteur",
+                "english": "the thousandth visitor"
+            }
+        ]
+    },
+    {
+        "number": "1,000,000th",
+        "french": "millionième",
+        "english": "millionth",
+        "pronunciation": "meel-yohn-yehm",
+        "examples": [
+            {
+                "french": "le millionième client",
+                "english": "the millionth customer"
+            }
+        ]
+    }
+]

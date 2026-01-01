@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Écoute Française - Pratique d'écoute</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .phrase-card {
+            background: white;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 15px 0;
+            transition: all 0.3s ease;
+        }
+        
+        .phrase-card.playing {
+            border-color: #4CAF50;
+            background-color: #f1f8f4;
+            transform: scale(1.02);
+            box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
+        }
+        
+        .french-text {
+            font-size: 1.4em;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+        
+        .english-translation {
+            font-size: 1.1em;
+            color: #7f8c8d;
+            font-style: italic;
+            margin-top: 8px;
+            padding-top: 8px;
+            border-top: 1px solid #ecf0f1;
+        }
+        
+        .control-buttons {
+            display: flex;
+            gap: 15px;
+            margin: 25px 0;
+            flex-wrap: wrap;
+        }
+        
+        .btn {
+            padding: 12px 24px;
+            font-size: 16px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-weight: 600;
+        }
+        
+        .btn-primary {
+            background-color: #4CAF50;
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background-color: #45a049;
+        }
+        
+        .btn-secondary {
+            background-color: #2196F3;
+            color: white;
+        }
+        
+        .btn-secondary:hover {
+            background-color: #0b7dda;
+        }
+        
+        .btn-danger {
+            background-color: #f44336;
+            color: white;
+        }
+        
+        .btn-danger:hover {
+            background-color: #da190b;
+        }
+        
+        .btn:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+        
+        .settings-group {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        
+        .setting-row {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin: 15px 0;
+            flex-wrap: wrap;
+        }
+        
+        .setting-row label {
+            font-weight: 600;
+            min-width: 120px;
+        }
+        
+        .setting-row input[type="range"] {
+            flex: 1;
+            min-width: 200px;
+        }
+        
+        .setting-row input[type="number"] {
+            width: 80px;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        
+        .progress-info {
+            background: #e3f2fd;
+            padding: 15px;
+            border-radius: 6px;
+            margin: 15px 0;
+            font-weight: 600;
+            color: #1976d2;
+        }
+        
+        .level-info {
+            background: #fff3e0;
+            padding: 15px;
+            border-radius: 6px;
+            margin: 15px 0;
+        }
+        
+        .level-info h3 {
+            margin: 0 0 8px 0;
+            color: #e65100;
+        }
+        
+        .level-info p {
+            margin: 5px 0;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎧 Écoute Française</h1>
+            <p class="subtitle">Pratique d'écoute avec lecture automatique</p>
+        </header>
+
+        <div class="controls">
+            <div class="control-group">
+                <label for="level-select">Choisir un niveau (Échelle Francisation Québec) :</label>
+                <select id="level-select">
+                    <option value="">-- Sélectionnez un niveau --</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="level-info" class="level-info" style="display: none;"></div>
+
+        <div class="settings-group">
+            <h3>⚙️ Paramètres de lecture</h3>
+            
+            <div class="setting-row">
+                <label for="speed">Vitesse:</label>
+                <input type="range" id="speed" min="0.5" max="1.5" step="0.1" value="0.9">
+                <span id="speed-value">0.9x</span>
+            </div>
+            
+            <div class="setting-row">
+                <label for="pause">Pause (secondes):</label>
+                <input type="number" id="pause" min="1" max="10" step="0.5" value="3">
+            </div>
+            
+            <div class="setting-row">
+                <label for="voice-select">Voix française:</label>
+                <select id="voice-select">
+                    <option value="">Chargement des voix...</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="control-buttons">
+            <button id="play-btn" class="btn btn-primary" disabled>▶️ Commencer la lecture</button>
+            <button id="pause-btn" class="btn btn-secondary" disabled>⏸️ Pause</button>
+            <button id="stop-btn" class="btn btn-danger" disabled>⏹️ Arrêter</button>
+        </div>
+
+        <div id="progress-info" class="progress-info" style="display: none;"></div>
+
+        <div id="phrases-container"></div>
+    </div>
+
+    <script>
+        let phrases = [];
+        let currentIndex = 0;
+        let isPlaying = false;
+        let isPaused = false;
+        let synthesis = window.speechSynthesis;
+        let currentUtterance = null;
+        let voices = [];
+        let selectedVoice = null;
+
+        // DOM elements
+        const levelSelect = document.getElementById('level-select');
+        const phrasesContainer = document.getElementById('phrases-container');
+        const playBtn = document.getElementById('play-btn');
+        const pauseBtn = document.getElementById('pause-btn');
+        const stopBtn = document.getElementById('stop-btn');
+        const speedSlider = document.getElementById('speed');
+        const speedValue = document.getElementById('speed-value');
+        const pauseInput = document.getElementById('pause');
+        const voiceSelect = document.getElementById('voice-select');
+        const progressInfo = document.getElementById('progress-info');
+        const levelInfo = document.getElementById('level-info');
+
+        // Load available voices
+        function loadVoices() {
+            voices = synthesis.getVoices();
+            const frenchVoices = voices.filter(voice => 
+                voice.lang.startsWith('fr') || voice.lang.startsWith('fr-')
+            );
+            
+            voiceSelect.innerHTML = '';
+            
+            if (frenchVoices.length === 0) {
+                voiceSelect.innerHTML = '<option value="">Aucune voix française trouvée</option>';
+                return;
+            }
+            
+            frenchVoices.forEach((voice, index) => {
+                const option = document.createElement('option');
+                option.value = index;
+                option.textContent = `${voice.name} (${voice.lang})`;
+                voiceSelect.appendChild(option);
+                
+                // Select first French voice by default
+                if (index === 0) {
+                    selectedVoice = voice;
+                }
+            });
+        }
+
+        // Load voices when available
+        if (synthesis.onvoiceschanged !== undefined) {
+            synthesis.onvoiceschanged = loadVoices;
+        }
+        loadVoices();
+
+        // Voice selection change
+        voiceSelect.addEventListener('change', (e) => {
+            const frenchVoices = voices.filter(voice => 
+                voice.lang.startsWith('fr') || voice.lang.startsWith('fr-')
+            );
+            selectedVoice = frenchVoices[parseInt(e.target.value)] || frenchVoices[0];
+        });
+
+        // Speed slider
+        speedSlider.addEventListener('input', (e) => {
+            speedValue.textContent = `${e.target.value}x`;
+        });
+
+        // Load levels
+        async function loadLevels() {
+            try {
+                const response = await fetch('écoute_française.json');
+                if (!response.ok) throw new Error('Impossible de charger les niveaux');
+                
+                const levels = await response.json();
+                
+                levels.forEach(level => {
+                    const option = document.createElement('option');
+                    option.value = level.file;
+                    option.dataset.name = level.name;
+                    option.dataset.description = level.description;
+                    option.dataset.cefr = level.cefr || '';
+                    option.textContent = `${level.name} - ${level.description}`;
+                    levelSelect.appendChild(option);
+                });
+                
+            } catch (error) {
+                console.error('Error loading levels:', error);
+                phrasesContainer.innerHTML = '<div class="error">Erreur de chargement des niveaux</div>';
+            }
+        }
+
+        // Load phrases for selected level
+        async function loadPhrases(filename) {
+            try {
+                phrasesContainer.innerHTML = '<div class="loading">Chargement...</div>';
+                
+                const response = await fetch(`ecoute/${filename}`);
+                if (!response.ok) throw new Error('Impossible de charger les phrases');
+                
+                const data = await response.json();
+                phrases = data.phrases || data;
+                
+                // Display level information
+                if (data.level) {
+                    levelInfo.style.display = 'block';
+                    levelInfo.innerHTML = `
+                        <h3>${data.level} ${data.cefr ? `(${data.cefr})` : ''}</h3>
+                        <p><strong>Description:</strong> ${data.description}</p>
+                        <p><strong>Nombre de phrases:</strong> ${phrases.length}</p>
+                    `;
+                } else {
+                    levelInfo.style.display = 'none';
+                }
+                
+                displayPhrases();
+                playBtn.disabled = false;
+                
+            } catch (error) {
+                console.error('Error loading phrases:', error);
+                phrasesContainer.innerHTML = '<div class="error">Erreur de chargement des phrases</div>';
+            }
+        }
+
+        // Display all phrases
+        function displayPhrases() {
+            phrasesContainer.innerHTML = '';
+            
+            phrases.forEach((phrase, index) => {
+                const card = document.createElement('div');
+                card.className = 'card phrase-card';
+                card.id = `phrase-${index}`;
+                
+                card.innerHTML = `
+                    <div class="french-text" lang="fr">${phrase.french}</div>
+                    <div class="english-translation">${phrase.english}</div>
+                `;
+                
+                phrasesContainer.appendChild(card);
+            });
+        }
+
+        // Speak a phrase
+        function speakPhrase(index) {
+            if (index >= phrases.length) {
+                stopReading();
+                alert('Lecture terminée! 🎉');
+                return;
+            }
+
+            currentIndex = index;
+            updateProgress();
+
+            // Highlight current phrase
+            document.querySelectorAll('.phrase-card').forEach(card => {
+                card.classList.remove('playing');
+            });
+            document.getElementById(`phrase-${index}`).classList.add('playing');
+            
+            // Scroll to current phrase
+            document.getElementById(`phrase-${index}`).scrollIntoView({ 
+                behavior: 'smooth', 
+                block: 'center' 
+            });
+
+            // Create utterance
+            currentUtterance = new SpeechSynthesisUtterance(phrases[index].french);
+            currentUtterance.lang = 'fr-FR';
+            currentUtterance.rate = parseFloat(speedSlider.value);
+            
+            if (selectedVoice) {
+                currentUtterance.voice = selectedVoice;
+            }
+
+            // When phrase finishes, wait and continue
+            currentUtterance.onend = () => {
+                if (isPlaying && !isPaused) {
+                    const pauseDuration = parseFloat(pauseInput.value) * 1000;
+                    setTimeout(() => {
+                        if (isPlaying && !isPaused) {
+                            speakPhrase(index + 1);
+                        }
+                    }, pauseDuration);
+                }
+            };
+
+            synthesis.speak(currentUtterance);
+        }
+
+        // Update progress display
+        function updateProgress() {
+            progressInfo.style.display = 'block';
+            progressInfo.textContent = `Phrase ${currentIndex + 1} / ${phrases.length}`;
+        }
+
+        // Start reading
+        function startReading() {
+            if (phrases.length === 0) return;
+            
+            isPlaying = true;
+            isPaused = false;
+            playBtn.disabled = true;
+            pauseBtn.disabled = false;
+            stopBtn.disabled = false;
+            levelSelect.disabled = true;
+            
+            if (currentIndex >= phrases.length) {
+                currentIndex = 0;
+            }
+            
+            speakPhrase(currentIndex);
+        }
+
+        // Pause reading
+        function pauseReading() {
+            isPaused = true;
+            synthesis.pause();
+            playBtn.disabled = false;
+            pauseBtn.disabled = true;
+        }
+
+        // Resume reading
+        function resumeReading() {
+            isPaused = false;
+            playBtn.disabled = true;
+            pauseBtn.disabled = false;
+            
+            if (synthesis.paused) {
+                synthesis.resume();
+            } else {
+                speakPhrase(currentIndex);
+            }
+        }
+
+        // Stop reading
+        function stopReading() {
+            isPlaying = false;
+            isPaused = false;
+            synthesis.cancel();
+            currentIndex = 0;
+            
+            playBtn.disabled = false;
+            pauseBtn.disabled = true;
+            stopBtn.disabled = true;
+            levelSelect.disabled = false;
+            
+            document.querySelectorAll('.phrase-card').forEach(card => {
+                card.classList.remove('playing');
+            });
+            
+            progressInfo.style.display = 'none';
+        }
+
+        // Event listeners
+        playBtn.addEventListener('click', () => {
+            if (isPaused) {
+                resumeReading();
+            } else {
+                startReading();
+            }
+        });
+
+        pauseBtn.addEventListener('click', pauseReading);
+        stopBtn.addEventListener('click', stopReading);
+
+        levelSelect.addEventListener('change', (e) => {
+            const selectedFile = e.target.value;
+            if (selectedFile) {
+                stopReading();
+                loadPhrases(selectedFile);
+            } else {
+                phrasesContainer.innerHTML = '';
+                levelInfo.style.display = 'none';
+                playBtn.disabled = true;
+            }
+        });
+
+        // Initialize
+        loadLevels();
+    </script>
+</body>
+</html>
