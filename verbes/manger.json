@@ -1,0 +1,460 @@
+{
+  "infinitive": "manger",
+  "english": "to eat",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "mange",
+              "english": "I eat",
+              "sentence": "Je mange une pomme.",
+              "sentenceEnglish": "I eat an apple."
+            },
+            "tu": {
+              "form": "manges",
+              "english": "you eat",
+              "sentence": "Tu manges bien?",
+              "sentenceEnglish": "Do you eat well?"
+            },
+            "il/elle": {
+              "form": "mange",
+              "english": "he/she eats",
+              "sentence": "Elle mange du pain.",
+              "sentenceEnglish": "She eats bread."
+            },
+            "on": {
+              "form": "mange",
+              "english": "we eat",
+              "sentence": "On mange ensemble.",
+              "sentenceEnglish": "We eat together."
+            },
+            "nous": {
+              "form": "mangeons",
+              "english": "we eat",
+              "sentence": "Nous mangeons au restaurant.",
+              "sentenceEnglish": "We eat at the restaurant."
+            },
+            "vous": {
+              "form": "mangez",
+              "english": "you eat",
+              "sentence": "Vous mangez quoi?",
+              "sentenceEnglish": "What do you eat?"
+            },
+            "ils/elles": {
+              "form": "mangent",
+              "english": "they eat",
+              "sentence": "Ils mangent beaucoup.",
+              "sentenceEnglish": "They eat a lot."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de manger",
+              "english": "I am eating",
+              "sentence": "Je suis en train de manger.",
+              "sentenceEnglish": "I am eating."
+            },
+            "tu": {
+              "form": "es en train de manger",
+              "english": "you are eating",
+              "sentence": "Tu es en train de manger?",
+              "sentenceEnglish": "Are you eating?"
+            },
+            "il/elle": {
+              "form": "est en train de manger",
+              "english": "he/she is eating",
+              "sentence": "Elle est en train de manger.",
+              "sentenceEnglish": "She is eating."
+            },
+            "on": {
+              "form": "est en train de manger",
+              "english": "we are eating",
+              "sentence": "On est en train de manger.",
+              "sentenceEnglish": "We are eating."
+            },
+            "nous": {
+              "form": "sommes en train de manger",
+              "english": "we are eating",
+              "sentence": "Nous sommes en train de manger.",
+              "sentenceEnglish": "We are eating."
+            },
+            "vous": {
+              "form": "êtes en train de manger",
+              "english": "you are eating",
+              "sentence": "Vous êtes en train de manger?",
+              "sentenceEnglish": "Are you eating?"
+            },
+            "ils/elles": {
+              "form": "sont en train de manger",
+              "english": "they are eating",
+              "sentence": "Ils sont en train de manger.",
+              "sentenceEnglish": "They are eating."
+            }
+          }
+        }
+      },
+      "note": "Spelling change: e inserted after g before o. Pattern: je mange, tu manges, il/elle mange, nous mangeons, vous mangez, ils/elles mangent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai mangé",
+              "english": "I ate / I have eaten",
+              "sentence": "J'ai mangé une pomme.",
+              "sentenceEnglish": "I ate an apple."
+            },
+            "tu": {
+              "form": "as mangé",
+              "english": "you ate / you have eaten",
+              "sentence": "Tu as mangé?",
+              "sentenceEnglish": "Did you eat?"
+            },
+            "il/elle": {
+              "form": "a mangé",
+              "english": "he/she ate / has eaten",
+              "sentence": "Elle a mangé du pain.",
+              "sentenceEnglish": "She ate bread."
+            },
+            "on": {
+              "form": "a mangé",
+              "english": "we ate / we have eaten",
+              "sentence": "On a mangé ensemble.",
+              "sentenceEnglish": "We ate together."
+            },
+            "nous": {
+              "form": "avons mangé",
+              "english": "we ate / we have eaten",
+              "sentence": "Nous avons mangé au restaurant.",
+              "sentenceEnglish": "We ate at the restaurant."
+            },
+            "vous": {
+              "form": "avez mangé",
+              "english": "you ate / you have eaten",
+              "sentence": "Vous avez mangé quoi?",
+              "sentenceEnglish": "What did you eat?"
+            },
+            "ils/elles": {
+              "form": "ont mangé",
+              "english": "they ate / they have eaten",
+              "sentence": "Ils ont mangé beaucoup.",
+              "sentenceEnglish": "They ate a lot."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "mangeais",
+              "english": "I ate / I was eating / I used to eat",
+              "sentence": "Je mangeais bien.",
+              "sentenceEnglish": "I used to eat well."
+            },
+            "tu": {
+              "form": "mangeais",
+              "english": "you ate / you were eating / you used to eat",
+              "sentence": "Tu mangeais beaucoup?",
+              "sentenceEnglish": "Did you eat a lot?"
+            },
+            "il/elle": {
+              "form": "mangeait",
+              "english": "he/she ate / was eating / used to eat",
+              "sentence": "Elle mangeait du pain.",
+              "sentenceEnglish": "She used to eat bread."
+            },
+            "on": {
+              "form": "mangeait",
+              "english": "we ate / we were eating / we used to eat",
+              "sentence": "On mangeait ensemble.",
+              "sentenceEnglish": "We used to eat together."
+            },
+            "nous": {
+              "form": "mangions",
+              "english": "we ate / we were eating / we used to eat",
+              "sentence": "Nous mangions au restaurant.",
+              "sentenceEnglish": "We used to eat at the restaurant."
+            },
+            "vous": {
+              "form": "mangiez",
+              "english": "you ate / you were eating / you used to eat",
+              "sentence": "Vous mangiez quoi?",
+              "sentenceEnglish": "What did you eat?"
+            },
+            "ils/elles": {
+              "form": "mangeaient",
+              "english": "they ate / they were eating / they used to eat",
+              "sentence": "Ils mangeaient beaucoup.",
+              "sentenceEnglish": "They used to eat a lot."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais mangé",
+              "english": "I had eaten",
+              "sentence": "J'avais mangé avant.",
+              "sentenceEnglish": "I had eaten before."
+            },
+            "tu": {
+              "form": "avais mangé",
+              "english": "you had eaten",
+              "sentence": "Tu avais mangé?",
+              "sentenceEnglish": "Had you eaten?"
+            },
+            "il/elle": {
+              "form": "avait mangé",
+              "english": "he/she had eaten",
+              "sentence": "Elle avait mangé.",
+              "sentenceEnglish": "She had eaten."
+            },
+            "on": {
+              "form": "avait mangé",
+              "english": "we had eaten",
+              "sentence": "On avait mangé ensemble.",
+              "sentenceEnglish": "We had eaten together."
+            },
+            "nous": {
+              "form": "avions mangé",
+              "english": "we had eaten",
+              "sentence": "Nous avions mangé.",
+              "sentenceEnglish": "We had eaten."
+            },
+            "vous": {
+              "form": "aviez mangé",
+              "english": "you had eaten",
+              "sentence": "Vous aviez mangé?",
+              "sentenceEnglish": "Had you eaten?"
+            },
+            "ils/elles": {
+              "form": "avaient mangé",
+              "english": "they had eaten",
+              "sentence": "Ils avaient mangé.",
+              "sentenceEnglish": "They had eaten."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "mangeai",
+              "english": "I ate",
+              "sentence": "Je mangeai seul.",
+              "sentenceEnglish": "I ate alone."
+            },
+            "tu": {
+              "form": "mangeas",
+              "english": "you ate",
+              "sentence": "Tu mangeas bien.",
+              "sentenceEnglish": "You ate well."
+            },
+            "il/elle": {
+              "form": "mangea",
+              "english": "he/she ate",
+              "sentence": "Il mangea beaucoup.",
+              "sentenceEnglish": "He ate a lot."
+            },
+            "on": {
+              "form": "mangea",
+              "english": "we ate",
+              "sentence": "On mangea ensemble.",
+              "sentenceEnglish": "We ate together."
+            },
+            "nous": {
+              "form": "mangeâmes",
+              "english": "we ate",
+              "sentence": "Nous mangeâmes.",
+              "sentenceEnglish": "We ate."
+            },
+            "vous": {
+              "form": "mangeâtes",
+              "english": "you ate",
+              "sentence": "Vous mangeâtes.",
+              "sentenceEnglish": "You ate."
+            },
+            "ils/elles": {
+              "form": "mangèrent",
+              "english": "they ate",
+              "sentence": "Ils mangèrent.",
+              "sentenceEnglish": "They ate."
+            }
+          }
+        }
+      },
+      "note": "Regular past participle 'mangé'. Spelling change in imparfait: e inserted after g before a. Imparfait: je mangeais, tu mangeais, il/elle mangeait, nous mangions, vous mangiez, ils/elles mangeaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "mangerai",
+              "english": "I will eat",
+              "sentence": "Je mangerai plus tard.",
+              "sentenceEnglish": "I will eat later."
+            },
+            "tu": {
+              "form": "mangeras",
+              "english": "you will eat",
+              "sentence": "Tu mangeras quoi?",
+              "sentenceEnglish": "What will you eat?"
+            },
+            "il/elle": {
+              "form": "mangera",
+              "english": "he/she will eat",
+              "sentence": "Il mangera bien.",
+              "sentenceEnglish": "He will eat well."
+            },
+            "on": {
+              "form": "mangera",
+              "english": "we will eat",
+              "sentence": "On mangera ensemble.",
+              "sentenceEnglish": "We will eat together."
+            },
+            "nous": {
+              "form": "mangerons",
+              "english": "we will eat",
+              "sentence": "Nous mangerons au restaurant.",
+              "sentenceEnglish": "We will eat at the restaurant."
+            },
+            "vous": {
+              "form": "mangerez",
+              "english": "you will eat",
+              "sentence": "Vous mangerez avec nous?",
+              "sentenceEnglish": "Will you eat with us?"
+            },
+            "ils/elles": {
+              "form": "mangeront",
+              "english": "they will eat",
+              "sentence": "Elles mangeront beaucoup.",
+              "sentenceEnglish": "They will eat a lot."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais manger",
+              "english": "I am going to eat",
+              "sentence": "Je vais manger maintenant.",
+              "sentenceEnglish": "I am going to eat now."
+            },
+            "tu": {
+              "form": "vas manger",
+              "english": "you are going to eat",
+              "sentence": "Tu vas manger?",
+              "sentenceEnglish": "Are you going to eat?"
+            },
+            "il/elle": {
+              "form": "va manger",
+              "english": "he/she is going to eat",
+              "sentence": "Elle va manger.",
+              "sentenceEnglish": "She is going to eat."
+            },
+            "on": {
+              "form": "va manger",
+              "english": "we are going to eat",
+              "sentence": "On va manger ensemble.",
+              "sentenceEnglish": "We are going to eat together."
+            },
+            "nous": {
+              "form": "allons manger",
+              "english": "we are going to eat",
+              "sentence": "Nous allons manger.",
+              "sentenceEnglish": "We are going to eat."
+            },
+            "vous": {
+              "form": "allez manger",
+              "english": "you are going to eat",
+              "sentence": "Vous allez manger?",
+              "sentenceEnglish": "Are you going to eat?"
+            },
+            "ils/elles": {
+              "form": "vont manger",
+              "english": "they are going to eat",
+              "sentence": "Ils vont manger.",
+              "sentenceEnglish": "They are going to eat."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai mangé",
+              "english": "I will have eaten",
+              "sentence": "J'aurai mangé avant toi.",
+              "sentenceEnglish": "I will have eaten before you."
+            },
+            "tu": {
+              "form": "auras mangé",
+              "english": "you will have eaten",
+              "sentence": "Tu auras mangé?",
+              "sentenceEnglish": "Will you have eaten?"
+            },
+            "il/elle": {
+              "form": "aura mangé",
+              "english": "he/she will have eaten",
+              "sentence": "Elle aura mangé.",
+              "sentenceEnglish": "She will have eaten."
+            },
+            "on": {
+              "form": "aura mangé",
+              "english": "we will have eaten",
+              "sentence": "On aura mangé.",
+              "sentenceEnglish": "We will have eaten."
+            },
+            "nous": {
+              "form": "aurons mangé",
+              "english": "we will have eaten",
+              "sentence": "Nous aurons mangé.",
+              "sentenceEnglish": "We will have eaten."
+            },
+            "vous": {
+              "form": "aurez mangé",
+              "english": "you will have eaten",
+              "sentence": "Vous aurez mangé?",
+              "sentenceEnglish": "Will you have eaten?"
+            },
+            "ils/elles": {
+              "form": "auront mangé",
+              "english": "they will have eaten",
+              "sentence": "Ils auront mangé.",
+              "sentenceEnglish": "They will have eaten."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'manger-': je mangerai, tu mangeras, il/elle mangera, nous mangerons, vous mangerez, ils/elles mangeront"
+    }
+  }
+}

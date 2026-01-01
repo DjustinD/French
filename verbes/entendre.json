@@ -1,0 +1,460 @@
+{
+  "infinitive": "entendre",
+  "english": "to hear",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "entends",
+              "english": "I hear",
+              "sentence": "J'entends du bruit.",
+              "sentenceEnglish": "I hear noise."
+            },
+            "tu": {
+              "form": "entends",
+              "english": "you hear",
+              "sentence": "Tu entends?",
+              "sentenceEnglish": "Do you hear?"
+            },
+            "il/elle": {
+              "form": "entend",
+              "english": "he/she hears",
+              "sentence": "Elle entend bien.",
+              "sentenceEnglish": "She hears well."
+            },
+            "on": {
+              "form": "entend",
+              "english": "we hear",
+              "sentence": "On entend des voix.",
+              "sentenceEnglish": "We hear voices."
+            },
+            "nous": {
+              "form": "entendons",
+              "english": "we hear",
+              "sentence": "Nous entendons tout.",
+              "sentenceEnglish": "We hear everything."
+            },
+            "vous": {
+              "form": "entendez",
+              "english": "you hear",
+              "sentence": "Vous entendez quelque chose?",
+              "sentenceEnglish": "Do you hear something?"
+            },
+            "ils/elles": {
+              "form": "entendent",
+              "english": "they hear",
+              "sentence": "Ils entendent de la musique.",
+              "sentenceEnglish": "They hear music."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de entendre",
+              "english": "I hearing",
+              "sentence": "Je suis en train de entendre.",
+              "sentenceEnglish": "I hearing."
+            },
+            "tu": {
+              "form": "es en train de entendre",
+              "english": "you hearing",
+              "sentence": "Tu es en train de entendre.",
+              "sentenceEnglish": "you hearing."
+            },
+            "il/elle": {
+              "form": "est en train de entendre",
+              "english": "he/she hearsing",
+              "sentence": "Elle est en train de entendre.",
+              "sentenceEnglish": "he/she hearsing."
+            },
+            "on": {
+              "form": "est en train de entendre",
+              "english": "we hearing",
+              "sentence": "On est en train de entendre.",
+              "sentenceEnglish": "we hearing."
+            },
+            "nous": {
+              "form": "sommes en train de entendre",
+              "english": "we hearing",
+              "sentence": "Nous sommes en train de entendre.",
+              "sentenceEnglish": "we hearing."
+            },
+            "vous": {
+              "form": "êtes en train de entendre",
+              "english": "you hearing",
+              "sentence": "Vous êtes en train de entendre.",
+              "sentenceEnglish": "you hearing."
+            },
+            "ils/elles": {
+              "form": "sont en train de entendre",
+              "english": "they hearing",
+              "sentence": "Ils sont en train de entendre.",
+              "sentenceEnglish": "they hearing."
+            }
+          }
+        }
+      },
+      "note": "Regular -re verb. Pattern: je entends, tu entends, il/elle entend, nous entendons, vous entendez, ils/elles entendent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai entendu",
+              "english": "I heared",
+              "sentence": "J'ai entendu.",
+              "sentenceEnglish": "I heared."
+            },
+            "tu": {
+              "form": "as entendu",
+              "english": "you heared",
+              "sentence": "Tu as entendu.",
+              "sentenceEnglish": "you heared."
+            },
+            "il/elle": {
+              "form": "a entendu",
+              "english": "he/she hearsed",
+              "sentence": "Elle a entendu.",
+              "sentenceEnglish": "he/she hearsed."
+            },
+            "on": {
+              "form": "a entendu",
+              "english": "we heared",
+              "sentence": "On a entendu.",
+              "sentenceEnglish": "we heared."
+            },
+            "nous": {
+              "form": "avons entendu",
+              "english": "we heared",
+              "sentence": "Nous avons entendu.",
+              "sentenceEnglish": "we heared."
+            },
+            "vous": {
+              "form": "avez entendu",
+              "english": "you heared",
+              "sentence": "Vous avez entendu.",
+              "sentenceEnglish": "you heared."
+            },
+            "ils/elles": {
+              "form": "ont entendu",
+              "english": "they heared",
+              "sentence": "Ils ont entendu.",
+              "sentenceEnglish": "they heared."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "entendais",
+              "english": "used to I hear",
+              "sentence": "Je entendais souvent.",
+              "sentenceEnglish": "I used to I hear often."
+            },
+            "tu": {
+              "form": "entendais",
+              "english": "used to you hear",
+              "sentence": "Tu entendais?",
+              "sentenceEnglish": "Did you you hear?"
+            },
+            "il/elle": {
+              "form": "entendait",
+              "english": "used to he/she hears",
+              "sentence": "Elle entendait toujours.",
+              "sentenceEnglish": "She always used to he/she hears."
+            },
+            "on": {
+              "form": "entendait",
+              "english": "used to we hear",
+              "sentence": "On entendait ensemble.",
+              "sentenceEnglish": "We used to we hear together."
+            },
+            "nous": {
+              "form": "entendions",
+              "english": "used to we hear",
+              "sentence": "Nous entendions.",
+              "sentenceEnglish": "We used to we hear."
+            },
+            "vous": {
+              "form": "entendiez",
+              "english": "used to you hear",
+              "sentence": "Vous entendiez?",
+              "sentenceEnglish": "Did you you hear?"
+            },
+            "ils/elles": {
+              "form": "entendaient",
+              "english": "used to they hear",
+              "sentence": "Ils entendaient.",
+              "sentenceEnglish": "They used to they hear."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais entendu",
+              "english": "had I heared",
+              "sentence": "J'avais entendu.",
+              "sentenceEnglish": "I had I heared."
+            },
+            "tu": {
+              "form": "avais entendu",
+              "english": "had you heared",
+              "sentence": "Tu avais entendu.",
+              "sentenceEnglish": "You had you heared."
+            },
+            "il/elle": {
+              "form": "avait entendu",
+              "english": "had he/she hearsed",
+              "sentence": "Elle avait entendu.",
+              "sentenceEnglish": "She had he/she hearsed."
+            },
+            "on": {
+              "form": "avait entendu",
+              "english": "had we heared",
+              "sentence": "On avait entendu.",
+              "sentenceEnglish": "We had we heared."
+            },
+            "nous": {
+              "form": "avions entendu",
+              "english": "had we heared",
+              "sentence": "Nous avions entendu.",
+              "sentenceEnglish": "We had we heared."
+            },
+            "vous": {
+              "form": "aviez entendu",
+              "english": "had you heared",
+              "sentence": "Vous aviez entendu.",
+              "sentenceEnglish": "You had you heared."
+            },
+            "ils/elles": {
+              "form": "avaient entendu",
+              "english": "had they heared",
+              "sentence": "Ils avaient entendu.",
+              "sentenceEnglish": "They had they heared."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "entendis",
+              "english": "I heared",
+              "sentence": "Je entendis.",
+              "sentenceEnglish": "I I heared."
+            },
+            "tu": {
+              "form": "entendis",
+              "english": "you heared",
+              "sentence": "Tu entendis.",
+              "sentenceEnglish": "You you heared."
+            },
+            "il/elle": {
+              "form": "entendit",
+              "english": "he/she hearsed",
+              "sentence": "Il entendit.",
+              "sentenceEnglish": "He he/she hearsed."
+            },
+            "on": {
+              "form": "entendit",
+              "english": "we heared",
+              "sentence": "On entendit.",
+              "sentenceEnglish": "We we heared."
+            },
+            "nous": {
+              "form": "entendîmes",
+              "english": "we heared",
+              "sentence": "Nous entendîmes.",
+              "sentenceEnglish": "We we heared."
+            },
+            "vous": {
+              "form": "entendîtes",
+              "english": "you heared",
+              "sentence": "Vous entendîtes.",
+              "sentenceEnglish": "You you heared."
+            },
+            "ils/elles": {
+              "form": "entendirent",
+              "english": "they heared",
+              "sentence": "Ils entendirent.",
+              "sentenceEnglish": "They they heared."
+            }
+          }
+        }
+      },
+      "note": "Regular past participle 'entendu'. Imparfait stem 'entend-': je entendais, tu entendais, il/elle entendait, nous entendions, vous entendiez, ils/elles entendaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "entendrai",
+              "english": "will I hear",
+              "sentence": "Je entendrai.",
+              "sentenceEnglish": "I will I hear."
+            },
+            "tu": {
+              "form": "entendras",
+              "english": "will you hear",
+              "sentence": "Tu entendras.",
+              "sentenceEnglish": "You will you hear."
+            },
+            "il/elle": {
+              "form": "entendra",
+              "english": "will he/she hears",
+              "sentence": "Il entendra.",
+              "sentenceEnglish": "He will he/she hears."
+            },
+            "on": {
+              "form": "entendra",
+              "english": "will we hear",
+              "sentence": "On entendra.",
+              "sentenceEnglish": "We will we hear."
+            },
+            "nous": {
+              "form": "entendrons",
+              "english": "will we hear",
+              "sentence": "Nous entendrons.",
+              "sentenceEnglish": "We will we hear."
+            },
+            "vous": {
+              "form": "entendrez",
+              "english": "will you hear",
+              "sentence": "Vous entendrez.",
+              "sentenceEnglish": "You will you hear."
+            },
+            "ils/elles": {
+              "form": "entendront",
+              "english": "will they hear",
+              "sentence": "Elles entendront.",
+              "sentenceEnglish": "They will they hear."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais entendre",
+              "english": "going to I hear",
+              "sentence": "Je vais entendre.",
+              "sentenceEnglish": "I am going to I hear."
+            },
+            "tu": {
+              "form": "vas entendre",
+              "english": "going to you hear",
+              "sentence": "Tu vas entendre.",
+              "sentenceEnglish": "You are going to you hear."
+            },
+            "il/elle": {
+              "form": "va entendre",
+              "english": "going to he/she hears",
+              "sentence": "Elle va entendre.",
+              "sentenceEnglish": "She is going to he/she hears."
+            },
+            "on": {
+              "form": "va entendre",
+              "english": "going to we hear",
+              "sentence": "On va entendre.",
+              "sentenceEnglish": "We are going to we hear."
+            },
+            "nous": {
+              "form": "allons entendre",
+              "english": "going to we hear",
+              "sentence": "Nous allons entendre.",
+              "sentenceEnglish": "We are going to we hear."
+            },
+            "vous": {
+              "form": "allez entendre",
+              "english": "going to you hear",
+              "sentence": "Vous allez entendre.",
+              "sentenceEnglish": "You are going to you hear."
+            },
+            "ils/elles": {
+              "form": "vont entendre",
+              "english": "going to they hear",
+              "sentence": "Ils vont entendre.",
+              "sentenceEnglish": "They are going to they hear."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai entendu",
+              "english": "will have I heared",
+              "sentence": "J'aurai entendu.",
+              "sentenceEnglish": "I will have I heared."
+            },
+            "tu": {
+              "form": "auras entendu",
+              "english": "will have you heared",
+              "sentence": "Tu auras entendu.",
+              "sentenceEnglish": "You will have you heared."
+            },
+            "il/elle": {
+              "form": "aura entendu",
+              "english": "will have he/she hearsed",
+              "sentence": "Elle aura entendu.",
+              "sentenceEnglish": "She will have he/she hearsed."
+            },
+            "on": {
+              "form": "aura entendu",
+              "english": "will have we heared",
+              "sentence": "On aura entendu.",
+              "sentenceEnglish": "We will have we heared."
+            },
+            "nous": {
+              "form": "aurons entendu",
+              "english": "will have we heared",
+              "sentence": "Nous aurons entendu.",
+              "sentenceEnglish": "We will have we heared."
+            },
+            "vous": {
+              "form": "aurez entendu",
+              "english": "will have you heared",
+              "sentence": "Vous aurez entendu.",
+              "sentenceEnglish": "You will have you heared."
+            },
+            "ils/elles": {
+              "form": "auront entendu",
+              "english": "will have they heared",
+              "sentence": "Ils auront entendu.",
+              "sentenceEnglish": "They will have they heared."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'entendr-': je entendrai, tu entendras, il/elle entendra, nous entendrons, vous entendrez, ils/elles entendront"
+    }
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "infinitive": "fermer",
+  "english": "to close / to shut",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "ferme",
+              "english": "I close",
+              "sentence": "Je ferme la porte.",
+              "sentenceEnglish": "I close the door."
+            },
+            "tu": {
+              "form": "fermes",
+              "english": "you close",
+              "sentence": "Tu fermes la fenêtre?",
+              "sentenceEnglish": "Do you close the window?"
+            },
+            "il/elle": {
+              "form": "ferme",
+              "english": "he/she closes",
+              "sentence": "Elle ferme le magasin.",
+              "sentenceEnglish": "She closes the store."
+            },
+            "on": {
+              "form": "ferme",
+              "english": "we close",
+              "sentence": "On ferme à dix heures.",
+              "sentenceEnglish": "We close at ten o'clock."
+            },
+            "nous": {
+              "form": "fermons",
+              "english": "we close",
+              "sentence": "Nous fermons les yeux.",
+              "sentenceEnglish": "We close our eyes."
+            },
+            "vous": {
+              "form": "fermez",
+              "english": "you close",
+              "sentence": "Vous fermez le livre?",
+              "sentenceEnglish": "Do you close the book?"
+            },
+            "ils/elles": {
+              "form": "ferment",
+              "english": "they close",
+              "sentence": "Ils ferment la boutique.",
+              "sentenceEnglish": "They close the shop."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de fermer",
+              "english": "I am closeing",
+              "sentence": "Je suis en train de fermer.",
+              "sentenceEnglish": "I am closeing."
+            },
+            "tu": {
+              "form": "es en train de fermer",
+              "english": "you are closeing",
+              "sentence": "Tu es en train de fermer.",
+              "sentenceEnglish": "You are closeing."
+            },
+            "il/elle": {
+              "form": "est en train de fermer",
+              "english": "he/she is closesing",
+              "sentence": "Elle est en train de fermer.",
+              "sentenceEnglish": "She is closesing."
+            },
+            "on": {
+              "form": "est en train de fermer",
+              "english": "we are closeing",
+              "sentence": "On est en train de fermer.",
+              "sentenceEnglish": "We are closeing."
+            },
+            "nous": {
+              "form": "sommes en train de fermer",
+              "english": "we are closeing",
+              "sentence": "Nous sommes en train de fermer.",
+              "sentenceEnglish": "We are closeing."
+            },
+            "vous": {
+              "form": "êtes en train de fermer",
+              "english": "you are closeing",
+              "sentence": "Vous êtes en train de fermer.",
+              "sentenceEnglish": "You are closeing."
+            },
+            "ils/elles": {
+              "form": "sont en train de fermer",
+              "english": "they are closeing",
+              "sentence": "Ils sont en train de fermer.",
+              "sentenceEnglish": "They are closeing."
+            }
+          }
+        }
+      },
+      "note": "Regular -er verb. Pattern: je ferme, tu fermes, il/elle ferme, nous fermons, vous fermez, ils/elles ferment"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai fermé",
+              "english": "I closeed / I have closeed",
+              "sentence": "J'ai fermé.",
+              "sentenceEnglish": "I closeed."
+            },
+            "tu": {
+              "form": "as fermé",
+              "english": "you closeed / you have closeed",
+              "sentence": "Tu as fermé.",
+              "sentenceEnglish": "You closeed."
+            },
+            "il/elle": {
+              "form": "a fermé",
+              "english": "he/she closesed / has closesed",
+              "sentence": "Elle a fermé.",
+              "sentenceEnglish": "She closesed."
+            },
+            "on": {
+              "form": "a fermé",
+              "english": "we closeed / we have closeed",
+              "sentence": "On a fermé.",
+              "sentenceEnglish": "We closeed."
+            },
+            "nous": {
+              "form": "avons fermé",
+              "english": "we closeed / we have closeed",
+              "sentence": "Nous avons fermé.",
+              "sentenceEnglish": "We closeed."
+            },
+            "vous": {
+              "form": "avez fermé",
+              "english": "you closeed / you have closeed",
+              "sentence": "Vous avez fermé.",
+              "sentenceEnglish": "You closeed."
+            },
+            "ils/elles": {
+              "form": "ont fermé",
+              "english": "they closeed / they have closeed",
+              "sentence": "Ils ont fermé.",
+              "sentenceEnglish": "They closeed."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "fermais",
+              "english": "I closeed / I was closeing / I used to close",
+              "sentence": "Je fermais souvent.",
+              "sentenceEnglish": "I often used to close."
+            },
+            "tu": {
+              "form": "fermais",
+              "english": "you closeed / you were closeing / you used to close",
+              "sentence": "Tu fermais souvent?",
+              "sentenceEnglish": "Did you often close?"
+            },
+            "il/elle": {
+              "form": "fermait",
+              "english": "he/she closesed / was closesing / used to closes",
+              "sentence": "Elle fermait toujours.",
+              "sentenceEnglish": "She always used to closes."
+            },
+            "on": {
+              "form": "fermait",
+              "english": "we closeed / we were closeing / we used to close",
+              "sentence": "On fermait ensemble.",
+              "sentenceEnglish": "We used to close together."
+            },
+            "nous": {
+              "form": "fermions",
+              "english": "we closeed / we were closeing / we used to close",
+              "sentence": "Nous fermions souvent.",
+              "sentenceEnglish": "We often used to close."
+            },
+            "vous": {
+              "form": "fermiez",
+              "english": "you closeed / you were closeing / you used to close",
+              "sentence": "Vous fermiez souvent?",
+              "sentenceEnglish": "Did you often close?"
+            },
+            "ils/elles": {
+              "form": "fermaient",
+              "english": "they closeed / they were closeing / they used to close",
+              "sentence": "Ils fermaient ensemble.",
+              "sentenceEnglish": "They used to close together."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais fermé",
+              "english": "I had closeed",
+              "sentence": "J'avais fermé.",
+              "sentenceEnglish": "I had closeed."
+            },
+            "tu": {
+              "form": "avais fermé",
+              "english": "you had closeed",
+              "sentence": "Tu avais fermé.",
+              "sentenceEnglish": "You had closeed."
+            },
+            "il/elle": {
+              "form": "avait fermé",
+              "english": "he/she had closesed",
+              "sentence": "Elle avait fermé.",
+              "sentenceEnglish": "She had closesed."
+            },
+            "on": {
+              "form": "avait fermé",
+              "english": "we had closeed",
+              "sentence": "On avait fermé.",
+              "sentenceEnglish": "We had closeed."
+            },
+            "nous": {
+              "form": "avions fermé",
+              "english": "we had closeed",
+              "sentence": "Nous avions fermé.",
+              "sentenceEnglish": "We had closeed."
+            },
+            "vous": {
+              "form": "aviez fermé",
+              "english": "you had closeed",
+              "sentence": "Vous aviez fermé.",
+              "sentenceEnglish": "You had closeed."
+            },
+            "ils/elles": {
+              "form": "avaient fermé",
+              "english": "they had closeed",
+              "sentence": "Ils avaient fermé.",
+              "sentenceEnglish": "They had closeed."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "fermai",
+              "english": "I closeed",
+              "sentence": "Je fermai.",
+              "sentenceEnglish": "I closeed."
+            },
+            "tu": {
+              "form": "fermas",
+              "english": "you closeed",
+              "sentence": "Tu fermas.",
+              "sentenceEnglish": "You closeed."
+            },
+            "il/elle": {
+              "form": "ferma",
+              "english": "he/she closesed",
+              "sentence": "Il ferma.",
+              "sentenceEnglish": "He closesed."
+            },
+            "on": {
+              "form": "ferma",
+              "english": "we closeed",
+              "sentence": "On ferma.",
+              "sentenceEnglish": "We closeed."
+            },
+            "nous": {
+              "form": "fermâmes",
+              "english": "we closeed",
+              "sentence": "Nous fermâmes.",
+              "sentenceEnglish": "We closeed."
+            },
+            "vous": {
+              "form": "fermâtes",
+              "english": "you closeed",
+              "sentence": "Vous fermâtes.",
+              "sentenceEnglish": "You closeed."
+            },
+            "ils/elles": {
+              "form": "fermèrent",
+              "english": "they closeed",
+              "sentence": "Ils fermèrent.",
+              "sentenceEnglish": "They closeed."
+            }
+          }
+        }
+      },
+      "note": "Regular past participle 'fermé'. Imparfait stem 'ferm-' (from infinitive): je fermais, tu fermais, il/elle fermait, nous fermions, vous fermiez, ils/elles fermaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "fermerai",
+              "english": "I will close",
+              "sentence": "Je fermerai.",
+              "sentenceEnglish": "I will close."
+            },
+            "tu": {
+              "form": "fermeras",
+              "english": "you will close",
+              "sentence": "Tu fermeras.",
+              "sentenceEnglish": "You will close."
+            },
+            "il/elle": {
+              "form": "fermera",
+              "english": "he/she will closes",
+              "sentence": "Il fermera.",
+              "sentenceEnglish": "He will closes."
+            },
+            "on": {
+              "form": "fermera",
+              "english": "we will close",
+              "sentence": "On fermera.",
+              "sentenceEnglish": "We will close."
+            },
+            "nous": {
+              "form": "fermerons",
+              "english": "we will close",
+              "sentence": "Nous fermerons.",
+              "sentenceEnglish": "We will close."
+            },
+            "vous": {
+              "form": "fermerez",
+              "english": "you will close",
+              "sentence": "Vous fermerez.",
+              "sentenceEnglish": "You will close."
+            },
+            "ils/elles": {
+              "form": "fermeront",
+              "english": "they will close",
+              "sentence": "Elles fermeront.",
+              "sentenceEnglish": "They will close."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais fermer",
+              "english": "I am going to close",
+              "sentence": "Je vais fermer.",
+              "sentenceEnglish": "I am going to close."
+            },
+            "tu": {
+              "form": "vas fermer",
+              "english": "you are going to close",
+              "sentence": "Tu vas fermer.",
+              "sentenceEnglish": "You are going to close."
+            },
+            "il/elle": {
+              "form": "va fermer",
+              "english": "he/she is going to closes",
+              "sentence": "Elle va fermer.",
+              "sentenceEnglish": "She is going to closes."
+            },
+            "on": {
+              "form": "va fermer",
+              "english": "we are going to close",
+              "sentence": "On va fermer.",
+              "sentenceEnglish": "We are going to close."
+            },
+            "nous": {
+              "form": "allons fermer",
+              "english": "we are going to close",
+              "sentence": "Nous allons fermer.",
+              "sentenceEnglish": "We are going to close."
+            },
+            "vous": {
+              "form": "allez fermer",
+              "english": "you are going to close",
+              "sentence": "Vous allez fermer.",
+              "sentenceEnglish": "You are going to close."
+            },
+            "ils/elles": {
+              "form": "vont fermer",
+              "english": "they are going to close",
+              "sentence": "Ils vont fermer.",
+              "sentenceEnglish": "They are going to close."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai fermé",
+              "english": "I will have closeed",
+              "sentence": "J'aurai fermé.",
+              "sentenceEnglish": "I will have closeed."
+            },
+            "tu": {
+              "form": "auras fermé",
+              "english": "you will have closeed",
+              "sentence": "Tu auras fermé.",
+              "sentenceEnglish": "You will have closeed."
+            },
+            "il/elle": {
+              "form": "aura fermé",
+              "english": "he/she will have closesed",
+              "sentence": "Elle aura fermé.",
+              "sentenceEnglish": "She will have closesed."
+            },
+            "on": {
+              "form": "aura fermé",
+              "english": "we will have closeed",
+              "sentence": "On aura fermé.",
+              "sentenceEnglish": "We will have closeed."
+            },
+            "nous": {
+              "form": "aurons fermé",
+              "english": "we will have closeed",
+              "sentence": "Nous aurons fermé.",
+              "sentenceEnglish": "We will have closeed."
+            },
+            "vous": {
+              "form": "aurez fermé",
+              "english": "you will have closeed",
+              "sentence": "Vous aurez fermé.",
+              "sentenceEnglish": "You will have closeed."
+            },
+            "ils/elles": {
+              "form": "auront fermé",
+              "english": "they will have closeed",
+              "sentence": "Ils auront fermé.",
+              "sentenceEnglish": "They will have closeed."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'fermer-': je fermerai, tu fermeras, il/elle fermera, nous fermerons, vous fermerez, ils/elles fermeront"
+    }
+  }
+}

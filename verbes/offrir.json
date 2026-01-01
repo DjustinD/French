@@ -1,0 +1,460 @@
+{
+  "infinitive": "offrir",
+  "english": "to offer / to give (as a gift)",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "offre",
+              "english": "I offer",
+              "sentence": "J'offre un cadeau.",
+              "sentenceEnglish": "I offer a gift."
+            },
+            "tu": {
+              "form": "offres",
+              "english": "you offer",
+              "sentence": "Tu offres ton aide?",
+              "sentenceEnglish": "Do you offer your help?"
+            },
+            "il/elle": {
+              "form": "offre",
+              "english": "he/she offers",
+              "sentence": "Elle offre des fleurs.",
+              "sentenceEnglish": "She offers flowers."
+            },
+            "on": {
+              "form": "offre",
+              "english": "we offer",
+              "sentence": "On offre notre aide.",
+              "sentenceEnglish": "We offer our help."
+            },
+            "nous": {
+              "form": "offrons",
+              "english": "we offer",
+              "sentence": "Nous offrons un cadeau.",
+              "sentenceEnglish": "We offer a gift."
+            },
+            "vous": {
+              "form": "offrez",
+              "english": "you offer",
+              "sentence": "Vous offrez quoi?",
+              "sentenceEnglish": "What do you offer?"
+            },
+            "ils/elles": {
+              "form": "offrent",
+              "english": "they offer",
+              "sentence": "Ils offrent leur temps.",
+              "sentenceEnglish": "They offer their time."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train d'offrir",
+              "english": "I am offering",
+              "sentence": "Je suis en train d'offrir un cadeau.",
+              "sentenceEnglish": "I am offering a gift."
+            },
+            "tu": {
+              "form": "es en train d'offrir",
+              "english": "you are offering",
+              "sentence": "Tu es en train d'offrir ton aide?",
+              "sentenceEnglish": "Are you offering your help?"
+            },
+            "il/elle": {
+              "form": "est en train d'offrir",
+              "english": "he/she is offering",
+              "sentence": "Elle est en train d'offrir des fleurs.",
+              "sentenceEnglish": "She is offering flowers."
+            },
+            "on": {
+              "form": "est en train d'offrir",
+              "english": "we are offering",
+              "sentence": "On est en train d'offrir notre aide.",
+              "sentenceEnglish": "We are offering our help."
+            },
+            "nous": {
+              "form": "sommes en train d'offrir",
+              "english": "we are offering",
+              "sentence": "Nous sommes en train d'offrir un service.",
+              "sentenceEnglish": "We are offering a service."
+            },
+            "vous": {
+              "form": "êtes en train d'offrir",
+              "english": "you are offering",
+              "sentence": "Vous êtes en train d'offrir quoi?",
+              "sentenceEnglish": "What are you offering?"
+            },
+            "ils/elles": {
+              "form": "sont en train d'offrir",
+              "english": "they are offering",
+              "sentence": "Ils sont en train d'offrir leur temps.",
+              "sentenceEnglish": "They are offering their time."
+            }
+          }
+        }
+      },
+      "note": "Irregular verb that conjugates like -er verbs in present tense (like ouvrir): j'offre, tu offres, il/elle offre, nous offrons, vous offrez, ils/elles offrent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai offert",
+              "english": "I offered / I have offered",
+              "sentence": "J'ai offert un cadeau.",
+              "sentenceEnglish": "I offered a gift."
+            },
+            "tu": {
+              "form": "as offert",
+              "english": "you offered / you have offered",
+              "sentence": "Tu as offert ton aide?",
+              "sentenceEnglish": "Did you offer your help?"
+            },
+            "il/elle": {
+              "form": "a offert",
+              "english": "he/she offered / has offered",
+              "sentence": "Elle a offert des fleurs.",
+              "sentenceEnglish": "She offered flowers."
+            },
+            "on": {
+              "form": "a offert",
+              "english": "we offered / we have offered",
+              "sentence": "On a offert notre aide.",
+              "sentenceEnglish": "We offered our help."
+            },
+            "nous": {
+              "form": "avons offert",
+              "english": "we offered / we have offered",
+              "sentence": "Nous avons offert un service.",
+              "sentenceEnglish": "We offered a service."
+            },
+            "vous": {
+              "form": "avez offert",
+              "english": "you offered / you have offered",
+              "sentence": "Vous avez offert quoi?",
+              "sentenceEnglish": "What did you offer?"
+            },
+            "ils/elles": {
+              "form": "ont offert",
+              "english": "they offered / they have offered",
+              "sentence": "Ils ont offert leur temps.",
+              "sentenceEnglish": "They offered their time."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "offrais",
+              "english": "I offered / I was offering / I used to offer",
+              "sentence": "J'offrais toujours mon aide.",
+              "sentenceEnglish": "I always used to offer my help."
+            },
+            "tu": {
+              "form": "offrais",
+              "english": "you offered / you were offering / you used to offer",
+              "sentence": "Tu offrais des cadeaux?",
+              "sentenceEnglish": "Did you offer gifts?"
+            },
+            "il/elle": {
+              "form": "offrait",
+              "english": "he/she offered / was offering / used to offer",
+              "sentence": "Elle offrait des fleurs.",
+              "sentenceEnglish": "She used to offer flowers."
+            },
+            "on": {
+              "form": "offrait",
+              "english": "we offered / we were offering / we used to offer",
+              "sentence": "On offrait notre aide.",
+              "sentenceEnglish": "We used to offer our help."
+            },
+            "nous": {
+              "form": "offrions",
+              "english": "we offered / we were offering / we used to offer",
+              "sentence": "Nous offrions un service.",
+              "sentenceEnglish": "We used to offer a service."
+            },
+            "vous": {
+              "form": "offriez",
+              "english": "you offered / you were offering / you used to offer",
+              "sentence": "Vous offriez quoi?",
+              "sentenceEnglish": "What did you offer?"
+            },
+            "ils/elles": {
+              "form": "offraient",
+              "english": "they offered / they were offering / they used to offer",
+              "sentence": "Ils offraient leur temps.",
+              "sentenceEnglish": "They used to offer their time."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais offert",
+              "english": "I had offered",
+              "sentence": "J'avais offert mon aide.",
+              "sentenceEnglish": "I had offered my help."
+            },
+            "tu": {
+              "form": "avais offert",
+              "english": "you had offered",
+              "sentence": "Tu avais offert un cadeau?",
+              "sentenceEnglish": "Had you offered a gift?"
+            },
+            "il/elle": {
+              "form": "avait offert",
+              "english": "he/she had offered",
+              "sentence": "Elle avait offert des fleurs.",
+              "sentenceEnglish": "She had offered flowers."
+            },
+            "on": {
+              "form": "avait offert",
+              "english": "we had offered",
+              "sentence": "On avait offert notre aide.",
+              "sentenceEnglish": "We had offered our help."
+            },
+            "nous": {
+              "form": "avions offert",
+              "english": "we had offered",
+              "sentence": "Nous avions offert un service.",
+              "sentenceEnglish": "We had offered a service."
+            },
+            "vous": {
+              "form": "aviez offert",
+              "english": "you had offered",
+              "sentence": "Vous aviez offert quoi?",
+              "sentenceEnglish": "What had you offered?"
+            },
+            "ils/elles": {
+              "form": "avaient offert",
+              "english": "they had offered",
+              "sentence": "Ils avaient offert leur temps.",
+              "sentenceEnglish": "They had offered their time."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "offris",
+              "english": "I offered",
+              "sentence": "J'offris un présent.",
+              "sentenceEnglish": "I offered a present."
+            },
+            "tu": {
+              "form": "offris",
+              "english": "you offered",
+              "sentence": "Tu offris ton aide.",
+              "sentenceEnglish": "You offered your help."
+            },
+            "il/elle": {
+              "form": "offrit",
+              "english": "he/she offered",
+              "sentence": "Il offrit des fleurs.",
+              "sentenceEnglish": "He offered flowers."
+            },
+            "on": {
+              "form": "offrit",
+              "english": "we offered",
+              "sentence": "On offrit notre aide.",
+              "sentenceEnglish": "We offered our help."
+            },
+            "nous": {
+              "form": "offrîmes",
+              "english": "we offered",
+              "sentence": "Nous offrîmes un service.",
+              "sentenceEnglish": "We offered a service."
+            },
+            "vous": {
+              "form": "offrîtes",
+              "english": "you offered",
+              "sentence": "Vous offrîtes un cadeau.",
+              "sentenceEnglish": "You offered a gift."
+            },
+            "ils/elles": {
+              "form": "offrirent",
+              "english": "they offered",
+              "sentence": "Ils offrirent leur temps.",
+              "sentenceEnglish": "They offered their time."
+            }
+          }
+        }
+      },
+      "note": "Irregular past participle 'offert'. Imparfait stem 'offr-' (from nous offrons): j'offrais, tu offrais, il/elle offrait, nous offrions, vous offriez, ils/elles offraient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "offrirai",
+              "english": "I will offer",
+              "sentence": "J'offrirai un cadeau.",
+              "sentenceEnglish": "I will offer a gift."
+            },
+            "tu": {
+              "form": "offriras",
+              "english": "you will offer",
+              "sentence": "Tu offriras ton aide?",
+              "sentenceEnglish": "Will you offer your help?"
+            },
+            "il/elle": {
+              "form": "offrira",
+              "english": "he/she will offer",
+              "sentence": "Il offrira des fleurs.",
+              "sentenceEnglish": "He will offer flowers."
+            },
+            "on": {
+              "form": "offrira",
+              "english": "we will offer",
+              "sentence": "On offrira notre aide.",
+              "sentenceEnglish": "We will offer our help."
+            },
+            "nous": {
+              "form": "offrirons",
+              "english": "we will offer",
+              "sentence": "Nous offrirons un service.",
+              "sentenceEnglish": "We will offer a service."
+            },
+            "vous": {
+              "form": "offrirez",
+              "english": "you will offer",
+              "sentence": "Vous offrirez quoi?",
+              "sentenceEnglish": "What will you offer?"
+            },
+            "ils/elles": {
+              "form": "offriront",
+              "english": "they will offer",
+              "sentence": "Elles offriront leur temps.",
+              "sentenceEnglish": "They will offer their time."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais offrir",
+              "english": "I am going to offer",
+              "sentence": "Je vais offrir un cadeau.",
+              "sentenceEnglish": "I am going to offer a gift."
+            },
+            "tu": {
+              "form": "vas offrir",
+              "english": "you are going to offer",
+              "sentence": "Tu vas offrir ton aide?",
+              "sentenceEnglish": "Are you going to offer your help?"
+            },
+            "il/elle": {
+              "form": "va offrir",
+              "english": "he/she is going to offer",
+              "sentence": "Elle va offrir des fleurs.",
+              "sentenceEnglish": "She is going to offer flowers."
+            },
+            "on": {
+              "form": "va offrir",
+              "english": "we are going to offer",
+              "sentence": "On va offrir notre aide.",
+              "sentenceEnglish": "We are going to offer our help."
+            },
+            "nous": {
+              "form": "allons offrir",
+              "english": "we are going to offer",
+              "sentence": "Nous allons offrir un service.",
+              "sentenceEnglish": "We are going to offer a service."
+            },
+            "vous": {
+              "form": "allez offrir",
+              "english": "you are going to offer",
+              "sentence": "Vous allez offrir quoi?",
+              "sentenceEnglish": "What are you going to offer?"
+            },
+            "ils/elles": {
+              "form": "vont offrir",
+              "english": "they are going to offer",
+              "sentence": "Ils vont offrir leur temps.",
+              "sentenceEnglish": "They are going to offer their time."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai offert",
+              "english": "I will have offered",
+              "sentence": "J'aurai offert mon aide.",
+              "sentenceEnglish": "I will have offered my help."
+            },
+            "tu": {
+              "form": "auras offert",
+              "english": "you will have offered",
+              "sentence": "Tu auras offert un cadeau?",
+              "sentenceEnglish": "Will you have offered a gift?"
+            },
+            "il/elle": {
+              "form": "aura offert",
+              "english": "he/she will have offered",
+              "sentence": "Elle aura offert des fleurs.",
+              "sentenceEnglish": "She will have offered flowers."
+            },
+            "on": {
+              "form": "aura offert",
+              "english": "we will have offered",
+              "sentence": "On aura offert notre aide.",
+              "sentenceEnglish": "We will have offered our help."
+            },
+            "nous": {
+              "form": "aurons offert",
+              "english": "we will have offered",
+              "sentence": "Nous aurons offert un service.",
+              "sentenceEnglish": "We will have offered a service."
+            },
+            "vous": {
+              "form": "aurez offert",
+              "english": "you will have offered",
+              "sentence": "Vous aurez offert quoi?",
+              "sentenceEnglish": "What will you have offered?"
+            },
+            "ils/elles": {
+              "form": "auront offert",
+              "english": "they will have offered",
+              "sentence": "Ils auront offert leur temps.",
+              "sentenceEnglish": "They will have offered their time."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'offrir-': j'offrirai, tu offriras, il/elle offrira, nous offrirons, vous offrirez, ils/elles offriront"
+    }
+  }
+}

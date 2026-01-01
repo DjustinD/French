@@ -1,0 +1,145 @@
+{
+  "infinitive": "partir",
+  "english": "to leave / to go / to depart",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": { "form": "pars", "english": "I leave / I go", "sentence": "Je pars demain.", "sentenceEnglish": "I leave tomorrow." },
+            "tu": { "form": "pars", "english": "you leave / you go", "sentence": "Tu pars déjà?", "sentenceEnglish": "Are you leaving already?" },
+            "il/elle": { "form": "part", "english": "he/she leaves / goes", "sentence": "Elle part en vacances.", "sentenceEnglish": "She is going on vacation." },
+            "on": { "form": "part", "english": "we leave / we go", "sentence": "On part tout de suite.", "sentenceEnglish": "We are leaving right away." },
+            "nous": { "form": "partons", "english": "we leave / we go", "sentence": "Nous partons à huit heures.", "sentenceEnglish": "We leave at eight o'clock." },
+            "vous": { "form": "partez", "english": "you leave / you go", "sentence": "Vous partez quand?", "sentenceEnglish": "When are you leaving?" },
+            "ils/elles": { "form": "partent", "english": "they leave / they go", "sentence": "Ils partent en voyage.", "sentenceEnglish": "They are going on a trip." }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": { "form": "suis en train de partir", "english": "I am leaving", "sentence": "Je suis en train de partir.", "sentenceEnglish": "I am leaving." },
+            "tu": { "form": "es en train de partir", "english": "you are leaving", "sentence": "Tu es en train de partir maintenant?", "sentenceEnglish": "Are you leaving now?" },
+            "il/elle": { "form": "est en train de partir", "english": "he/she is leaving", "sentence": "Elle est en train de partir.", "sentenceEnglish": "She is leaving." },
+            "on": { "form": "est en train de partir", "english": "we are leaving", "sentence": "On est en train de partir.", "sentenceEnglish": "We are leaving." },
+            "nous": { "form": "sommes en train de partir", "english": "we are leaving", "sentence": "Nous sommes en train de partir.", "sentenceEnglish": "We are leaving." },
+            "vous": { "form": "êtes en train de partir", "english": "you are leaving", "sentence": "Vous êtes en train de partir?", "sentenceEnglish": "Are you leaving?" },
+            "ils/elles": { "form": "sont en train de partir", "english": "they are leaving", "sentence": "Ils sont en train de partir.", "sentenceEnglish": "They are leaving." }
+          }
+        }
+      },
+      "note": "Irregular verb. Must be memorized: je pars, tu pars, il/elle part, nous partons, vous partez, ils/elles partent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "être",
+          "forms": {
+            "je": { "form": "suis parti(e)", "english": "I left / I have left", "sentence": "Je suis parti(e) hier.", "sentenceEnglish": "I left yesterday." },
+            "tu": { "form": "es parti(e)", "english": "you left / you have left", "sentence": "Tu es parti(e) à quelle heure?", "sentenceEnglish": "What time did you leave?" },
+            "il/elle": { "form": "est parti(e)", "english": "he/she left / has left", "sentence": "Elle est partie en vacances.", "sentenceEnglish": "She left on vacation." },
+            "on": { "form": "est parti(s)", "english": "we left / we have left", "sentence": "On est parti(s) tôt.", "sentenceEnglish": "We left early." },
+            "nous": { "form": "sommes parti(e)s", "english": "we left / we have left", "sentence": "Nous sommes parti(e)s ensemble.", "sentenceEnglish": "We left together." },
+            "vous": { "form": "êtes parti(e)(s)", "english": "you left / you have left", "sentence": "Vous êtes parti(e)(s) sans moi?", "sentenceEnglish": "Did you leave without me?" },
+            "ils/elles": { "form": "sont parti(e)s", "english": "they left / they have left", "sentence": "Ils sont partis en voyage.", "sentenceEnglish": "They left on a trip." }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": { "form": "partais", "english": "I left / I was leaving / I used to leave", "sentence": "Je partais tous les matins à sept heures.", "sentenceEnglish": "I used to leave every morning at seven." },
+            "tu": { "form": "partais", "english": "you left / you were leaving / you used to leave", "sentence": "Tu partais toujours en retard?", "sentenceEnglish": "Did you always leave late?" },
+            "il/elle": { "form": "partait", "english": "he/she left / was leaving / used to leave", "sentence": "Elle partait souvent en voyage.", "sentenceEnglish": "She often used to go on trips." },
+            "on": { "form": "partait", "english": "we left / we were leaving / we used to leave", "sentence": "On partait tôt le matin.", "sentenceEnglish": "We used to leave early in the morning." },
+            "nous": { "form": "partions", "english": "we left / we were leaving / we used to leave", "sentence": "Nous partions en vacances chaque été.", "sentenceEnglish": "We used to go on vacation every summer." },
+            "vous": { "form": "partiez", "english": "you left / you were leaving / you used to leave", "sentence": "Vous partiez où?", "sentenceEnglish": "Where were you leaving to?" },
+            "ils/elles": { "form": "partaient", "english": "they left / they were leaving / they used to leave", "sentence": "Ils partaient toujours ensemble.", "sentenceEnglish": "They always used to leave together." }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "être",
+          "forms": {
+            "je": { "form": "étais parti(e)", "english": "I had left", "sentence": "J'étais parti(e) avant ton arrivée.", "sentenceEnglish": "I had left before you arrived." },
+            "tu": { "form": "étais parti(e)", "english": "you had left", "sentence": "Tu étais parti(e) déjà?", "sentenceEnglish": "Had you already left?" },
+            "il/elle": { "form": "était parti(e)", "english": "he/she had left", "sentence": "Elle était partie en vacances.", "sentenceEnglish": "She had left on vacation." },
+            "on": { "form": "était parti(s)", "english": "we had left", "sentence": "On était parti(s) tôt.", "sentenceEnglish": "We had left early." },
+            "nous": { "form": "étions parti(e)s", "english": "we had left", "sentence": "Nous étions parti(e)s ensemble.", "sentenceEnglish": "We had left together." },
+            "vous": { "form": "étiez parti(e)(s)", "english": "you had left", "sentence": "Vous étiez parti(e)(s) sans nous?", "sentenceEnglish": "Had you left without us?" },
+            "ils/elles": { "form": "étaient parti(e)s", "english": "they had left", "sentence": "Ils étaient partis avant minuit.", "sentenceEnglish": "They had left before midnight." }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": { "form": "partis", "english": "I left", "sentence": "Je partis à l'aube.", "sentenceEnglish": "I left at dawn." },
+            "tu": { "form": "partis", "english": "you left", "sentence": "Tu partis seul.", "sentenceEnglish": "You left alone." },
+            "il/elle": { "form": "partit", "english": "he/she left", "sentence": "Il partit sans un mot.", "sentenceEnglish": "He left without a word." },
+            "on": { "form": "partit", "english": "we left", "sentence": "On partit ensemble.", "sentenceEnglish": "We left together." },
+            "nous": { "form": "partîmes", "english": "we left", "sentence": "Nous partîmes tôt.", "sentenceEnglish": "We left early." },
+            "vous": { "form": "partîtes", "english": "you left", "sentence": "Vous partîtes en voyage.", "sentenceEnglish": "You left on a trip." },
+            "ils/elles": { "form": "partirent", "english": "they left", "sentence": "Ils partirent au lever du jour.", "sentenceEnglish": "They left at daybreak." }
+          }
+        }
+      },
+      "note": "Uses être as auxiliary. Past participle agrees with subject: je suis parti (masc.) / je suis partie (fem.). Imparfait stem 'part-' (from 'nous partons'): je partais, tu partais, il/elle partait, nous partions, vous partiez, ils/elles partaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": { "form": "partirai", "english": "I will leave", "sentence": "Je partirai demain matin.", "sentenceEnglish": "I will leave tomorrow morning." },
+            "tu": { "form": "partiras", "english": "you will leave", "sentence": "Tu partiras quand?", "sentenceEnglish": "When will you leave?" },
+            "il/elle": { "form": "partira", "english": "he/she will leave", "sentence": "Il partira en vacances.", "sentenceEnglish": "He will leave on vacation." },
+            "on": { "form": "partira", "english": "we will leave", "sentence": "On partira tôt.", "sentenceEnglish": "We will leave early." },
+            "nous": { "form": "partirons", "english": "we will leave", "sentence": "Nous partirons à huit heures.", "sentenceEnglish": "We will leave at eight o'clock." },
+            "vous": { "form": "partirez", "english": "you will leave", "sentence": "Vous partirez bientôt?", "sentenceEnglish": "Will you leave soon?" },
+            "ils/elles": { "form": "partiront", "english": "they will leave", "sentence": "Elles partiront ensemble.", "sentenceEnglish": "They will leave together." }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": { "form": "vais partir", "english": "I am going to leave", "sentence": "Je vais partir maintenant.", "sentenceEnglish": "I am going to leave now." },
+            "tu": { "form": "vas partir", "english": "you are going to leave", "sentence": "Tu vas partir bientôt?", "sentenceEnglish": "Are you going to leave soon?" },
+            "il/elle": { "form": "va partir", "english": "he/she is going to leave", "sentence": "Elle va partir en vacances.", "sentenceEnglish": "She is going to leave on vacation." },
+            "on": { "form": "va partir", "english": "we are going to leave", "sentence": "On va partir tout de suite.", "sentenceEnglish": "We are going to leave right away." },
+            "nous": { "form": "allons partir", "english": "we are going to leave", "sentence": "Nous allons partir demain.", "sentenceEnglish": "We are going to leave tomorrow." },
+            "vous": { "form": "allez partir", "english": "you are going to leave", "sentence": "Vous allez partir quand?", "sentenceEnglish": "When are you going to leave?" },
+            "ils/elles": { "form": "vont partir", "english": "they are going to leave", "sentence": "Ils vont partir en voyage.", "sentenceEnglish": "They are going to leave on a trip." }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "être",
+          "forms": {
+            "je": { "form": "serai parti(e)", "english": "I will have left", "sentence": "Je serai parti(e) avant midi.", "sentenceEnglish": "I will have left before noon." },
+            "tu": { "form": "seras parti(e)", "english": "you will have left", "sentence": "Tu seras parti(e) quand j'arriverai?", "sentenceEnglish": "Will you have left when I arrive?" },
+            "il/elle": { "form": "sera parti(e)", "english": "he/she will have left", "sentence": "Elle sera partie avant toi.", "sentenceEnglish": "She will have left before you." },
+            "on": { "form": "sera parti(s)", "english": "we will have left", "sentence": "On sera parti(s) tôt.", "sentenceEnglish": "We will have left early." },
+            "nous": { "form": "serons parti(e)s", "english": "we will have left", "sentence": "Nous serons parti(e)s avant le soir.", "sentenceEnglish": "We will have left before evening." },
+            "vous": { "form": "serez parti(e)(s)", "english": "you will have left", "sentence": "Vous serez parti(e)(s) déjà?", "sentenceEnglish": "Will you have already left?" },
+            "ils/elles": { "form": "seront parti(e)s", "english": "they will have left", "sentence": "Ils seront partis avant ton arrivée.", "sentenceEnglish": "They will have left before you arrive." }
+          }
+        }
+      },
+      "note": "Regular future stem 'partir-': je partirai, tu partiras, il/elle partira, nous partirons, vous partirez, ils/elles partiront"
+    }
+  }
+}

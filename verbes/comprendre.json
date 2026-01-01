@@ -1,0 +1,460 @@
+{
+  "infinitive": "comprendre",
+  "english": "to understand",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "comprends",
+              "english": "I understand",
+              "sentence": "Je comprends la leçon.",
+              "sentenceEnglish": "I understand the lesson."
+            },
+            "tu": {
+              "form": "comprends",
+              "english": "you understand",
+              "sentence": "Tu comprends?",
+              "sentenceEnglish": "Do you understand?"
+            },
+            "il/elle": {
+              "form": "comprend",
+              "english": "he/she understands",
+              "sentence": "Elle comprend bien.",
+              "sentenceEnglish": "She understands well."
+            },
+            "on": {
+              "form": "comprend",
+              "english": "we understand",
+              "sentence": "On comprend maintenant.",
+              "sentenceEnglish": "We understand now."
+            },
+            "nous": {
+              "form": "comprenons",
+              "english": "we understand",
+              "sentence": "Nous comprenons le problème.",
+              "sentenceEnglish": "We understand the problem."
+            },
+            "vous": {
+              "form": "comprenez",
+              "english": "you understand",
+              "sentence": "Vous comprenez le français?",
+              "sentenceEnglish": "Do you understand French?"
+            },
+            "ils/elles": {
+              "form": "comprennent",
+              "english": "they understand",
+              "sentence": "Ils comprennent tout.",
+              "sentenceEnglish": "They understand everything."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de comprendre",
+              "english": "I am understanding",
+              "sentence": "Je suis en train de comprendre.",
+              "sentenceEnglish": "I am understanding."
+            },
+            "tu": {
+              "form": "es en train de comprendre",
+              "english": "you are understanding",
+              "sentence": "Tu es en train de comprendre?",
+              "sentenceEnglish": "Are you understanding?"
+            },
+            "il/elle": {
+              "form": "est en train de comprendre",
+              "english": "he/she is understanding",
+              "sentence": "Elle est en train de comprendre la leçon.",
+              "sentenceEnglish": "She is understanding the lesson."
+            },
+            "on": {
+              "form": "est en train de comprendre",
+              "english": "we are understanding",
+              "sentence": "On est en train de comprendre.",
+              "sentenceEnglish": "We are understanding."
+            },
+            "nous": {
+              "form": "sommes en train de comprendre",
+              "english": "we are understanding",
+              "sentence": "Nous sommes en train de comprendre le problème.",
+              "sentenceEnglish": "We are understanding the problem."
+            },
+            "vous": {
+              "form": "êtes en train de comprendre",
+              "english": "you are understanding",
+              "sentence": "Vous êtes en train de comprendre?",
+              "sentenceEnglish": "Are you understanding?"
+            },
+            "ils/elles": {
+              "form": "sont en train de comprendre",
+              "english": "they are understanding",
+              "sentence": "Ils sont en train de comprendre.",
+              "sentenceEnglish": "They are understanding."
+            }
+          }
+        }
+      },
+      "note": "Irregular verb (conjugates like prendre). Must be memorized: je comprends, tu comprends, il/elle comprend, nous comprenons, vous comprenez, ils/elles comprennent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai compris",
+              "english": "I understood / I have understood",
+              "sentence": "J'ai compris la leçon.",
+              "sentenceEnglish": "I understood the lesson."
+            },
+            "tu": {
+              "form": "as compris",
+              "english": "you understood / you have understood",
+              "sentence": "Tu as compris?",
+              "sentenceEnglish": "Did you understand?"
+            },
+            "il/elle": {
+              "form": "a compris",
+              "english": "he/she understood / has understood",
+              "sentence": "Elle a compris le problème.",
+              "sentenceEnglish": "She understood the problem."
+            },
+            "on": {
+              "form": "a compris",
+              "english": "we understood / we have understood",
+              "sentence": "On a compris maintenant.",
+              "sentenceEnglish": "We understood now."
+            },
+            "nous": {
+              "form": "avons compris",
+              "english": "we understood / we have understood",
+              "sentence": "Nous avons compris tout.",
+              "sentenceEnglish": "We understood everything."
+            },
+            "vous": {
+              "form": "avez compris",
+              "english": "you understood / you have understood",
+              "sentence": "Vous avez compris le français?",
+              "sentenceEnglish": "Did you understand French?"
+            },
+            "ils/elles": {
+              "form": "ont compris",
+              "english": "they understood / they have understood",
+              "sentence": "Ils ont compris bien.",
+              "sentenceEnglish": "They understood well."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "comprenais",
+              "english": "I understood / I was understanding / I used to understand",
+              "sentence": "Je comprenais la leçon.",
+              "sentenceEnglish": "I was understanding the lesson."
+            },
+            "tu": {
+              "form": "comprenais",
+              "english": "you understood / you were understanding / you used to understand",
+              "sentence": "Tu comprenais?",
+              "sentenceEnglish": "Did you understand?"
+            },
+            "il/elle": {
+              "form": "comprenait",
+              "english": "he/she understood / was understanding / used to understand",
+              "sentence": "Elle comprenait bien.",
+              "sentenceEnglish": "She used to understand well."
+            },
+            "on": {
+              "form": "comprenait",
+              "english": "we understood / we were understanding / we used to understand",
+              "sentence": "On comprenait le problème.",
+              "sentenceEnglish": "We were understanding the problem."
+            },
+            "nous": {
+              "form": "comprenions",
+              "english": "we understood / we were understanding / we used to understand",
+              "sentence": "Nous comprenions tout.",
+              "sentenceEnglish": "We used to understand everything."
+            },
+            "vous": {
+              "form": "compreniez",
+              "english": "you understood / you were understanding / you used to understand",
+              "sentence": "Vous compreniez le français?",
+              "sentenceEnglish": "Did you understand French?"
+            },
+            "ils/elles": {
+              "form": "comprenaient",
+              "english": "they understood / they were understanding / they used to understand",
+              "sentence": "Ils comprenaient maintenant.",
+              "sentenceEnglish": "They were understanding now."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais compris",
+              "english": "I had understood",
+              "sentence": "J'avais compris la leçon.",
+              "sentenceEnglish": "I had understood the lesson."
+            },
+            "tu": {
+              "form": "avais compris",
+              "english": "you had understood",
+              "sentence": "Tu avais compris?",
+              "sentenceEnglish": "Had you understood?"
+            },
+            "il/elle": {
+              "form": "avait compris",
+              "english": "he/she had understood",
+              "sentence": "Elle avait compris le problème.",
+              "sentenceEnglish": "She had understood the problem."
+            },
+            "on": {
+              "form": "avait compris",
+              "english": "we had understood",
+              "sentence": "On avait compris.",
+              "sentenceEnglish": "We had understood."
+            },
+            "nous": {
+              "form": "avions compris",
+              "english": "we had understood",
+              "sentence": "Nous avions compris tout.",
+              "sentenceEnglish": "We had understood everything."
+            },
+            "vous": {
+              "form": "aviez compris",
+              "english": "you had understood",
+              "sentence": "Vous aviez compris le français?",
+              "sentenceEnglish": "Had you understood French?"
+            },
+            "ils/elles": {
+              "form": "avaient compris",
+              "english": "they had understood",
+              "sentence": "Ils avaient compris bien.",
+              "sentenceEnglish": "They had understood well."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "compris",
+              "english": "I understood",
+              "sentence": "Je compris la vérité.",
+              "sentenceEnglish": "I understood the truth."
+            },
+            "tu": {
+              "form": "compris",
+              "english": "you understood",
+              "sentence": "Tu compris le message.",
+              "sentenceEnglish": "You understood the message."
+            },
+            "il/elle": {
+              "form": "comprit",
+              "english": "he/she understood",
+              "sentence": "Il comprit tout.",
+              "sentenceEnglish": "He understood everything."
+            },
+            "on": {
+              "form": "comprit",
+              "english": "we understood",
+              "sentence": "On comprit ensemble.",
+              "sentenceEnglish": "We understood together."
+            },
+            "nous": {
+              "form": "comprîmes",
+              "english": "we understood",
+              "sentence": "Nous comprîmes le problème.",
+              "sentenceEnglish": "We understood the problem."
+            },
+            "vous": {
+              "form": "comprîtes",
+              "english": "you understood",
+              "sentence": "Vous comprîtes enfin.",
+              "sentenceEnglish": "You finally understood."
+            },
+            "ils/elles": {
+              "form": "comprirent",
+              "english": "they understood",
+              "sentence": "Ils comprirent la leçon.",
+              "sentenceEnglish": "They understood the lesson."
+            }
+          }
+        }
+      },
+      "note": "Irregular past participle 'compris'. Imparfait stem 'compren-' (from nous comprenons): je comprenais, tu comprenais, il/elle comprenait, nous comprenions, vous compreniez, ils/elles comprenaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "comprendrai",
+              "english": "I will understand",
+              "sentence": "Je comprendrai la leçon.",
+              "sentenceEnglish": "I will understand the lesson."
+            },
+            "tu": {
+              "form": "comprendras",
+              "english": "you will understand",
+              "sentence": "Tu comprendras?",
+              "sentenceEnglish": "Will you understand?"
+            },
+            "il/elle": {
+              "form": "comprendra",
+              "english": "he/she will understand",
+              "sentence": "Il comprendra bien.",
+              "sentenceEnglish": "He will understand well."
+            },
+            "on": {
+              "form": "comprendra",
+              "english": "we will understand",
+              "sentence": "On comprendra bientôt.",
+              "sentenceEnglish": "We will understand soon."
+            },
+            "nous": {
+              "form": "comprendrons",
+              "english": "we will understand",
+              "sentence": "Nous comprendrons le problème.",
+              "sentenceEnglish": "We will understand the problem."
+            },
+            "vous": {
+              "form": "comprendrez",
+              "english": "you will understand",
+              "sentence": "Vous comprendrez le français?",
+              "sentenceEnglish": "Will you understand French?"
+            },
+            "ils/elles": {
+              "form": "comprendront",
+              "english": "they will understand",
+              "sentence": "Elles comprendront tout.",
+              "sentenceEnglish": "They will understand everything."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais comprendre",
+              "english": "I am going to understand",
+              "sentence": "Je vais comprendre maintenant.",
+              "sentenceEnglish": "I am going to understand now."
+            },
+            "tu": {
+              "form": "vas comprendre",
+              "english": "you are going to understand",
+              "sentence": "Tu vas comprendre?",
+              "sentenceEnglish": "Are you going to understand?"
+            },
+            "il/elle": {
+              "form": "va comprendre",
+              "english": "he/she is going to understand",
+              "sentence": "Elle va comprendre la leçon.",
+              "sentenceEnglish": "She is going to understand the lesson."
+            },
+            "on": {
+              "form": "va comprendre",
+              "english": "we are going to understand",
+              "sentence": "On va comprendre bientôt.",
+              "sentenceEnglish": "We are going to understand soon."
+            },
+            "nous": {
+              "form": "allons comprendre",
+              "english": "we are going to understand",
+              "sentence": "Nous allons comprendre le problème.",
+              "sentenceEnglish": "We are going to understand the problem."
+            },
+            "vous": {
+              "form": "allez comprendre",
+              "english": "you are going to understand",
+              "sentence": "Vous allez comprendre?",
+              "sentenceEnglish": "Are you going to understand?"
+            },
+            "ils/elles": {
+              "form": "vont comprendre",
+              "english": "they are going to understand",
+              "sentence": "Ils vont comprendre tout.",
+              "sentenceEnglish": "They are going to understand everything."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai compris",
+              "english": "I will have understood",
+              "sentence": "J'aurai compris la leçon.",
+              "sentenceEnglish": "I will have understood the lesson."
+            },
+            "tu": {
+              "form": "auras compris",
+              "english": "you will have understood",
+              "sentence": "Tu auras compris?",
+              "sentenceEnglish": "Will you have understood?"
+            },
+            "il/elle": {
+              "form": "aura compris",
+              "english": "he/she will have understood",
+              "sentence": "Elle aura compris le problème.",
+              "sentenceEnglish": "She will have understood the problem."
+            },
+            "on": {
+              "form": "aura compris",
+              "english": "we will have understood",
+              "sentence": "On aura compris bientôt.",
+              "sentenceEnglish": "We will have understood soon."
+            },
+            "nous": {
+              "form": "aurons compris",
+              "english": "we will have understood",
+              "sentence": "Nous aurons compris tout.",
+              "sentenceEnglish": "We will have understood everything."
+            },
+            "vous": {
+              "form": "aurez compris",
+              "english": "you will have understood",
+              "sentence": "Vous aurez compris le français?",
+              "sentenceEnglish": "Will you have understood French?"
+            },
+            "ils/elles": {
+              "form": "auront compris",
+              "english": "they will have understood",
+              "sentence": "Ils auront compris bien.",
+              "sentenceEnglish": "They will have understood well."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'comprendr-': je comprendrai, tu comprendras, il/elle comprendra, nous comprendrons, vous comprendrez, ils/elles comprendront"
+    }
+  }
+}

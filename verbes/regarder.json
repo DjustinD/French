@@ -1,0 +1,145 @@
+{
+  "infinitive": "regarder",
+  "english": "to watch / to look at",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": { "form": "regarde", "english": "I watch / I look at", "sentence": "Je regarde la télévision.", "sentenceEnglish": "I watch television." },
+            "tu": { "form": "regardes", "english": "you watch / you look at", "sentence": "Tu regardes un film?", "sentenceEnglish": "Are you watching a movie?" },
+            "il/elle": { "form": "regarde", "english": "he/she watches / looks at", "sentence": "Elle regarde par la fenêtre.", "sentenceEnglish": "She looks out the window." },
+            "on": { "form": "regarde", "english": "we watch / we look at", "sentence": "On regarde les étoiles.", "sentenceEnglish": "We're looking at the stars." },
+            "nous": { "form": "regardons", "english": "we watch / we look at", "sentence": "Nous regardons un documentaire.", "sentenceEnglish": "We're watching a documentary." },
+            "vous": { "form": "regardez", "english": "you watch / you look at", "sentence": "Vous regardez quoi?", "sentenceEnglish": "What are you watching?" },
+            "ils/elles": { "form": "regardent", "english": "they watch / they look at", "sentence": "Ils regardent le match.", "sentenceEnglish": "They're watching the game." }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": { "form": "suis en train de regarder", "english": "I am watching / looking at", "sentence": "Je suis en train de regarder un film.", "sentenceEnglish": "I am watching a movie." },
+            "tu": { "form": "es en train de regarder", "english": "you are watching / looking at", "sentence": "Tu es en train de regarder quoi?", "sentenceEnglish": "What are you watching?" },
+            "il/elle": { "form": "est en train de regarder", "english": "he/she is watching / looking at", "sentence": "Elle est en train de regarder les photos.", "sentenceEnglish": "She is looking at the photos." },
+            "on": { "form": "est en train de regarder", "english": "we are watching / looking at", "sentence": "On est en train de regarder la télé.", "sentenceEnglish": "We are watching TV." },
+            "nous": { "form": "sommes en train de regarder", "english": "we are watching / looking at", "sentence": "Nous sommes en train de regarder un spectacle.", "sentenceEnglish": "We are watching a show." },
+            "vous": { "form": "êtes en train de regarder", "english": "you are watching / looking at", "sentence": "Vous êtes en train de regarder le match?", "sentenceEnglish": "Are you watching the game?" },
+            "ils/elles": { "form": "sont en train de regarder", "english": "they are watching / looking at", "sentence": "Ils sont en train de regarder un film.", "sentenceEnglish": "They are watching a movie." }
+          }
+        }
+      },
+      "note": "Regular -er verb. Pattern: je regarde, tu regardes, il/elle regarde, nous regardons, vous regardez, ils/elles regardent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "ai regardé", "english": "I watched / I looked at / I have watched", "sentence": "J'ai regardé le film hier soir.", "sentenceEnglish": "I watched the movie last night." },
+            "tu": { "form": "as regardé", "english": "you watched / you looked at / you have watched", "sentence": "Tu as regardé les photos?", "sentenceEnglish": "Did you look at the photos?" },
+            "il/elle": { "form": "a regardé", "english": "he/she watched / looked at / has watched", "sentence": "Elle a regardé par la fenêtre.", "sentenceEnglish": "She looked out the window." },
+            "on": { "form": "a regardé", "english": "we watched / we looked at / we have watched", "sentence": "On a regardé le match ensemble.", "sentenceEnglish": "We watched the game together." },
+            "nous": { "form": "avons regardé", "english": "we watched / we looked at / we have watched", "sentence": "Nous avons regardé un documentaire.", "sentenceEnglish": "We watched a documentary." },
+            "vous": { "form": "avez regardé", "english": "you watched / you looked at / you have watched", "sentence": "Vous avez regardé la télé?", "sentenceEnglish": "Did you watch TV?" },
+            "ils/elles": { "form": "ont regardé", "english": "they watched / they looked at / they have watched", "sentence": "Ils ont regardé les étoiles.", "sentenceEnglish": "They looked at the stars." }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": { "form": "regardais", "english": "I watched / I was watching / I used to watch", "sentence": "Je regardais la télé tous les soirs.", "sentenceEnglish": "I used to watch TV every evening." },
+            "tu": { "form": "regardais", "english": "you watched / you were watching / you used to watch", "sentence": "Tu regardais quoi?", "sentenceEnglish": "What were you watching?" },
+            "il/elle": { "form": "regardait", "english": "he/she watched / was watching / used to watch", "sentence": "Elle regardait par la fenêtre.", "sentenceEnglish": "She was looking out the window." },
+            "on": { "form": "regardait", "english": "we watched / we were watching / we used to watch", "sentence": "On regardait les étoiles.", "sentenceEnglish": "We were looking at the stars." },
+            "nous": { "form": "regardions", "english": "we watched / we were watching / we used to watch", "sentence": "Nous regardions des films le weekend.", "sentenceEnglish": "We used to watch movies on weekends." },
+            "vous": { "form": "regardiez", "english": "you watched / you were watching / you used to watch", "sentence": "Vous regardiez le match?", "sentenceEnglish": "Were you watching the game?" },
+            "ils/elles": { "form": "regardaient", "english": "they watched / they were watching / they used to watch", "sentence": "Ils regardaient la télé ensemble.", "sentenceEnglish": "They used to watch TV together." }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "avais regardé", "english": "I had watched / looked at", "sentence": "J'avais regardé ce film avant.", "sentenceEnglish": "I had watched that movie before." },
+            "tu": { "form": "avais regardé", "english": "you had watched / looked at", "sentence": "Tu avais regardé les photos?", "sentenceEnglish": "Had you looked at the photos?" },
+            "il/elle": { "form": "avait regardé", "english": "he/she had watched / looked at", "sentence": "Elle avait regardé par la fenêtre.", "sentenceEnglish": "She had looked out the window." },
+            "on": { "form": "avait regardé", "english": "we had watched / looked at", "sentence": "On avait regardé le match.", "sentenceEnglish": "We had watched the game." },
+            "nous": { "form": "avions regardé", "english": "we had watched / looked at", "sentence": "Nous avions regardé un documentaire.", "sentenceEnglish": "We had watched a documentary." },
+            "vous": { "form": "aviez regardé", "english": "you had watched / looked at", "sentence": "Vous aviez regardé la télé?", "sentenceEnglish": "Had you watched TV?" },
+            "ils/elles": { "form": "avaient regardé", "english": "they had watched / looked at", "sentence": "Ils avaient regardé les étoiles.", "sentenceEnglish": "They had looked at the stars." }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": { "form": "regardai", "english": "I watched / looked at", "sentence": "Je regardai le ciel.", "sentenceEnglish": "I looked at the sky." },
+            "tu": { "form": "regardas", "english": "you watched / looked at", "sentence": "Tu regardas par la fenêtre.", "sentenceEnglish": "You looked out the window." },
+            "il/elle": { "form": "regarda", "english": "he/she watched / looked at", "sentence": "Il regarda le spectacle.", "sentenceEnglish": "He watched the show." },
+            "on": { "form": "regarda", "english": "we watched / looked at", "sentence": "On regarda les étoiles.", "sentenceEnglish": "We looked at the stars." },
+            "nous": { "form": "regardâmes", "english": "we watched / looked at", "sentence": "Nous regardâmes le paysage.", "sentenceEnglish": "We looked at the landscape." },
+            "vous": { "form": "regardâtes", "english": "you watched / looked at", "sentence": "Vous regardâtes le match.", "sentenceEnglish": "You watched the game." },
+            "ils/elles": { "form": "regardèrent", "english": "they watched / looked at", "sentence": "Ils regardèrent le film.", "sentenceEnglish": "They watched the movie." }
+          }
+        }
+      },
+      "note": "Regular imparfait stem 'regard-' (from infinitive): je regardais, tu regardais, il/elle regardait, nous regardions, vous regardiez, ils/elles regardaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": { "form": "regarderai", "english": "I will watch / look at", "sentence": "Je regarderai le film ce soir.", "sentenceEnglish": "I will watch the movie tonight." },
+            "tu": { "form": "regarderas", "english": "you will watch / look at", "sentence": "Tu regarderas le match?", "sentenceEnglish": "Will you watch the game?" },
+            "il/elle": { "form": "regardera", "english": "he/she will watch / look at", "sentence": "Il regardera la télévision.", "sentenceEnglish": "He will watch television." },
+            "on": { "form": "regardera", "english": "we will watch / look at", "sentence": "On regardera les étoiles.", "sentenceEnglish": "We will look at the stars." },
+            "nous": { "form": "regarderons", "english": "we will watch / look at", "sentence": "Nous regarderons un documentaire.", "sentenceEnglish": "We will watch a documentary." },
+            "vous": { "form": "regarderez", "english": "you will watch / look at", "sentence": "Vous regarderez quoi?", "sentenceEnglish": "What will you watch?" },
+            "ils/elles": { "form": "regarderont", "english": "they will watch / look at", "sentence": "Elles regarderont les photos.", "sentenceEnglish": "They will look at the photos." }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": { "form": "vais regarder", "english": "I am going to watch / look at", "sentence": "Je vais regarder un film.", "sentenceEnglish": "I am going to watch a movie." },
+            "tu": { "form": "vas regarder", "english": "you are going to watch / look at", "sentence": "Tu vas regarder la télé?", "sentenceEnglish": "Are you going to watch TV?" },
+            "il/elle": { "form": "va regarder", "english": "he/she is going to watch / look at", "sentence": "Elle va regarder les photos.", "sentenceEnglish": "She is going to look at the photos." },
+            "on": { "form": "va regarder", "english": "we are going to watch / look at", "sentence": "On va regarder le match.", "sentenceEnglish": "We are going to watch the game." },
+            "nous": { "form": "allons regarder", "english": "we are going to watch / look at", "sentence": "Nous allons regarder un spectacle.", "sentenceEnglish": "We are going to watch a show." },
+            "vous": { "form": "allez regarder", "english": "you are going to watch / look at", "sentence": "Vous allez regarder quoi?", "sentenceEnglish": "What are you going to watch?" },
+            "ils/elles": { "form": "vont regarder", "english": "they are going to watch / look at", "sentence": "Ils vont regarder les étoiles.", "sentenceEnglish": "They are going to look at the stars." }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "aurai regardé", "english": "I will have watched / looked at", "sentence": "J'aurai regardé le film avant toi.", "sentenceEnglish": "I will have watched the movie before you." },
+            "tu": { "form": "auras regardé", "english": "you will have watched / looked at", "sentence": "Tu auras regardé les photos?", "sentenceEnglish": "Will you have looked at the photos?" },
+            "il/elle": { "form": "aura regardé", "english": "he/she will have watched / looked at", "sentence": "Elle aura regardé le spectacle.", "sentenceEnglish": "She will have watched the show." },
+            "on": { "form": "aura regardé", "english": "we will have watched / looked at", "sentence": "On aura regardé le match.", "sentenceEnglish": "We will have watched the game." },
+            "nous": { "form": "aurons regardé", "english": "we will have watched / looked at", "sentence": "Nous aurons regardé le documentaire.", "sentenceEnglish": "We will have watched the documentary." },
+            "vous": { "form": "aurez regardé", "english": "you will have watched / looked at", "sentence": "Vous aurez regardé la télé?", "sentenceEnglish": "Will you have watched TV?" },
+            "ils/elles": { "form": "auront regardé", "english": "they will have watched / looked at", "sentence": "Ils auront regardé les étoiles.", "sentenceEnglish": "They will have looked at the stars." }
+          }
+        }
+      },
+      "note": "Regular future stem 'regarder-': je regarderai, tu regarderas, il/elle regardera, nous regarderons, vous regarderez, ils/elles regarderont"
+    }
+  }
+}

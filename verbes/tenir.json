@@ -1,0 +1,460 @@
+{
+  "infinitive": "tenir",
+  "english": "to hold / to keep",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "tiens",
+              "english": "I hold",
+              "sentence": "Je tiens le livre.",
+              "sentenceEnglish": "I hold the book."
+            },
+            "tu": {
+              "form": "tiens",
+              "english": "you hold",
+              "sentence": "Tu tiens bon?",
+              "sentenceEnglish": "Are you holding on?"
+            },
+            "il/elle": {
+              "form": "tient",
+              "english": "he/she holds",
+              "sentence": "Elle tient la main.",
+              "sentenceEnglish": "She holds the hand."
+            },
+            "on": {
+              "form": "tient",
+              "english": "we hold",
+              "sentence": "On tient ensemble.",
+              "sentenceEnglish": "We hold together."
+            },
+            "nous": {
+              "form": "tenons",
+              "english": "we hold",
+              "sentence": "Nous tenons nos promesses.",
+              "sentenceEnglish": "We keep our promises."
+            },
+            "vous": {
+              "form": "tenez",
+              "english": "you hold",
+              "sentence": "Vous tenez le sac?",
+              "sentenceEnglish": "Are you holding the bag?"
+            },
+            "ils/elles": {
+              "form": "tiennent",
+              "english": "they hold",
+              "sentence": "Ils tiennent la porte.",
+              "sentenceEnglish": "They hold the door."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de tenir",
+              "english": "I am holding",
+              "sentence": "Je suis en train de tenir le bébé.",
+              "sentenceEnglish": "I am holding the baby."
+            },
+            "tu": {
+              "form": "es en train de tenir",
+              "english": "you are holding",
+              "sentence": "Tu es en train de tenir quoi?",
+              "sentenceEnglish": "What are you holding?"
+            },
+            "il/elle": {
+              "form": "est en train de tenir",
+              "english": "he/she is holding",
+              "sentence": "Elle est en train de tenir le chien.",
+              "sentenceEnglish": "She is holding the dog."
+            },
+            "on": {
+              "form": "est en train de tenir",
+              "english": "we are holding",
+              "sentence": "On est en train de tenir bon.",
+              "sentenceEnglish": "We are holding on."
+            },
+            "nous": {
+              "form": "sommes en train de tenir",
+              "english": "we are holding",
+              "sentence": "Nous sommes en train de tenir une réunion.",
+              "sentenceEnglish": "We are holding a meeting."
+            },
+            "vous": {
+              "form": "êtes en train de tenir",
+              "english": "you are holding",
+              "sentence": "Vous êtes en train de tenir le bébé?",
+              "sentenceEnglish": "Are you holding the baby?"
+            },
+            "ils/elles": {
+              "form": "sont en train de tenir",
+              "english": "they are holding",
+              "sentence": "Ils sont en train de tenir conseil.",
+              "sentenceEnglish": "They are holding counsel."
+            }
+          }
+        }
+      },
+      "note": "Irregular verb with stem changes. Must be memorized: je tiens, tu tiens, il/elle tient, nous tenons, vous tenez, ils/elles tiennent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai tenu",
+              "english": "I held / I have held",
+              "sentence": "J'ai tenu ma promesse.",
+              "sentenceEnglish": "I kept my promise."
+            },
+            "tu": {
+              "form": "as tenu",
+              "english": "you held / you have held",
+              "sentence": "Tu as tenu bon?",
+              "sentenceEnglish": "Did you hold on?"
+            },
+            "il/elle": {
+              "form": "a tenu",
+              "english": "he/she held / has held",
+              "sentence": "Elle a tenu le bébé.",
+              "sentenceEnglish": "She held the baby."
+            },
+            "on": {
+              "form": "a tenu",
+              "english": "we held / we have held",
+              "sentence": "On a tenu la porte.",
+              "sentenceEnglish": "We held the door."
+            },
+            "nous": {
+              "form": "avons tenu",
+              "english": "we held / we have held",
+              "sentence": "Nous avons tenu parole.",
+              "sentenceEnglish": "We kept our word."
+            },
+            "vous": {
+              "form": "avez tenu",
+              "english": "you held / you have held",
+              "sentence": "Vous avez tenu longtemps?",
+              "sentenceEnglish": "Did you hold long?"
+            },
+            "ils/elles": {
+              "form": "ont tenu",
+              "english": "they held / they have held",
+              "sentence": "Ils ont tenu la réunion.",
+              "sentenceEnglish": "They held the meeting."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "tenais",
+              "english": "I held / I was holding / I used to hold",
+              "sentence": "Je tenais toujours mes promesses.",
+              "sentenceEnglish": "I always used to keep my promises."
+            },
+            "tu": {
+              "form": "tenais",
+              "english": "you held / you were holding / you used to hold",
+              "sentence": "Tu tenais le chien?",
+              "sentenceEnglish": "Were you holding the dog?"
+            },
+            "il/elle": {
+              "form": "tenait",
+              "english": "he/she held / was holding / used to hold",
+              "sentence": "Elle tenait la main.",
+              "sentenceEnglish": "She was holding the hand."
+            },
+            "on": {
+              "form": "tenait",
+              "english": "we held / we were holding / we used to hold",
+              "sentence": "On tenait ensemble.",
+              "sentenceEnglish": "We used to hold together."
+            },
+            "nous": {
+              "form": "tenions",
+              "english": "we held / we were holding / we used to hold",
+              "sentence": "Nous tenions bon.",
+              "sentenceEnglish": "We were holding on."
+            },
+            "vous": {
+              "form": "teniez",
+              "english": "you held / you were holding / you used to hold",
+              "sentence": "Vous teniez le sac?",
+              "sentenceEnglish": "Were you holding the bag?"
+            },
+            "ils/elles": {
+              "form": "tenaient",
+              "english": "they held / they were holding / they used to hold",
+              "sentence": "Ils tenaient la porte.",
+              "sentenceEnglish": "They used to hold the door."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais tenu",
+              "english": "I had held",
+              "sentence": "J'avais tenu ma promesse.",
+              "sentenceEnglish": "I had kept my promise."
+            },
+            "tu": {
+              "form": "avais tenu",
+              "english": "you had held",
+              "sentence": "Tu avais tenu bon?",
+              "sentenceEnglish": "Had you held on?"
+            },
+            "il/elle": {
+              "form": "avait tenu",
+              "english": "he/she had held",
+              "sentence": "Elle avait tenu le bébé.",
+              "sentenceEnglish": "She had held the baby."
+            },
+            "on": {
+              "form": "avait tenu",
+              "english": "we had held",
+              "sentence": "On avait tenu la porte.",
+              "sentenceEnglish": "We had held the door."
+            },
+            "nous": {
+              "form": "avions tenu",
+              "english": "we had held",
+              "sentence": "Nous avions tenu parole.",
+              "sentenceEnglish": "We had kept our word."
+            },
+            "vous": {
+              "form": "aviez tenu",
+              "english": "you had held",
+              "sentence": "Vous aviez tenu longtemps?",
+              "sentenceEnglish": "Had you held long?"
+            },
+            "ils/elles": {
+              "form": "avaient tenu",
+              "english": "they had held",
+              "sentence": "Ils avaient tenu la réunion.",
+              "sentenceEnglish": "They had held the meeting."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "tins",
+              "english": "I held",
+              "sentence": "Je tins ma parole.",
+              "sentenceEnglish": "I kept my word."
+            },
+            "tu": {
+              "form": "tins",
+              "english": "you held",
+              "sentence": "Tu tins bon.",
+              "sentenceEnglish": "You held on."
+            },
+            "il/elle": {
+              "form": "tint",
+              "english": "he/she held",
+              "sentence": "Il tint la porte.",
+              "sentenceEnglish": "He held the door."
+            },
+            "on": {
+              "form": "tint",
+              "english": "we held",
+              "sentence": "On tint ensemble.",
+              "sentenceEnglish": "We held together."
+            },
+            "nous": {
+              "form": "tînmes",
+              "english": "we held",
+              "sentence": "Nous tînmes conseil.",
+              "sentenceEnglish": "We held counsel."
+            },
+            "vous": {
+              "form": "tîntes",
+              "english": "you held",
+              "sentence": "Vous tîntes parole.",
+              "sentenceEnglish": "You kept your word."
+            },
+            "ils/elles": {
+              "form": "tinrent",
+              "english": "they held",
+              "sentence": "Ils tinrent bon.",
+              "sentenceEnglish": "They held on."
+            }
+          }
+        }
+      },
+      "note": "Irregular past participle 'tenu'. Imparfait stem 'ten-' (from nous tenons): je tenais, tu tenais, il/elle tenait, nous tenions, vous teniez, ils/elles tenaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "tiendrai",
+              "english": "I will hold",
+              "sentence": "Je tiendrai ma promesse.",
+              "sentenceEnglish": "I will keep my promise."
+            },
+            "tu": {
+              "form": "tiendras",
+              "english": "you will hold",
+              "sentence": "Tu tiendras bon?",
+              "sentenceEnglish": "Will you hold on?"
+            },
+            "il/elle": {
+              "form": "tiendra",
+              "english": "he/she will hold",
+              "sentence": "Il tiendra la porte.",
+              "sentenceEnglish": "He will hold the door."
+            },
+            "on": {
+              "form": "tiendra",
+              "english": "we will hold",
+              "sentence": "On tiendra ensemble.",
+              "sentenceEnglish": "We will hold together."
+            },
+            "nous": {
+              "form": "tiendrons",
+              "english": "we will hold",
+              "sentence": "Nous tiendrons parole.",
+              "sentenceEnglish": "We will keep our word."
+            },
+            "vous": {
+              "form": "tiendrez",
+              "english": "you will hold",
+              "sentence": "Vous tiendrez le sac?",
+              "sentenceEnglish": "Will you hold the bag?"
+            },
+            "ils/elles": {
+              "form": "tiendront",
+              "english": "they will hold",
+              "sentence": "Elles tiendront bon.",
+              "sentenceEnglish": "They will hold on."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais tenir",
+              "english": "I am going to hold",
+              "sentence": "Je vais tenir le bébé.",
+              "sentenceEnglish": "I am going to hold the baby."
+            },
+            "tu": {
+              "form": "vas tenir",
+              "english": "you are going to hold",
+              "sentence": "Tu vas tenir la porte?",
+              "sentenceEnglish": "Are you going to hold the door?"
+            },
+            "il/elle": {
+              "form": "va tenir",
+              "english": "he/she is going to hold",
+              "sentence": "Elle va tenir bon.",
+              "sentenceEnglish": "She is going to hold on."
+            },
+            "on": {
+              "form": "va tenir",
+              "english": "we are going to hold",
+              "sentence": "On va tenir ensemble.",
+              "sentenceEnglish": "We are going to hold together."
+            },
+            "nous": {
+              "form": "allons tenir",
+              "english": "we are going to hold",
+              "sentence": "Nous allons tenir parole.",
+              "sentenceEnglish": "We are going to keep our word."
+            },
+            "vous": {
+              "form": "allez tenir",
+              "english": "you are going to hold",
+              "sentence": "Vous allez tenir le sac?",
+              "sentenceEnglish": "Are you going to hold the bag?"
+            },
+            "ils/elles": {
+              "form": "vont tenir",
+              "english": "they are going to hold",
+              "sentence": "Ils vont tenir la réunion.",
+              "sentenceEnglish": "They are going to hold the meeting."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai tenu",
+              "english": "I will have held",
+              "sentence": "J'aurai tenu ma promesse.",
+              "sentenceEnglish": "I will have kept my promise."
+            },
+            "tu": {
+              "form": "auras tenu",
+              "english": "you will have held",
+              "sentence": "Tu auras tenu bon?",
+              "sentenceEnglish": "Will you have held on?"
+            },
+            "il/elle": {
+              "form": "aura tenu",
+              "english": "he/she will have held",
+              "sentence": "Elle aura tenu parole.",
+              "sentenceEnglish": "She will have kept her word."
+            },
+            "on": {
+              "form": "aura tenu",
+              "english": "we will have held",
+              "sentence": "On aura tenu ensemble.",
+              "sentenceEnglish": "We will have held together."
+            },
+            "nous": {
+              "form": "aurons tenu",
+              "english": "we will have held",
+              "sentence": "Nous aurons tenu bon.",
+              "sentenceEnglish": "We will have held on."
+            },
+            "vous": {
+              "form": "aurez tenu",
+              "english": "you will have held",
+              "sentence": "Vous aurez tenu longtemps?",
+              "sentenceEnglish": "Will you have held long?"
+            },
+            "ils/elles": {
+              "form": "auront tenu",
+              "english": "they will have held",
+              "sentence": "Ils auront tenu la réunion.",
+              "sentenceEnglish": "They will have held the meeting."
+            }
+          }
+        }
+      },
+      "note": "Irregular future stem 'tiendr-': je tiendrai, tu tiendras, il/elle tiendra, nous tiendrons, vous tiendrez, ils/elles tiendront"
+    }
+  }
+}

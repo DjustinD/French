@@ -1,0 +1,145 @@
+{
+  "infinitive": "demander",
+  "english": "to ask / to ask for / to request",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": { "form": "demande", "english": "I ask / I ask for", "sentence": "Je demande de l'aide.", "sentenceEnglish": "I ask for help." },
+            "tu": { "form": "demandes", "english": "you ask / you ask for", "sentence": "Tu demandes quelque chose?", "sentenceEnglish": "Are you asking for something?" },
+            "il/elle": { "form": "demande", "english": "he/she asks / asks for", "sentence": "Elle demande le chemin.", "sentenceEnglish": "She asks for directions." },
+            "on": { "form": "demande", "english": "we ask / we ask for", "sentence": "On demande la permission.", "sentenceEnglish": "We ask for permission." },
+            "nous": { "form": "demandons", "english": "we ask / we ask for", "sentence": "Nous demandons pardon.", "sentenceEnglish": "We ask for forgiveness." },
+            "vous": { "form": "demandez", "english": "you ask / you ask for", "sentence": "Vous demandez trop.", "sentenceEnglish": "You ask for too much." },
+            "ils/elles": { "form": "demandent", "english": "they ask / they ask for", "sentence": "Ils demandent un conseil.", "sentenceEnglish": "They ask for advice." }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": { "form": "suis en train de demander", "english": "I am asking / asking for", "sentence": "Je suis en train de demander de l'aide.", "sentenceEnglish": "I am asking for help." },
+            "tu": { "form": "es en train de demander", "english": "you are asking / asking for", "sentence": "Tu es en train de demander quoi?", "sentenceEnglish": "What are you asking for?" },
+            "il/elle": { "form": "est en train de demander", "english": "he/she is asking / asking for", "sentence": "Elle est en train de demander le prix.", "sentenceEnglish": "She is asking for the price." },
+            "on": { "form": "est en train de demander", "english": "we are asking / asking for", "sentence": "On est en train de demander la permission.", "sentenceEnglish": "We are asking for permission." },
+            "nous": { "form": "sommes en train de demander", "english": "we are asking / asking for", "sentence": "Nous sommes en train de demander des informations.", "sentenceEnglish": "We are asking for information." },
+            "vous": { "form": "êtes en train de demander", "english": "you are asking / asking for", "sentence": "Vous êtes en train de demander un service?", "sentenceEnglish": "Are you asking for a favor?" },
+            "ils/elles": { "form": "sont en train de demander", "english": "they are asking / asking for", "sentence": "Ils sont en train de demander le chemin.", "sentenceEnglish": "They are asking for directions." }
+          }
+        }
+      },
+      "note": "Regular -er verb. Pattern: je demande, tu demandes, il/elle demande, nous demandons, vous demandez, ils/elles demandent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "ai demandé", "english": "I asked / I asked for / I have asked", "sentence": "J'ai demandé de l'aide.", "sentenceEnglish": "I asked for help." },
+            "tu": { "form": "as demandé", "english": "you asked / you asked for / you have asked", "sentence": "Tu as demandé la permission?", "sentenceEnglish": "Did you ask for permission?" },
+            "il/elle": { "form": "a demandé", "english": "he/she asked / asked for / has asked", "sentence": "Elle a demandé le prix.", "sentenceEnglish": "She asked for the price." },
+            "on": { "form": "a demandé", "english": "we asked / we asked for / we have asked", "sentence": "On a demandé le chemin.", "sentenceEnglish": "We asked for directions." },
+            "nous": { "form": "avons demandé", "english": "we asked / we asked for / we have asked", "sentence": "Nous avons demandé pardon.", "sentenceEnglish": "We asked for forgiveness." },
+            "vous": { "form": "avez demandé", "english": "you asked / you asked for / you have asked", "sentence": "Vous avez demandé un conseil?", "sentenceEnglish": "Did you ask for advice?" },
+            "ils/elles": { "form": "ont demandé", "english": "they asked / they asked for / they have asked", "sentence": "Ils ont demandé des nouvelles.", "sentenceEnglish": "They asked for news." }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": { "form": "demandais", "english": "I asked / I was asking / I used to ask", "sentence": "Je demandais toujours de l'aide.", "sentenceEnglish": "I always used to ask for help." },
+            "tu": { "form": "demandais", "english": "you asked / you were asking / you used to ask", "sentence": "Tu demandais quoi?", "sentenceEnglish": "What were you asking for?" },
+            "il/elle": { "form": "demandait", "english": "he/she asked / was asking / used to ask", "sentence": "Elle demandait souvent le chemin.", "sentenceEnglish": "She often used to ask for directions." },
+            "on": { "form": "demandait", "english": "we asked / we were asking / we used to ask", "sentence": "On demandait la permission.", "sentenceEnglish": "We were asking for permission." },
+            "nous": { "form": "demandions", "english": "we asked / we were asking / we used to ask", "sentence": "Nous demandions des conseils.", "sentenceEnglish": "We used to ask for advice." },
+            "vous": { "form": "demandiez", "english": "you asked / you were asking / you used to ask", "sentence": "Vous demandiez trop.", "sentenceEnglish": "You were asking for too much." },
+            "ils/elles": { "form": "demandaient", "english": "they asked / they were asking / they used to ask", "sentence": "Ils demandaient de l'argent.", "sentenceEnglish": "They used to ask for money." }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "avais demandé", "english": "I had asked / asked for", "sentence": "J'avais demandé de l'aide.", "sentenceEnglish": "I had asked for help." },
+            "tu": { "form": "avais demandé", "english": "you had asked / asked for", "sentence": "Tu avais demandé la permission?", "sentenceEnglish": "Had you asked for permission?" },
+            "il/elle": { "form": "avait demandé", "english": "he/she had asked / asked for", "sentence": "Elle avait demandé le prix.", "sentenceEnglish": "She had asked for the price." },
+            "on": { "form": "avait demandé", "english": "we had asked / asked for", "sentence": "On avait demandé le chemin.", "sentenceEnglish": "We had asked for directions." },
+            "nous": { "form": "avions demandé", "english": "we had asked / asked for", "sentence": "Nous avions demandé pardon.", "sentenceEnglish": "We had asked for forgiveness." },
+            "vous": { "form": "aviez demandé", "english": "you had asked / asked for", "sentence": "Vous aviez demandé un conseil?", "sentenceEnglish": "Had you asked for advice?" },
+            "ils/elles": { "form": "avaient demandé", "english": "they had asked / asked for", "sentence": "Ils avaient demandé des nouvelles.", "sentenceEnglish": "They had asked for news." }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": { "form": "demandai", "english": "I asked / asked for", "sentence": "Je demandai de l'aide.", "sentenceEnglish": "I asked for help." },
+            "tu": { "form": "demandas", "english": "you asked / asked for", "sentence": "Tu demandas le chemin.", "sentenceEnglish": "You asked for directions." },
+            "il/elle": { "form": "demanda", "english": "he/she asked / asked for", "sentence": "Il demanda pardon.", "sentenceEnglish": "He asked for forgiveness." },
+            "on": { "form": "demanda", "english": "we asked / asked for", "sentence": "On demanda la permission.", "sentenceEnglish": "We asked for permission." },
+            "nous": { "form": "demandâmes", "english": "we asked / asked for", "sentence": "Nous demandâmes des nouvelles.", "sentenceEnglish": "We asked for news." },
+            "vous": { "form": "demandâtes", "english": "you asked / asked for", "sentence": "Vous demandâtes un conseil.", "sentenceEnglish": "You asked for advice." },
+            "ils/elles": { "form": "demandèrent", "english": "they asked / asked for", "sentence": "Ils demandèrent de l'argent.", "sentenceEnglish": "They asked for money." }
+          }
+        }
+      },
+      "note": "Regular past participle 'demandé'. Imparfait stem 'demand-' (from infinitive): je demandais, tu demandais, il/elle demandait, nous demandions, vous demandiez, ils/elles demandaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": { "form": "demanderai", "english": "I will ask / ask for", "sentence": "Je demanderai de l'aide.", "sentenceEnglish": "I will ask for help." },
+            "tu": { "form": "demanderas", "english": "you will ask / ask for", "sentence": "Tu demanderas la permission?", "sentenceEnglish": "Will you ask for permission?" },
+            "il/elle": { "form": "demandera", "english": "he/she will ask / ask for", "sentence": "Il demandera le prix.", "sentenceEnglish": "He will ask for the price." },
+            "on": { "form": "demandera", "english": "we will ask / ask for", "sentence": "On demandera le chemin.", "sentenceEnglish": "We will ask for directions." },
+            "nous": { "form": "demanderons", "english": "we will ask / ask for", "sentence": "Nous demanderons pardon.", "sentenceEnglish": "We will ask for forgiveness." },
+            "vous": { "form": "demanderez", "english": "you will ask / ask for", "sentence": "Vous demanderez un conseil?", "sentenceEnglish": "Will you ask for advice?" },
+            "ils/elles": { "form": "demanderont", "english": "they will ask / ask for", "sentence": "Elles demanderont des nouvelles.", "sentenceEnglish": "They will ask for news." }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": { "form": "vais demander", "english": "I am going to ask / ask for", "sentence": "Je vais demander de l'aide.", "sentenceEnglish": "I am going to ask for help." },
+            "tu": { "form": "vas demander", "english": "you are going to ask / ask for", "sentence": "Tu vas demander quoi?", "sentenceEnglish": "What are you going to ask for?" },
+            "il/elle": { "form": "va demander", "english": "he/she is going to ask / ask for", "sentence": "Elle va demander le prix.", "sentenceEnglish": "She is going to ask for the price." },
+            "on": { "form": "va demander", "english": "we are going to ask / ask for", "sentence": "On va demander la permission.", "sentenceEnglish": "We are going to ask for permission." },
+            "nous": { "form": "allons demander", "english": "we are going to ask / ask for", "sentence": "Nous allons demander le chemin.", "sentenceEnglish": "We are going to ask for directions." },
+            "vous": { "form": "allez demander", "english": "you are going to ask / ask for", "sentence": "Vous allez demander un conseil?", "sentenceEnglish": "Are you going to ask for advice?" },
+            "ils/elles": { "form": "vont demander", "english": "they are going to ask / ask for", "sentence": "Ils vont demander pardon.", "sentenceEnglish": "They are going to ask for forgiveness." }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "aurai demandé", "english": "I will have asked / asked for", "sentence": "J'aurai demandé de l'aide.", "sentenceEnglish": "I will have asked for help." },
+            "tu": { "form": "auras demandé", "english": "you will have asked / asked for", "sentence": "Tu auras demandé la permission?", "sentenceEnglish": "Will you have asked for permission?" },
+            "il/elle": { "form": "aura demandé", "english": "he/she will have asked / asked for", "sentence": "Elle aura demandé le prix.", "sentenceEnglish": "She will have asked for the price." },
+            "on": { "form": "aura demandé", "english": "we will have asked / asked for", "sentence": "On aura demandé le chemin.", "sentenceEnglish": "We will have asked for directions." },
+            "nous": { "form": "aurons demandé", "english": "we will have asked / asked for", "sentence": "Nous aurons demandé pardon.", "sentenceEnglish": "We will have asked for forgiveness." },
+            "vous": { "form": "aurez demandé", "english": "you will have asked / asked for", "sentence": "Vous aurez demandé un conseil?", "sentenceEnglish": "Will you have asked for advice?" },
+            "ils/elles": { "form": "auront demandé", "english": "they will have asked / asked for", "sentence": "Ils auront demandé des nouvelles.", "sentenceEnglish": "They will have asked for news." }
+          }
+        }
+      },
+      "note": "Regular future stem 'demander-': je demanderai, tu demanderas, il/elle demandera, nous demanderons, vous demanderez, ils/elles demanderont. As a regular -er verb, 'demander' follows predictable conjugation patterns across all tenses: présent (je demande, nous demandons), imparfait (je demandais, nous demandions), futur simple (je demanderai, nous demanderons), and passé composé with 'avoir' (j'ai demandé). Common uses: 'demander quelque chose' (to ask for something), 'demander à quelqu'un' (to ask someone), 'demander de + infinitive' (to ask to do something), 'se demander' (to wonder - reflexive), 'demander la permission' (to ask for permission), 'demander pardon' (to ask for forgiveness), 'demander le chemin' (to ask for directions), 'demander un conseil' (to ask for advice), 'demander des nouvelles' (to ask for news). Note: 'demander' is a direct transitive verb in French and does not require a preposition when asking for something, unlike English 'to ask for'."
+    }
+  }
+}

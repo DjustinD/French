@@ -1,0 +1,460 @@
+{
+  "infinitive": "perdre",
+  "english": "to lose",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "perds",
+              "english": "I lose",
+              "sentence": "Je perds mes clés.",
+              "sentenceEnglish": "I lose my keys."
+            },
+            "tu": {
+              "form": "perds",
+              "english": "you lose",
+              "sentence": "Tu perds toujours?",
+              "sentenceEnglish": "Do you always lose?"
+            },
+            "il/elle": {
+              "form": "perd",
+              "english": "he/she loses",
+              "sentence": "Elle perd patience.",
+              "sentenceEnglish": "She loses patience."
+            },
+            "on": {
+              "form": "perd",
+              "english": "we lose",
+              "sentence": "On perd du temps.",
+              "sentenceEnglish": "We lose time."
+            },
+            "nous": {
+              "form": "perdons",
+              "english": "we lose",
+              "sentence": "Nous perdons espoir.",
+              "sentenceEnglish": "We lose hope."
+            },
+            "vous": {
+              "form": "perdez",
+              "english": "you lose",
+              "sentence": "Vous perdez?",
+              "sentenceEnglish": "Are you losing?"
+            },
+            "ils/elles": {
+              "form": "perdent",
+              "english": "they lose",
+              "sentence": "Ils perdent souvent.",
+              "sentenceEnglish": "They often lose."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de perdre",
+              "english": "I loseing",
+              "sentence": "Je suis en train de perdre.",
+              "sentenceEnglish": "I loseing."
+            },
+            "tu": {
+              "form": "es en train de perdre",
+              "english": "you loseing",
+              "sentence": "Tu es en train de perdre.",
+              "sentenceEnglish": "you loseing."
+            },
+            "il/elle": {
+              "form": "est en train de perdre",
+              "english": "he/she losesing",
+              "sentence": "Elle est en train de perdre.",
+              "sentenceEnglish": "he/she losesing."
+            },
+            "on": {
+              "form": "est en train de perdre",
+              "english": "we loseing",
+              "sentence": "On est en train de perdre.",
+              "sentenceEnglish": "we loseing."
+            },
+            "nous": {
+              "form": "sommes en train de perdre",
+              "english": "we loseing",
+              "sentence": "Nous sommes en train de perdre.",
+              "sentenceEnglish": "we loseing."
+            },
+            "vous": {
+              "form": "êtes en train de perdre",
+              "english": "you loseing",
+              "sentence": "Vous êtes en train de perdre.",
+              "sentenceEnglish": "you loseing."
+            },
+            "ils/elles": {
+              "form": "sont en train de perdre",
+              "english": "they loseing",
+              "sentence": "Ils sont en train de perdre.",
+              "sentenceEnglish": "they loseing."
+            }
+          }
+        }
+      },
+      "note": "Regular -re verb. Pattern: je perds, tu perds, il/elle perd, nous perdons, vous perdez, ils/elles perdent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai perdu",
+              "english": "I loseed",
+              "sentence": "J'ai perdu.",
+              "sentenceEnglish": "I loseed."
+            },
+            "tu": {
+              "form": "as perdu",
+              "english": "you loseed",
+              "sentence": "Tu as perdu.",
+              "sentenceEnglish": "you loseed."
+            },
+            "il/elle": {
+              "form": "a perdu",
+              "english": "he/she losesed",
+              "sentence": "Elle a perdu.",
+              "sentenceEnglish": "he/she losesed."
+            },
+            "on": {
+              "form": "a perdu",
+              "english": "we loseed",
+              "sentence": "On a perdu.",
+              "sentenceEnglish": "we loseed."
+            },
+            "nous": {
+              "form": "avons perdu",
+              "english": "we loseed",
+              "sentence": "Nous avons perdu.",
+              "sentenceEnglish": "we loseed."
+            },
+            "vous": {
+              "form": "avez perdu",
+              "english": "you loseed",
+              "sentence": "Vous avez perdu.",
+              "sentenceEnglish": "you loseed."
+            },
+            "ils/elles": {
+              "form": "ont perdu",
+              "english": "they loseed",
+              "sentence": "Ils ont perdu.",
+              "sentenceEnglish": "they loseed."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "perdais",
+              "english": "used to I lose",
+              "sentence": "Je perdais souvent.",
+              "sentenceEnglish": "I used to I lose often."
+            },
+            "tu": {
+              "form": "perdais",
+              "english": "used to you lose",
+              "sentence": "Tu perdais?",
+              "sentenceEnglish": "Did you you lose?"
+            },
+            "il/elle": {
+              "form": "perdait",
+              "english": "used to he/she loses",
+              "sentence": "Elle perdait toujours.",
+              "sentenceEnglish": "She always used to he/she loses."
+            },
+            "on": {
+              "form": "perdait",
+              "english": "used to we lose",
+              "sentence": "On perdait ensemble.",
+              "sentenceEnglish": "We used to we lose together."
+            },
+            "nous": {
+              "form": "perdions",
+              "english": "used to we lose",
+              "sentence": "Nous perdions.",
+              "sentenceEnglish": "We used to we lose."
+            },
+            "vous": {
+              "form": "perdiez",
+              "english": "used to you lose",
+              "sentence": "Vous perdiez?",
+              "sentenceEnglish": "Did you you lose?"
+            },
+            "ils/elles": {
+              "form": "perdaient",
+              "english": "used to they lose",
+              "sentence": "Ils perdaient.",
+              "sentenceEnglish": "They used to they lose."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais perdu",
+              "english": "had I loseed",
+              "sentence": "J'avais perdu.",
+              "sentenceEnglish": "I had I loseed."
+            },
+            "tu": {
+              "form": "avais perdu",
+              "english": "had you loseed",
+              "sentence": "Tu avais perdu.",
+              "sentenceEnglish": "You had you loseed."
+            },
+            "il/elle": {
+              "form": "avait perdu",
+              "english": "had he/she losesed",
+              "sentence": "Elle avait perdu.",
+              "sentenceEnglish": "She had he/she losesed."
+            },
+            "on": {
+              "form": "avait perdu",
+              "english": "had we loseed",
+              "sentence": "On avait perdu.",
+              "sentenceEnglish": "We had we loseed."
+            },
+            "nous": {
+              "form": "avions perdu",
+              "english": "had we loseed",
+              "sentence": "Nous avions perdu.",
+              "sentenceEnglish": "We had we loseed."
+            },
+            "vous": {
+              "form": "aviez perdu",
+              "english": "had you loseed",
+              "sentence": "Vous aviez perdu.",
+              "sentenceEnglish": "You had you loseed."
+            },
+            "ils/elles": {
+              "form": "avaient perdu",
+              "english": "had they loseed",
+              "sentence": "Ils avaient perdu.",
+              "sentenceEnglish": "They had they loseed."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "perdis",
+              "english": "I loseed",
+              "sentence": "Je perdis.",
+              "sentenceEnglish": "I I loseed."
+            },
+            "tu": {
+              "form": "perdis",
+              "english": "you loseed",
+              "sentence": "Tu perdis.",
+              "sentenceEnglish": "You you loseed."
+            },
+            "il/elle": {
+              "form": "perdit",
+              "english": "he/she losesed",
+              "sentence": "Il perdit.",
+              "sentenceEnglish": "He he/she losesed."
+            },
+            "on": {
+              "form": "perdit",
+              "english": "we loseed",
+              "sentence": "On perdit.",
+              "sentenceEnglish": "We we loseed."
+            },
+            "nous": {
+              "form": "perdîmes",
+              "english": "we loseed",
+              "sentence": "Nous perdîmes.",
+              "sentenceEnglish": "We we loseed."
+            },
+            "vous": {
+              "form": "perdîtes",
+              "english": "you loseed",
+              "sentence": "Vous perdîtes.",
+              "sentenceEnglish": "You you loseed."
+            },
+            "ils/elles": {
+              "form": "perdirent",
+              "english": "they loseed",
+              "sentence": "Ils perdirent.",
+              "sentenceEnglish": "They they loseed."
+            }
+          }
+        }
+      },
+      "note": "Regular past participle 'perdu'. Imparfait stem 'perd-': je perdais, tu perdais, il/elle perdait, nous perdions, vous perdiez, ils/elles perdaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "perdrai",
+              "english": "will I lose",
+              "sentence": "Je perdrai.",
+              "sentenceEnglish": "I will I lose."
+            },
+            "tu": {
+              "form": "perdras",
+              "english": "will you lose",
+              "sentence": "Tu perdras.",
+              "sentenceEnglish": "You will you lose."
+            },
+            "il/elle": {
+              "form": "perdra",
+              "english": "will he/she loses",
+              "sentence": "Il perdra.",
+              "sentenceEnglish": "He will he/she loses."
+            },
+            "on": {
+              "form": "perdra",
+              "english": "will we lose",
+              "sentence": "On perdra.",
+              "sentenceEnglish": "We will we lose."
+            },
+            "nous": {
+              "form": "perdrons",
+              "english": "will we lose",
+              "sentence": "Nous perdrons.",
+              "sentenceEnglish": "We will we lose."
+            },
+            "vous": {
+              "form": "perdrez",
+              "english": "will you lose",
+              "sentence": "Vous perdrez.",
+              "sentenceEnglish": "You will you lose."
+            },
+            "ils/elles": {
+              "form": "perdront",
+              "english": "will they lose",
+              "sentence": "Elles perdront.",
+              "sentenceEnglish": "They will they lose."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais perdre",
+              "english": "going to I lose",
+              "sentence": "Je vais perdre.",
+              "sentenceEnglish": "I am going to I lose."
+            },
+            "tu": {
+              "form": "vas perdre",
+              "english": "going to you lose",
+              "sentence": "Tu vas perdre.",
+              "sentenceEnglish": "You are going to you lose."
+            },
+            "il/elle": {
+              "form": "va perdre",
+              "english": "going to he/she loses",
+              "sentence": "Elle va perdre.",
+              "sentenceEnglish": "She is going to he/she loses."
+            },
+            "on": {
+              "form": "va perdre",
+              "english": "going to we lose",
+              "sentence": "On va perdre.",
+              "sentenceEnglish": "We are going to we lose."
+            },
+            "nous": {
+              "form": "allons perdre",
+              "english": "going to we lose",
+              "sentence": "Nous allons perdre.",
+              "sentenceEnglish": "We are going to we lose."
+            },
+            "vous": {
+              "form": "allez perdre",
+              "english": "going to you lose",
+              "sentence": "Vous allez perdre.",
+              "sentenceEnglish": "You are going to you lose."
+            },
+            "ils/elles": {
+              "form": "vont perdre",
+              "english": "going to they lose",
+              "sentence": "Ils vont perdre.",
+              "sentenceEnglish": "They are going to they lose."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai perdu",
+              "english": "will have I loseed",
+              "sentence": "J'aurai perdu.",
+              "sentenceEnglish": "I will have I loseed."
+            },
+            "tu": {
+              "form": "auras perdu",
+              "english": "will have you loseed",
+              "sentence": "Tu auras perdu.",
+              "sentenceEnglish": "You will have you loseed."
+            },
+            "il/elle": {
+              "form": "aura perdu",
+              "english": "will have he/she losesed",
+              "sentence": "Elle aura perdu.",
+              "sentenceEnglish": "She will have he/she losesed."
+            },
+            "on": {
+              "form": "aura perdu",
+              "english": "will have we loseed",
+              "sentence": "On aura perdu.",
+              "sentenceEnglish": "We will have we loseed."
+            },
+            "nous": {
+              "form": "aurons perdu",
+              "english": "will have we loseed",
+              "sentence": "Nous aurons perdu.",
+              "sentenceEnglish": "We will have we loseed."
+            },
+            "vous": {
+              "form": "aurez perdu",
+              "english": "will have you loseed",
+              "sentence": "Vous aurez perdu.",
+              "sentenceEnglish": "You will have you loseed."
+            },
+            "ils/elles": {
+              "form": "auront perdu",
+              "english": "will have they loseed",
+              "sentence": "Ils auront perdu.",
+              "sentenceEnglish": "They will have they loseed."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'perdr-': je perdrai, tu perdras, il/elle perdra, nous perdrons, vous perdrez, ils/elles perdront"
+    }
+  }
+}

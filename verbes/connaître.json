@@ -1,0 +1,145 @@
+{
+  "infinitive": "connaître",
+  "english": "to know / to be acquainted with",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": { "form": "connais", "english": "I know", "sentence": "Je connais cette personne.", "sentenceEnglish": "I know that person." },
+            "tu": { "form": "connais", "english": "you know", "sentence": "Tu connais Paris?", "sentenceEnglish": "Do you know Paris?" },
+            "il/elle": { "form": "connaît", "english": "he/she knows", "sentence": "Elle connaît bien la ville.", "sentenceEnglish": "She knows the city well." },
+            "on": { "form": "connaît", "english": "we know", "sentence": "On connaît un bon restaurant.", "sentenceEnglish": "We know a good restaurant." },
+            "nous": { "form": "connaissons", "english": "we know", "sentence": "Nous connaissons ses parents.", "sentenceEnglish": "We know his/her parents." },
+            "vous": { "form": "connaissez", "english": "you know", "sentence": "Vous connaissez ce quartier?", "sentenceEnglish": "Do you know this neighborhood?" },
+            "ils/elles": { "form": "connaissent", "english": "they know", "sentence": "Ils connaissent la vérité.", "sentenceEnglish": "They know the truth." }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": { "form": "suis en train de connaître", "english": "I am getting to know", "sentence": "Je suis en train de connaître cette ville.", "sentenceEnglish": "I am getting to know this city." },
+            "tu": { "form": "es en train de connaître", "english": "you are getting to know", "sentence": "Tu es en train de connaître tes voisins?", "sentenceEnglish": "Are you getting to know your neighbors?" },
+            "il/elle": { "form": "est en train de connaître", "english": "he/she is getting to know", "sentence": "Elle est en train de connaître ses collègues.", "sentenceEnglish": "She is getting to know her colleagues." },
+            "on": { "form": "est en train de connaître", "english": "we are getting to know", "sentence": "On est en train de connaître la région.", "sentenceEnglish": "We are getting to know the region." },
+            "nous": { "form": "sommes en train de connaître", "english": "we are getting to know", "sentence": "Nous sommes en train de connaître nos limites.", "sentenceEnglish": "We are getting to know our limits." },
+            "vous": { "form": "êtes en train de connaître", "english": "you are getting to know", "sentence": "Vous êtes en train de connaître le succès?", "sentenceEnglish": "Are you experiencing success?" },
+            "ils/elles": { "form": "sont en train de connaître", "english": "they are getting to know", "sentence": "Ils sont en train de connaître des difficultés.", "sentenceEnglish": "They are experiencing difficulties." }
+          }
+        }
+      },
+      "note": "Irregular verb with circumflex accent. Must be memorized: je connais, tu connais, il/elle connaît, nous connaissons, vous connaissez, ils/elles connaissent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "ai connu", "english": "I knew / I have known", "sentence": "J'ai connu cette ville autrefois.", "sentenceEnglish": "I knew that city once." },
+            "tu": { "form": "as connu", "english": "you knew / you have known", "sentence": "Tu as connu mon frère?", "sentenceEnglish": "Did you know my brother?" },
+            "il/elle": { "form": "a connu", "english": "he/she knew / has known", "sentence": "Elle a connu le succès.", "sentenceEnglish": "She knew success." },
+            "on": { "form": "a connu", "english": "we knew / we have known", "sentence": "On a connu des temps difficiles.", "sentenceEnglish": "We knew difficult times." },
+            "nous": { "form": "avons connu", "english": "we knew / we have known", "sentence": "Nous avons connu ses parents.", "sentenceEnglish": "We knew his/her parents." },
+            "vous": { "form": "avez connu", "english": "you knew / you have known", "sentence": "Vous avez connu Paris avant?", "sentenceEnglish": "Have you known Paris before?" },
+            "ils/elles": { "form": "ont connu", "english": "they knew / they have known", "sentence": "Ils ont connu la guerre.", "sentenceEnglish": "They knew war." }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": { "form": "connaissais", "english": "I knew / I used to know", "sentence": "Je connaissais bien cet endroit.", "sentenceEnglish": "I knew that place well." },
+            "tu": { "form": "connaissais", "english": "you knew / you used to know", "sentence": "Tu connaissais cette chanson?", "sentenceEnglish": "Did you know that song?" },
+            "il/elle": { "form": "connaissait", "english": "he/she knew / used to know", "sentence": "Elle connaissait tous les secrets.", "sentenceEnglish": "She knew all the secrets." },
+            "on": { "form": "connaissait", "english": "we knew / we used to know", "sentence": "On connaissait un bon restaurant.", "sentenceEnglish": "We knew a good restaurant." },
+            "nous": { "form": "connaissions", "english": "we knew / we used to know", "sentence": "Nous connaissions ses parents.", "sentenceEnglish": "We knew his/her parents." },
+            "vous": { "form": "connaissiez", "english": "you knew / you used to know", "sentence": "Vous connaissiez ce quartier?", "sentenceEnglish": "Did you know this neighborhood?" },
+            "ils/elles": { "form": "connaissaient", "english": "they knew / they used to know", "sentence": "Ils connaissaient la vérité.", "sentenceEnglish": "They knew the truth." }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "avais connu", "english": "I had known", "sentence": "J'avais connu cette ville avant.", "sentenceEnglish": "I had known that city before." },
+            "tu": { "form": "avais connu", "english": "you had known", "sentence": "Tu avais connu son frère?", "sentenceEnglish": "Had you known his brother?" },
+            "il/elle": { "form": "avait connu", "english": "he/she had known", "sentence": "Elle avait connu le succès.", "sentenceEnglish": "She had known success." },
+            "on": { "form": "avait connu", "english": "we had known", "sentence": "On avait connu des temps meilleurs.", "sentenceEnglish": "We had known better times." },
+            "nous": { "form": "avions connu", "english": "we had known", "sentence": "Nous avions connu ses parents.", "sentenceEnglish": "We had known his/her parents." },
+            "vous": { "form": "aviez connu", "english": "you had known", "sentence": "Vous aviez connu cette époque?", "sentenceEnglish": "Had you known that era?" },
+            "ils/elles": { "form": "avaient connu", "english": "they had known", "sentence": "Ils avaient connu la guerre.", "sentenceEnglish": "They had known war." }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": { "form": "connus", "english": "I knew", "sentence": "Je connus la vérité.", "sentenceEnglish": "I learned the truth." },
+            "tu": { "form": "connus", "english": "you knew", "sentence": "Tu connus la gloire.", "sentenceEnglish": "You knew glory." },
+            "il/elle": { "form": "connut", "english": "he/she knew", "sentence": "Il connut le succès.", "sentenceEnglish": "He knew success." },
+            "on": { "form": "connut", "english": "we knew", "sentence": "On connut des temps difficiles.", "sentenceEnglish": "We knew difficult times." },
+            "nous": { "form": "connûmes", "english": "we knew", "sentence": "Nous connûmes la guerre.", "sentenceEnglish": "We knew war." },
+            "vous": { "form": "connûtes", "english": "you knew", "sentence": "Vous connûtes cette époque.", "sentenceEnglish": "You knew that era." },
+            "ils/elles": { "form": "connurent", "english": "they knew", "sentence": "Ils connurent la misère.", "sentenceEnglish": "They knew misery." }
+          }
+        }
+      },
+      "note": "Irregular past participle 'connu'. Imparfait stem 'connaiss-' (from 'nous connaissons'): je connaissais, tu connaissais, il/elle connaissait, nous connaissions, vous connaissiez, ils/elles connaissaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": { "form": "connaîtrai", "english": "I will know", "sentence": "Je connaîtrai la vérité un jour.", "sentenceEnglish": "I will know the truth one day." },
+            "tu": { "form": "connaîtras", "english": "you will know", "sentence": "Tu connaîtras cette ville.", "sentenceEnglish": "You will know this city." },
+            "il/elle": { "form": "connaîtra", "english": "he/she will know", "sentence": "Il connaîtra le succès.", "sentenceEnglish": "He will know success." },
+            "on": { "form": "connaîtra", "english": "we will know", "sentence": "On connaîtra des temps meilleurs.", "sentenceEnglish": "We will know better times." },
+            "nous": { "form": "connaîtrons", "english": "we will know", "sentence": "Nous connaîtrons ses parents.", "sentenceEnglish": "We will know his/her parents." },
+            "vous": { "form": "connaîtrez", "english": "you will know", "sentence": "Vous connaîtrez ce quartier?", "sentenceEnglish": "Will you know this neighborhood?" },
+            "ils/elles": { "form": "connaîtront", "english": "they will know", "sentence": "Elles connaîtront la vérité.", "sentenceEnglish": "They will know the truth." }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": { "form": "vais connaître", "english": "I am going to know", "sentence": "Je vais connaître cette personne.", "sentenceEnglish": "I am going to know that person." },
+            "tu": { "form": "vas connaître", "english": "you are going to know", "sentence": "Tu vas connaître mes amis.", "sentenceEnglish": "You are going to meet my friends." },
+            "il/elle": { "form": "va connaître", "english": "he/she is going to know", "sentence": "Elle va connaître le succès.", "sentenceEnglish": "She is going to know success." },
+            "on": { "form": "va connaître", "english": "we are going to know", "sentence": "On va connaître la ville.", "sentenceEnglish": "We are going to know the city." },
+            "nous": { "form": "allons connaître", "english": "we are going to know", "sentence": "Nous allons connaître ses parents.", "sentenceEnglish": "We are going to meet his/her parents." },
+            "vous": { "form": "allez connaître", "english": "you are going to know", "sentence": "Vous allez connaître ce quartier.", "sentenceEnglish": "You are going to know this neighborhood." },
+            "ils/elles": { "form": "vont connaître", "english": "they are going to know", "sentence": "Ils vont connaître la vérité.", "sentenceEnglish": "They are going to know the truth." }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "aurai connu", "english": "I will have known", "sentence": "J'aurai connu cette ville avant toi.", "sentenceEnglish": "I will have known this city before you." },
+            "tu": { "form": "auras connu", "english": "you will have known", "sentence": "Tu auras connu le succès?", "sentenceEnglish": "Will you have known success?" },
+            "il/elle": { "form": "aura connu", "english": "he/she will have known", "sentence": "Elle aura connu la gloire.", "sentenceEnglish": "She will have known glory." },
+            "on": { "form": "aura connu", "english": "we will have known", "sentence": "On aura connu des temps difficiles.", "sentenceEnglish": "We will have known difficult times." },
+            "nous": { "form": "aurons connu", "english": "we will have known", "sentence": "Nous aurons connu ses parents.", "sentenceEnglish": "We will have known his/her parents." },
+            "vous": { "form": "aurez connu", "english": "you will have known", "sentence": "Vous aurez connu cette époque?", "sentenceEnglish": "Will you have known that era?" },
+            "ils/elles": { "form": "auront connu", "english": "they will have known", "sentence": "Ils auront connu la guerre.", "sentenceEnglish": "They will have known war." }
+          }
+        }
+      },
+      "note": "Irregular future stem 'connaîtr-' (with circumflex accent): je connaîtrai, tu connaîtras, il/elle connaîtra, nous connaîtrons, vous connaîtrez, ils/elles connaîtront"
+    }
+  }
+}

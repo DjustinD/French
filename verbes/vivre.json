@@ -1,0 +1,145 @@
+{
+  "infinitive": "vivre",
+  "english": "to live",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": { "form": "vis", "english": "I live", "sentence": "Je vis à Paris.", "sentenceEnglish": "I live in Paris." },
+            "tu": { "form": "vis", "english": "you live", "sentence": "Tu vis seul?", "sentenceEnglish": "Do you live alone?" },
+            "il/elle": { "form": "vit", "english": "he/she lives", "sentence": "Elle vit en France.", "sentenceEnglish": "She lives in France." },
+            "on": { "form": "vit", "english": "we live", "sentence": "On vit ensemble.", "sentenceEnglish": "We live together." },
+            "nous": { "form": "vivons", "english": "we live", "sentence": "Nous vivons heureux.", "sentenceEnglish": "We live happily." },
+            "vous": { "form": "vivez", "english": "you live", "sentence": "Vous vivez où?", "sentenceEnglish": "Where do you live?" },
+            "ils/elles": { "form": "vivent", "english": "they live", "sentence": "Ils vivent à la campagne.", "sentenceEnglish": "They live in the countryside." }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": { "form": "suis en train de vivre", "english": "I am living", "sentence": "Je suis en train de vivre un rêve.", "sentenceEnglish": "I am living a dream." },
+            "tu": { "form": "es en train de vivre", "english": "you are living", "sentence": "Tu es en train de vivre une aventure.", "sentenceEnglish": "You are living an adventure." },
+            "il/elle": { "form": "est en train de vivre", "english": "he/she is living", "sentence": "Elle est en train de vivre un moment difficile.", "sentenceEnglish": "She is living through a difficult time." },
+            "on": { "form": "est en train de vivre", "english": "we are living", "sentence": "On est en train de vivre des temps étranges.", "sentenceEnglish": "We are living through strange times." },
+            "nous": { "form": "sommes en train de vivre", "english": "we are living", "sentence": "Nous sommes en train de vivre une expérience unique.", "sentenceEnglish": "We are living a unique experience." },
+            "vous": { "form": "êtes en train de vivre", "english": "you are living", "sentence": "Vous êtes en train de vivre votre meilleure vie?", "sentenceEnglish": "Are you living your best life?" },
+            "ils/elles": { "form": "sont en train de vivre", "english": "they are living", "sentence": "Ils sont en train de vivre ensemble.", "sentenceEnglish": "They are living together." }
+          }
+        }
+      },
+      "note": "Irregular verb. Must be memorized: je vis, tu vis, il/elle vit, nous vivons, vous vivez, ils/elles vivent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "ai vécu", "english": "I lived / I have lived", "sentence": "J'ai vécu à Paris pendant dix ans.", "sentenceEnglish": "I lived in Paris for ten years." },
+            "tu": { "form": "as vécu", "english": "you lived / you have lived", "sentence": "Tu as vécu une belle expérience.", "sentenceEnglish": "You lived a great experience." },
+            "il/elle": { "form": "a vécu", "english": "he/she lived / has lived", "sentence": "Elle a vécu longtemps.", "sentenceEnglish": "She lived a long time." },
+            "on": { "form": "a vécu", "english": "we lived / we have lived", "sentence": "On a vécu des moments merveilleux.", "sentenceEnglish": "We lived wonderful moments." },
+            "nous": { "form": "avons vécu", "english": "we lived / we have lived", "sentence": "Nous avons vécu ensemble.", "sentenceEnglish": "We lived together." },
+            "vous": { "form": "avez vécu", "english": "you lived / you have lived", "sentence": "Vous avez vécu où?", "sentenceEnglish": "Where did you live?" },
+            "ils/elles": { "form": "ont vécu", "english": "they lived / they have lived", "sentence": "Ils ont vécu heureux.", "sentenceEnglish": "They lived happily." }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": { "form": "vivais", "english": "I lived / I was living / I used to live", "sentence": "Je vivais à Lyon.", "sentenceEnglish": "I used to live in Lyon." },
+            "tu": { "form": "vivais", "english": "you lived / you were living / you used to live", "sentence": "Tu vivais seul?", "sentenceEnglish": "Did you live alone?" },
+            "il/elle": { "form": "vivait", "english": "he/she lived / was living / used to live", "sentence": "Elle vivait bien.", "sentenceEnglish": "She lived well." },
+            "on": { "form": "vivait", "english": "we lived / we were living / we used to live", "sentence": "On vivait ensemble.", "sentenceEnglish": "We used to live together." },
+            "nous": { "form": "vivions", "english": "we lived / we were living / we used to live", "sentence": "Nous vivions heureux.", "sentenceEnglish": "We used to live happily." },
+            "vous": { "form": "viviez", "english": "you lived / you were living / you used to live", "sentence": "Vous viviez à la campagne?", "sentenceEnglish": "Did you live in the countryside?" },
+            "ils/elles": { "form": "vivaient", "english": "they lived / they were living / they used to live", "sentence": "Ils vivaient pauvrement.", "sentenceEnglish": "They used to live poorly." }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "avais vécu", "english": "I had lived", "sentence": "J'avais vécu à Paris avant.", "sentenceEnglish": "I had lived in Paris before." },
+            "tu": { "form": "avais vécu", "english": "you had lived", "sentence": "Tu avais vécu seul?", "sentenceEnglish": "Had you lived alone?" },
+            "il/elle": { "form": "avait vécu", "english": "he/she had lived", "sentence": "Elle avait vécu longtemps.", "sentenceEnglish": "She had lived a long time." },
+            "on": { "form": "avait vécu", "english": "we had lived", "sentence": "On avait vécu ensemble.", "sentenceEnglish": "We had lived together." },
+            "nous": { "form": "avions vécu", "english": "we had lived", "sentence": "Nous avions vécu des moments difficiles.", "sentenceEnglish": "We had lived through difficult times." },
+            "vous": { "form": "aviez vécu", "english": "you had lived", "sentence": "Vous aviez vécu où?", "sentenceEnglish": "Where had you lived?" },
+            "ils/elles": { "form": "avaient vécu", "english": "they had lived", "sentence": "Ils avaient vécu heureux.", "sentenceEnglish": "They had lived happily." }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": { "form": "vécus", "english": "I lived", "sentence": "Je vécus à Paris.", "sentenceEnglish": "I lived in Paris." },
+            "tu": { "form": "vécus", "english": "you lived", "sentence": "Tu vécus seul.", "sentenceEnglish": "You lived alone." },
+            "il/elle": { "form": "vécut", "english": "he/she lived", "sentence": "Il vécut longtemps.", "sentenceEnglish": "He lived a long time." },
+            "on": { "form": "vécut", "english": "we lived", "sentence": "On vécut ensemble.", "sentenceEnglish": "We lived together." },
+            "nous": { "form": "vécûmes", "english": "we lived", "sentence": "Nous vécûmes heureux.", "sentenceEnglish": "We lived happily." },
+            "vous": { "form": "vécûtes", "english": "you lived", "sentence": "Vous vécûtes à la campagne.", "sentenceEnglish": "You lived in the countryside." },
+            "ils/elles": { "form": "vécurent", "english": "they lived", "sentence": "Ils vécurent pauvrement.", "sentenceEnglish": "They lived poorly." }
+          }
+        }
+      },
+      "note": "Irregular past participle 'vécu'. Imparfait stem 'viv-' (from 'nous vivons'): je vivais, tu vivais, il/elle vivait, nous vivions, vous viviez, ils/elles vivaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": { "form": "vivrai", "english": "I will live", "sentence": "Je vivrai à Paris.", "sentenceEnglish": "I will live in Paris." },
+            "tu": { "form": "vivras", "english": "you will live", "sentence": "Tu vivras longtemps.", "sentenceEnglish": "You will live a long time." },
+            "il/elle": { "form": "vivra", "english": "he/she will live", "sentence": "Il vivra heureux.", "sentenceEnglish": "He will live happily." },
+            "on": { "form": "vivra", "english": "we will live", "sentence": "On vivra ensemble.", "sentenceEnglish": "We will live together." },
+            "nous": { "form": "vivrons", "english": "we will live", "sentence": "Nous vivrons mieux.", "sentenceEnglish": "We will live better." },
+            "vous": { "form": "vivrez", "english": "you will live", "sentence": "Vous vivrez où?", "sentenceEnglish": "Where will you live?" },
+            "ils/elles": { "form": "vivront", "english": "they will live", "sentence": "Elles vivront à la campagne.", "sentenceEnglish": "They will live in the countryside." }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": { "form": "vais vivre", "english": "I am going to live", "sentence": "Je vais vivre à Paris.", "sentenceEnglish": "I am going to live in Paris." },
+            "tu": { "form": "vas vivre", "english": "you are going to live", "sentence": "Tu vas vivre seul?", "sentenceEnglish": "Are you going to live alone?" },
+            "il/elle": { "form": "va vivre", "english": "he/she is going to live", "sentence": "Elle va vivre une aventure.", "sentenceEnglish": "She is going to live an adventure." },
+            "on": { "form": "va vivre", "english": "we are going to live", "sentence": "On va vivre ensemble.", "sentenceEnglish": "We are going to live together." },
+            "nous": { "form": "allons vivre", "english": "we are going to live", "sentence": "Nous allons vivre heureux.", "sentenceEnglish": "We are going to live happily." },
+            "vous": { "form": "allez vivre", "english": "you are going to live", "sentence": "Vous allez vivre où?", "sentenceEnglish": "Where are you going to live?" },
+            "ils/elles": { "form": "vont vivre", "english": "they are going to live", "sentence": "Ils vont vivre à la campagne.", "sentenceEnglish": "They are going to live in the countryside." }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "aurai vécu", "english": "I will have lived", "sentence": "J'aurai vécu une belle vie.", "sentenceEnglish": "I will have lived a good life." },
+            "tu": { "form": "auras vécu", "english": "you will have lived", "sentence": "Tu auras vécu cent ans.", "sentenceEnglish": "You will have lived a hundred years." },
+            "il/elle": { "form": "aura vécu", "english": "he/she will have lived", "sentence": "Elle aura vécu longtemps.", "sentenceEnglish": "She will have lived a long time." },
+            "on": { "form": "aura vécu", "english": "we will have lived", "sentence": "On aura vécu ensemble.", "sentenceEnglish": "We will have lived together." },
+            "nous": { "form": "aurons vécu", "english": "we will have lived", "sentence": "Nous aurons vécu des moments merveilleux.", "sentenceEnglish": "We will have lived wonderful moments." },
+            "vous": { "form": "aurez vécu", "english": "you will have lived", "sentence": "Vous aurez vécu une vie riche.", "sentenceEnglish": "You will have lived a rich life." },
+            "ils/elles": { "form": "auront vécu", "english": "they will have lived", "sentence": "Ils auront vécu heureux.", "sentenceEnglish": "They will have lived happily." }
+          }
+        }
+      },
+      "note": "Regular future stem 'vivr-': je vivrai, tu vivras, il/elle vivra, nous vivrons, vous vivrez, ils/elles vivront"
+    }
+  }
+}

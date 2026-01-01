@@ -1,0 +1,460 @@
+{
+  "infinitive": "boire",
+  "english": "to drink",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "bois",
+              "english": "I drink",
+              "sentence": "Je bois de l'eau.",
+              "sentenceEnglish": "I drink water."
+            },
+            "tu": {
+              "form": "bois",
+              "english": "you drink",
+              "sentence": "Tu bois du café?",
+              "sentenceEnglish": "Do you drink coffee?"
+            },
+            "il/elle": {
+              "form": "boit",
+              "english": "he/she drinks",
+              "sentence": "Elle boit du thé.",
+              "sentenceEnglish": "She drinks tea."
+            },
+            "on": {
+              "form": "boit",
+              "english": "we drink",
+              "sentence": "On boit ensemble.",
+              "sentenceEnglish": "We drink together."
+            },
+            "nous": {
+              "form": "buvons",
+              "english": "we drink",
+              "sentence": "Nous buvons du vin.",
+              "sentenceEnglish": "We drink wine."
+            },
+            "vous": {
+              "form": "buvez",
+              "english": "you drink",
+              "sentence": "Vous buvez quoi?",
+              "sentenceEnglish": "What do you drink?"
+            },
+            "ils/elles": {
+              "form": "boivent",
+              "english": "they drink",
+              "sentence": "Ils boivent du jus.",
+              "sentenceEnglish": "They drink juice."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de boire",
+              "english": "I am drinking",
+              "sentence": "Je suis en train de boire de l'eau.",
+              "sentenceEnglish": "I am drinking water."
+            },
+            "tu": {
+              "form": "es en train de boire",
+              "english": "you are drinking",
+              "sentence": "Tu es en train de boire quoi?",
+              "sentenceEnglish": "What are you drinking?"
+            },
+            "il/elle": {
+              "form": "est en train de boire",
+              "english": "he/she is drinking",
+              "sentence": "Elle est en train de boire du café.",
+              "sentenceEnglish": "She is drinking coffee."
+            },
+            "on": {
+              "form": "est en train de boire",
+              "english": "we are drinking",
+              "sentence": "On est en train de boire ensemble.",
+              "sentenceEnglish": "We are drinking together."
+            },
+            "nous": {
+              "form": "sommes en train de boire",
+              "english": "we are drinking",
+              "sentence": "Nous sommes en train de boire du thé.",
+              "sentenceEnglish": "We are drinking tea."
+            },
+            "vous": {
+              "form": "êtes en train de boire",
+              "english": "you are drinking",
+              "sentence": "Vous êtes en train de boire?",
+              "sentenceEnglish": "Are you drinking?"
+            },
+            "ils/elles": {
+              "form": "sont en train de boire",
+              "english": "they are drinking",
+              "sentence": "Ils sont en train de boire du vin.",
+              "sentenceEnglish": "They are drinking wine."
+            }
+          }
+        }
+      },
+      "note": "Irregular verb with stem changes. Must be memorized: je bois, tu bois, il/elle boit, nous buvons, vous buvez, ils/elles boivent. Note the stem change from 'boi-' to 'buv-' in nous/vous forms"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai bu",
+              "english": "I drank / I have drunk",
+              "sentence": "J'ai bu de l'eau.",
+              "sentenceEnglish": "I drank water."
+            },
+            "tu": {
+              "form": "as bu",
+              "english": "you drank / you have drunk",
+              "sentence": "Tu as bu du café?",
+              "sentenceEnglish": "Did you drink coffee?"
+            },
+            "il/elle": {
+              "form": "a bu",
+              "english": "he/she drank / has drunk",
+              "sentence": "Elle a bu du thé.",
+              "sentenceEnglish": "She drank tea."
+            },
+            "on": {
+              "form": "a bu",
+              "english": "we drank / we have drunk",
+              "sentence": "On a bu ensemble.",
+              "sentenceEnglish": "We drank together."
+            },
+            "nous": {
+              "form": "avons bu",
+              "english": "we drank / we have drunk",
+              "sentence": "Nous avons bu du vin.",
+              "sentenceEnglish": "We drank wine."
+            },
+            "vous": {
+              "form": "avez bu",
+              "english": "you drank / you have drunk",
+              "sentence": "Vous avez bu quoi?",
+              "sentenceEnglish": "What did you drink?"
+            },
+            "ils/elles": {
+              "form": "ont bu",
+              "english": "they drank / they have drunk",
+              "sentence": "Ils ont bu du jus.",
+              "sentenceEnglish": "They drank juice."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "buvais",
+              "english": "I drank / I was drinking / I used to drink",
+              "sentence": "Je buvais du café tous les matins.",
+              "sentenceEnglish": "I used to drink coffee every morning."
+            },
+            "tu": {
+              "form": "buvais",
+              "english": "you drank / you were drinking / you used to drink",
+              "sentence": "Tu buvais du thé?",
+              "sentenceEnglish": "Were you drinking tea?"
+            },
+            "il/elle": {
+              "form": "buvait",
+              "english": "he/she drank / was drinking / used to drink",
+              "sentence": "Elle buvait beaucoup d'eau.",
+              "sentenceEnglish": "She used to drink a lot of water."
+            },
+            "on": {
+              "form": "buvait",
+              "english": "we drank / we were drinking / we used to drink",
+              "sentence": "On buvait ensemble.",
+              "sentenceEnglish": "We used to drink together."
+            },
+            "nous": {
+              "form": "buvions",
+              "english": "we drank / we were drinking / we used to drink",
+              "sentence": "Nous buvions du vin.",
+              "sentenceEnglish": "We used to drink wine."
+            },
+            "vous": {
+              "form": "buviez",
+              "english": "you drank / you were drinking / you used to drink",
+              "sentence": "Vous buviez quoi?",
+              "sentenceEnglish": "What did you drink?"
+            },
+            "ils/elles": {
+              "form": "buvaient",
+              "english": "they drank / they were drinking / they used to drink",
+              "sentence": "Ils buvaient du jus.",
+              "sentenceEnglish": "They used to drink juice."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais bu",
+              "english": "I had drunk",
+              "sentence": "J'avais bu de l'eau.",
+              "sentenceEnglish": "I had drunk water."
+            },
+            "tu": {
+              "form": "avais bu",
+              "english": "you had drunk",
+              "sentence": "Tu avais bu du café?",
+              "sentenceEnglish": "Had you drunk coffee?"
+            },
+            "il/elle": {
+              "form": "avait bu",
+              "english": "he/she had drunk",
+              "sentence": "Elle avait bu du thé.",
+              "sentenceEnglish": "She had drunk tea."
+            },
+            "on": {
+              "form": "avait bu",
+              "english": "we had drunk",
+              "sentence": "On avait bu ensemble.",
+              "sentenceEnglish": "We had drunk together."
+            },
+            "nous": {
+              "form": "avions bu",
+              "english": "we had drunk",
+              "sentence": "Nous avions bu du vin.",
+              "sentenceEnglish": "We had drunk wine."
+            },
+            "vous": {
+              "form": "aviez bu",
+              "english": "you had drunk",
+              "sentence": "Vous aviez bu quoi?",
+              "sentenceEnglish": "What had you drunk?"
+            },
+            "ils/elles": {
+              "form": "avaient bu",
+              "english": "they had drunk",
+              "sentence": "Ils avaient bu du jus.",
+              "sentenceEnglish": "They had drunk juice."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "bus",
+              "english": "I drank",
+              "sentence": "Je bus de l'eau.",
+              "sentenceEnglish": "I drank water."
+            },
+            "tu": {
+              "form": "bus",
+              "english": "you drank",
+              "sentence": "Tu bus du vin.",
+              "sentenceEnglish": "You drank wine."
+            },
+            "il/elle": {
+              "form": "but",
+              "english": "he/she drank",
+              "sentence": "Il but du café.",
+              "sentenceEnglish": "He drank coffee."
+            },
+            "on": {
+              "form": "but",
+              "english": "we drank",
+              "sentence": "On but ensemble.",
+              "sentenceEnglish": "We drank together."
+            },
+            "nous": {
+              "form": "bûmes",
+              "english": "we drank",
+              "sentence": "Nous bûmes du thé.",
+              "sentenceEnglish": "We drank tea."
+            },
+            "vous": {
+              "form": "bûtes",
+              "english": "you drank",
+              "sentence": "Vous bûtes du jus.",
+              "sentenceEnglish": "You drank juice."
+            },
+            "ils/elles": {
+              "form": "burent",
+              "english": "they drank",
+              "sentence": "Ils burent de l'eau.",
+              "sentenceEnglish": "They drank water."
+            }
+          }
+        }
+      },
+      "note": "Irregular past participle 'bu'. Imparfait stem 'buv-' (from nous buvons): je buvais, tu buvais, il/elle buvait, nous buvions, vous buviez, ils/elles buvaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "boirai",
+              "english": "I will drink",
+              "sentence": "Je boirai de l'eau.",
+              "sentenceEnglish": "I will drink water."
+            },
+            "tu": {
+              "form": "boiras",
+              "english": "you will drink",
+              "sentence": "Tu boiras du café?",
+              "sentenceEnglish": "Will you drink coffee?"
+            },
+            "il/elle": {
+              "form": "boira",
+              "english": "he/she will drink",
+              "sentence": "Il boira du thé.",
+              "sentenceEnglish": "He will drink tea."
+            },
+            "on": {
+              "form": "boira",
+              "english": "we will drink",
+              "sentence": "On boira ensemble.",
+              "sentenceEnglish": "We will drink together."
+            },
+            "nous": {
+              "form": "boirons",
+              "english": "we will drink",
+              "sentence": "Nous boirons du vin.",
+              "sentenceEnglish": "We will drink wine."
+            },
+            "vous": {
+              "form": "boirez",
+              "english": "you will drink",
+              "sentence": "Vous boirez quoi?",
+              "sentenceEnglish": "What will you drink?"
+            },
+            "ils/elles": {
+              "form": "boiront",
+              "english": "they will drink",
+              "sentence": "Elles boiront du jus.",
+              "sentenceEnglish": "They will drink juice."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais boire",
+              "english": "I am going to drink",
+              "sentence": "Je vais boire de l'eau.",
+              "sentenceEnglish": "I am going to drink water."
+            },
+            "tu": {
+              "form": "vas boire",
+              "english": "you are going to drink",
+              "sentence": "Tu vas boire du café?",
+              "sentenceEnglish": "Are you going to drink coffee?"
+            },
+            "il/elle": {
+              "form": "va boire",
+              "english": "he/she is going to drink",
+              "sentence": "Elle va boire du thé.",
+              "sentenceEnglish": "She is going to drink tea."
+            },
+            "on": {
+              "form": "va boire",
+              "english": "we are going to drink",
+              "sentence": "On va boire ensemble.",
+              "sentenceEnglish": "We are going to drink together."
+            },
+            "nous": {
+              "form": "allons boire",
+              "english": "we are going to drink",
+              "sentence": "Nous allons boire du vin.",
+              "sentenceEnglish": "We are going to drink wine."
+            },
+            "vous": {
+              "form": "allez boire",
+              "english": "you are going to drink",
+              "sentence": "Vous allez boire?",
+              "sentenceEnglish": "Are you going to drink?"
+            },
+            "ils/elles": {
+              "form": "vont boire",
+              "english": "they are going to drink",
+              "sentence": "Ils vont boire du jus.",
+              "sentenceEnglish": "They are going to drink juice."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai bu",
+              "english": "I will have drunk",
+              "sentence": "J'aurai bu de l'eau.",
+              "sentenceEnglish": "I will have drunk water."
+            },
+            "tu": {
+              "form": "auras bu",
+              "english": "you will have drunk",
+              "sentence": "Tu auras bu du café?",
+              "sentenceEnglish": "Will you have drunk coffee?"
+            },
+            "il/elle": {
+              "form": "aura bu",
+              "english": "he/she will have drunk",
+              "sentence": "Elle aura bu du thé.",
+              "sentenceEnglish": "She will have drunk tea."
+            },
+            "on": {
+              "form": "aura bu",
+              "english": "we will have drunk",
+              "sentence": "On aura bu ensemble.",
+              "sentenceEnglish": "We will have drunk together."
+            },
+            "nous": {
+              "form": "aurons bu",
+              "english": "we will have drunk",
+              "sentence": "Nous aurons bu du vin.",
+              "sentenceEnglish": "We will have drunk wine."
+            },
+            "vous": {
+              "form": "aurez bu",
+              "english": "you will have drunk",
+              "sentence": "Vous aurez bu quoi?",
+              "sentenceEnglish": "What will you have drunk?"
+            },
+            "ils/elles": {
+              "form": "auront bu",
+              "english": "they will have drunk",
+              "sentence": "Ils auront bu du jus.",
+              "sentenceEnglish": "They will have drunk juice."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'boir-': je boirai, tu boiras, il/elle boira, nous boirons, vous boirez, ils/elles boiront"
+    }
+  }
+}

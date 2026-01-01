@@ -1,10 +1,22 @@
 [
-  {
-    "name": "Animaux",
-    "file": "animaux.json"
-  },
-  {
-    "name": "Plantes",
-    "file": "plantes.json"
-  }
+    {
+        "name": "Animaux",
+        "file": "animaux.json",
+        "description": "Common animals"
+    },
+    {
+        "name": "Nourriture",
+        "file": "nourriture.json",
+        "description": "Food and drinks"
+    },
+    {
+        "name": "Maison",
+        "file": "maison.json",
+        "description": "House and furniture"
+    },
+    {
+        "name": "Famille",
+        "file": "famille.json",
+        "description": "Family members"
+    }
 ]

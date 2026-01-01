@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phrases et Sentences</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container">
+        <h1>Phrases et Sentences</h1>
+
+        <div class="phrase">
+            <h3>Salutations</h3>
+            <p><strong>Bonjour!</strong> Comment ça va?</p>
+            <p>English: Hello! How are you?</p>
+            <!-- Placeholder for audio -->
+            <audio controls><source src="audio/bonjour.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+        </div>
+
+        <div class="sentence">
+            <h3>Daily Life</h3>
+            <p>Je <strong>mange</strong> une <strong>pomme</strong>.</p>
+            <p>English: I eat an apple.</p>
+            <!-- Placeholder for audio -->
+            <audio controls><source src="audio/je_mange_une_pomme.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+        </div>
+
+        <div class="theme">
+            <h2>Voyage (Travel)</h2>
+            <p>Où est la <strong>gare</strong>?</p>
+            <p>English: Where is the train station?</p>
+            <!-- Placeholder for audio -->
+            <audio controls><source src="audio/ou_est_la_gare.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+        </div>
+
+        <div class="grammar-note">
+            <h3>Negation</h3>
+            <p>In French, negation is formed by placing "ne" before the verb and "pas" after it.</p>
+            <p>Example: Je <strong>ne</strong> <strong>mange</strong> <strong>pas</strong>.</p>
+        </div>
+
+        <div class="exercise">
+            <h3>Fill in the Blank</h3>
+            <p>Je _____ une pomme. (<em>manger</em>)</p>
+            <input type="text" id="answer1">
+            <button onclick="checkAnswer('answer1', 'mange')">Check Answer</button>
+        </div>
+
+        <script>
+            function checkAnswer(inputId, correctAnswer) {
+                const userAnswer = document.getElementById(inputId).value;
+                if (userAnswer.toLowerCase() === correctAnswer) {
+                    alert("Correct! Well done.");
+                } else {
+                    alert(`Incorrect. The correct answer is: ${correctAnswer}.`);
+                }
+            }
+        </script>
+    </div>
+</body>
+</html>

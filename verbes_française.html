@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verbes Français</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container">
+        <header aria-hidden="true">
+            <h1>Verbes Français</h1>
+            <div class="subtitle">Explorateur de conjugaison des verbes</div>
+        </header>
+
+        <div class="dimension-nav" aria-hidden="true">
+            <div class="selector-group">
+                <div class="dimension-label" aria-hidden="true">Sélectionner un verbe</div>
+                <select class="verb-dropdown" id="verbSelector">
+                    <option value="">Chargement...</option>
+                </select>
+            </div>
+
+            <div class="selector-group">
+                <div class="dimension-label" aria-hidden="true">Sélectionner une période temporelle</div>
+                <div class="selector-buttons" id="timeFrameSelector"></div>
+            </div>
+
+            <div class="selector-group">
+                <div class="dimension-label" aria-hidden="true">Sélectionner un aspect</div>
+                <div class="selector-buttons" id="aspectSelector"></div>
+            </div>
+        </div>
+
+        <div class="conjugation-display" id="mainDisplay">
+            <div class="loading">Chargement des verbes...</div>
+        </div>
+    </div>
+
+    <script>
+        // Subject data (grammatical information)
+        const subjectData = {
+            je: {
+                english: "I",
+                number: "singular",
+                gender: "can be masculine or feminine",
+                person: "1st",
+                description: "1st person singular"
+            },
+            tu: {
+                english: "you",
+                number: "singular",
+                gender: "can be masculine or feminine",
+                person: "2nd",
+                description: "2nd person singular (informal)"
+            },
+            "il/elle": {
+                english: "he/she",
+                number: "singular",
+                gender: "il = masculine, elle = feminine",
+                person: "3rd",
+                description: "3rd person singular"
+            },
+            on: {
+                english: "we / one / people",
+                number: "singular form (often means plural 'we')",
+                gender: "grammatically masculine",
+                person: "1st (informal)",
+                description: "Informal 'we' or impersonal 'one'"
+            },
+            nous: {
+                english: "we",
+                number: "plural",
+                gender: "can be masculine or feminine",
+                person: "1st",
+                description: "1st person plural"
+            },
+            vous: {
+                english: "you",
+                number: "singular (formal) OR plural",
+                gender: "can be masculine or feminine",
+                person: "2nd",
+                description: "2nd person formal/plural"
+            },
+            "ils/elles": {
+                english: "they",
+                number: "plural",
+                gender: "ils = masculine or mixed, elles = feminine only",
+                person: "3rd",
+                description: "3rd person plural"
+            }
+        };
+
+        // Subject organization by grammatical person
+        const subjectsByPerson = {
+            first: {
+                label: "1ère personne",
+                subjects: {
+                    singular: "je",
+                    plural: "nous",
+                    informal: "on"
+                }
+            },
+            second: {
+                label: "2ème personne",
+                subjects: {
+                    singular: "tu",
+                    formal_plural: "vous"
+                }
+            },
+            third: {
+                label: "3ème personne",
+                subjects: {
+                    singular: "il/elle",
+                    plural: "ils/elles"
+                }
+            }
+        };
+
+        // Aspect configuration for each time frame
+        const aspectConfig = {
+            présent: [
+                { key: 'simple', label: 'Présent', fullName: 'Présent Simple' },
+                { key: 'continu', label: 'Présent Continu', fullName: 'Présent Continu' }
+            ],
+            passé: [
+                { key: 'composé', label: 'Passé Composé', fullName: 'Passé Composé' },
+                { key: 'imparfait', label: 'Imparfait', fullName: 'Imparfait' },
+                { key: 'plus-que-parfait', label: 'Plus-que-parfait', fullName: 'Plus-que-parfait' },
+                { key: 'simple', label: 'Passé Simple', fullName: 'Passé Simple' }
+            ],
+            futur: [
+                { key: 'simple', label: 'Futur Simple', fullName: 'Futur Simple' },
+                { key: 'proche', label: 'Futur Proche', fullName: 'Futur Proche' },
+                { key: 'antérieur', label: 'Futur Antérieur', fullName: 'Futur Antérieur' }
+            ]
+        };
+
+        // Application state
+        let verbList = [];
+        let currentVerbData = null;
+        let currentVerb = 'aller';
+        let currentTimeFrame = 'présent';
+        let currentAspect = 'simple';
+
+        // Load verb list
+        async function loadVerbList() {
+            try {
+                const response = await fetch('verbes_français.json');
+                if (!response.ok) throw new Error('Failed to load verb list');
+                const data = await response.json();
+                verbList = data.verbs;
+                renderVerbSelector();
+                await loadVerb(currentVerb);
+            } catch (error) {
+                showError('Erreur de chargement de la liste des verbes: ' + error.message);
+            }
+        }
+
+        // Load specific verb data
+        async function loadVerb(verbName) {
+            try {
+                const response = await fetch(`verbes/${verbName}.json`);
+                if (!response.ok) throw new Error('Failed to load verb data');
+                currentVerbData = await response.json();
+                currentVerb = verbName;
+                
+                // Reset to default aspect for the current time frame
+                const aspects = aspectConfig[currentTimeFrame];
+                currentAspect = aspects[0].key;
+                
+                render();
+            } catch (error) {
+                showError('Erreur de chargement des données du verbe: ' + error.message);
+            }
+        }
+
+        // Render verb selector dropdown
+        function renderVerbSelector() {
+            const selector = document.getElementById('verbSelector');
+            selector.innerHTML = '';
+            selector.setAttribute('aria-hidden', 'true');
+            
+            verbList.forEach(verb => {
+                const option = document.createElement('option');
+                option.value = verb.infinitive;
+                option.textContent = `${verb.infinitive} (${verb.english})`;
+                if (verb.infinitive === currentVerb) {
+                    option.selected = true;
+                }
+                selector.appendChild(option);
+            });
+            
+            selector.addEventListener('change', async (e) => {
+                await loadVerb(e.target.value);
+            });
+        }
+
+        // Render time frame selector
+        function renderTimeFrameSelector() {
+            const container = document.getElementById('timeFrameSelector');
+            container.innerHTML = '';
+            
+            const timeFrames = [
+                { key: 'présent', label: 'Présent' },
+                { key: 'passé', label: 'Passé' },
+                { key: 'futur', label: 'Futur' }
+            ];
+            
+            timeFrames.forEach(tf => {
+                const btn = document.createElement('button');
+                btn.className = 'selector-btn';
+                btn.setAttribute('aria-hidden', 'true');
+                if (tf.key === currentTimeFrame) btn.classList.add('active');
+                btn.textContent = tf.label;
+                
+                btn.addEventListener('click', () => {
+                    currentTimeFrame = tf.key;
+                    // Reset to first available aspect for new time frame
+                    currentAspect = aspectConfig[currentTimeFrame][0].key;
+                    render();
+                });
+                
+                container.appendChild(btn);
+            });
+        }
+
+        // Render aspect selector (depends on current time frame)
+        function renderAspectSelector() {
+            const container = document.getElementById('aspectSelector');
+            container.innerHTML = '';
+            
+            const aspects = aspectConfig[currentTimeFrame];
+            
+            aspects.forEach(aspect => {
+                const btn = document.createElement('button');
+                btn.className = 'selector-btn';
+                btn.setAttribute('aria-hidden', 'true');
+                if (aspect.key === currentAspect) btn.classList.add('active');
+                btn.textContent = aspect.label;
+                
+                btn.addEventListener('click', () => {
+                    currentAspect = aspect.key;
+                    render();
+                });
+                
+                container.appendChild(btn);
+            });
+        }
+
+        // Create a conjugation row
+        function createConjugationRow(subject, data) {
+            const row = document.createElement('tr');
+            
+            // Subject cell
+            const subjectCell = document.createElement('td');
+            subjectCell.className = 'tooltip-trigger';
+            subjectCell.textContent = subject;
+            
+            const subjectInfo = subjectData[subject];
+            const subjectTooltip = document.createElement('span');
+            subjectTooltip.className = 'tooltip tooltip-subject';
+            subjectTooltip.setAttribute('aria-hidden', 'true');
+            subjectTooltip.textContent = `${subjectInfo.english}\n${subjectInfo.number}\n${subjectInfo.gender}`;
+            subjectCell.appendChild(subjectTooltip);
+            
+            // Form cell
+            const formCell = document.createElement('td');
+            formCell.className = 'tooltip-trigger';
+            formCell.textContent = data.form;
+            
+            const formTooltip = document.createElement('span');
+            formTooltip.className = 'tooltip tooltip-verb';
+            formTooltip.setAttribute('aria-hidden', 'true');
+            formTooltip.textContent = data.english;
+            formCell.appendChild(formTooltip);
+            
+            // Sentence cell
+            const sentenceCell = document.createElement('td');
+            sentenceCell.className = 'tooltip-trigger';
+            sentenceCell.textContent = data.sentence;
+            
+            const sentenceTooltip = document.createElement('span');
+            sentenceTooltip.className = 'tooltip tooltip-sentence';
+            sentenceTooltip.setAttribute('aria-hidden', 'true');
+            sentenceTooltip.textContent = data.sentenceEnglish;
+            sentenceCell.appendChild(sentenceTooltip);
+            
+            row.appendChild(subjectCell);
+            row.appendChild(formCell);
+            row.appendChild(sentenceCell);
+            
+            return row;
+        }
+
+        // Render conjugations
+        function renderConjugations() {
+            if (!currentVerbData) return;
+            
+            const mainDisplay = document.getElementById('mainDisplay');
+            mainDisplay.innerHTML = '';
+            
+            const conjugation = currentVerbData.conjugations[currentTimeFrame];
+            const aspectData = conjugation.aspects[currentAspect];
+            
+            if (!aspectData) {
+                showError('Aspect non disponible pour ce temps');
+                return;
+            }
+            
+            // Verb info header
+            const verbInfo = document.createElement('div');
+            verbInfo.className = 'verb-info';
+            
+            let headerHTML = `<div class="verb-infinitive">${currentVerbData.infinitive}`;
+            if (currentVerbData.irregular) {
+                headerHTML += '<span class="irregular-badge">irrégulière</span>';
+            } else {
+                headerHTML += '<span class="regular-badge">régulière</span>';
+            }
+            if (aspectData.auxiliary) {
+                headerHTML += `<span class="auxiliary-badge">Uses ${aspectData.auxiliary.toUpperCase()}</span>`;
+            }
+            headerHTML += '</div>';
+            headerHTML += `<div class="aspect-name">${aspectData.name}</div>`;
+            
+            verbInfo.innerHTML = headerHTML;
+            mainDisplay.appendChild(verbInfo);
+            
+            // Conjugation tables grouped by person
+            for (const [personKey, personInfo] of Object.entries(subjectsByPerson)) {
+                const personGroup = document.createElement('div');
+                personGroup.className = 'person-group';
+                
+                const personLabel = document.createElement('div');
+                personLabel.className = 'person-label';
+                personLabel.textContent = personInfo.label;
+                personGroup.appendChild(personLabel);
+                
+                const table = document.createElement('table');
+                table.className = 'conjugation-table';
+                
+                for (const [type, subject] of Object.entries(personInfo.subjects)) {
+                    if (aspectData.forms[subject]) {
+                        const row = createConjugationRow(subject, aspectData.forms[subject]);
+                        table.appendChild(row);
+                    }
+                }
+                
+                personGroup.appendChild(table);
+                mainDisplay.appendChild(personGroup);
+            }
+            
+            // Note section
+            if (conjugation.note) {
+                const noteSection = document.createElement('div');
+                noteSection.className = 'note-section';
+                noteSection.setAttribute('aria-hidden', 'true');
+                noteSection.innerHTML = `<strong>💡 Note:</strong> ${conjugation.note}`;
+                mainDisplay.appendChild(noteSection);
+            }
+        }
+
+        // Show error message
+        function showError(message) {
+            const mainDisplay = document.getElementById('mainDisplay');
+            mainDisplay.innerHTML = `<div class="error">${message}</div>`;
+        }
+
+        // Main render function
+        function render() {
+            renderTimeFrameSelector();
+            renderAspectSelector();
+            renderConjugations();
+        }
+
+        // Initialize
+        loadVerbList();
+    </script>
+</body>
+</html>

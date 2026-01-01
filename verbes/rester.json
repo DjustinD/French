@@ -1,0 +1,145 @@
+{
+  "infinitive": "rester",
+  "english": "to stay / to remain",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": { "form": "reste", "english": "I stay", "sentence": "Je reste à la maison.", "sentenceEnglish": "I stay at home." },
+            "tu": { "form": "restes", "english": "you stay", "sentence": "Tu restes ici?", "sentenceEnglish": "Are you staying here?" },
+            "il/elle": { "form": "reste", "english": "he/she stays", "sentence": "Elle reste calme.", "sentenceEnglish": "She stays calm." },
+            "on": { "form": "reste", "english": "we stay", "sentence": "On reste ensemble.", "sentenceEnglish": "We stay together." },
+            "nous": { "form": "restons", "english": "we stay", "sentence": "Nous restons ici.", "sentenceEnglish": "We stay here." },
+            "vous": { "form": "restez", "english": "you stay", "sentence": "Vous restez longtemps?", "sentenceEnglish": "Are you staying long?" },
+            "ils/elles": { "form": "restent", "english": "they stay", "sentence": "Ils restent silencieux.", "sentenceEnglish": "They remain silent." }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": { "form": "suis en train de rester", "english": "I am staying", "sentence": "Je suis en train de rester chez moi.", "sentenceEnglish": "I am staying at home." },
+            "tu": { "form": "es en train de rester", "english": "you are staying", "sentence": "Tu es en train de rester?", "sentenceEnglish": "Are you staying?" },
+            "il/elle": { "form": "est en train de rester", "english": "he/she is staying", "sentence": "Elle est en train de rester calme.", "sentenceEnglish": "She is staying calm." },
+            "on": { "form": "est en train de rester", "english": "we are staying", "sentence": "On est en train de rester.", "sentenceEnglish": "We are staying." },
+            "nous": { "form": "sommes en train de rester", "english": "we are staying", "sentence": "Nous sommes en train de rester ici.", "sentenceEnglish": "We are staying here." },
+            "vous": { "form": "êtes en train de rester", "english": "you are staying", "sentence": "Vous êtes en train de rester?", "sentenceEnglish": "Are you staying?" },
+            "ils/elles": { "form": "sont en train de rester", "english": "they are staying", "sentence": "Ils sont en train de rester.", "sentenceEnglish": "They are staying." }
+          }
+        }
+      },
+      "note": "Regular -er verb. Pattern: je reste, tu restes, il/elle reste, nous restons, vous restez, ils/elles restent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "être",
+          "forms": {
+            "je": { "form": "suis resté(e)", "english": "I stayed / I have stayed", "sentence": "Je suis resté à la maison.", "sentenceEnglish": "I stayed at home." },
+            "tu": { "form": "es resté(e)", "english": "you stayed / you have stayed", "sentence": "Tu es resté longtemps?", "sentenceEnglish": "Did you stay long?" },
+            "il/elle": { "form": "est resté/restée", "english": "he/she stayed / has stayed", "sentence": "Elle est restée calme.", "sentenceEnglish": "She stayed calm." },
+            "on": { "form": "est resté(s)", "english": "we stayed / we have stayed", "sentence": "On est restés ensemble.", "sentenceEnglish": "We stayed together." },
+            "nous": { "form": "sommes resté(e)s", "english": "we stayed / we have stayed", "sentence": "Nous sommes restés ici.", "sentenceEnglish": "We stayed here." },
+            "vous": { "form": "êtes resté(e)(s)", "english": "you stayed / you have stayed", "sentence": "Vous êtes restés combien de temps?", "sentenceEnglish": "How long did you stay?" },
+            "ils/elles": { "form": "sont restés/restées", "english": "they stayed / they have stayed", "sentence": "Ils sont restés silencieux.", "sentenceEnglish": "They remained silent." }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": { "form": "restais", "english": "I stayed / I was staying / I used to stay", "sentence": "Je restais souvent chez moi.", "sentenceEnglish": "I often used to stay at home." },
+            "tu": { "form": "restais", "english": "you stayed / you were staying / you used to stay", "sentence": "Tu restais toujours calme?", "sentenceEnglish": "Did you always stay calm?" },
+            "il/elle": { "form": "restait", "english": "he/she stayed / was staying / used to stay", "sentence": "Elle restait silencieuse.", "sentenceEnglish": "She remained silent." },
+            "on": { "form": "restait", "english": "we stayed / we were staying / we used to stay", "sentence": "On restait ensemble.", "sentenceEnglish": "We used to stay together." },
+            "nous": { "form": "restions", "english": "we stayed / we were staying / we used to stay", "sentence": "Nous restions ici.", "sentenceEnglish": "We used to stay here." },
+            "vous": { "form": "restiez", "english": "you stayed / you were staying / you used to stay", "sentence": "Vous restiez longtemps?", "sentenceEnglish": "Did you stay long?" },
+            "ils/elles": { "form": "restaient", "english": "they stayed / they were staying / they used to stay", "sentence": "Ils restaient tranquilles.", "sentenceEnglish": "They used to stay quiet." }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "être",
+          "forms": {
+            "je": { "form": "étais resté(e)", "english": "I had stayed", "sentence": "J'étais resté à la maison.", "sentenceEnglish": "I had stayed at home." },
+            "tu": { "form": "étais resté(e)", "english": "you had stayed", "sentence": "Tu étais resté longtemps?", "sentenceEnglish": "Had you stayed long?" },
+            "il/elle": { "form": "était resté/restée", "english": "he/she had stayed", "sentence": "Elle était restée calme.", "sentenceEnglish": "She had stayed calm." },
+            "on": { "form": "était resté(s)", "english": "we had stayed", "sentence": "On était restés ensemble.", "sentenceEnglish": "We had stayed together." },
+            "nous": { "form": "étions resté(e)s", "english": "we had stayed", "sentence": "Nous étions restés ici.", "sentenceEnglish": "We had stayed here." },
+            "vous": { "form": "étiez resté(e)(s)", "english": "you had stayed", "sentence": "Vous étiez restés combien de temps?", "sentenceEnglish": "How long had you stayed?" },
+            "ils/elles": { "form": "étaient restés/restées", "english": "they had stayed", "sentence": "Ils étaient restés silencieux.", "sentenceEnglish": "They had remained silent." }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": { "form": "restai", "english": "I stayed", "sentence": "Je restai au château.", "sentenceEnglish": "I stayed at the castle." },
+            "tu": { "form": "restas", "english": "you stayed", "sentence": "Tu restas silencieux.", "sentenceEnglish": "You remained silent." },
+            "il/elle": { "form": "resta", "english": "he/she stayed", "sentence": "Il resta calme.", "sentenceEnglish": "He stayed calm." },
+            "on": { "form": "resta", "english": "we stayed", "sentence": "On resta ensemble.", "sentenceEnglish": "We stayed together." },
+            "nous": { "form": "restâmes", "english": "we stayed", "sentence": "Nous restâmes ici.", "sentenceEnglish": "We stayed here." },
+            "vous": { "form": "restâtes", "english": "you stayed", "sentence": "Vous restâtes longtemps.", "sentenceEnglish": "You stayed long." },
+            "ils/elles": { "form": "restèrent", "english": "they stayed", "sentence": "Ils restèrent immobiles.", "sentenceEnglish": "They remained motionless." }
+          }
+        }
+      },
+      "note": "Regular past participle 'resté'. Uses ÊTRE as auxiliary. Imparfait stem 'rest-' (from infinitive): je restais, tu restais, il/elle restait, nous restions, vous restiez, ils/elles restaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": { "form": "resterai", "english": "I will stay", "sentence": "Je resterai ici.", "sentenceEnglish": "I will stay here." },
+            "tu": { "form": "resteras", "english": "you will stay", "sentence": "Tu resteras longtemps?", "sentenceEnglish": "Will you stay long?" },
+            "il/elle": { "form": "restera", "english": "he/she will stay", "sentence": "Il restera calme.", "sentenceEnglish": "He will stay calm." },
+            "on": { "form": "restera", "english": "we will stay", "sentence": "On restera ensemble.", "sentenceEnglish": "We will stay together." },
+            "nous": { "form": "resterons", "english": "we will stay", "sentence": "Nous resterons ici.", "sentenceEnglish": "We will stay here." },
+            "vous": { "form": "resterez", "english": "you will stay", "sentence": "Vous resterez combien de temps?", "sentenceEnglish": "How long will you stay?" },
+            "ils/elles": { "form": "resteront", "english": "they will stay", "sentence": "Elles resteront tranquilles.", "sentenceEnglish": "They will stay quiet." }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": { "form": "vais rester", "english": "I am going to stay", "sentence": "Je vais rester à la maison.", "sentenceEnglish": "I am going to stay at home." },
+            "tu": { "form": "vas rester", "english": "you are going to stay", "sentence": "Tu vas rester ici?", "sentenceEnglish": "Are you going to stay here?" },
+            "il/elle": { "form": "va rester", "english": "he/she is going to stay", "sentence": "Elle va rester calme.", "sentenceEnglish": "She is going to stay calm." },
+            "on": { "form": "va rester", "english": "we are going to stay", "sentence": "On va rester ensemble.", "sentenceEnglish": "We are going to stay together." },
+            "nous": { "form": "allons rester", "english": "we are going to stay", "sentence": "Nous allons rester ici.", "sentenceEnglish": "We are going to stay here." },
+            "vous": { "form": "allez rester", "english": "you are going to stay", "sentence": "Vous allez rester longtemps?", "sentenceEnglish": "Are you going to stay long?" },
+            "ils/elles": { "form": "vont rester", "english": "they are going to stay", "sentence": "Ils vont rester silencieux.", "sentenceEnglish": "They are going to remain silent." }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "être",
+          "forms": {
+            "je": { "form": "serai resté(e)", "english": "I will have stayed", "sentence": "Je serai resté ici.", "sentenceEnglish": "I will have stayed here." },
+            "tu": { "form": "seras resté(e)", "english": "you will have stayed", "sentence": "Tu seras resté longtemps?", "sentenceEnglish": "Will you have stayed long?" },
+            "il/elle": { "form": "sera resté/restée", "english": "he/she will have stayed", "sentence": "Elle sera restée calme.", "sentenceEnglish": "She will have stayed calm." },
+            "on": { "form": "sera resté(s)", "english": "we will have stayed", "sentence": "On sera restés ensemble.", "sentenceEnglish": "We will have stayed together." },
+            "nous": { "form": "serons resté(e)s", "english": "we will have stayed", "sentence": "Nous serons restés ici.", "sentenceEnglish": "We will have stayed here." },
+            "vous": { "form": "serez resté(e)(s)", "english": "you will have stayed", "sentence": "Vous serez restés combien de temps?", "sentenceEnglish": "How long will you have stayed?" },
+            "ils/elles": { "form": "seront restés/restées", "english": "they will have stayed", "sentence": "Ils seront restés silencieux.", "sentenceEnglish": "They will have remained silent." }
+          }
+        }
+      },
+      "note": "Regular future stem 'rester-': je resterai, tu resteras, il/elle restera, nous resterons, vous resterez, ils/elles resteront"
+    }
+  }
+}

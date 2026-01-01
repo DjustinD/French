@@ -1,0 +1,460 @@
+{
+  "infinitive": "apprendre",
+  "english": "to learn / to teach",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "apprends",
+              "english": "I learn",
+              "sentence": "J'apprends le français.",
+              "sentenceEnglish": "I learn French."
+            },
+            "tu": {
+              "form": "apprends",
+              "english": "you learn",
+              "sentence": "Tu apprends vite?",
+              "sentenceEnglish": "Do you learn quickly?"
+            },
+            "il/elle": {
+              "form": "apprend",
+              "english": "he/she learns",
+              "sentence": "Elle apprend à lire.",
+              "sentenceEnglish": "She learns to read."
+            },
+            "on": {
+              "form": "apprend",
+              "english": "we learn",
+              "sentence": "On apprend ensemble.",
+              "sentenceEnglish": "We learn together."
+            },
+            "nous": {
+              "form": "apprenons",
+              "english": "we learn",
+              "sentence": "Nous apprenons l'anglais.",
+              "sentenceEnglish": "We learn English."
+            },
+            "vous": {
+              "form": "apprenez",
+              "english": "you learn",
+              "sentence": "Vous apprenez quoi?",
+              "sentenceEnglish": "What do you learn?"
+            },
+            "ils/elles": {
+              "form": "apprennent",
+              "english": "they learn",
+              "sentence": "Ils apprennent beaucoup.",
+              "sentenceEnglish": "They learn a lot."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train d'apprendre",
+              "english": "I am learning",
+              "sentence": "Je suis en train d'apprendre le français.",
+              "sentenceEnglish": "I am learning French."
+            },
+            "tu": {
+              "form": "es en train d'apprendre",
+              "english": "you are learning",
+              "sentence": "Tu es en train d'apprendre quoi?",
+              "sentenceEnglish": "What are you learning?"
+            },
+            "il/elle": {
+              "form": "est en train d'apprendre",
+              "english": "he/she is learning",
+              "sentence": "Elle est en train d'apprendre à nager.",
+              "sentenceEnglish": "She is learning to swim."
+            },
+            "on": {
+              "form": "est en train d'apprendre",
+              "english": "we are learning",
+              "sentence": "On est en train d'apprendre ensemble.",
+              "sentenceEnglish": "We are learning together."
+            },
+            "nous": {
+              "form": "sommes en train d'apprendre",
+              "english": "we are learning",
+              "sentence": "Nous sommes en train d'apprendre l'anglais.",
+              "sentenceEnglish": "We are learning English."
+            },
+            "vous": {
+              "form": "êtes en train d'apprendre",
+              "english": "you are learning",
+              "sentence": "Vous êtes en train d'apprendre?",
+              "sentenceEnglish": "Are you learning?"
+            },
+            "ils/elles": {
+              "form": "sont en train d'apprendre",
+              "english": "they are learning",
+              "sentence": "Ils sont en train d'apprendre la leçon.",
+              "sentenceEnglish": "They are learning the lesson."
+            }
+          }
+        }
+      },
+      "note": "Irregular verb (conjugates like prendre). Must be memorized: j'apprends, tu apprends, il/elle apprend, nous apprenons, vous apprenez, ils/elles apprennent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai appris",
+              "english": "I learned / I have learned",
+              "sentence": "J'ai appris le français.",
+              "sentenceEnglish": "I learned French."
+            },
+            "tu": {
+              "form": "as appris",
+              "english": "you learned / you have learned",
+              "sentence": "Tu as appris la leçon?",
+              "sentenceEnglish": "Did you learn the lesson?"
+            },
+            "il/elle": {
+              "form": "a appris",
+              "english": "he/she learned / has learned",
+              "sentence": "Elle a appris à nager.",
+              "sentenceEnglish": "She learned to swim."
+            },
+            "on": {
+              "form": "a appris",
+              "english": "we learned / we have learned",
+              "sentence": "On a appris ensemble.",
+              "sentenceEnglish": "We learned together."
+            },
+            "nous": {
+              "form": "avons appris",
+              "english": "we learned / we have learned",
+              "sentence": "Nous avons appris l'anglais.",
+              "sentenceEnglish": "We learned English."
+            },
+            "vous": {
+              "form": "avez appris",
+              "english": "you learned / you have learned",
+              "sentence": "Vous avez appris quoi?",
+              "sentenceEnglish": "What did you learn?"
+            },
+            "ils/elles": {
+              "form": "ont appris",
+              "english": "they learned / they have learned",
+              "sentence": "Ils ont appris beaucoup.",
+              "sentenceEnglish": "They learned a lot."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "apprenais",
+              "english": "I learned / I was learning / I used to learn",
+              "sentence": "J'apprenais le français.",
+              "sentenceEnglish": "I was learning French."
+            },
+            "tu": {
+              "form": "apprenais",
+              "english": "you learned / you were learning / you used to learn",
+              "sentence": "Tu apprenais vite?",
+              "sentenceEnglish": "Were you learning quickly?"
+            },
+            "il/elle": {
+              "form": "apprenait",
+              "english": "he/she learned / was learning / used to learn",
+              "sentence": "Elle apprenait à lire.",
+              "sentenceEnglish": "She was learning to read."
+            },
+            "on": {
+              "form": "apprenait",
+              "english": "we learned / we were learning / we used to learn",
+              "sentence": "On apprenait ensemble.",
+              "sentenceEnglish": "We were learning together."
+            },
+            "nous": {
+              "form": "apprenions",
+              "english": "we learned / we were learning / we used to learn",
+              "sentence": "Nous apprenions l'anglais.",
+              "sentenceEnglish": "We were learning English."
+            },
+            "vous": {
+              "form": "appreniez",
+              "english": "you learned / you were learning / you used to learn",
+              "sentence": "Vous appreniez quoi?",
+              "sentenceEnglish": "What were you learning?"
+            },
+            "ils/elles": {
+              "form": "apprenaient",
+              "english": "they learned / they were learning / they used to learn",
+              "sentence": "Ils apprenaient beaucoup.",
+              "sentenceEnglish": "They were learning a lot."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais appris",
+              "english": "I had learned",
+              "sentence": "J'avais appris le français.",
+              "sentenceEnglish": "I had learned French."
+            },
+            "tu": {
+              "form": "avais appris",
+              "english": "you had learned",
+              "sentence": "Tu avais appris la leçon?",
+              "sentenceEnglish": "Had you learned the lesson?"
+            },
+            "il/elle": {
+              "form": "avait appris",
+              "english": "he/she had learned",
+              "sentence": "Elle avait appris à nager.",
+              "sentenceEnglish": "She had learned to swim."
+            },
+            "on": {
+              "form": "avait appris",
+              "english": "we had learned",
+              "sentence": "On avait appris ensemble.",
+              "sentenceEnglish": "We had learned together."
+            },
+            "nous": {
+              "form": "avions appris",
+              "english": "we had learned",
+              "sentence": "Nous avions appris l'anglais.",
+              "sentenceEnglish": "We had learned English."
+            },
+            "vous": {
+              "form": "aviez appris",
+              "english": "you had learned",
+              "sentence": "Vous aviez appris quoi?",
+              "sentenceEnglish": "What had you learned?"
+            },
+            "ils/elles": {
+              "form": "avaient appris",
+              "english": "they had learned",
+              "sentence": "Ils avaient appris beaucoup.",
+              "sentenceEnglish": "They had learned a lot."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "appris",
+              "english": "I learned",
+              "sentence": "J'appris la vérité.",
+              "sentenceEnglish": "I learned the truth."
+            },
+            "tu": {
+              "form": "appris",
+              "english": "you learned",
+              "sentence": "Tu appris la leçon.",
+              "sentenceEnglish": "You learned the lesson."
+            },
+            "il/elle": {
+              "form": "apprit",
+              "english": "he/she learned",
+              "sentence": "Il apprit à lire.",
+              "sentenceEnglish": "He learned to read."
+            },
+            "on": {
+              "form": "apprit",
+              "english": "we learned",
+              "sentence": "On apprit ensemble.",
+              "sentenceEnglish": "We learned together."
+            },
+            "nous": {
+              "form": "apprîmes",
+              "english": "we learned",
+              "sentence": "Nous apprîmes l'anglais.",
+              "sentenceEnglish": "We learned English."
+            },
+            "vous": {
+              "form": "apprîtes",
+              "english": "you learned",
+              "sentence": "Vous apprîtes la nouvelle.",
+              "sentenceEnglish": "You learned the news."
+            },
+            "ils/elles": {
+              "form": "apprirent",
+              "english": "they learned",
+              "sentence": "Ils apprirent beaucoup.",
+              "sentenceEnglish": "They learned a lot."
+            }
+          }
+        }
+      },
+      "note": "Irregular past participle 'appris'. Imparfait stem 'appren-' (from nous apprenons): j'apprenais, tu apprenais, il/elle apprenait, nous apprenions, vous appreniez, ils/elles apprenaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "apprendrai",
+              "english": "I will learn",
+              "sentence": "J'apprendrai le français.",
+              "sentenceEnglish": "I will learn French."
+            },
+            "tu": {
+              "form": "apprendras",
+              "english": "you will learn",
+              "sentence": "Tu apprendras vite?",
+              "sentenceEnglish": "Will you learn quickly?"
+            },
+            "il/elle": {
+              "form": "apprendra",
+              "english": "he/she will learn",
+              "sentence": "Il apprendra à lire.",
+              "sentenceEnglish": "He will learn to read."
+            },
+            "on": {
+              "form": "apprendra",
+              "english": "we will learn",
+              "sentence": "On apprendra ensemble.",
+              "sentenceEnglish": "We will learn together."
+            },
+            "nous": {
+              "form": "apprendrons",
+              "english": "we will learn",
+              "sentence": "Nous apprendrons l'anglais.",
+              "sentenceEnglish": "We will learn English."
+            },
+            "vous": {
+              "form": "apprendrez",
+              "english": "you will learn",
+              "sentence": "Vous apprendrez quoi?",
+              "sentenceEnglish": "What will you learn?"
+            },
+            "ils/elles": {
+              "form": "apprendront",
+              "english": "they will learn",
+              "sentence": "Elles apprendront beaucoup.",
+              "sentenceEnglish": "They will learn a lot."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais apprendre",
+              "english": "I am going to learn",
+              "sentence": "Je vais apprendre le français.",
+              "sentenceEnglish": "I am going to learn French."
+            },
+            "tu": {
+              "form": "vas apprendre",
+              "english": "you are going to learn",
+              "sentence": "Tu vas apprendre quoi?",
+              "sentenceEnglish": "What are you going to learn?"
+            },
+            "il/elle": {
+              "form": "va apprendre",
+              "english": "he/she is going to learn",
+              "sentence": "Elle va apprendre à nager.",
+              "sentenceEnglish": "She is going to learn to swim."
+            },
+            "on": {
+              "form": "va apprendre",
+              "english": "we are going to learn",
+              "sentence": "On va apprendre ensemble.",
+              "sentenceEnglish": "We are going to learn together."
+            },
+            "nous": {
+              "form": "allons apprendre",
+              "english": "we are going to learn",
+              "sentence": "Nous allons apprendre l'anglais.",
+              "sentenceEnglish": "We are going to learn English."
+            },
+            "vous": {
+              "form": "allez apprendre",
+              "english": "you are going to learn",
+              "sentence": "Vous allez apprendre?",
+              "sentenceEnglish": "Are you going to learn?"
+            },
+            "ils/elles": {
+              "form": "vont apprendre",
+              "english": "they are going to learn",
+              "sentence": "Ils vont apprendre beaucoup.",
+              "sentenceEnglish": "They are going to learn a lot."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai appris",
+              "english": "I will have learned",
+              "sentence": "J'aurai appris le français.",
+              "sentenceEnglish": "I will have learned French."
+            },
+            "tu": {
+              "form": "auras appris",
+              "english": "you will have learned",
+              "sentence": "Tu auras appris la leçon?",
+              "sentenceEnglish": "Will you have learned the lesson?"
+            },
+            "il/elle": {
+              "form": "aura appris",
+              "english": "he/she will have learned",
+              "sentence": "Elle aura appris à nager.",
+              "sentenceEnglish": "She will have learned to swim."
+            },
+            "on": {
+              "form": "aura appris",
+              "english": "we will have learned",
+              "sentence": "On aura appris ensemble.",
+              "sentenceEnglish": "We will have learned together."
+            },
+            "nous": {
+              "form": "aurons appris",
+              "english": "we will have learned",
+              "sentence": "Nous aurons appris l'anglais.",
+              "sentenceEnglish": "We will have learned English."
+            },
+            "vous": {
+              "form": "aurez appris",
+              "english": "you will have learned",
+              "sentence": "Vous aurez appris quoi?",
+              "sentenceEnglish": "What will you have learned?"
+            },
+            "ils/elles": {
+              "form": "auront appris",
+              "english": "they will have learned",
+              "sentence": "Ils auront appris beaucoup.",
+              "sentenceEnglish": "They will have learned a lot."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'apprendr-': j'apprendrai, tu apprendras, il/elle apprendra, nous apprendrons, vous apprendrez, ils/elles apprendront"
+    }
+  }
+}

@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adjectifs Français</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎨 Apprendre les Adjectifs Français</h1>
+            <p class="subtitle">Maîtrisez les accords et utilisations</p>
+        </header>
+
+        <div class="controls">
+            <div class="control-group">
+                <label for="category-select">Choisir une catégorie :</label>
+                <select id="category-select">
+                    <option value="">-- Sélectionnez une catégorie --</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="adjectives-container"></div>
+    </div>
+
+    <script>
+        const categorySelect = document.getElementById('category-select');
+        const adjectivesContainer = document.getElementById('adjectives-container');
+
+        // Position information
+        const positionInfo = {
+            'avant': 'Before noun',
+            'après': 'After noun',
+            'both': 'Before or after'
+        };
+
+        // Load categories from main JSON file
+        async function loadCategories() {
+            try {
+                const response = await fetch('adjectifs_français.json');
+                if (!response.ok) throw new Error('Impossible de charger les catégories');
+                
+                const categories = await response.json();
+                
+                let defaultFile = null;
+                
+                categories.forEach(category => {
+                    const option = document.createElement('option');
+                    option.value = category.file;
+                    option.textContent = category.name;
+                    categorySelect.appendChild(option);
+                    
+                    // Load colors by default if found
+                    if (category.name.toLowerCase().includes('couleur') || 
+                        category.name.toLowerCase().includes('color')) {
+                        defaultFile = category.file;
+                    }
+                });
+                
+                // Load default category if found
+                if (defaultFile) {
+                    categorySelect.value = defaultFile;
+                    loadAdjectives(defaultFile);
+                }
+            } catch (error) {
+                adjectivesContainer.innerHTML = `
+                    <div class="error">
+                        <strong>Erreur :</strong> ${error.message}
+                    </div>
+                `;
+            }
+        }
+
+        // Load adjectives from selected category
+        async function loadAdjectives(categoryFile) {
+            if (!categoryFile) {
+                adjectivesContainer.innerHTML = '';
+                return;
+            }
+
+            adjectivesContainer.innerHTML = '<div class="loading">Chargement...</div>';
+
+            try {
+                const response = await fetch(categoryFile);
+                if (!response.ok) throw new Error('Impossible de charger les adjectifs');
+                
+                const adjectives = await response.json();
+                
+                if (adjectives.length === 0) {
+                    adjectivesContainer.innerHTML = '<div class="no-adjectives">Aucun adjectif dans cette catégorie.</div>';
+                    return;
+                }
+
+                displayAdjectives(adjectives);
+            } catch (error) {
+                adjectivesContainer.innerHTML = `
+                    <div class="error">
+                        <strong>Erreur :</strong> ${error.message}
+                    </div>
+                `;
+            }
+        }
+
+        // Display adjectives in grid
+        function displayAdjectives(adjectives) {
+            const grid = document.createElement('div');
+            grid.className = 'adjectives-grid';
+
+            adjectives.forEach(adj => {
+                const card = document.createElement('div');
+                card.className = 'adjective-card';
+                
+                // Create image element
+                const imageDiv = document.createElement('div');
+                imageDiv.className = 'adjective-image';
+                
+                if (adj.image) {
+                    const img = document.createElement('img');
+                    img.src = adj.image;
+                    img.alt = adj.masculinSingular;
+                    img.onerror = function() {
+                        this.parentElement.innerHTML = '🎨';
+                    };
+                    imageDiv.appendChild(img);
+                } else {
+                    imageDiv.innerHTML = '🎨';
+                }
+
+                // Create adjective info
+                const info = document.createElement('div');
+                info.className = 'adjective-info';
+
+                // Forms grid
+                let formsHTML = '<div class="forms-grid">';
+                
+                // Masculine singular
+                formsHTML += `
+                    <div class="form-box">
+                        <div class="form-gender">Masculin Singulier</div>
+                        <div class="form-text">${adj.masculinSingular}</div>
+                        ${adj.formChanges?.mascSing ? `<div class="form-change">${adj.formChanges.mascSing}</div>` : ''}
+                    </div>
+                `;
+                
+                // Feminine singular
+                formsHTML += `
+                    <div class="form-box">
+                        <div class="form-gender">Féminin Singulier</div>
+                        <div class="form-text">${adj.femininSingular}</div>
+                        ${adj.formChanges?.femSing ? `<div class="form-change">${adj.formChanges.femSing}</div>` : ''}
+                    </div>
+                `;
+                
+                // Masculine plural
+                formsHTML += `
+                    <div class="form-box">
+                        <div class="form-gender">Masculin Pluriel</div>
+                        <div class="form-text">${adj.masculinPlural}</div>
+                        ${adj.formChanges?.mascPlur ? `<div class="form-change">${adj.formChanges.mascPlur}</div>` : ''}
+                    </div>
+                `;
+                
+                // Feminine plural
+                formsHTML += `
+                    <div class="form-box">
+                        <div class="form-gender">Féminin Pluriel</div>
+                        <div class="form-text">${adj.femininPlural}</div>
+                        ${adj.formChanges?.femPlur ? `<div class="form-change">${adj.formChanges.femPlur}</div>` : ''}
+                    </div>
+                `;
+                
+                formsHTML += '</div>';
+
+                // English translation
+                let titleHTML = `<div class="adjective-forms">
+                    ${adj.english}`;
+                
+                // Position badge
+                if (adj.position) {
+                    const positionText = positionInfo[adj.position] || adj.position;
+                    titleHTML += `<span class="position-badge" title="Position: ${positionText}">${adj.position}</span>`;
+                }
+                
+                // Irregular badge
+                if (adj.irregular) {
+                    titleHTML += '<span class="irregular-badge">irrégulier</span>';
+                }
+                
+                titleHTML += '</div>';
+
+                // Example sentences
+                let examplesHTML = '';
+                if (adj.examples && adj.examples.length > 0) {
+                    adj.examples.forEach(ex => {
+                        examplesHTML += `
+                            <div class="example-sentence">
+                                <div class="example-french">${ex.french}</div>
+                                <div class="example-english">${ex.english}</div>
+                            </div>
+                        `;
+                    });
+                }
+
+                info.innerHTML = titleHTML + formsHTML + examplesHTML;
+
+                card.appendChild(imageDiv);
+                card.appendChild(info);
+                grid.appendChild(card);
+            });
+
+            adjectivesContainer.innerHTML = '';
+            adjectivesContainer.appendChild(grid);
+        }
+
+        // Event listener for category selection
+        categorySelect.addEventListener('change', (e) => {
+            loadAdjectives(e.target.value);
+        });
+
+        // Initialize
+        loadCategories();
+    </script>
+</body>
+</html>

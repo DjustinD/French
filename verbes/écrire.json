@@ -1,0 +1,460 @@
+{
+  "infinitive": "écrire",
+  "english": "to write",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "écris",
+              "english": "I write",
+              "sentence": "J'écris une lettre.",
+              "sentenceEnglish": "I write a letter."
+            },
+            "tu": {
+              "form": "écris",
+              "english": "you write",
+              "sentence": "Tu écris un livre?",
+              "sentenceEnglish": "Do you write a book?"
+            },
+            "il/elle": {
+              "form": "écrit",
+              "english": "he/she writes",
+              "sentence": "Elle écrit bien.",
+              "sentenceEnglish": "She writes well."
+            },
+            "on": {
+              "form": "écrit",
+              "english": "we write",
+              "sentence": "On écrit ensemble.",
+              "sentenceEnglish": "We write together."
+            },
+            "nous": {
+              "form": "écrivons",
+              "english": "we write",
+              "sentence": "Nous écrivons un roman.",
+              "sentenceEnglish": "We write a novel."
+            },
+            "vous": {
+              "form": "écrivez",
+              "english": "you write",
+              "sentence": "Vous écrivez souvent?",
+              "sentenceEnglish": "Do you write often?"
+            },
+            "ils/elles": {
+              "form": "écrivent",
+              "english": "they write",
+              "sentence": "Ils écrivent des poèmes.",
+              "sentenceEnglish": "They write poems."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train d'écrire",
+              "english": "I am writing",
+              "sentence": "Je suis en train d'écrire une lettre.",
+              "sentenceEnglish": "I am writing a letter."
+            },
+            "tu": {
+              "form": "es en train d'écrire",
+              "english": "you are writing",
+              "sentence": "Tu es en train d'écrire quoi?",
+              "sentenceEnglish": "What are you writing?"
+            },
+            "il/elle": {
+              "form": "est en train d'écrire",
+              "english": "he/she is writing",
+              "sentence": "Elle est en train d'écrire un livre.",
+              "sentenceEnglish": "She is writing a book."
+            },
+            "on": {
+              "form": "est en train d'écrire",
+              "english": "we are writing",
+              "sentence": "On est en train d'écrire ensemble.",
+              "sentenceEnglish": "We are writing together."
+            },
+            "nous": {
+              "form": "sommes en train d'écrire",
+              "english": "we are writing",
+              "sentence": "Nous sommes en train d'écrire un roman.",
+              "sentenceEnglish": "We are writing a novel."
+            },
+            "vous": {
+              "form": "êtes en train d'écrire",
+              "english": "you are writing",
+              "sentence": "Vous êtes en train d'écrire?",
+              "sentenceEnglish": "Are you writing?"
+            },
+            "ils/elles": {
+              "form": "sont en train d'écrire",
+              "english": "they are writing",
+              "sentence": "Ils sont en train d'écrire des poèmes.",
+              "sentenceEnglish": "They are writing poems."
+            }
+          }
+        }
+      },
+      "note": "Irregular verb. Must be memorized: j'écris, tu écris, il/elle écrit, nous écrivons, vous écrivez, ils/elles écrivent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai écrit",
+              "english": "I wrote / I have written",
+              "sentence": "J'ai écrit une lettre.",
+              "sentenceEnglish": "I wrote a letter."
+            },
+            "tu": {
+              "form": "as écrit",
+              "english": "you wrote / you have written",
+              "sentence": "Tu as écrit un livre?",
+              "sentenceEnglish": "Did you write a book?"
+            },
+            "il/elle": {
+              "form": "a écrit",
+              "english": "he/she wrote / has written",
+              "sentence": "Elle a écrit un roman.",
+              "sentenceEnglish": "She wrote a novel."
+            },
+            "on": {
+              "form": "a écrit",
+              "english": "we wrote / we have written",
+              "sentence": "On a écrit ensemble.",
+              "sentenceEnglish": "We wrote together."
+            },
+            "nous": {
+              "form": "avons écrit",
+              "english": "we wrote / we have written",
+              "sentence": "Nous avons écrit un poème.",
+              "sentenceEnglish": "We wrote a poem."
+            },
+            "vous": {
+              "form": "avez écrit",
+              "english": "you wrote / you have written",
+              "sentence": "Vous avez écrit quoi?",
+              "sentenceEnglish": "What did you write?"
+            },
+            "ils/elles": {
+              "form": "ont écrit",
+              "english": "they wrote / they have written",
+              "sentence": "Ils ont écrit des histoires.",
+              "sentenceEnglish": "They wrote stories."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "écrivais",
+              "english": "I wrote / I was writing / I used to write",
+              "sentence": "J'écrivais tous les jours.",
+              "sentenceEnglish": "I used to write every day."
+            },
+            "tu": {
+              "form": "écrivais",
+              "english": "you wrote / you were writing / you used to write",
+              "sentence": "Tu écrivais un livre?",
+              "sentenceEnglish": "Were you writing a book?"
+            },
+            "il/elle": {
+              "form": "écrivait",
+              "english": "he/she wrote / was writing / used to write",
+              "sentence": "Elle écrivait bien.",
+              "sentenceEnglish": "She used to write well."
+            },
+            "on": {
+              "form": "écrivait",
+              "english": "we wrote / we were writing / we used to write",
+              "sentence": "On écrivait ensemble.",
+              "sentenceEnglish": "We used to write together."
+            },
+            "nous": {
+              "form": "écrivions",
+              "english": "we wrote / we were writing / we used to write",
+              "sentence": "Nous écrivions des lettres.",
+              "sentenceEnglish": "We used to write letters."
+            },
+            "vous": {
+              "form": "écriviez",
+              "english": "you wrote / you were writing / you used to write",
+              "sentence": "Vous écriviez souvent?",
+              "sentenceEnglish": "Did you write often?"
+            },
+            "ils/elles": {
+              "form": "écrivaient",
+              "english": "they wrote / they were writing / they used to write",
+              "sentence": "Ils écrivaient des poèmes.",
+              "sentenceEnglish": "They used to write poems."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais écrit",
+              "english": "I had written",
+              "sentence": "J'avais écrit une lettre.",
+              "sentenceEnglish": "I had written a letter."
+            },
+            "tu": {
+              "form": "avais écrit",
+              "english": "you had written",
+              "sentence": "Tu avais écrit un livre?",
+              "sentenceEnglish": "Had you written a book?"
+            },
+            "il/elle": {
+              "form": "avait écrit",
+              "english": "he/she had written",
+              "sentence": "Elle avait écrit un roman.",
+              "sentenceEnglish": "She had written a novel."
+            },
+            "on": {
+              "form": "avait écrit",
+              "english": "we had written",
+              "sentence": "On avait écrit ensemble.",
+              "sentenceEnglish": "We had written together."
+            },
+            "nous": {
+              "form": "avions écrit",
+              "english": "we had written",
+              "sentence": "Nous avions écrit un poème.",
+              "sentenceEnglish": "We had written a poem."
+            },
+            "vous": {
+              "form": "aviez écrit",
+              "english": "you had written",
+              "sentence": "Vous aviez écrit quoi?",
+              "sentenceEnglish": "What had you written?"
+            },
+            "ils/elles": {
+              "form": "avaient écrit",
+              "english": "they had written",
+              "sentence": "Ils avaient écrit des histoires.",
+              "sentenceEnglish": "They had written stories."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "écrivis",
+              "english": "I wrote",
+              "sentence": "J'écrivis une lettre.",
+              "sentenceEnglish": "I wrote a letter."
+            },
+            "tu": {
+              "form": "écrivis",
+              "english": "you wrote",
+              "sentence": "Tu écrivis un livre.",
+              "sentenceEnglish": "You wrote a book."
+            },
+            "il/elle": {
+              "form": "écrivit",
+              "english": "he/she wrote",
+              "sentence": "Il écrivit un roman.",
+              "sentenceEnglish": "He wrote a novel."
+            },
+            "on": {
+              "form": "écrivit",
+              "english": "we wrote",
+              "sentence": "On écrivit ensemble.",
+              "sentenceEnglish": "We wrote together."
+            },
+            "nous": {
+              "form": "écrivîmes",
+              "english": "we wrote",
+              "sentence": "Nous écrivîmes des poèmes.",
+              "sentenceEnglish": "We wrote poems."
+            },
+            "vous": {
+              "form": "écrivîtes",
+              "english": "you wrote",
+              "sentence": "Vous écrivîtes une histoire.",
+              "sentenceEnglish": "You wrote a story."
+            },
+            "ils/elles": {
+              "form": "écrivirent",
+              "english": "they wrote",
+              "sentence": "Ils écrivirent des lettres.",
+              "sentenceEnglish": "They wrote letters."
+            }
+          }
+        }
+      },
+      "note": "Irregular past participle 'écrit'. Imparfait stem 'écriv-' (from nous écrivons): j'écrivais, tu écrivais, il/elle écrivait, nous écrivions, vous écriviez, ils/elles écrivaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "écrirai",
+              "english": "I will write",
+              "sentence": "J'écrirai une lettre.",
+              "sentenceEnglish": "I will write a letter."
+            },
+            "tu": {
+              "form": "écriras",
+              "english": "you will write",
+              "sentence": "Tu écriras un livre?",
+              "sentenceEnglish": "Will you write a book?"
+            },
+            "il/elle": {
+              "form": "écrira",
+              "english": "he/she will write",
+              "sentence": "Il écrira un roman.",
+              "sentenceEnglish": "He will write a novel."
+            },
+            "on": {
+              "form": "écrira",
+              "english": "we will write",
+              "sentence": "On écrira ensemble.",
+              "sentenceEnglish": "We will write together."
+            },
+            "nous": {
+              "form": "écrirons",
+              "english": "we will write",
+              "sentence": "Nous écrirons des poèmes.",
+              "sentenceEnglish": "We will write poems."
+            },
+            "vous": {
+              "form": "écrirez",
+              "english": "you will write",
+              "sentence": "Vous écrirez souvent?",
+              "sentenceEnglish": "Will you write often?"
+            },
+            "ils/elles": {
+              "form": "écriront",
+              "english": "they will write",
+              "sentence": "Elles écriront des histoires.",
+              "sentenceEnglish": "They will write stories."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais écrire",
+              "english": "I am going to write",
+              "sentence": "Je vais écrire une lettre.",
+              "sentenceEnglish": "I am going to write a letter."
+            },
+            "tu": {
+              "form": "vas écrire",
+              "english": "you are going to write",
+              "sentence": "Tu vas écrire un livre?",
+              "sentenceEnglish": "Are you going to write a book?"
+            },
+            "il/elle": {
+              "form": "va écrire",
+              "english": "he/she is going to write",
+              "sentence": "Elle va écrire un roman.",
+              "sentenceEnglish": "She is going to write a novel."
+            },
+            "on": {
+              "form": "va écrire",
+              "english": "we are going to write",
+              "sentence": "On va écrire ensemble.",
+              "sentenceEnglish": "We are going to write together."
+            },
+            "nous": {
+              "form": "allons écrire",
+              "english": "we are going to write",
+              "sentence": "Nous allons écrire des poèmes.",
+              "sentenceEnglish": "We are going to write poems."
+            },
+            "vous": {
+              "form": "allez écrire",
+              "english": "you are going to write",
+              "sentence": "Vous allez écrire?",
+              "sentenceEnglish": "Are you going to write?"
+            },
+            "ils/elles": {
+              "form": "vont écrire",
+              "english": "they are going to write",
+              "sentence": "Ils vont écrire des histoires.",
+              "sentenceEnglish": "They are going to write stories."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai écrit",
+              "english": "I will have written",
+              "sentence": "J'aurai écrit une lettre.",
+              "sentenceEnglish": "I will have written a letter."
+            },
+            "tu": {
+              "form": "auras écrit",
+              "english": "you will have written",
+              "sentence": "Tu auras écrit un livre?",
+              "sentenceEnglish": "Will you have written a book?"
+            },
+            "il/elle": {
+              "form": "aura écrit",
+              "english": "he/she will have written",
+              "sentence": "Elle aura écrit un roman.",
+              "sentenceEnglish": "She will have written a novel."
+            },
+            "on": {
+              "form": "aura écrit",
+              "english": "we will have written",
+              "sentence": "On aura écrit ensemble.",
+              "sentenceEnglish": "We will have written together."
+            },
+            "nous": {
+              "form": "aurons écrit",
+              "english": "we will have written",
+              "sentence": "Nous aurons écrit des poèmes.",
+              "sentenceEnglish": "We will have written poems."
+            },
+            "vous": {
+              "form": "aurez écrit",
+              "english": "you will have written",
+              "sentence": "Vous aurez écrit quoi?",
+              "sentenceEnglish": "What will you have written?"
+            },
+            "ils/elles": {
+              "form": "auront écrit",
+              "english": "they will have written",
+              "sentence": "Ils auront écrit des histoires.",
+              "sentenceEnglish": "They will have written stories."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'écrir-': j'écrirai, tu écriras, il/elle écrira, nous écrirons, vous écrirez, ils/elles écriront"
+    }
+  }
+}

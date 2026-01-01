@@ -1,0 +1,145 @@
+{
+  "infinitive": "donner",
+  "english": "to give",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": { "form": "donne", "english": "I give", "sentence": "Je donne un cadeau.", "sentenceEnglish": "I give a gift." },
+            "tu": { "form": "donnes", "english": "you give", "sentence": "Tu donnes de l'argent?", "sentenceEnglish": "Do you give money?" },
+            "il/elle": { "form": "donne", "english": "he/she gives", "sentence": "Elle donne son avis.", "sentenceEnglish": "She gives her opinion." },
+            "on": { "form": "donne", "english": "we give", "sentence": "On donne des conseils.", "sentenceEnglish": "We give advice." },
+            "nous": { "form": "donnons", "english": "we give", "sentence": "Nous donnons notre temps.", "sentenceEnglish": "We give our time." },
+            "vous": { "form": "donnez", "english": "you give", "sentence": "Vous donnez des cours?", "sentenceEnglish": "Do you give lessons?" },
+            "ils/elles": { "form": "donnent", "english": "they give", "sentence": "Ils donnent beaucoup.", "sentenceEnglish": "They give a lot." }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": { "form": "suis en train de donner", "english": "I am giving", "sentence": "Je suis en train de donner un cadeau.", "sentenceEnglish": "I am giving a gift." },
+            "tu": { "form": "es en train de donner", "english": "you are giving", "sentence": "Tu es en train de donner ton numéro?", "sentenceEnglish": "Are you giving your number?" },
+            "il/elle": { "form": "est en train de donner", "english": "he/she is giving", "sentence": "Elle est en train de donner son adresse.", "sentenceEnglish": "She is giving her address." },
+            "on": { "form": "est en train de donner", "english": "we are giving", "sentence": "On est en train de donner des exemples.", "sentenceEnglish": "We are giving examples." },
+            "nous": { "form": "sommes en train de donner", "english": "we are giving", "sentence": "Nous sommes en train de donner une fête.", "sentenceEnglish": "We are giving a party." },
+            "vous": { "form": "êtes en train de donner", "english": "you are giving", "sentence": "Vous êtes en train de donner un cours?", "sentenceEnglish": "Are you giving a lesson?" },
+            "ils/elles": { "form": "sont en train de donner", "english": "they are giving", "sentence": "Ils sont en train de donner leur opinion.", "sentenceEnglish": "They are giving their opinion." }
+          }
+        }
+      },
+      "note": "Regular -er verb. Pattern: je donne, tu donnes, il/elle donne, nous donnons, vous donnez, ils/elles donnent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "ai donné", "english": "I gave / I have given", "sentence": "J'ai donné mon livre.", "sentenceEnglish": "I gave my book." },
+            "tu": { "form": "as donné", "english": "you gave / you have given", "sentence": "Tu as donné la réponse?", "sentenceEnglish": "Did you give the answer?" },
+            "il/elle": { "form": "a donné", "english": "he/she gave / has given", "sentence": "Elle a donné son accord.", "sentenceEnglish": "She gave her agreement." },
+            "on": { "form": "a donné", "english": "we gave / we have given", "sentence": "On a donné notre avis.", "sentenceEnglish": "We gave our opinion." },
+            "nous": { "form": "avons donné", "english": "we gave / we have given", "sentence": "Nous avons donné des cadeaux.", "sentenceEnglish": "We gave gifts." },
+            "vous": { "form": "avez donné", "english": "you gave / you have given", "sentence": "Vous avez donné de l'argent?", "sentenceEnglish": "Did you give money?" },
+            "ils/elles": { "form": "ont donné", "english": "they gave / they have given", "sentence": "Ils ont donné leur temps.", "sentenceEnglish": "They gave their time." }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": { "form": "donnais", "english": "I gave / I used to give / I was giving", "sentence": "Je donnais des cours.", "sentenceEnglish": "I used to give lessons." },
+            "tu": { "form": "donnais", "english": "you gave / you used to give / you were giving", "sentence": "Tu donnais souvent?", "sentenceEnglish": "Did you give often?" },
+            "il/elle": { "form": "donnait", "english": "he/she gave / used to give / was giving", "sentence": "Elle donnait beaucoup.", "sentenceEnglish": "She used to give a lot." },
+            "on": { "form": "donnait", "english": "we gave / we used to give / we were giving", "sentence": "On donnait des conseils.", "sentenceEnglish": "We used to give advice." },
+            "nous": { "form": "donnions", "english": "we gave / we used to give / we were giving", "sentence": "Nous donnions notre aide.", "sentenceEnglish": "We used to give our help." },
+            "vous": { "form": "donniez", "english": "you gave / you used to give / you were giving", "sentence": "Vous donniez des exemples?", "sentenceEnglish": "Were you giving examples?" },
+            "ils/elles": { "form": "donnaient", "english": "they gave / they used to give / they were giving", "sentence": "Ils donnaient toujours.", "sentenceEnglish": "They always used to give." }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "avais donné", "english": "I had given", "sentence": "J'avais donné mon accord.", "sentenceEnglish": "I had given my agreement." },
+            "tu": { "form": "avais donné", "english": "you had given", "sentence": "Tu avais donné ta parole?", "sentenceEnglish": "Had you given your word?" },
+            "il/elle": { "form": "avait donné", "english": "he/she had given", "sentence": "Elle avait donné son avis.", "sentenceEnglish": "She had given her opinion." },
+            "on": { "form": "avait donné", "english": "we had given", "sentence": "On avait donné notre temps.", "sentenceEnglish": "We had given our time." },
+            "nous": { "form": "avions donné", "english": "we had given", "sentence": "Nous avions donné des cadeaux.", "sentenceEnglish": "We had given gifts." },
+            "vous": { "form": "aviez donné", "english": "you had given", "sentence": "Vous aviez donné l'argent?", "sentenceEnglish": "Had you given the money?" },
+            "ils/elles": { "form": "avaient donné", "english": "they had given", "sentence": "Ils avaient donné leur aide.", "sentenceEnglish": "They had given their help." }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": { "form": "donnai", "english": "I gave", "sentence": "Je donnai mon livre.", "sentenceEnglish": "I gave my book." },
+            "tu": { "form": "donnas", "english": "you gave", "sentence": "Tu donnas la réponse.", "sentenceEnglish": "You gave the answer." },
+            "il/elle": { "form": "donna", "english": "he/she gave", "sentence": "Il donna son accord.", "sentenceEnglish": "He gave his agreement." },
+            "on": { "form": "donna", "english": "we gave", "sentence": "On donna notre avis.", "sentenceEnglish": "We gave our opinion." },
+            "nous": { "form": "donnâmes", "english": "we gave", "sentence": "Nous donnâmes des cadeaux.", "sentenceEnglish": "We gave gifts." },
+            "vous": { "form": "donnâtes", "english": "you gave", "sentence": "Vous donnâtes de l'argent.", "sentenceEnglish": "You gave money." },
+            "ils/elles": { "form": "donnèrent", "english": "they gave", "sentence": "Ils donnèrent leur temps.", "sentenceEnglish": "They gave their time." }
+          }
+        }
+      },
+      "note": "Regular imparfait stem 'donn-' (from infinitive): je donnais, tu donnais, il/elle donnait, nous donnions, vous donniez, ils/elles donnaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": { "form": "donnerai", "english": "I will give", "sentence": "Je donnerai mon avis.", "sentenceEnglish": "I will give my opinion." },
+            "tu": { "form": "donneras", "english": "you will give", "sentence": "Tu donneras la réponse?", "sentenceEnglish": "Will you give the answer?" },
+            "il/elle": { "form": "donnera", "english": "he/she will give", "sentence": "Il donnera son accord.", "sentenceEnglish": "He will give his agreement." },
+            "on": { "form": "donnera", "english": "we will give", "sentence": "On donnera des conseils.", "sentenceEnglish": "We will give advice." },
+            "nous": { "form": "donnerons", "english": "we will give", "sentence": "Nous donnerons notre aide.", "sentenceEnglish": "We will give our help." },
+            "vous": { "form": "donnerez", "english": "you will give", "sentence": "Vous donnerez des cours?", "sentenceEnglish": "Will you give lessons?" },
+            "ils/elles": { "form": "donneront", "english": "they will give", "sentence": "Elles donneront leur temps.", "sentenceEnglish": "They will give their time." }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": { "form": "vais donner", "english": "I am going to give", "sentence": "Je vais donner un cadeau.", "sentenceEnglish": "I am going to give a gift." },
+            "tu": { "form": "vas donner", "english": "you are going to give", "sentence": "Tu vas donner ton numéro?", "sentenceEnglish": "Are you going to give your number?" },
+            "il/elle": { "form": "va donner", "english": "he/she is going to give", "sentence": "Elle va donner son adresse.", "sentenceEnglish": "She is going to give her address." },
+            "on": { "form": "va donner", "english": "we are going to give", "sentence": "On va donner une fête.", "sentenceEnglish": "We are going to give a party." },
+            "nous": { "form": "allons donner", "english": "we are going to give", "sentence": "Nous allons donner des exemples.", "sentenceEnglish": "We are going to give examples." },
+            "vous": { "form": "allez donner", "english": "you are going to give", "sentence": "Vous allez donner un cours?", "sentenceEnglish": "Are you going to give a lesson?" },
+            "ils/elles": { "form": "vont donner", "english": "they are going to give", "sentence": "Ils vont donner leur opinion.", "sentenceEnglish": "They are going to give their opinion." }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "aurai donné", "english": "I will have given", "sentence": "J'aurai donné ma réponse.", "sentenceEnglish": "I will have given my answer." },
+            "tu": { "form": "auras donné", "english": "you will have given", "sentence": "Tu auras donné ton avis?", "sentenceEnglish": "Will you have given your opinion?" },
+            "il/elle": { "form": "aura donné", "english": "he/she will have given", "sentence": "Elle aura donné son accord.", "sentenceEnglish": "She will have given her agreement." },
+            "on": { "form": "aura donné", "english": "we will have given", "sentence": "On aura donné notre temps.", "sentenceEnglish": "We will have given our time." },
+            "nous": { "form": "aurons donné", "english": "we will have given", "sentence": "Nous aurons donné des cadeaux.", "sentenceEnglish": "We will have given gifts." },
+            "vous": { "form": "aurez donné", "english": "you will have given", "sentence": "Vous aurez donné l'argent?", "sentenceEnglish": "Will you have given the money?" },
+            "ils/elles": { "form": "auront donné", "english": "they will have given", "sentence": "Ils auront donné leur aide.", "sentenceEnglish": "They will have given their help." }
+          }
+        }
+      },
+      "note": "Regular future stem 'donner-': je donnerai, tu donneras, il/elle donnera, nous donnerons, vous donnerez, ils/elles donneront"
+    }
+  }
+}

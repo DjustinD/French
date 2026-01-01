@@ -1,0 +1,302 @@
+[
+    {
+        "masculinSingular": "rouge",
+        "femininSingular": "rouge",
+        "masculinPlural": "rouges",
+        "femininPlural": "rouges",
+        "english": "red",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "une voiture rouge",
+                "english": "a red car"
+            },
+            {
+                "french": "des pommes rouges",
+                "english": "red apples"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "bleu",
+        "femininSingular": "bleue",
+        "masculinPlural": "bleus",
+        "femininPlural": "bleues",
+        "english": "blue",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un ciel bleu",
+                "english": "a blue sky"
+            },
+            {
+                "french": "une mer bleue",
+                "english": "a blue sea"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "vert",
+        "femininSingular": "verte",
+        "masculinPlural": "verts",
+        "femininPlural": "vertes",
+        "english": "green",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un arbre vert",
+                "english": "a green tree"
+            },
+            {
+                "french": "une pomme verte",
+                "english": "a green apple"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "jaune",
+        "femininSingular": "jaune",
+        "masculinPlural": "jaunes",
+        "femininPlural": "jaunes",
+        "english": "yellow",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un citron jaune",
+                "english": "a yellow lemon"
+            },
+            {
+                "french": "des fleurs jaunes",
+                "english": "yellow flowers"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "noir",
+        "femininSingular": "noire",
+        "masculinPlural": "noirs",
+        "femininPlural": "noires",
+        "english": "black",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un chat noir",
+                "english": "a black cat"
+            },
+            {
+                "french": "une robe noire",
+                "english": "a black dress"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "blanc",
+        "femininSingular": "blanche",
+        "masculinPlural": "blancs",
+        "femininPlural": "blanches",
+        "english": "white",
+        "position": "après",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "blanc → blanche",
+            "mascPlur": "+ s",
+            "femPlur": "blanches"
+        },
+        "examples": [
+            {
+                "french": "un cheval blanc",
+                "english": "a white horse"
+            },
+            {
+                "french": "une chemise blanche",
+                "english": "a white shirt"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "gris",
+        "femininSingular": "grise",
+        "masculinPlural": "gris",
+        "femininPlural": "grises",
+        "english": "gray",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "no change",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un nuage gris",
+                "english": "a gray cloud"
+            },
+            {
+                "french": "une souris grise",
+                "english": "a gray mouse"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "rose",
+        "femininSingular": "rose",
+        "masculinPlural": "roses",
+        "femininPlural": "roses",
+        "english": "pink",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un bonbon rose",
+                "english": "a pink candy"
+            },
+            {
+                "french": "des roses roses",
+                "english": "pink roses"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "orange",
+        "femininSingular": "orange",
+        "masculinPlural": "orange",
+        "femininPlural": "orange",
+        "english": "orange",
+        "position": "après",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "invariable",
+            "mascPlur": "invariable",
+            "femPlur": "invariable"
+        },
+        "examples": [
+            {
+                "french": "un fruit orange",
+                "english": "an orange fruit"
+            },
+            {
+                "french": "des fleurs orange",
+                "english": "orange flowers"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "marron",
+        "femininSingular": "marron",
+        "masculinPlural": "marron",
+        "femininPlural": "marron",
+        "english": "brown",
+        "position": "après",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "invariable",
+            "mascPlur": "invariable",
+            "femPlur": "invariable"
+        },
+        "examples": [
+            {
+                "french": "un ours marron",
+                "english": "a brown bear"
+            },
+            {
+                "french": "des chaussures marron",
+                "english": "brown shoes"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "violet",
+        "femininSingular": "violette",
+        "masculinPlural": "violets",
+        "femininPlural": "violettes",
+        "english": "purple/violet",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "violet → violette",
+            "mascPlur": "+ s",
+            "femPlur": "violettes"
+        },
+        "examples": [
+            {
+                "french": "un crayon violet",
+                "english": "a purple pencil"
+            },
+            {
+                "french": "une fleur violette",
+                "english": "a purple flower"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "beige",
+        "femininSingular": "beige",
+        "masculinPlural": "beiges",
+        "femininPlural": "beiges",
+        "english": "beige",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un manteau beige",
+                "english": "a beige coat"
+            },
+            {
+                "french": "des murs beiges",
+                "english": "beige walls"
+            }
+        ],
+        "image": null
+    }
+]

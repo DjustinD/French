@@ -1,0 +1,145 @@
+{
+  "infinitive": "venir",
+  "english": "to come",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": { "form": "viens", "english": "I come", "sentence": "Je viens de Paris.", "sentenceEnglish": "I come from Paris." },
+            "tu": { "form": "viens", "english": "you come", "sentence": "Tu viens avec moi?", "sentenceEnglish": "Are you coming with me?" },
+            "il/elle": { "form": "vient", "english": "he/she comes", "sentence": "Elle vient souvent ici.", "sentenceEnglish": "She comes here often." },
+            "on": { "form": "vient", "english": "we come", "sentence": "On vient ce soir.", "sentenceEnglish": "We are coming tonight." },
+            "nous": { "form": "venons", "english": "we come", "sentence": "Nous venons d'arriver.", "sentenceEnglish": "We have just arrived." },
+            "vous": { "form": "venez", "english": "you come", "sentence": "Vous venez d'où?", "sentenceEnglish": "Where do you come from?" },
+            "ils/elles": { "form": "viennent", "english": "they come", "sentence": "Ils viennent demain.", "sentenceEnglish": "They are coming tomorrow." }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": { "form": "suis en train de venir", "english": "I am coming", "sentence": "Je suis en train de venir.", "sentenceEnglish": "I am coming." },
+            "tu": { "form": "es en train de venir", "english": "you are coming", "sentence": "Tu es en train de venir?", "sentenceEnglish": "Are you coming?" },
+            "il/elle": { "form": "est en train de venir", "english": "he/she is coming", "sentence": "Elle est en train de venir ici.", "sentenceEnglish": "She is coming here." },
+            "on": { "form": "est en train de venir", "english": "we are coming", "sentence": "On est en train de venir.", "sentenceEnglish": "We are coming." },
+            "nous": { "form": "sommes en train de venir", "english": "we are coming", "sentence": "Nous sommes en train de venir.", "sentenceEnglish": "We are coming." },
+            "vous": { "form": "êtes en train de venir", "english": "you are coming", "sentence": "Vous êtes en train de venir?", "sentenceEnglish": "Are you coming?" },
+            "ils/elles": { "form": "sont en train de venir", "english": "they are coming", "sentence": "Ils sont en train de venir.", "sentenceEnglish": "They are coming." }
+          }
+        }
+      },
+      "note": "Highly irregular verb. Must be memorized: je viens, tu viens, il/elle vient, nous venons, vous venez, ils/elles viennent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "être",
+          "forms": {
+            "je": { "form": "suis venu(e)", "english": "I came / I have come", "sentence": "Je suis venu(e) hier.", "sentenceEnglish": "I came yesterday." },
+            "tu": { "form": "es venu(e)", "english": "you came / you have come", "sentence": "Tu es venu(e) seul(e)?", "sentenceEnglish": "Did you come alone?" },
+            "il/elle": { "form": "est venu(e)", "english": "he/she came / has come", "sentence": "Elle est venue à la fête.", "sentenceEnglish": "She came to the party." },
+            "on": { "form": "est venu(s)", "english": "we came / we have come", "sentence": "On est venu(s) en voiture.", "sentenceEnglish": "We came by car." },
+            "nous": { "form": "sommes venu(e)s", "english": "we came / we have come", "sentence": "Nous sommes venu(e)s tôt.", "sentenceEnglish": "We came early." },
+            "vous": { "form": "êtes venu(e)(s)", "english": "you came / you have come", "sentence": "Vous êtes venu(e)(s) comment?", "sentenceEnglish": "How did you come?" },
+            "ils/elles": { "form": "sont venu(e)s", "english": "they came / they have come", "sentence": "Ils sont venus ensemble.", "sentenceEnglish": "They came together." }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": { "form": "venais", "english": "I came / I used to come / I was coming", "sentence": "Je venais tous les jours.", "sentenceEnglish": "I used to come every day." },
+            "tu": { "form": "venais", "english": "you came / you used to come / you were coming", "sentence": "Tu venais souvent?", "sentenceEnglish": "Did you come often?" },
+            "il/elle": { "form": "venait", "english": "he/she came / used to come / was coming", "sentence": "Elle venait chaque semaine.", "sentenceEnglish": "She used to come every week." },
+            "on": { "form": "venait", "english": "we came / we used to come / we were coming", "sentence": "On venait en vélo.", "sentenceEnglish": "We used to come by bike." },
+            "nous": { "form": "venions", "english": "we came / we used to come / we were coming", "sentence": "Nous venions le matin.", "sentenceEnglish": "We used to come in the morning." },
+            "vous": { "form": "veniez", "english": "you came / you used to come / you were coming", "sentence": "Vous veniez d'où?", "sentenceEnglish": "Where did you use to come from?" },
+            "ils/elles": { "form": "venaient", "english": "they came / they used to come / they were coming", "sentence": "Ils venaient toujours en retard.", "sentenceEnglish": "They always used to come late." }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "être",
+          "forms": {
+            "je": { "form": "étais venu(e)", "english": "I had come", "sentence": "J'étais venu(e) plus tôt.", "sentenceEnglish": "I had come earlier." },
+            "tu": { "form": "étais venu(e)", "english": "you had come", "sentence": "Tu étais venu(e) seul(e)?", "sentenceEnglish": "Had you come alone?" },
+            "il/elle": { "form": "était venu(e)", "english": "he/she had come", "sentence": "Elle était venue avant moi.", "sentenceEnglish": "She had come before me." },
+            "on": { "form": "était venu(s)", "english": "we had come", "sentence": "On était venu(s) en voiture.", "sentenceEnglish": "We had come by car." },
+            "nous": { "form": "étions venu(e)s", "english": "we had come", "sentence": "Nous étions venu(e)s tôt.", "sentenceEnglish": "We had come early." },
+            "vous": { "form": "étiez venu(e)(s)", "english": "you had come", "sentence": "Vous étiez venu(e)(s) comment?", "sentenceEnglish": "How had you come?" },
+            "ils/elles": { "form": "étaient venu(e)s", "english": "they had come", "sentence": "Ils étaient venus ensemble.", "sentenceEnglish": "They had come together." }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": { "form": "vins", "english": "I came", "sentence": "Je vins le voir.", "sentenceEnglish": "I came to see him." },
+            "tu": { "form": "vins", "english": "you came", "sentence": "Tu vins seul.", "sentenceEnglish": "You came alone." },
+            "il/elle": { "form": "vint", "english": "he/she came", "sentence": "Il vint en retard.", "sentenceEnglish": "He came late." },
+            "on": { "form": "vint", "english": "we came", "sentence": "On vint en voiture.", "sentenceEnglish": "We came by car." },
+            "nous": { "form": "vînmes", "english": "we came", "sentence": "Nous vînmes tôt.", "sentenceEnglish": "We came early." },
+            "vous": { "form": "vîntes", "english": "you came", "sentence": "Vous vîntes ensemble.", "sentenceEnglish": "You came together." },
+            "ils/elles": { "form": "vinrent", "english": "they came", "sentence": "Ils vinrent de loin.", "sentenceEnglish": "They came from far away." }
+          }
+        }
+      },
+      "note": "Uses être as auxiliary. Past participle agrees with subject: je suis venu (masc.) / je suis venue (fem.). Irregular imparfait stem 'ven-' (from 'nous venons'): je venais, tu venais, il/elle venait, nous venions, vous veniez, ils/elles venaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": { "form": "viendrai", "english": "I will come", "sentence": "Je viendrai demain.", "sentenceEnglish": "I will come tomorrow." },
+            "tu": { "form": "viendras", "english": "you will come", "sentence": "Tu viendras avec moi?", "sentenceEnglish": "Will you come with me?" },
+            "il/elle": { "form": "viendra", "english": "he/she will come", "sentence": "Il viendra ce soir.", "sentenceEnglish": "He will come tonight." },
+            "on": { "form": "viendra", "english": "we will come", "sentence": "On viendra en voiture.", "sentenceEnglish": "We will come by car." },
+            "nous": { "form": "viendrons", "english": "we will come", "sentence": "Nous viendrons tôt.", "sentenceEnglish": "We will come early." },
+            "vous": { "form": "viendrez", "english": "you will come", "sentence": "Vous viendrez quand?", "sentenceEnglish": "When will you come?" },
+            "ils/elles": { "form": "viendront", "english": "they will come", "sentence": "Elles viendront ensemble.", "sentenceEnglish": "They will come together." }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": { "form": "vais venir", "english": "I am going to come", "sentence": "Je vais venir tout de suite.", "sentenceEnglish": "I am going to come right away." },
+            "tu": { "form": "vas venir", "english": "you are going to come", "sentence": "Tu vas venir avec nous?", "sentenceEnglish": "Are you going to come with us?" },
+            "il/elle": { "form": "va venir", "english": "he/she is going to come", "sentence": "Elle va venir ce soir.", "sentenceEnglish": "She is going to come tonight." },
+            "on": { "form": "va venir", "english": "we are going to come", "sentence": "On va venir en taxi.", "sentenceEnglish": "We are going to come by taxi." },
+            "nous": { "form": "allons venir", "english": "we are going to come", "sentence": "Nous allons venir bientôt.", "sentenceEnglish": "We are going to come soon." },
+            "vous": { "form": "allez venir", "english": "you are going to come", "sentence": "Vous allez venir comment?", "sentenceEnglish": "How are you going to come?" },
+            "ils/elles": { "form": "vont venir", "english": "they are going to come", "sentence": "Ils vont venir demain.", "sentenceEnglish": "They are going to come tomorrow." }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "être",
+          "forms": {
+            "je": { "form": "serai venu(e)", "english": "I will have come", "sentence": "Je serai venu(e) avant midi.", "sentenceEnglish": "I will have come before noon." },
+            "tu": { "form": "seras venu(e)", "english": "you will have come", "sentence": "Tu seras venu(e) à temps?", "sentenceEnglish": "Will you have come on time?" },
+            "il/elle": { "form": "sera venu(e)", "english": "he/she will have come", "sentence": "Elle sera venue avant toi.", "sentenceEnglish": "She will have come before you." },
+            "on": { "form": "sera venu(s)", "english": "we will have come", "sentence": "On sera venu(s) tôt.", "sentenceEnglish": "We will have come early." },
+            "nous": { "form": "serons venu(e)s", "english": "we will have come", "sentence": "Nous serons venu(e)s en voiture.", "sentenceEnglish": "We will have come by car." },
+            "vous": { "form": "serez venu(e)(s)", "english": "you will have come", "sentence": "Vous serez venu(e)(s) comment?", "sentenceEnglish": "How will you have come?" },
+            "ils/elles": { "form": "seront venu(e)s", "english": "they will have come", "sentence": "Ils seront venus ensemble.", "sentenceEnglish": "They will have come together." }
+          }
+        }
+      },
+      "note": "Irregular future stem 'viendr-': je viendrai, tu viendras, il/elle viendra, nous viendrons, vous viendrez, ils/elles viendront"
+    }
+  }
+}

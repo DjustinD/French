@@ -1,0 +1,460 @@
+{
+  "infinitive": "sortir",
+  "english": "to go out / to exit / to leave",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "sors",
+              "english": "I go out",
+              "sentence": "Je sors ce soir.",
+              "sentenceEnglish": "I'm going out tonight."
+            },
+            "tu": {
+              "form": "sors",
+              "english": "you go out",
+              "sentence": "Tu sors avec nous?",
+              "sentenceEnglish": "Are you going out with us?"
+            },
+            "il/elle": {
+              "form": "sort",
+              "english": "he/she goes out",
+              "sentence": "Elle sort souvent.",
+              "sentenceEnglish": "She goes out often."
+            },
+            "on": {
+              "form": "sort",
+              "english": "we go out",
+              "sentence": "On sort ensemble.",
+              "sentenceEnglish": "We go out together."
+            },
+            "nous": {
+              "form": "sortons",
+              "english": "we go out",
+              "sentence": "Nous sortons ce weekend.",
+              "sentenceEnglish": "We're going out this weekend."
+            },
+            "vous": {
+              "form": "sortez",
+              "english": "you go out",
+              "sentence": "Vous sortez quand?",
+              "sentenceEnglish": "When are you going out?"
+            },
+            "ils/elles": {
+              "form": "sortent",
+              "english": "they go out",
+              "sentence": "Ils sortent le samedi.",
+              "sentenceEnglish": "They go out on Saturdays."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de sortir",
+              "english": "I am going out",
+              "sentence": "Je suis en train de sortir.",
+              "sentenceEnglish": "I am going out."
+            },
+            "tu": {
+              "form": "es en train de sortir",
+              "english": "you are going out",
+              "sentence": "Tu es en train de sortir?",
+              "sentenceEnglish": "Are you going out?"
+            },
+            "il/elle": {
+              "form": "est en train de sortir",
+              "english": "he/she is going out",
+              "sentence": "Elle est en train de sortir.",
+              "sentenceEnglish": "She is going out."
+            },
+            "on": {
+              "form": "est en train de sortir",
+              "english": "we are going out",
+              "sentence": "On est en train de sortir.",
+              "sentenceEnglish": "We are going out."
+            },
+            "nous": {
+              "form": "sommes en train de sortir",
+              "english": "we are going out",
+              "sentence": "Nous sommes en train de sortir.",
+              "sentenceEnglish": "We are going out."
+            },
+            "vous": {
+              "form": "êtes en train de sortir",
+              "english": "you are going out",
+              "sentence": "Vous êtes en train de sortir?",
+              "sentenceEnglish": "Are you going out?"
+            },
+            "ils/elles": {
+              "form": "sont en train de sortir",
+              "english": "they are going out",
+              "sentence": "Ils sont en train de sortir.",
+              "sentenceEnglish": "They are going out."
+            }
+          }
+        }
+      },
+      "note": "Irregular verb. Must be memorized: je sors, tu sors, il/elle sort, nous sortons, vous sortez, ils/elles sortent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "être",
+          "forms": {
+            "je": {
+              "form": "suis sorti(e)",
+              "english": "I went out / I have gone out",
+              "sentence": "Je suis sorti hier soir.",
+              "sentenceEnglish": "I went out last night."
+            },
+            "tu": {
+              "form": "es sorti(e)",
+              "english": "you went out / you have gone out",
+              "sentence": "Tu es sorti avec tes amis?",
+              "sentenceEnglish": "Did you go out with your friends?"
+            },
+            "il/elle": {
+              "form": "est sorti/sortie",
+              "english": "he/she went out / has gone out",
+              "sentence": "Elle est sortie ce matin.",
+              "sentenceEnglish": "She went out this morning."
+            },
+            "on": {
+              "form": "est sorti(s)",
+              "english": "we went out / we have gone out",
+              "sentence": "On est sortis ensemble.",
+              "sentenceEnglish": "We went out together."
+            },
+            "nous": {
+              "form": "sommes sorti(e)s",
+              "english": "we went out / we have gone out",
+              "sentence": "Nous sommes sortis au restaurant.",
+              "sentenceEnglish": "We went out to the restaurant."
+            },
+            "vous": {
+              "form": "êtes sorti(e)(s)",
+              "english": "you went out / you have gone out",
+              "sentence": "Vous êtes sortis quand?",
+              "sentenceEnglish": "When did you go out?"
+            },
+            "ils/elles": {
+              "form": "sont sortis/sorties",
+              "english": "they went out / they have gone out",
+              "sentence": "Ils sont sortis hier.",
+              "sentenceEnglish": "They went out yesterday."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "sortais",
+              "english": "I went out / I was going out / I used to go out",
+              "sentence": "Je sortais tous les samedis.",
+              "sentenceEnglish": "I used to go out every Saturday."
+            },
+            "tu": {
+              "form": "sortais",
+              "english": "you went out / you were going out / you used to go out",
+              "sentence": "Tu sortais souvent?",
+              "sentenceEnglish": "Did you go out often?"
+            },
+            "il/elle": {
+              "form": "sortait",
+              "english": "he/she went out / was going out / used to go out",
+              "sentence": "Elle sortait avec ses amis.",
+              "sentenceEnglish": "She used to go out with her friends."
+            },
+            "on": {
+              "form": "sortait",
+              "english": "we went out / we were going out / we used to go out",
+              "sentence": "On sortait ensemble.",
+              "sentenceEnglish": "We used to go out together."
+            },
+            "nous": {
+              "form": "sortions",
+              "english": "we went out / we were going out / we used to go out",
+              "sentence": "Nous sortions le weekend.",
+              "sentenceEnglish": "We used to go out on weekends."
+            },
+            "vous": {
+              "form": "sortiez",
+              "english": "you went out / you were going out / you used to go out",
+              "sentence": "Vous sortiez souvent?",
+              "sentenceEnglish": "Did you go out often?"
+            },
+            "ils/elles": {
+              "form": "sortaient",
+              "english": "they went out / they were going out / they used to go out",
+              "sentence": "Ils sortaient tous les soirs.",
+              "sentenceEnglish": "They used to go out every evening."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "être",
+          "forms": {
+            "je": {
+              "form": "étais sorti(e)",
+              "english": "I had gone out",
+              "sentence": "J'étais sorti avant toi.",
+              "sentenceEnglish": "I had gone out before you."
+            },
+            "tu": {
+              "form": "étais sorti(e)",
+              "english": "you had gone out",
+              "sentence": "Tu étais sorti?",
+              "sentenceEnglish": "Had you gone out?"
+            },
+            "il/elle": {
+              "form": "était sorti/sortie",
+              "english": "he/she had gone out",
+              "sentence": "Elle était sortie tôt.",
+              "sentenceEnglish": "She had gone out early."
+            },
+            "on": {
+              "form": "était sorti(s)",
+              "english": "we had gone out",
+              "sentence": "On était sortis ensemble.",
+              "sentenceEnglish": "We had gone out together."
+            },
+            "nous": {
+              "form": "étions sorti(e)s",
+              "english": "we had gone out",
+              "sentence": "Nous étions sortis hier.",
+              "sentenceEnglish": "We had gone out yesterday."
+            },
+            "vous": {
+              "form": "étiez sorti(e)(s)",
+              "english": "you had gone out",
+              "sentence": "Vous étiez sortis quand?",
+              "sentenceEnglish": "When had you gone out?"
+            },
+            "ils/elles": {
+              "form": "étaient sortis/sorties",
+              "english": "they had gone out",
+              "sentence": "Ils étaient sortis avant.",
+              "sentenceEnglish": "They had gone out before."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "sortis",
+              "english": "I went out",
+              "sentence": "Je sortis de la maison.",
+              "sentenceEnglish": "I went out of the house."
+            },
+            "tu": {
+              "form": "sortis",
+              "english": "you went out",
+              "sentence": "Tu sortis seul.",
+              "sentenceEnglish": "You went out alone."
+            },
+            "il/elle": {
+              "form": "sortit",
+              "english": "he/she went out",
+              "sentence": "Il sortit en courant.",
+              "sentenceEnglish": "He went out running."
+            },
+            "on": {
+              "form": "sortit",
+              "english": "we went out",
+              "sentence": "On sortit ensemble.",
+              "sentenceEnglish": "We went out together."
+            },
+            "nous": {
+              "form": "sortîmes",
+              "english": "we went out",
+              "sentence": "Nous sortîmes tard.",
+              "sentenceEnglish": "We went out late."
+            },
+            "vous": {
+              "form": "sortîtes",
+              "english": "you went out",
+              "sentence": "Vous sortîtes vite.",
+              "sentenceEnglish": "You went out quickly."
+            },
+            "ils/elles": {
+              "form": "sortirent",
+              "english": "they went out",
+              "sentence": "Ils sortirent du château.",
+              "sentenceEnglish": "They went out of the castle."
+            }
+          }
+        }
+      },
+      "note": "Irregular past participle 'sorti'. Uses ÊTRE as auxiliary. Imparfait stem 'sort-' (from nous sortons): je sortais, tu sortais, il/elle sortait, nous sortions, vous sortiez, ils/elles sortaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "sortirai",
+              "english": "I will go out",
+              "sentence": "Je sortirai ce soir.",
+              "sentenceEnglish": "I will go out tonight."
+            },
+            "tu": {
+              "form": "sortiras",
+              "english": "you will go out",
+              "sentence": "Tu sortiras avec nous?",
+              "sentenceEnglish": "Will you go out with us?"
+            },
+            "il/elle": {
+              "form": "sortira",
+              "english": "he/she will go out",
+              "sentence": "Il sortira demain.",
+              "sentenceEnglish": "He will go out tomorrow."
+            },
+            "on": {
+              "form": "sortira",
+              "english": "we will go out",
+              "sentence": "On sortira ensemble.",
+              "sentenceEnglish": "We will go out together."
+            },
+            "nous": {
+              "form": "sortirons",
+              "english": "we will go out",
+              "sentence": "Nous sortirons ce weekend.",
+              "sentenceEnglish": "We will go out this weekend."
+            },
+            "vous": {
+              "form": "sortirez",
+              "english": "you will go out",
+              "sentence": "Vous sortirez quand?",
+              "sentenceEnglish": "When will you go out?"
+            },
+            "ils/elles": {
+              "form": "sortiront",
+              "english": "they will go out",
+              "sentence": "Elles sortiront tard.",
+              "sentenceEnglish": "They will go out late."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais sortir",
+              "english": "I am going to go out",
+              "sentence": "Je vais sortir maintenant.",
+              "sentenceEnglish": "I am going to go out now."
+            },
+            "tu": {
+              "form": "vas sortir",
+              "english": "you are going to go out",
+              "sentence": "Tu vas sortir?",
+              "sentenceEnglish": "Are you going to go out?"
+            },
+            "il/elle": {
+              "form": "va sortir",
+              "english": "he/she is going to go out",
+              "sentence": "Elle va sortir ce soir.",
+              "sentenceEnglish": "She is going to go out tonight."
+            },
+            "on": {
+              "form": "va sortir",
+              "english": "we are going to go out",
+              "sentence": "On va sortir ensemble.",
+              "sentenceEnglish": "We are going to go out together."
+            },
+            "nous": {
+              "form": "allons sortir",
+              "english": "we are going to go out",
+              "sentence": "Nous allons sortir bientôt.",
+              "sentenceEnglish": "We are going to go out soon."
+            },
+            "vous": {
+              "form": "allez sortir",
+              "english": "you are going to go out",
+              "sentence": "Vous allez sortir?",
+              "sentenceEnglish": "Are you going to go out?"
+            },
+            "ils/elles": {
+              "form": "vont sortir",
+              "english": "they are going to go out",
+              "sentence": "Ils vont sortir ce weekend.",
+              "sentenceEnglish": "They are going to go out this weekend."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "être",
+          "forms": {
+            "je": {
+              "form": "serai sorti(e)",
+              "english": "I will have gone out",
+              "sentence": "Je serai sorti avant toi.",
+              "sentenceEnglish": "I will have gone out before you."
+            },
+            "tu": {
+              "form": "seras sorti(e)",
+              "english": "you will have gone out",
+              "sentence": "Tu seras sorti?",
+              "sentenceEnglish": "Will you have gone out?"
+            },
+            "il/elle": {
+              "form": "sera sorti/sortie",
+              "english": "he/she will have gone out",
+              "sentence": "Elle sera sortie tôt.",
+              "sentenceEnglish": "She will have gone out early."
+            },
+            "on": {
+              "form": "sera sorti(s)",
+              "english": "we will have gone out",
+              "sentence": "On sera sortis ensemble.",
+              "sentenceEnglish": "We will have gone out together."
+            },
+            "nous": {
+              "form": "serons sorti(e)s",
+              "english": "we will have gone out",
+              "sentence": "Nous serons sortis avant.",
+              "sentenceEnglish": "We will have gone out before."
+            },
+            "vous": {
+              "form": "serez sorti(e)(s)",
+              "english": "you will have gone out",
+              "sentence": "Vous serez sortis quand?",
+              "sentenceEnglish": "When will you have gone out?"
+            },
+            "ils/elles": {
+              "form": "seront sortis/sorties",
+              "english": "they will have gone out",
+              "sentence": "Ils seront sortis déjà.",
+              "sentenceEnglish": "They will have already gone out."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'sortir-': je sortirai, tu sortiras, il/elle sortira, nous sortirons, vous sortirez, ils/elles sortiront"
+    }
+  }
+}

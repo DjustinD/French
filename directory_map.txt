@@ -1,0 +1,50 @@
+/French/
+├── README.md
+├── adjectifs
+│   ├── bags.json
+│   ├── couleurs.json
+│   ├── descriptifs.json
+│   └── taille.json
+├── adjectifs_français.html
+├── adjectifs_français.json
+├── directory_map.txt
+├── images
+│   ├── canard.jpg
+│   ├── chien.jpg
+│   └── renard.jpg
+├── noms
+│   ├── animaux.json
+│   └── plantes.json
+├── noms_français.html
+├── noms_français.json
+├── phrases_et_sentences.html
+├── style.css
+├── verbes
+│   ├── aimer.json
+│   ├── aller.json
+│   ├── attendre.json
+│   ├── avoir.json
+│   ├── connaître.json
+│   ├── croire.json
+│   ├── demander.json
+│   ├── devoir.json
+│   ├── dire.json
+│   ├── donner.json
+│   ├── faire.json
+│   ├── mettre.json
+│   ├── parler.json
+│   ├── partir.json
+│   ├── penser.json
+│   ├── pouvoir.json
+│   ├── prendre.json
+│   ├── regarder.json
+│   ├── savoir.json
+│   ├── travailler.json
+│   ├── trouver.json
+│   ├── venir.json
+│   ├── vivre.json
+│   ├── voir.json
+│   ├── vouloir.json
+│   └── être.json
+├── verbes_français.json
+└── verbes_française.html

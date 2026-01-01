@@ -1,0 +1,264 @@
+[
+    {
+        "masculinSingular": "beau",
+        "femininSingular": "belle",
+        "masculinPlural": "beaux",
+        "femininPlural": "belles",
+        "english": "beautiful, handsome",
+        "position": "avant",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "beau → belle",
+            "mascPlur": "beau → beaux",
+            "femPlur": "belles"
+        },
+        "examples": [
+            {
+                "french": "un beau garçon",
+                "english": "a handsome boy"
+            },
+            {
+                "french": "une belle femme",
+                "english": "a beautiful woman"
+            },
+            {
+                "french": "Note: bel before vowel (un bel homme)",
+                "english": "Note: bel before vowel (a handsome man)"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "joli",
+        "femininSingular": "jolie",
+        "masculinPlural": "jolis",
+        "femininPlural": "jolies",
+        "english": "pretty",
+        "position": "avant",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un joli dessin",
+                "english": "a pretty drawing"
+            },
+            {
+                "french": "une jolie robe",
+                "english": "a pretty dress"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "jeune",
+        "femininSingular": "jeune",
+        "masculinPlural": "jeunes",
+        "femininPlural": "jeunes",
+        "english": "young",
+        "position": "avant",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un jeune homme",
+                "english": "a young man"
+            },
+            {
+                "french": "une jeune fille",
+                "english": "a young girl"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "vieux",
+        "femininSingular": "vieille",
+        "masculinPlural": "vieux",
+        "femininPlural": "vieilles",
+        "english": "old",
+        "position": "avant",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "vieux → vieille",
+            "mascPlur": "no change",
+            "femPlur": "vieilles"
+        },
+        "examples": [
+            {
+                "french": "un vieux livre",
+                "english": "an old book"
+            },
+            {
+                "french": "une vieille maison",
+                "english": "an old house"
+            },
+            {
+                "french": "Note: vieil before vowel (un vieil homme)",
+                "english": "Note: vieil before vowel (an old man)"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "nouveau",
+        "femininSingular": "nouvelle",
+        "masculinPlural": "nouveaux",
+        "femininPlural": "nouvelles",
+        "english": "new",
+        "position": "avant",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "nouveau → nouvelle",
+            "mascPlur": "nouveau → nouveaux",
+            "femPlur": "nouvelles"
+        },
+        "examples": [
+            {
+                "french": "un nouveau film",
+                "english": "a new film"
+            },
+            {
+                "french": "une nouvelle voiture",
+                "english": "a new car"
+            },
+            {
+                "french": "Note: nouvel before vowel (un nouvel appartement)",
+                "english": "Note: nouvel before vowel (a new apartment)"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "ancien",
+        "femininSingular": "ancienne",
+        "masculinPlural": "anciens",
+        "femininPlural": "anciennes",
+        "english": "old, former, ancient",
+        "position": "both",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "ancien → ancienne",
+            "mascPlur": "+ s",
+            "femPlur": "anciennes"
+        },
+        "examples": [
+            {
+                "french": "mon ancien professeur (former)",
+                "english": "my former teacher"
+            },
+            {
+                "french": "un monument ancien (ancient)",
+                "english": "an ancient monument"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "bon",
+        "femininSingular": "bonne",
+        "masculinPlural": "bons",
+        "femininPlural": "bonnes",
+        "english": "good",
+        "position": "avant",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "bon → bonne",
+            "mascPlur": "+ s",
+            "femPlur": "bonnes"
+        },
+        "examples": [
+            {
+                "french": "un bon restaurant",
+                "english": "a good restaurant"
+            },
+            {
+                "french": "une bonne idée",
+                "english": "a good idea"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "mauvais",
+        "femininSingular": "mauvaise",
+        "masculinPlural": "mauvais",
+        "femininPlural": "mauvaises",
+        "english": "bad",
+        "position": "avant",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "no change",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un mauvais résultat",
+                "english": "a bad result"
+            },
+            {
+                "french": "une mauvaise note",
+                "english": "a bad grade"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "gentil",
+        "femininSingular": "gentille",
+        "masculinPlural": "gentils",
+        "femininPlural": "gentilles",
+        "english": "kind, nice",
+        "position": "avant",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "gentil → gentille",
+            "mascPlur": "+ s",
+            "femPlur": "gentilles"
+        },
+        "examples": [
+            {
+                "french": "un gentil garçon",
+                "english": "a nice boy"
+            },
+            {
+                "french": "une gentille personne",
+                "english": "a kind person"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "méchant",
+        "femininSingular": "méchante",
+        "masculinPlural": "méchants",
+        "femininPlural": "méchantes",
+        "english": "mean, nasty",
+        "position": "avant",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un méchant chien",
+                "english": "a mean dog"
+            },
+            {
+                "french": "une méchante sorcière",
+                "english": "a wicked witch"
+            }
+        ],
+        "image": null
+    }
+]

@@ -1,0 +1,460 @@
+{
+  "infinitive": "lire",
+  "english": "to read",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "lis",
+              "english": "I read",
+              "sentence": "Je lis un livre.",
+              "sentenceEnglish": "I read a book."
+            },
+            "tu": {
+              "form": "lis",
+              "english": "you read",
+              "sentence": "Tu lis le journal?",
+              "sentenceEnglish": "Do you read the newspaper?"
+            },
+            "il/elle": {
+              "form": "lit",
+              "english": "he/she reads",
+              "sentence": "Elle lit beaucoup.",
+              "sentenceEnglish": "She reads a lot."
+            },
+            "on": {
+              "form": "lit",
+              "english": "we read",
+              "sentence": "On lit ensemble.",
+              "sentenceEnglish": "We read together."
+            },
+            "nous": {
+              "form": "lisons",
+              "english": "we read",
+              "sentence": "Nous lisons un roman.",
+              "sentenceEnglish": "We read a novel."
+            },
+            "vous": {
+              "form": "lisez",
+              "english": "you read",
+              "sentence": "Vous lisez souvent?",
+              "sentenceEnglish": "Do you read often?"
+            },
+            "ils/elles": {
+              "form": "lisent",
+              "english": "they read",
+              "sentence": "Ils lisent des poèmes.",
+              "sentenceEnglish": "They read poems."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de lire",
+              "english": "I am reading",
+              "sentence": "Je suis en train de lire un livre.",
+              "sentenceEnglish": "I am reading a book."
+            },
+            "tu": {
+              "form": "es en train de lire",
+              "english": "you are reading",
+              "sentence": "Tu es en train de lire quoi?",
+              "sentenceEnglish": "What are you reading?"
+            },
+            "il/elle": {
+              "form": "est en train de lire",
+              "english": "he/she is reading",
+              "sentence": "Elle est en train de lire le journal.",
+              "sentenceEnglish": "She is reading the newspaper."
+            },
+            "on": {
+              "form": "est en train de lire",
+              "english": "we are reading",
+              "sentence": "On est en train de lire ensemble.",
+              "sentenceEnglish": "We are reading together."
+            },
+            "nous": {
+              "form": "sommes en train de lire",
+              "english": "we are reading",
+              "sentence": "Nous sommes en train de lire un roman.",
+              "sentenceEnglish": "We are reading a novel."
+            },
+            "vous": {
+              "form": "êtes en train de lire",
+              "english": "you are reading",
+              "sentence": "Vous êtes en train de lire?",
+              "sentenceEnglish": "Are you reading?"
+            },
+            "ils/elles": {
+              "form": "sont en train de lire",
+              "english": "they are reading",
+              "sentence": "Ils sont en train de lire des poèmes.",
+              "sentenceEnglish": "They are reading poems."
+            }
+          }
+        }
+      },
+      "note": "Irregular verb. Must be memorized: je lis, tu lis, il/elle lit, nous lisons, vous lisez, ils/elles lisent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai lu",
+              "english": "I read / I have read",
+              "sentence": "J'ai lu un livre.",
+              "sentenceEnglish": "I read a book."
+            },
+            "tu": {
+              "form": "as lu",
+              "english": "you read / you have read",
+              "sentence": "Tu as lu le journal?",
+              "sentenceEnglish": "Did you read the newspaper?"
+            },
+            "il/elle": {
+              "form": "a lu",
+              "english": "he/she read / has read",
+              "sentence": "Elle a lu un roman.",
+              "sentenceEnglish": "She read a novel."
+            },
+            "on": {
+              "form": "a lu",
+              "english": "we read / we have read",
+              "sentence": "On a lu ensemble.",
+              "sentenceEnglish": "We read together."
+            },
+            "nous": {
+              "form": "avons lu",
+              "english": "we read / we have read",
+              "sentence": "Nous avons lu le livre.",
+              "sentenceEnglish": "We read the book."
+            },
+            "vous": {
+              "form": "avez lu",
+              "english": "you read / you have read",
+              "sentence": "Vous avez lu quoi?",
+              "sentenceEnglish": "What did you read?"
+            },
+            "ils/elles": {
+              "form": "ont lu",
+              "english": "they read / they have read",
+              "sentence": "Ils ont lu des poèmes.",
+              "sentenceEnglish": "They read poems."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "lisais",
+              "english": "I read / I was reading / I used to read",
+              "sentence": "Je lisais tous les jours.",
+              "sentenceEnglish": "I used to read every day."
+            },
+            "tu": {
+              "form": "lisais",
+              "english": "you read / you were reading / you used to read",
+              "sentence": "Tu lisais le journal?",
+              "sentenceEnglish": "Were you reading the newspaper?"
+            },
+            "il/elle": {
+              "form": "lisait",
+              "english": "he/she read / was reading / used to read",
+              "sentence": "Elle lisait beaucoup.",
+              "sentenceEnglish": "She used to read a lot."
+            },
+            "on": {
+              "form": "lisait",
+              "english": "we read / we were reading / we used to read",
+              "sentence": "On lisait ensemble.",
+              "sentenceEnglish": "We used to read together."
+            },
+            "nous": {
+              "form": "lisions",
+              "english": "we read / we were reading / we used to read",
+              "sentence": "Nous lisions des romans.",
+              "sentenceEnglish": "We used to read novels."
+            },
+            "vous": {
+              "form": "lisiez",
+              "english": "you read / you were reading / you used to read",
+              "sentence": "Vous lisiez souvent?",
+              "sentenceEnglish": "Did you read often?"
+            },
+            "ils/elles": {
+              "form": "lisaient",
+              "english": "they read / they were reading / they used to read",
+              "sentence": "Ils lisaient des poèmes.",
+              "sentenceEnglish": "They used to read poems."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais lu",
+              "english": "I had read",
+              "sentence": "J'avais lu le livre.",
+              "sentenceEnglish": "I had read the book."
+            },
+            "tu": {
+              "form": "avais lu",
+              "english": "you had read",
+              "sentence": "Tu avais lu le journal?",
+              "sentenceEnglish": "Had you read the newspaper?"
+            },
+            "il/elle": {
+              "form": "avait lu",
+              "english": "he/she had read",
+              "sentence": "Elle avait lu le roman.",
+              "sentenceEnglish": "She had read the novel."
+            },
+            "on": {
+              "form": "avait lu",
+              "english": "we had read",
+              "sentence": "On avait lu ensemble.",
+              "sentenceEnglish": "We had read together."
+            },
+            "nous": {
+              "form": "avions lu",
+              "english": "we had read",
+              "sentence": "Nous avions lu tous les livres.",
+              "sentenceEnglish": "We had read all the books."
+            },
+            "vous": {
+              "form": "aviez lu",
+              "english": "you had read",
+              "sentence": "Vous aviez lu quoi?",
+              "sentenceEnglish": "What had you read?"
+            },
+            "ils/elles": {
+              "form": "avaient lu",
+              "english": "they had read",
+              "sentence": "Ils avaient lu des poèmes.",
+              "sentenceEnglish": "They had read poems."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "lus",
+              "english": "I read",
+              "sentence": "Je lus le livre.",
+              "sentenceEnglish": "I read the book."
+            },
+            "tu": {
+              "form": "lus",
+              "english": "you read",
+              "sentence": "Tu lus le journal.",
+              "sentenceEnglish": "You read the newspaper."
+            },
+            "il/elle": {
+              "form": "lut",
+              "english": "he/she read",
+              "sentence": "Il lut le roman.",
+              "sentenceEnglish": "He read the novel."
+            },
+            "on": {
+              "form": "lut",
+              "english": "we read",
+              "sentence": "On lut ensemble.",
+              "sentenceEnglish": "We read together."
+            },
+            "nous": {
+              "form": "lûmes",
+              "english": "we read",
+              "sentence": "Nous lûmes des poèmes.",
+              "sentenceEnglish": "We read poems."
+            },
+            "vous": {
+              "form": "lûtes",
+              "english": "you read",
+              "sentence": "Vous lûtes l'histoire.",
+              "sentenceEnglish": "You read the story."
+            },
+            "ils/elles": {
+              "form": "lurent",
+              "english": "they read",
+              "sentence": "Ils lurent les livres.",
+              "sentenceEnglish": "They read the books."
+            }
+          }
+        }
+      },
+      "note": "Irregular past participle 'lu'. Imparfait stem 'lis-' (from nous lisons): je lisais, tu lisais, il/elle lisait, nous lisions, vous lisiez, ils/elles lisaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "lirai",
+              "english": "I will read",
+              "sentence": "Je lirai le livre.",
+              "sentenceEnglish": "I will read the book."
+            },
+            "tu": {
+              "form": "liras",
+              "english": "you will read",
+              "sentence": "Tu liras le journal?",
+              "sentenceEnglish": "Will you read the newspaper?"
+            },
+            "il/elle": {
+              "form": "lira",
+              "english": "he/she will read",
+              "sentence": "Il lira le roman.",
+              "sentenceEnglish": "He will read the novel."
+            },
+            "on": {
+              "form": "lira",
+              "english": "we will read",
+              "sentence": "On lira ensemble.",
+              "sentenceEnglish": "We will read together."
+            },
+            "nous": {
+              "form": "lirons",
+              "english": "we will read",
+              "sentence": "Nous lirons des poèmes.",
+              "sentenceEnglish": "We will read poems."
+            },
+            "vous": {
+              "form": "lirez",
+              "english": "you will read",
+              "sentence": "Vous lirez souvent?",
+              "sentenceEnglish": "Will you read often?"
+            },
+            "ils/elles": {
+              "form": "liront",
+              "english": "they will read",
+              "sentence": "Elles liront des histoires.",
+              "sentenceEnglish": "They will read stories."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais lire",
+              "english": "I am going to read",
+              "sentence": "Je vais lire un livre.",
+              "sentenceEnglish": "I am going to read a book."
+            },
+            "tu": {
+              "form": "vas lire",
+              "english": "you are going to read",
+              "sentence": "Tu vas lire le journal?",
+              "sentenceEnglish": "Are you going to read the newspaper?"
+            },
+            "il/elle": {
+              "form": "va lire",
+              "english": "he/she is going to read",
+              "sentence": "Elle va lire un roman.",
+              "sentenceEnglish": "She is going to read a novel."
+            },
+            "on": {
+              "form": "va lire",
+              "english": "we are going to read",
+              "sentence": "On va lire ensemble.",
+              "sentenceEnglish": "We are going to read together."
+            },
+            "nous": {
+              "form": "allons lire",
+              "english": "we are going to read",
+              "sentence": "Nous allons lire des poèmes.",
+              "sentenceEnglish": "We are going to read poems."
+            },
+            "vous": {
+              "form": "allez lire",
+              "english": "you are going to read",
+              "sentence": "Vous allez lire?",
+              "sentenceEnglish": "Are you going to read?"
+            },
+            "ils/elles": {
+              "form": "vont lire",
+              "english": "they are going to read",
+              "sentence": "Ils vont lire des histoires.",
+              "sentenceEnglish": "They are going to read stories."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai lu",
+              "english": "I will have read",
+              "sentence": "J'aurai lu le livre.",
+              "sentenceEnglish": "I will have read the book."
+            },
+            "tu": {
+              "form": "auras lu",
+              "english": "you will have read",
+              "sentence": "Tu auras lu le journal?",
+              "sentenceEnglish": "Will you have read the newspaper?"
+            },
+            "il/elle": {
+              "form": "aura lu",
+              "english": "he/she will have read",
+              "sentence": "Elle aura lu le roman.",
+              "sentenceEnglish": "She will have read the novel."
+            },
+            "on": {
+              "form": "aura lu",
+              "english": "we will have read",
+              "sentence": "On aura lu ensemble.",
+              "sentenceEnglish": "We will have read together."
+            },
+            "nous": {
+              "form": "aurons lu",
+              "english": "we will have read",
+              "sentence": "Nous aurons lu tous les livres.",
+              "sentenceEnglish": "We will have read all the books."
+            },
+            "vous": {
+              "form": "aurez lu",
+              "english": "you will have read",
+              "sentence": "Vous aurez lu quoi?",
+              "sentenceEnglish": "What will you have read?"
+            },
+            "ils/elles": {
+              "form": "auront lu",
+              "english": "they will have read",
+              "sentence": "Ils auront lu des poèmes.",
+              "sentenceEnglish": "They will have read poems."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'lir-': je lirai, tu liras, il/elle lira, nous lirons, vous lirez, ils/elles liront"
+    }
+  }
+}

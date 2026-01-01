@@ -1,0 +1,252 @@
+[
+    {
+        "masculinSingular": "grand",
+        "femininSingular": "grande",
+        "masculinPlural": "grands",
+        "femininPlural": "grandes",
+        "english": "big, tall, large",
+        "position": "avant",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un grand homme",
+                "english": "a tall man"
+            },
+            {
+                "french": "une grande maison",
+                "english": "a big house"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "petit",
+        "femininSingular": "petite",
+        "masculinPlural": "petits",
+        "femininPlural": "petites",
+        "english": "small, little",
+        "position": "avant",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un petit chat",
+                "english": "a small cat"
+            },
+            {
+                "french": "une petite fille",
+                "english": "a little girl"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "gros",
+        "femininSingular": "grosse",
+        "masculinPlural": "gros",
+        "femininPlural": "grosses",
+        "english": "fat, big, thick",
+        "position": "avant",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "gros → grosse",
+            "mascPlur": "no change",
+            "femPlur": "grosses"
+        },
+        "examples": [
+            {
+                "french": "un gros livre",
+                "english": "a thick book"
+            },
+            {
+                "french": "une grosse voiture",
+                "english": "a big car"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "long",
+        "femininSingular": "longue",
+        "masculinPlural": "longs",
+        "femininPlural": "longues",
+        "english": "long",
+        "position": "après",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "long → longue",
+            "mascPlur": "+ s",
+            "femPlur": "longues"
+        },
+        "examples": [
+            {
+                "french": "un long voyage",
+                "english": "a long journey"
+            },
+            {
+                "french": "une longue route",
+                "english": "a long road"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "court",
+        "femininSingular": "courte",
+        "masculinPlural": "courts",
+        "femininPlural": "courtes",
+        "english": "short",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un film court",
+                "english": "a short film"
+            },
+            {
+                "french": "une jupe courte",
+                "english": "a short skirt"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "large",
+        "femininSingular": "large",
+        "masculinPlural": "larges",
+        "femininPlural": "larges",
+        "english": "wide, broad",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un couloir large",
+                "english": "a wide corridor"
+            },
+            {
+                "french": "des épaules larges",
+                "english": "broad shoulders"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "étroit",
+        "femininSingular": "étroite",
+        "masculinPlural": "étroits",
+        "femininPlural": "étroites",
+        "english": "narrow, tight",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un passage étroit",
+                "english": "a narrow passage"
+            },
+            {
+                "french": "une rue étroite",
+                "english": "a narrow street"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "haut",
+        "femininSingular": "haute",
+        "masculinPlural": "hauts",
+        "femininPlural": "hautes",
+        "english": "high, tall",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un bâtiment haut",
+                "english": "a tall building"
+            },
+            {
+                "french": "une montagne haute",
+                "english": "a high mountain"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "bas",
+        "femininSingular": "basse",
+        "masculinPlural": "bas",
+        "femininPlural": "basses",
+        "english": "low",
+        "position": "après",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "bas → basse",
+            "mascPlur": "no change",
+            "femPlur": "basses"
+        },
+        "examples": [
+            {
+                "french": "un prix bas",
+                "english": "a low price"
+            },
+            {
+                "french": "une table basse",
+                "english": "a low table"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "énorme",
+        "femininSingular": "énorme",
+        "masculinPlural": "énormes",
+        "femininPlural": "énormes",
+        "english": "enormous, huge",
+        "position": "avant",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un énorme éléphant",
+                "english": "an enormous elephant"
+            },
+            {
+                "french": "une énorme surprise",
+                "english": "a huge surprise"
+            }
+        ],
+        "image": null
+    }
+]

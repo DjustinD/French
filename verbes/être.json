@@ -1,0 +1,145 @@
+{
+  "infinitive": "être",
+  "english": "to be",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": { "form": "suis", "english": "I am", "sentence": "Je suis étudiant.", "sentenceEnglish": "I am a student." },
+            "tu": { "form": "es", "english": "you are", "sentence": "Tu es français?", "sentenceEnglish": "Are you French?" },
+            "il/elle": { "form": "est", "english": "he/she is", "sentence": "Elle est médecin.", "sentenceEnglish": "She is a doctor." },
+            "on": { "form": "est", "english": "we are", "sentence": "On est contents.", "sentenceEnglish": "We are happy." },
+            "nous": { "form": "sommes", "english": "we are", "sentence": "Nous sommes canadiens.", "sentenceEnglish": "We are Canadian." },
+            "vous": { "form": "êtes", "english": "you are", "sentence": "Vous êtes prêt?", "sentenceEnglish": "Are you ready?" },
+            "ils/elles": { "form": "sont", "english": "they are", "sentence": "Ils sont fatigués.", "sentenceEnglish": "They are tired." }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": { "form": "suis en train d'être", "english": "I am being", "sentence": "Je suis en train d'être honnête.", "sentenceEnglish": "I am being honest." },
+            "tu": { "form": "es en train d'être", "english": "you are being", "sentence": "Tu es en train d'être difficile.", "sentenceEnglish": "You are being difficult." },
+            "il/elle": { "form": "est en train d'être", "english": "he/she is being", "sentence": "Elle est en train d'être gentille.", "sentenceEnglish": "She is being nice." },
+            "on": { "form": "est en train d'être", "english": "we are being", "sentence": "On est en train d'être sérieux.", "sentenceEnglish": "We are being serious." },
+            "nous": { "form": "sommes en train d'être", "english": "we are being", "sentence": "Nous sommes en train d'être patients.", "sentenceEnglish": "We are being patient." },
+            "vous": { "form": "êtes en train d'être", "english": "you are being", "sentence": "Vous êtes en train d'être prudent?", "sentenceEnglish": "Are you being careful?" },
+            "ils/elles": { "form": "sont en train d'être", "english": "they are being", "sentence": "Ils sont en train d'être raisonnables.", "sentenceEnglish": "They are being reasonable." }
+          }
+        }
+      },
+      "note": "Highly irregular verb. Must be memorized: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed actions with present relevance",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "ai été", "english": "I was / I have been", "sentence": "J'ai été malade.", "sentenceEnglish": "I was sick." },
+            "tu": { "form": "as été", "english": "you were / you have been", "sentence": "Tu as été gentil.", "sentenceEnglish": "You were kind." },
+            "il/elle": { "form": "a été", "english": "he/she was / has been", "sentence": "Elle a été professeur.", "sentenceEnglish": "She was a teacher." },
+            "on": { "form": "a été", "english": "we were / we have been", "sentence": "On a été surpris.", "sentenceEnglish": "We were surprised." },
+            "nous": { "form": "avons été", "english": "we were / we have been", "sentence": "Nous avons été contents.", "sentenceEnglish": "We were happy." },
+            "vous": { "form": "avez été", "english": "you were / you have been", "sentence": "Vous avez été absent?", "sentenceEnglish": "Were you absent?" },
+            "ils/elles": { "form": "ont été", "english": "they were / they have been", "sentence": "Ils ont été amis.", "sentenceEnglish": "They were friends." }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Ongoing or habitual actions in the past",
+          "forms": {
+            "je": { "form": "étais", "english": "I was / I used to be", "sentence": "J'étais jeune.", "sentenceEnglish": "I was young." },
+            "tu": { "form": "étais", "english": "you were / you used to be", "sentence": "Tu étais où?", "sentenceEnglish": "Where were you?" },
+            "il/elle": { "form": "était", "english": "he/she was / used to be", "sentence": "Elle était heureuse.", "sentenceEnglish": "She was happy." },
+            "on": { "form": "était", "english": "we were / we used to be", "sentence": "On était ensemble.", "sentenceEnglish": "We were together." },
+            "nous": { "form": "étions", "english": "we were / we used to be", "sentence": "Nous étions étudiants.", "sentenceEnglish": "We were students." },
+            "vous": { "form": "étiez", "english": "you were / you used to be", "sentence": "Vous étiez content?", "sentenceEnglish": "Were you happy?" },
+            "ils/elles": { "form": "étaient", "english": "they were / they used to be", "sentence": "Ils étaient fatigués.", "sentenceEnglish": "They were tired." }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Actions completed before another past action",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "avais été", "english": "I had been", "sentence": "J'avais été malade.", "sentenceEnglish": "I had been sick." },
+            "tu": { "form": "avais été", "english": "you had been", "sentence": "Tu avais été absent?", "sentenceEnglish": "Had you been absent?" },
+            "il/elle": { "form": "avait été", "english": "he/she had been", "sentence": "Elle avait été professeur.", "sentenceEnglish": "She had been a teacher." },
+            "on": { "form": "avait été", "english": "we had been", "sentence": "On avait été amis.", "sentenceEnglish": "We had been friends." },
+            "nous": { "form": "avions été", "english": "we had been", "sentence": "Nous avions été contents.", "sentenceEnglish": "We had been happy." },
+            "vous": { "form": "aviez été", "english": "you had been", "sentence": "Vous aviez été surpris?", "sentenceEnglish": "Had you been surprised?" },
+            "ils/elles": { "form": "avaient été", "english": "they had been", "sentence": "Ils avaient été étudiants.", "sentenceEnglish": "They had been students." }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": { "form": "fus", "english": "I was", "sentence": "Je fus surpris.", "sentenceEnglish": "I was surprised." },
+            "tu": { "form": "fus", "english": "you were", "sentence": "Tu fus content?", "sentenceEnglish": "Were you happy?" },
+            "il/elle": { "form": "fut", "english": "he/she was", "sentence": "Elle fut heureuse.", "sentenceEnglish": "She was happy." },
+            "on": { "form": "fut", "english": "we were", "sentence": "On fut ensemble.", "sentenceEnglish": "We were together." },
+            "nous": { "form": "fûmes", "english": "we were", "sentence": "Nous fûmes étudiants.", "sentenceEnglish": "We were students." },
+            "vous": { "form": "fûtes", "english": "you were", "sentence": "Vous fûtes surpris?", "sentenceEnglish": "Were you surprised?" },
+            "ils/elles": { "form": "furent", "english": "they were", "sentence": "Ils furent amis.", "sentenceEnglish": "They were friends." }
+          }
+        }
+      },
+      "note": "Irregular imparfait stem 'ét-'"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Actions that will happen",
+          "forms": {
+            "je": { "form": "serai", "english": "I will be", "sentence": "Je serai là.", "sentenceEnglish": "I will be there." },
+            "tu": { "form": "seras", "english": "you will be", "sentence": "Tu seras content.", "sentenceEnglish": "You will be happy." },
+            "il/elle": { "form": "sera", "english": "he/she will be", "sentence": "Il sera médecin.", "sentenceEnglish": "He will be a doctor." },
+            "on": { "form": "sera", "english": "we will be", "sentence": "On sera en retard.", "sentenceEnglish": "We will be late." },
+            "nous": { "form": "serons", "english": "we will be", "sentence": "Nous serons prêts.", "sentenceEnglish": "We will be ready." },
+            "vous": { "form": "serez", "english": "you will be", "sentence": "Vous serez là?", "sentenceEnglish": "Will you be there?" },
+            "ils/elles": { "form": "seront", "english": "they will be", "sentence": "Elles seront contentes.", "sentenceEnglish": "They will be happy." }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future actions",
+          "forms": {
+            "je": { "form": "vais être", "english": "I am going to be", "sentence": "Je vais être en retard.", "sentenceEnglish": "I am going to be late." },
+            "tu": { "form": "vas être", "english": "you are going to be", "sentence": "Tu vas être content.", "sentenceEnglish": "You are going to be happy." },
+            "il/elle": { "form": "va être", "english": "he/she is going to be", "sentence": "Elle va être là.", "sentenceEnglish": "She is going to be there." },
+            "on": { "form": "va être", "english": "we are going to be", "sentence": "On va être ensemble.", "sentenceEnglish": "We are going to be together." },
+            "nous": { "form": "allons être", "english": "we are going to be", "sentence": "Nous allons être prêts.", "sentenceEnglish": "We are going to be ready." },
+            "vous": { "form": "allez être", "english": "you are going to be", "sentence": "Vous allez être là?", "sentenceEnglish": "Are you going to be there?" },
+            "ils/elles": { "form": "vont être", "english": "they are going to be", "sentence": "Ils vont être contents.", "sentenceEnglish": "They are going to be happy." }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Actions that will be completed by a future time",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "aurai été", "english": "I will have been", "sentence": "J'aurai été absent.", "sentenceEnglish": "I will have been absent." },
+            "tu": { "form": "auras été", "english": "you will have been", "sentence": "Tu auras été gentil.", "sentenceEnglish": "You will have been kind." },
+            "il/elle": { "form": "aura été", "english": "he/she will have been", "sentence": "Elle aura été patiente.", "sentenceEnglish": "She will have been patient." },
+            "on": { "form": "aura été", "english": "we will have been", "sentence": "On aura été prudents.", "sentenceEnglish": "We will have been careful." },
+            "nous": { "form": "aurons été", "english": "we will have been", "sentence": "Nous aurons été contents.", "sentenceEnglish": "We will have been happy." },
+            "vous": { "form": "aurez été", "english": "you will have been", "sentence": "Vous aurez été surpris?", "sentenceEnglish": "Will you have been surprised?" },
+            "ils/elles": { "form": "auront été", "english": "they will have been", "sentence": "Ils auront été amis.", "sentenceEnglish": "They will have been friends." }
+          }
+        }
+      },
+      "note": "Irregular future stem 'ser-'"
+    }
+  }
+}

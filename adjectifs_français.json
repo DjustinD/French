@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Couleurs",
+        "file": "couleurs.json",
+        "description": "Color adjectives - most come after the noun"
+    },
+    {
+        "name": "Taille (BAGS)",
+        "file": "taille.json",
+        "description": "Size adjectives - typically come before the noun (BAGS rule)"
+    },
+    {
+        "name": "BAGS - Beauté, Âge, Bonté",
+        "file": "bags.json",
+        "description": "Beauty, Age, Goodness adjectives that come before the noun"
+    },
+    {
+        "name": "Descriptifs Communs",
+        "file": "descriptifs.json",
+        "description": "Common descriptive adjectives"
+    }
+]

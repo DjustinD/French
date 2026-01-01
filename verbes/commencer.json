@@ -1,0 +1,460 @@
+{
+  "infinitive": "commencer",
+  "english": "to begin / to start",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "commence",
+              "english": "I begin / I start",
+              "sentence": "Je commence le travail.",
+              "sentenceEnglish": "I start work."
+            },
+            "tu": {
+              "form": "commences",
+              "english": "you begin / you start",
+              "sentence": "Tu commences quand?",
+              "sentenceEnglish": "When do you start?"
+            },
+            "il/elle": {
+              "form": "commence",
+              "english": "he/she begins / starts",
+              "sentence": "Elle commence demain.",
+              "sentenceEnglish": "She starts tomorrow."
+            },
+            "on": {
+              "form": "commence",
+              "english": "we begin / we start",
+              "sentence": "On commence maintenant.",
+              "sentenceEnglish": "We start now."
+            },
+            "nous": {
+              "form": "commençons",
+              "english": "we begin / we start",
+              "sentence": "Nous commençons tôt.",
+              "sentenceEnglish": "We start early."
+            },
+            "vous": {
+              "form": "commencez",
+              "english": "you begin / you start",
+              "sentence": "Vous commencez à quelle heure?",
+              "sentenceEnglish": "What time do you start?"
+            },
+            "ils/elles": {
+              "form": "commencent",
+              "english": "they begin / they start",
+              "sentence": "Ils commencent le projet.",
+              "sentenceEnglish": "They start the project."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de commencer",
+              "english": "I am beginning",
+              "sentence": "Je suis en train de commencer.",
+              "sentenceEnglish": "I am beginning."
+            },
+            "tu": {
+              "form": "es en train de commencer",
+              "english": "you are beginning",
+              "sentence": "Tu es en train de commencer?",
+              "sentenceEnglish": "Are you beginning?"
+            },
+            "il/elle": {
+              "form": "est en train de commencer",
+              "english": "he/she is beginning",
+              "sentence": "Elle est en train de commencer.",
+              "sentenceEnglish": "She is beginning."
+            },
+            "on": {
+              "form": "est en train de commencer",
+              "english": "we are beginning",
+              "sentence": "On est en train de commencer.",
+              "sentenceEnglish": "We are beginning."
+            },
+            "nous": {
+              "form": "sommes en train de commencer",
+              "english": "we are beginning",
+              "sentence": "Nous sommes en train de commencer.",
+              "sentenceEnglish": "We are beginning."
+            },
+            "vous": {
+              "form": "êtes en train de commencer",
+              "english": "you are beginning",
+              "sentence": "Vous êtes en train de commencer?",
+              "sentenceEnglish": "Are you beginning?"
+            },
+            "ils/elles": {
+              "form": "sont en train de commencer",
+              "english": "they are beginning",
+              "sentence": "Ils sont en train de commencer.",
+              "sentenceEnglish": "They are beginning."
+            }
+          }
+        }
+      },
+      "note": "Spelling change: c → ç before o. Pattern: je commence, tu commences, il/elle commence, nous commençons, vous commencez, ils/elles commencent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai commencé",
+              "english": "I began / I have begun",
+              "sentence": "J'ai commencé hier.",
+              "sentenceEnglish": "I started yesterday."
+            },
+            "tu": {
+              "form": "as commencé",
+              "english": "you began / you have begun",
+              "sentence": "Tu as commencé le travail?",
+              "sentenceEnglish": "Did you start the work?"
+            },
+            "il/elle": {
+              "form": "a commencé",
+              "english": "he/she began / has begun",
+              "sentence": "Elle a commencé tôt.",
+              "sentenceEnglish": "She started early."
+            },
+            "on": {
+              "form": "a commencé",
+              "english": "we began / we have begun",
+              "sentence": "On a commencé le projet.",
+              "sentenceEnglish": "We started the project."
+            },
+            "nous": {
+              "form": "avons commencé",
+              "english": "we began / we have begun",
+              "sentence": "Nous avons commencé.",
+              "sentenceEnglish": "We started."
+            },
+            "vous": {
+              "form": "avez commencé",
+              "english": "you began / you have begun",
+              "sentence": "Vous avez commencé?",
+              "sentenceEnglish": "Did you start?"
+            },
+            "ils/elles": {
+              "form": "ont commencé",
+              "english": "they began / they have begun",
+              "sentence": "Ils ont commencé tard.",
+              "sentenceEnglish": "They started late."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "commençais",
+              "english": "I began / I was beginning / I used to begin",
+              "sentence": "Je commençais toujours tôt.",
+              "sentenceEnglish": "I always used to start early."
+            },
+            "tu": {
+              "form": "commençais",
+              "english": "you began / you were beginning / you used to begin",
+              "sentence": "Tu commençais quand?",
+              "sentenceEnglish": "When did you used to start?"
+            },
+            "il/elle": {
+              "form": "commençait",
+              "english": "he/she began / was beginning / used to begin",
+              "sentence": "Elle commençait à midi.",
+              "sentenceEnglish": "She used to start at noon."
+            },
+            "on": {
+              "form": "commençait",
+              "english": "we began / we were beginning / we used to begin",
+              "sentence": "On commençait ensemble.",
+              "sentenceEnglish": "We used to start together."
+            },
+            "nous": {
+              "form": "commencions",
+              "english": "we began / we were beginning / we used to begin",
+              "sentence": "Nous commencions tôt.",
+              "sentenceEnglish": "We used to start early."
+            },
+            "vous": {
+              "form": "commenciez",
+              "english": "you began / you were beginning / you used to begin",
+              "sentence": "Vous commenciez tard?",
+              "sentenceEnglish": "Did you used to start late?"
+            },
+            "ils/elles": {
+              "form": "commençaient",
+              "english": "they began / they were beginning / they used to begin",
+              "sentence": "Ils commençaient le matin.",
+              "sentenceEnglish": "They used to start in the morning."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais commencé",
+              "english": "I had begun",
+              "sentence": "J'avais commencé tôt.",
+              "sentenceEnglish": "I had started early."
+            },
+            "tu": {
+              "form": "avais commencé",
+              "english": "you had begun",
+              "sentence": "Tu avais commencé?",
+              "sentenceEnglish": "Had you started?"
+            },
+            "il/elle": {
+              "form": "avait commencé",
+              "english": "he/she had begun",
+              "sentence": "Elle avait commencé hier.",
+              "sentenceEnglish": "She had started yesterday."
+            },
+            "on": {
+              "form": "avait commencé",
+              "english": "we had begun",
+              "sentence": "On avait commencé.",
+              "sentenceEnglish": "We had started."
+            },
+            "nous": {
+              "form": "avions commencé",
+              "english": "we had begun",
+              "sentence": "Nous avions commencé le projet.",
+              "sentenceEnglish": "We had started the project."
+            },
+            "vous": {
+              "form": "aviez commencé",
+              "english": "you had begun",
+              "sentence": "Vous aviez commencé?",
+              "sentenceEnglish": "Had you started?"
+            },
+            "ils/elles": {
+              "form": "avaient commencé",
+              "english": "they had begun",
+              "sentence": "Ils avaient commencé tard.",
+              "sentenceEnglish": "They had started late."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "commençai",
+              "english": "I began",
+              "sentence": "Je commençai le voyage.",
+              "sentenceEnglish": "I began the journey."
+            },
+            "tu": {
+              "form": "commenças",
+              "english": "you began",
+              "sentence": "Tu commenças le travail.",
+              "sentenceEnglish": "You began the work."
+            },
+            "il/elle": {
+              "form": "commença",
+              "english": "he/she began",
+              "sentence": "Il commença à parler.",
+              "sentenceEnglish": "He began to speak."
+            },
+            "on": {
+              "form": "commença",
+              "english": "we began",
+              "sentence": "On commença ensemble.",
+              "sentenceEnglish": "We began together."
+            },
+            "nous": {
+              "form": "commençâmes",
+              "english": "we began",
+              "sentence": "Nous commençâmes le projet.",
+              "sentenceEnglish": "We began the project."
+            },
+            "vous": {
+              "form": "commençâtes",
+              "english": "you began",
+              "sentence": "Vous commençâtes tard.",
+              "sentenceEnglish": "You began late."
+            },
+            "ils/elles": {
+              "form": "commencèrent",
+              "english": "they began",
+              "sentence": "Ils commencèrent tôt.",
+              "sentenceEnglish": "They began early."
+            }
+          }
+        }
+      },
+      "note": "Regular past participle 'commencé'. Spelling change in imparfait: c → ç before a. Imparfait: je commençais, tu commençais, il/elle commençait, nous commencions, vous commenciez, ils/elles commençaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "commencerai",
+              "english": "I will begin",
+              "sentence": "Je commencerai demain.",
+              "sentenceEnglish": "I will start tomorrow."
+            },
+            "tu": {
+              "form": "commenceras",
+              "english": "you will begin",
+              "sentence": "Tu commenceras quand?",
+              "sentenceEnglish": "When will you start?"
+            },
+            "il/elle": {
+              "form": "commencera",
+              "english": "he/she will begin",
+              "sentence": "Il commencera bientôt.",
+              "sentenceEnglish": "He will start soon."
+            },
+            "on": {
+              "form": "commencera",
+              "english": "we will begin",
+              "sentence": "On commencera ensemble.",
+              "sentenceEnglish": "We will start together."
+            },
+            "nous": {
+              "form": "commencerons",
+              "english": "we will begin",
+              "sentence": "Nous commencerons tôt.",
+              "sentenceEnglish": "We will start early."
+            },
+            "vous": {
+              "form": "commencerez",
+              "english": "you will begin",
+              "sentence": "Vous commencerez bientôt?",
+              "sentenceEnglish": "Will you start soon?"
+            },
+            "ils/elles": {
+              "form": "commenceront",
+              "english": "they will begin",
+              "sentence": "Elles commenceront tard.",
+              "sentenceEnglish": "They will start late."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais commencer",
+              "english": "I am going to begin",
+              "sentence": "Je vais commencer maintenant.",
+              "sentenceEnglish": "I am going to start now."
+            },
+            "tu": {
+              "form": "vas commencer",
+              "english": "you are going to begin",
+              "sentence": "Tu vas commencer?",
+              "sentenceEnglish": "Are you going to start?"
+            },
+            "il/elle": {
+              "form": "va commencer",
+              "english": "he/she is going to begin",
+              "sentence": "Elle va commencer bientôt.",
+              "sentenceEnglish": "She is going to start soon."
+            },
+            "on": {
+              "form": "va commencer",
+              "english": "we are going to begin",
+              "sentence": "On va commencer.",
+              "sentenceEnglish": "We are going to start."
+            },
+            "nous": {
+              "form": "allons commencer",
+              "english": "we are going to begin",
+              "sentence": "Nous allons commencer.",
+              "sentenceEnglish": "We are going to start."
+            },
+            "vous": {
+              "form": "allez commencer",
+              "english": "you are going to begin",
+              "sentence": "Vous allez commencer?",
+              "sentenceEnglish": "Are you going to start?"
+            },
+            "ils/elles": {
+              "form": "vont commencer",
+              "english": "they are going to begin",
+              "sentence": "Ils vont commencer le projet.",
+              "sentenceEnglish": "They are going to start the project."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai commencé",
+              "english": "I will have begun",
+              "sentence": "J'aurai commencé avant toi.",
+              "sentenceEnglish": "I will have started before you."
+            },
+            "tu": {
+              "form": "auras commencé",
+              "english": "you will have begun",
+              "sentence": "Tu auras commencé?",
+              "sentenceEnglish": "Will you have started?"
+            },
+            "il/elle": {
+              "form": "aura commencé",
+              "english": "he/she will have begun",
+              "sentence": "Elle aura commencé tôt.",
+              "sentenceEnglish": "She will have started early."
+            },
+            "on": {
+              "form": "aura commencé",
+              "english": "we will have begun",
+              "sentence": "On aura commencé.",
+              "sentenceEnglish": "We will have started."
+            },
+            "nous": {
+              "form": "aurons commencé",
+              "english": "we will have begun",
+              "sentence": "Nous aurons commencé le projet.",
+              "sentenceEnglish": "We will have started the project."
+            },
+            "vous": {
+              "form": "aurez commencé",
+              "english": "you will have begun",
+              "sentence": "Vous aurez commencé?",
+              "sentenceEnglish": "Will you have started?"
+            },
+            "ils/elles": {
+              "form": "auront commencé",
+              "english": "they will have begun",
+              "sentence": "Ils auront commencé tard.",
+              "sentenceEnglish": "They will have started late."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'commencer-': je commencerai, tu commenceras, il/elle commencera, nous commencerons, vous commencerez, ils/elles commenceront"
+    }
+  }
+}

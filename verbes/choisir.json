@@ -1,0 +1,460 @@
+{
+  "infinitive": "choisir",
+  "english": "to choose",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "choisis",
+              "english": "I choose",
+              "sentence": "Je choisis un livre.",
+              "sentenceEnglish": "I choose a book."
+            },
+            "tu": {
+              "form": "choisis",
+              "english": "you choose",
+              "sentence": "Tu choisis quoi?",
+              "sentenceEnglish": "What do you choose?"
+            },
+            "il/elle": {
+              "form": "choisit",
+              "english": "he/she chooses",
+              "sentence": "Elle choisit bien.",
+              "sentenceEnglish": "She chooses well."
+            },
+            "on": {
+              "form": "choisit",
+              "english": "we choose",
+              "sentence": "On choisit ensemble.",
+              "sentenceEnglish": "We choose together."
+            },
+            "nous": {
+              "form": "choisissons",
+              "english": "we choose",
+              "sentence": "Nous choisissons un restaurant.",
+              "sentenceEnglish": "We choose a restaurant."
+            },
+            "vous": {
+              "form": "choisissez",
+              "english": "you choose",
+              "sentence": "Vous choisissez?",
+              "sentenceEnglish": "Do you choose?"
+            },
+            "ils/elles": {
+              "form": "choisissent",
+              "english": "they choose",
+              "sentence": "Ils choisissent un film.",
+              "sentenceEnglish": "They choose a movie."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de choisir",
+              "english": "I am choosing",
+              "sentence": "Je suis en train de choisir.",
+              "sentenceEnglish": "I am choosing."
+            },
+            "tu": {
+              "form": "es en train de choisir",
+              "english": "you are choosing",
+              "sentence": "Tu es en train de choisir?",
+              "sentenceEnglish": "Are you choosing?"
+            },
+            "il/elle": {
+              "form": "est en train de choisir",
+              "english": "he/she is choosing",
+              "sentence": "Elle est en train de choisir.",
+              "sentenceEnglish": "She is choosing."
+            },
+            "on": {
+              "form": "est en train de choisir",
+              "english": "we are choosing",
+              "sentence": "On est en train de choisir.",
+              "sentenceEnglish": "We are choosing."
+            },
+            "nous": {
+              "form": "sommes en train de choisir",
+              "english": "we are choosing",
+              "sentence": "Nous sommes en train de choisir.",
+              "sentenceEnglish": "We are choosing."
+            },
+            "vous": {
+              "form": "êtes en train de choisir",
+              "english": "you are choosing",
+              "sentence": "Vous êtes en train de choisir?",
+              "sentenceEnglish": "Are you choosing?"
+            },
+            "ils/elles": {
+              "form": "sont en train de choisir",
+              "english": "they are choosing",
+              "sentence": "Ils sont en train de choisir.",
+              "sentenceEnglish": "They are choosing."
+            }
+          }
+        }
+      },
+      "note": "Regular -ir verb. Pattern: je choisis, tu choisis, il/elle choisit, nous choisissons, vous choisissez, ils/elles choisissent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai choisi",
+              "english": "I chose / I have chosen",
+              "sentence": "J'ai choisi un livre.",
+              "sentenceEnglish": "I chose a book."
+            },
+            "tu": {
+              "form": "as choisi",
+              "english": "you chose / you have chosen",
+              "sentence": "Tu as choisi?",
+              "sentenceEnglish": "Did you choose?"
+            },
+            "il/elle": {
+              "form": "a choisi",
+              "english": "he/she chose / has chosen",
+              "sentence": "Elle a choisi bien.",
+              "sentenceEnglish": "She chose well."
+            },
+            "on": {
+              "form": "a choisi",
+              "english": "we chose / we have chosen",
+              "sentence": "On a choisi ensemble.",
+              "sentenceEnglish": "We chose together."
+            },
+            "nous": {
+              "form": "avons choisi",
+              "english": "we chose / we have chosen",
+              "sentence": "Nous avons choisi.",
+              "sentenceEnglish": "We chose."
+            },
+            "vous": {
+              "form": "avez choisi",
+              "english": "you chose / you have chosen",
+              "sentence": "Vous avez choisi?",
+              "sentenceEnglish": "Did you choose?"
+            },
+            "ils/elles": {
+              "form": "ont choisi",
+              "english": "they chose / they have chosen",
+              "sentence": "Ils ont choisi.",
+              "sentenceEnglish": "They chose."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "choisissais",
+              "english": "I chose / I was choosing / I used to choose",
+              "sentence": "Je choisissais toujours bien.",
+              "sentenceEnglish": "I always used to choose well."
+            },
+            "tu": {
+              "form": "choisissais",
+              "english": "you chose / you were choosing / you used to choose",
+              "sentence": "Tu choisissais quoi?",
+              "sentenceEnglish": "What did you choose?"
+            },
+            "il/elle": {
+              "form": "choisissait",
+              "english": "he/she chose / was choosing / used to choose",
+              "sentence": "Elle choisissait toujours.",
+              "sentenceEnglish": "She always used to choose."
+            },
+            "on": {
+              "form": "choisissait",
+              "english": "we chose / we were choosing / we used to choose",
+              "sentence": "On choisissait ensemble.",
+              "sentenceEnglish": "We used to choose together."
+            },
+            "nous": {
+              "form": "choisissions",
+              "english": "we chose / we were choosing / we used to choose",
+              "sentence": "Nous choisissions bien.",
+              "sentenceEnglish": "We used to choose well."
+            },
+            "vous": {
+              "form": "choisissiez",
+              "english": "you chose / you were choosing / you used to choose",
+              "sentence": "Vous choisissiez?",
+              "sentenceEnglish": "Did you choose?"
+            },
+            "ils/elles": {
+              "form": "choisissaient",
+              "english": "they chose / they were choosing / they used to choose",
+              "sentence": "Ils choisissaient.",
+              "sentenceEnglish": "They used to choose."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais choisi",
+              "english": "I had chosen",
+              "sentence": "J'avais choisi.",
+              "sentenceEnglish": "I had chosen."
+            },
+            "tu": {
+              "form": "avais choisi",
+              "english": "you had chosen",
+              "sentence": "Tu avais choisi?",
+              "sentenceEnglish": "Had you chosen?"
+            },
+            "il/elle": {
+              "form": "avait choisi",
+              "english": "he/she had chosen",
+              "sentence": "Elle avait choisi.",
+              "sentenceEnglish": "She had chosen."
+            },
+            "on": {
+              "form": "avait choisi",
+              "english": "we had chosen",
+              "sentence": "On avait choisi.",
+              "sentenceEnglish": "We had chosen."
+            },
+            "nous": {
+              "form": "avions choisi",
+              "english": "we had chosen",
+              "sentence": "Nous avions choisi.",
+              "sentenceEnglish": "We had chosen."
+            },
+            "vous": {
+              "form": "aviez choisi",
+              "english": "you had chosen",
+              "sentence": "Vous aviez choisi?",
+              "sentenceEnglish": "Had you chosen?"
+            },
+            "ils/elles": {
+              "form": "avaient choisi",
+              "english": "they had chosen",
+              "sentence": "Ils avaient choisi.",
+              "sentenceEnglish": "They had chosen."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "choisis",
+              "english": "I chose",
+              "sentence": "Je choisis.",
+              "sentenceEnglish": "I chose."
+            },
+            "tu": {
+              "form": "choisis",
+              "english": "you chose",
+              "sentence": "Tu choisis.",
+              "sentenceEnglish": "You chose."
+            },
+            "il/elle": {
+              "form": "choisit",
+              "english": "he/she chose",
+              "sentence": "Il choisit.",
+              "sentenceEnglish": "He chose."
+            },
+            "on": {
+              "form": "choisit",
+              "english": "we chose",
+              "sentence": "On choisit.",
+              "sentenceEnglish": "We chose."
+            },
+            "nous": {
+              "form": "choisîmes",
+              "english": "we chose",
+              "sentence": "Nous choisîmes.",
+              "sentenceEnglish": "We chose."
+            },
+            "vous": {
+              "form": "choisîtes",
+              "english": "you chose",
+              "sentence": "Vous choisîtes.",
+              "sentenceEnglish": "You chose."
+            },
+            "ils/elles": {
+              "form": "choisirent",
+              "english": "they chose",
+              "sentence": "Ils choisirent.",
+              "sentenceEnglish": "They chose."
+            }
+          }
+        }
+      },
+      "note": "Regular past participle 'choisi'. Imparfait stem 'choisiss-': je choisissais, tu choisissais, il/elle choisissait, nous choisissions, vous choisissiez, ils/elles choisissaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "choisirai",
+              "english": "I will choose",
+              "sentence": "Je choisirai.",
+              "sentenceEnglish": "I will choose."
+            },
+            "tu": {
+              "form": "choisiras",
+              "english": "you will choose",
+              "sentence": "Tu choisiras?",
+              "sentenceEnglish": "Will you choose?"
+            },
+            "il/elle": {
+              "form": "choisira",
+              "english": "he/she will choose",
+              "sentence": "Il choisira.",
+              "sentenceEnglish": "He will choose."
+            },
+            "on": {
+              "form": "choisira",
+              "english": "we will choose",
+              "sentence": "On choisira.",
+              "sentenceEnglish": "We will choose."
+            },
+            "nous": {
+              "form": "choisirons",
+              "english": "we will choose",
+              "sentence": "Nous choisirons.",
+              "sentenceEnglish": "We will choose."
+            },
+            "vous": {
+              "form": "choisirez",
+              "english": "you will choose",
+              "sentence": "Vous choisirez?",
+              "sentenceEnglish": "Will you choose?"
+            },
+            "ils/elles": {
+              "form": "choisiront",
+              "english": "they will choose",
+              "sentence": "Elles choisiront.",
+              "sentenceEnglish": "They will choose."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais choisir",
+              "english": "I am going to choose",
+              "sentence": "Je vais choisir.",
+              "sentenceEnglish": "I am going to choose."
+            },
+            "tu": {
+              "form": "vas choisir",
+              "english": "you are going to choose",
+              "sentence": "Tu vas choisir?",
+              "sentenceEnglish": "Are you going to choose?"
+            },
+            "il/elle": {
+              "form": "va choisir",
+              "english": "he/she is going to choose",
+              "sentence": "Elle va choisir.",
+              "sentenceEnglish": "She is going to choose."
+            },
+            "on": {
+              "form": "va choisir",
+              "english": "we are going to choose",
+              "sentence": "On va choisir.",
+              "sentenceEnglish": "We are going to choose."
+            },
+            "nous": {
+              "form": "allons choisir",
+              "english": "we are going to choose",
+              "sentence": "Nous allons choisir.",
+              "sentenceEnglish": "We are going to choose."
+            },
+            "vous": {
+              "form": "allez choisir",
+              "english": "you are going to choose",
+              "sentence": "Vous allez choisir?",
+              "sentenceEnglish": "Are you going to choose?"
+            },
+            "ils/elles": {
+              "form": "vont choisir",
+              "english": "they are going to choose",
+              "sentence": "Ils vont choisir.",
+              "sentenceEnglish": "They are going to choose."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai choisi",
+              "english": "I will have chosen",
+              "sentence": "J'aurai choisi.",
+              "sentenceEnglish": "I will have chosen."
+            },
+            "tu": {
+              "form": "auras choisi",
+              "english": "you will have chosen",
+              "sentence": "Tu auras choisi?",
+              "sentenceEnglish": "Will you have chosen?"
+            },
+            "il/elle": {
+              "form": "aura choisi",
+              "english": "he/she will have chosen",
+              "sentence": "Elle aura choisi.",
+              "sentenceEnglish": "She will have chosen."
+            },
+            "on": {
+              "form": "aura choisi",
+              "english": "we will have chosen",
+              "sentence": "On aura choisi.",
+              "sentenceEnglish": "We will have chosen."
+            },
+            "nous": {
+              "form": "aurons choisi",
+              "english": "we will have chosen",
+              "sentence": "Nous aurons choisi.",
+              "sentenceEnglish": "We will have chosen."
+            },
+            "vous": {
+              "form": "aurez choisi",
+              "english": "you will have chosen",
+              "sentence": "Vous aurez choisi?",
+              "sentenceEnglish": "Will you have chosen?"
+            },
+            "ils/elles": {
+              "form": "auront choisi",
+              "english": "they will have chosen",
+              "sentence": "Ils auront choisi.",
+              "sentenceEnglish": "They will have chosen."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'choisir-': je choisirai, tu choisiras, il/elle choisira, nous choisirons, vous choisirez, ils/elles choisiront"
+    }
+  }
+}

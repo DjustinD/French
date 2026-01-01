@@ -1,0 +1,460 @@
+{
+  "infinitive": "sembler",
+  "english": "to seem / to appear",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "semble",
+              "english": "I seem",
+              "sentence": "Je semble fatigué.",
+              "sentenceEnglish": "I seem tired."
+            },
+            "tu": {
+              "form": "sembles",
+              "english": "you seem",
+              "sentence": "Tu sembles heureux.",
+              "sentenceEnglish": "You seem happy."
+            },
+            "il/elle": {
+              "form": "semble",
+              "english": "he/she seems",
+              "sentence": "Elle semble triste.",
+              "sentenceEnglish": "She seems sad."
+            },
+            "on": {
+              "form": "semble",
+              "english": "we seem",
+              "sentence": "On semble perdus.",
+              "sentenceEnglish": "We seem lost."
+            },
+            "nous": {
+              "form": "semblons",
+              "english": "we seem",
+              "sentence": "Nous semblons prêts.",
+              "sentenceEnglish": "We seem ready."
+            },
+            "vous": {
+              "form": "semblez",
+              "english": "you seem",
+              "sentence": "Vous semblez occupés.",
+              "sentenceEnglish": "You seem busy."
+            },
+            "ils/elles": {
+              "form": "semblent",
+              "english": "they seem",
+              "sentence": "Ils semblent contents.",
+              "sentenceEnglish": "They seem happy."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de sembler",
+              "english": "I am seeming",
+              "sentence": "Je suis en train de sembler.",
+              "sentenceEnglish": "I am seeming."
+            },
+            "tu": {
+              "form": "es en train de sembler",
+              "english": "you are seeming",
+              "sentence": "Tu es en train de sembler.",
+              "sentenceEnglish": "You are seeming."
+            },
+            "il/elle": {
+              "form": "est en train de sembler",
+              "english": "he/she is seemsing",
+              "sentence": "Elle est en train de sembler.",
+              "sentenceEnglish": "She is seemsing."
+            },
+            "on": {
+              "form": "est en train de sembler",
+              "english": "we are seeming",
+              "sentence": "On est en train de sembler.",
+              "sentenceEnglish": "We are seeming."
+            },
+            "nous": {
+              "form": "sommes en train de sembler",
+              "english": "we are seeming",
+              "sentence": "Nous sommes en train de sembler.",
+              "sentenceEnglish": "We are seeming."
+            },
+            "vous": {
+              "form": "êtes en train de sembler",
+              "english": "you are seeming",
+              "sentence": "Vous êtes en train de sembler.",
+              "sentenceEnglish": "You are seeming."
+            },
+            "ils/elles": {
+              "form": "sont en train de sembler",
+              "english": "they are seeming",
+              "sentence": "Ils sont en train de sembler.",
+              "sentenceEnglish": "They are seeming."
+            }
+          }
+        }
+      },
+      "note": "Regular -er verb. Pattern: je semble, tu sembles, il/elle semble, nous semblons, vous semblez, ils/elles semblent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai semblé",
+              "english": "I seemed / I have seemed",
+              "sentence": "J'ai semblé.",
+              "sentenceEnglish": "I seemed."
+            },
+            "tu": {
+              "form": "as semblé",
+              "english": "you seemed / you have seemed",
+              "sentence": "Tu as semblé.",
+              "sentenceEnglish": "You seemed."
+            },
+            "il/elle": {
+              "form": "a semblé",
+              "english": "he/she seemsed / has seemsed",
+              "sentence": "Elle a semblé.",
+              "sentenceEnglish": "She seemsed."
+            },
+            "on": {
+              "form": "a semblé",
+              "english": "we seemed / we have seemed",
+              "sentence": "On a semblé.",
+              "sentenceEnglish": "We seemed."
+            },
+            "nous": {
+              "form": "avons semblé",
+              "english": "we seemed / we have seemed",
+              "sentence": "Nous avons semblé.",
+              "sentenceEnglish": "We seemed."
+            },
+            "vous": {
+              "form": "avez semblé",
+              "english": "you seemed / you have seemed",
+              "sentence": "Vous avez semblé.",
+              "sentenceEnglish": "You seemed."
+            },
+            "ils/elles": {
+              "form": "ont semblé",
+              "english": "they seemed / they have seemed",
+              "sentence": "Ils ont semblé.",
+              "sentenceEnglish": "They seemed."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "semblais",
+              "english": "I seemed / I was seeming / I used to seem",
+              "sentence": "Je semblais souvent.",
+              "sentenceEnglish": "I often used to seem."
+            },
+            "tu": {
+              "form": "semblais",
+              "english": "you seemed / you were seeming / you used to seem",
+              "sentence": "Tu semblais souvent?",
+              "sentenceEnglish": "Did you often seem?"
+            },
+            "il/elle": {
+              "form": "semblait",
+              "english": "he/she seemsed / was seemsing / used to seems",
+              "sentence": "Elle semblait toujours.",
+              "sentenceEnglish": "She always used to seems."
+            },
+            "on": {
+              "form": "semblait",
+              "english": "we seemed / we were seeming / we used to seem",
+              "sentence": "On semblait ensemble.",
+              "sentenceEnglish": "We used to seem together."
+            },
+            "nous": {
+              "form": "semblions",
+              "english": "we seemed / we were seeming / we used to seem",
+              "sentence": "Nous semblions souvent.",
+              "sentenceEnglish": "We often used to seem."
+            },
+            "vous": {
+              "form": "sembliez",
+              "english": "you seemed / you were seeming / you used to seem",
+              "sentence": "Vous sembliez souvent?",
+              "sentenceEnglish": "Did you often seem?"
+            },
+            "ils/elles": {
+              "form": "semblaient",
+              "english": "they seemed / they were seeming / they used to seem",
+              "sentence": "Ils semblaient ensemble.",
+              "sentenceEnglish": "They used to seem together."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais semblé",
+              "english": "I had seemed",
+              "sentence": "J'avais semblé.",
+              "sentenceEnglish": "I had seemed."
+            },
+            "tu": {
+              "form": "avais semblé",
+              "english": "you had seemed",
+              "sentence": "Tu avais semblé.",
+              "sentenceEnglish": "You had seemed."
+            },
+            "il/elle": {
+              "form": "avait semblé",
+              "english": "he/she had seemsed",
+              "sentence": "Elle avait semblé.",
+              "sentenceEnglish": "She had seemsed."
+            },
+            "on": {
+              "form": "avait semblé",
+              "english": "we had seemed",
+              "sentence": "On avait semblé.",
+              "sentenceEnglish": "We had seemed."
+            },
+            "nous": {
+              "form": "avions semblé",
+              "english": "we had seemed",
+              "sentence": "Nous avions semblé.",
+              "sentenceEnglish": "We had seemed."
+            },
+            "vous": {
+              "form": "aviez semblé",
+              "english": "you had seemed",
+              "sentence": "Vous aviez semblé.",
+              "sentenceEnglish": "You had seemed."
+            },
+            "ils/elles": {
+              "form": "avaient semblé",
+              "english": "they had seemed",
+              "sentence": "Ils avaient semblé.",
+              "sentenceEnglish": "They had seemed."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "semblai",
+              "english": "I seemed",
+              "sentence": "Je semblai.",
+              "sentenceEnglish": "I seemed."
+            },
+            "tu": {
+              "form": "semblas",
+              "english": "you seemed",
+              "sentence": "Tu semblas.",
+              "sentenceEnglish": "You seemed."
+            },
+            "il/elle": {
+              "form": "sembla",
+              "english": "he/she seemsed",
+              "sentence": "Il sembla.",
+              "sentenceEnglish": "He seemsed."
+            },
+            "on": {
+              "form": "sembla",
+              "english": "we seemed",
+              "sentence": "On sembla.",
+              "sentenceEnglish": "We seemed."
+            },
+            "nous": {
+              "form": "semblâmes",
+              "english": "we seemed",
+              "sentence": "Nous semblâmes.",
+              "sentenceEnglish": "We seemed."
+            },
+            "vous": {
+              "form": "semblâtes",
+              "english": "you seemed",
+              "sentence": "Vous semblâtes.",
+              "sentenceEnglish": "You seemed."
+            },
+            "ils/elles": {
+              "form": "semblèrent",
+              "english": "they seemed",
+              "sentence": "Ils semblèrent.",
+              "sentenceEnglish": "They seemed."
+            }
+          }
+        }
+      },
+      "note": "Regular past participle 'semblé'. Imparfait stem 'sembl-' (from infinitive): je semblais, tu semblais, il/elle semblait, nous semblions, vous sembliez, ils/elles semblaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "semblerai",
+              "english": "I will seem",
+              "sentence": "Je semblerai.",
+              "sentenceEnglish": "I will seem."
+            },
+            "tu": {
+              "form": "sembleras",
+              "english": "you will seem",
+              "sentence": "Tu sembleras.",
+              "sentenceEnglish": "You will seem."
+            },
+            "il/elle": {
+              "form": "semblera",
+              "english": "he/she will seems",
+              "sentence": "Il semblera.",
+              "sentenceEnglish": "He will seems."
+            },
+            "on": {
+              "form": "semblera",
+              "english": "we will seem",
+              "sentence": "On semblera.",
+              "sentenceEnglish": "We will seem."
+            },
+            "nous": {
+              "form": "semblerons",
+              "english": "we will seem",
+              "sentence": "Nous semblerons.",
+              "sentenceEnglish": "We will seem."
+            },
+            "vous": {
+              "form": "semblerez",
+              "english": "you will seem",
+              "sentence": "Vous semblerez.",
+              "sentenceEnglish": "You will seem."
+            },
+            "ils/elles": {
+              "form": "sembleront",
+              "english": "they will seem",
+              "sentence": "Elles sembleront.",
+              "sentenceEnglish": "They will seem."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais sembler",
+              "english": "I am going to seem",
+              "sentence": "Je vais sembler.",
+              "sentenceEnglish": "I am going to seem."
+            },
+            "tu": {
+              "form": "vas sembler",
+              "english": "you are going to seem",
+              "sentence": "Tu vas sembler.",
+              "sentenceEnglish": "You are going to seem."
+            },
+            "il/elle": {
+              "form": "va sembler",
+              "english": "he/she is going to seems",
+              "sentence": "Elle va sembler.",
+              "sentenceEnglish": "She is going to seems."
+            },
+            "on": {
+              "form": "va sembler",
+              "english": "we are going to seem",
+              "sentence": "On va sembler.",
+              "sentenceEnglish": "We are going to seem."
+            },
+            "nous": {
+              "form": "allons sembler",
+              "english": "we are going to seem",
+              "sentence": "Nous allons sembler.",
+              "sentenceEnglish": "We are going to seem."
+            },
+            "vous": {
+              "form": "allez sembler",
+              "english": "you are going to seem",
+              "sentence": "Vous allez sembler.",
+              "sentenceEnglish": "You are going to seem."
+            },
+            "ils/elles": {
+              "form": "vont sembler",
+              "english": "they are going to seem",
+              "sentence": "Ils vont sembler.",
+              "sentenceEnglish": "They are going to seem."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai semblé",
+              "english": "I will have seemed",
+              "sentence": "J'aurai semblé.",
+              "sentenceEnglish": "I will have seemed."
+            },
+            "tu": {
+              "form": "auras semblé",
+              "english": "you will have seemed",
+              "sentence": "Tu auras semblé.",
+              "sentenceEnglish": "You will have seemed."
+            },
+            "il/elle": {
+              "form": "aura semblé",
+              "english": "he/she will have seemsed",
+              "sentence": "Elle aura semblé.",
+              "sentenceEnglish": "She will have seemsed."
+            },
+            "on": {
+              "form": "aura semblé",
+              "english": "we will have seemed",
+              "sentence": "On aura semblé.",
+              "sentenceEnglish": "We will have seemed."
+            },
+            "nous": {
+              "form": "aurons semblé",
+              "english": "we will have seemed",
+              "sentence": "Nous aurons semblé.",
+              "sentenceEnglish": "We will have seemed."
+            },
+            "vous": {
+              "form": "aurez semblé",
+              "english": "you will have seemed",
+              "sentence": "Vous aurez semblé.",
+              "sentenceEnglish": "You will have seemed."
+            },
+            "ils/elles": {
+              "form": "auront semblé",
+              "english": "they will have seemed",
+              "sentence": "Ils auront semblé.",
+              "sentenceEnglish": "They will have seemed."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'sembler-': je semblerai, tu sembleras, il/elle semblera, nous semblerons, vous semblerez, ils/elles sembleront"
+    }
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "infinitive": "ouvrir",
+  "english": "to open",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "ouvre",
+              "english": "I open",
+              "sentence": "J'ouvre la porte.",
+              "sentenceEnglish": "I open the door."
+            },
+            "tu": {
+              "form": "ouvres",
+              "english": "you open",
+              "sentence": "Tu ouvres la fenêtre?",
+              "sentenceEnglish": "Do you open the window?"
+            },
+            "il/elle": {
+              "form": "ouvre",
+              "english": "he/she opens",
+              "sentence": "Elle ouvre le magasin.",
+              "sentenceEnglish": "She opens the store."
+            },
+            "on": {
+              "form": "ouvre",
+              "english": "we open",
+              "sentence": "On ouvre à neuf heures.",
+              "sentenceEnglish": "We open at nine o'clock."
+            },
+            "nous": {
+              "form": "ouvrons",
+              "english": "we open",
+              "sentence": "Nous ouvrons les yeux.",
+              "sentenceEnglish": "We open our eyes."
+            },
+            "vous": {
+              "form": "ouvrez",
+              "english": "you open",
+              "sentence": "Vous ouvrez le livre?",
+              "sentenceEnglish": "Do you open the book?"
+            },
+            "ils/elles": {
+              "form": "ouvrent",
+              "english": "they open",
+              "sentence": "Ils ouvrent la boutique.",
+              "sentenceEnglish": "They open the shop."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train d'ouvrir",
+              "english": "I am opening",
+              "sentence": "Je suis en train d'ouvrir la porte.",
+              "sentenceEnglish": "I am opening the door."
+            },
+            "tu": {
+              "form": "es en train d'ouvrir",
+              "english": "you are opening",
+              "sentence": "Tu es en train d'ouvrir quoi?",
+              "sentenceEnglish": "What are you opening?"
+            },
+            "il/elle": {
+              "form": "est en train d'ouvrir",
+              "english": "he/she is opening",
+              "sentence": "Elle est en train d'ouvrir le cadeau.",
+              "sentenceEnglish": "She is opening the gift."
+            },
+            "on": {
+              "form": "est en train d'ouvrir",
+              "english": "we are opening",
+              "sentence": "On est en train d'ouvrir le magasin.",
+              "sentenceEnglish": "We are opening the store."
+            },
+            "nous": {
+              "form": "sommes en train d'ouvrir",
+              "english": "we are opening",
+              "sentence": "Nous sommes en train d'ouvrir les fenêtres.",
+              "sentenceEnglish": "We are opening the windows."
+            },
+            "vous": {
+              "form": "êtes en train d'ouvrir",
+              "english": "you are opening",
+              "sentence": "Vous êtes en train d'ouvrir le livre?",
+              "sentenceEnglish": "Are you opening the book?"
+            },
+            "ils/elles": {
+              "form": "sont en train d'ouvrir",
+              "english": "they are opening",
+              "sentence": "Ils sont en train d'ouvrir la boutique.",
+              "sentenceEnglish": "They are opening the shop."
+            }
+          }
+        }
+      },
+      "note": "Irregular verb that conjugates like -er verbs in present tense: j'ouvre, tu ouvres, il/elle ouvre, nous ouvrons, vous ouvrez, ils/elles ouvrent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai ouvert",
+              "english": "I opened / I have opened",
+              "sentence": "J'ai ouvert la porte.",
+              "sentenceEnglish": "I opened the door."
+            },
+            "tu": {
+              "form": "as ouvert",
+              "english": "you opened / you have opened",
+              "sentence": "Tu as ouvert la fenêtre?",
+              "sentenceEnglish": "Did you open the window?"
+            },
+            "il/elle": {
+              "form": "a ouvert",
+              "english": "he/she opened / has opened",
+              "sentence": "Elle a ouvert le magasin.",
+              "sentenceEnglish": "She opened the store."
+            },
+            "on": {
+              "form": "a ouvert",
+              "english": "we opened / we have opened",
+              "sentence": "On a ouvert la porte.",
+              "sentenceEnglish": "We opened the door."
+            },
+            "nous": {
+              "form": "avons ouvert",
+              "english": "we opened / we have opened",
+              "sentence": "Nous avons ouvert les yeux.",
+              "sentenceEnglish": "We opened our eyes."
+            },
+            "vous": {
+              "form": "avez ouvert",
+              "english": "you opened / you have opened",
+              "sentence": "Vous avez ouvert le livre?",
+              "sentenceEnglish": "Did you open the book?"
+            },
+            "ils/elles": {
+              "form": "ont ouvert",
+              "english": "they opened / they have opened",
+              "sentence": "Ils ont ouvert la boutique.",
+              "sentenceEnglish": "They opened the shop."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "ouvrais",
+              "english": "I opened / I was opening / I used to open",
+              "sentence": "J'ouvrais toujours la fenêtre.",
+              "sentenceEnglish": "I always used to open the window."
+            },
+            "tu": {
+              "form": "ouvrais",
+              "english": "you opened / you were opening / you used to open",
+              "sentence": "Tu ouvrais la porte?",
+              "sentenceEnglish": "Were you opening the door?"
+            },
+            "il/elle": {
+              "form": "ouvrait",
+              "english": "he/she opened / was opening / used to open",
+              "sentence": "Elle ouvrait le magasin tôt.",
+              "sentenceEnglish": "She used to open the store early."
+            },
+            "on": {
+              "form": "ouvrait",
+              "english": "we opened / we were opening / we used to open",
+              "sentence": "On ouvrait à huit heures.",
+              "sentenceEnglish": "We used to open at eight o'clock."
+            },
+            "nous": {
+              "form": "ouvrions",
+              "english": "we opened / we were opening / we used to open",
+              "sentence": "Nous ouvrions les yeux.",
+              "sentenceEnglish": "We were opening our eyes."
+            },
+            "vous": {
+              "form": "ouvriez",
+              "english": "you opened / you were opening / you used to open",
+              "sentence": "Vous ouvriez le livre?",
+              "sentenceEnglish": "Were you opening the book?"
+            },
+            "ils/elles": {
+              "form": "ouvraient",
+              "english": "they opened / they were opening / they used to open",
+              "sentence": "Ils ouvraient tard.",
+              "sentenceEnglish": "They used to open late."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais ouvert",
+              "english": "I had opened",
+              "sentence": "J'avais ouvert la porte.",
+              "sentenceEnglish": "I had opened the door."
+            },
+            "tu": {
+              "form": "avais ouvert",
+              "english": "you had opened",
+              "sentence": "Tu avais ouvert la fenêtre?",
+              "sentenceEnglish": "Had you opened the window?"
+            },
+            "il/elle": {
+              "form": "avait ouvert",
+              "english": "he/she had opened",
+              "sentence": "Elle avait ouvert le magasin.",
+              "sentenceEnglish": "She had opened the store."
+            },
+            "on": {
+              "form": "avait ouvert",
+              "english": "we had opened",
+              "sentence": "On avait ouvert la porte.",
+              "sentenceEnglish": "We had opened the door."
+            },
+            "nous": {
+              "form": "avions ouvert",
+              "english": "we had opened",
+              "sentence": "Nous avions ouvert les yeux.",
+              "sentenceEnglish": "We had opened our eyes."
+            },
+            "vous": {
+              "form": "aviez ouvert",
+              "english": "you had opened",
+              "sentence": "Vous aviez ouvert le livre?",
+              "sentenceEnglish": "Had you opened the book?"
+            },
+            "ils/elles": {
+              "form": "avaient ouvert",
+              "english": "they had opened",
+              "sentence": "Ils avaient ouvert la boutique.",
+              "sentenceEnglish": "They had opened the shop."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "ouvris",
+              "english": "I opened",
+              "sentence": "J'ouvris la porte.",
+              "sentenceEnglish": "I opened the door."
+            },
+            "tu": {
+              "form": "ouvris",
+              "english": "you opened",
+              "sentence": "Tu ouvris la fenêtre.",
+              "sentenceEnglish": "You opened the window."
+            },
+            "il/elle": {
+              "form": "ouvrit",
+              "english": "he/she opened",
+              "sentence": "Il ouvrit le livre.",
+              "sentenceEnglish": "He opened the book."
+            },
+            "on": {
+              "form": "ouvrit",
+              "english": "we opened",
+              "sentence": "On ouvrit ensemble.",
+              "sentenceEnglish": "We opened together."
+            },
+            "nous": {
+              "form": "ouvrîmes",
+              "english": "we opened",
+              "sentence": "Nous ouvrîmes les yeux.",
+              "sentenceEnglish": "We opened our eyes."
+            },
+            "vous": {
+              "form": "ouvrîtes",
+              "english": "you opened",
+              "sentence": "Vous ouvrîtes la porte.",
+              "sentenceEnglish": "You opened the door."
+            },
+            "ils/elles": {
+              "form": "ouvrirent",
+              "english": "they opened",
+              "sentence": "Ils ouvrirent le magasin.",
+              "sentenceEnglish": "They opened the store."
+            }
+          }
+        }
+      },
+      "note": "Irregular past participle 'ouvert'. Imparfait stem 'ouvr-' (from nous ouvrons): j'ouvrais, tu ouvrais, il/elle ouvrait, nous ouvrions, vous ouvriez, ils/elles ouvraient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "ouvrirai",
+              "english": "I will open",
+              "sentence": "J'ouvrirai la porte.",
+              "sentenceEnglish": "I will open the door."
+            },
+            "tu": {
+              "form": "ouvriras",
+              "english": "you will open",
+              "sentence": "Tu ouvriras la fenêtre?",
+              "sentenceEnglish": "Will you open the window?"
+            },
+            "il/elle": {
+              "form": "ouvrira",
+              "english": "he/she will open",
+              "sentence": "Il ouvrira le magasin.",
+              "sentenceEnglish": "He will open the store."
+            },
+            "on": {
+              "form": "ouvrira",
+              "english": "we will open",
+              "sentence": "On ouvrira à neuf heures.",
+              "sentenceEnglish": "We will open at nine o'clock."
+            },
+            "nous": {
+              "form": "ouvrirons",
+              "english": "we will open",
+              "sentence": "Nous ouvrirons les yeux.",
+              "sentenceEnglish": "We will open our eyes."
+            },
+            "vous": {
+              "form": "ouvrirez",
+              "english": "you will open",
+              "sentence": "Vous ouvrirez le livre?",
+              "sentenceEnglish": "Will you open the book?"
+            },
+            "ils/elles": {
+              "form": "ouvriront",
+              "english": "they will open",
+              "sentence": "Elles ouvriront la boutique.",
+              "sentenceEnglish": "They will open the shop."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais ouvrir",
+              "english": "I am going to open",
+              "sentence": "Je vais ouvrir la porte.",
+              "sentenceEnglish": "I am going to open the door."
+            },
+            "tu": {
+              "form": "vas ouvrir",
+              "english": "you are going to open",
+              "sentence": "Tu vas ouvrir la fenêtre?",
+              "sentenceEnglish": "Are you going to open the window?"
+            },
+            "il/elle": {
+              "form": "va ouvrir",
+              "english": "he/she is going to open",
+              "sentence": "Elle va ouvrir le magasin.",
+              "sentenceEnglish": "She is going to open the store."
+            },
+            "on": {
+              "form": "va ouvrir",
+              "english": "we are going to open",
+              "sentence": "On va ouvrir maintenant.",
+              "sentenceEnglish": "We are going to open now."
+            },
+            "nous": {
+              "form": "allons ouvrir",
+              "english": "we are going to open",
+              "sentence": "Nous allons ouvrir les yeux.",
+              "sentenceEnglish": "We are going to open our eyes."
+            },
+            "vous": {
+              "form": "allez ouvrir",
+              "english": "you are going to open",
+              "sentence": "Vous allez ouvrir le livre?",
+              "sentenceEnglish": "Are you going to open the book?"
+            },
+            "ils/elles": {
+              "form": "vont ouvrir",
+              "english": "they are going to open",
+              "sentence": "Ils vont ouvrir la boutique.",
+              "sentenceEnglish": "They are going to open the shop."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai ouvert",
+              "english": "I will have opened",
+              "sentence": "J'aurai ouvert avant toi.",
+              "sentenceEnglish": "I will have opened before you."
+            },
+            "tu": {
+              "form": "auras ouvert",
+              "english": "you will have opened",
+              "sentence": "Tu auras ouvert la porte?",
+              "sentenceEnglish": "Will you have opened the door?"
+            },
+            "il/elle": {
+              "form": "aura ouvert",
+              "english": "he/she will have opened",
+              "sentence": "Elle aura ouvert le magasin.",
+              "sentenceEnglish": "She will have opened the store."
+            },
+            "on": {
+              "form": "aura ouvert",
+              "english": "we will have opened",
+              "sentence": "On aura ouvert tôt.",
+              "sentenceEnglish": "We will have opened early."
+            },
+            "nous": {
+              "form": "aurons ouvert",
+              "english": "we will have opened",
+              "sentence": "Nous aurons ouvert les yeux.",
+              "sentenceEnglish": "We will have opened our eyes."
+            },
+            "vous": {
+              "form": "aurez ouvert",
+              "english": "you will have opened",
+              "sentence": "Vous aurez ouvert le livre?",
+              "sentenceEnglish": "Will you have opened the book?"
+            },
+            "ils/elles": {
+              "form": "auront ouvert",
+              "english": "they will have opened",
+              "sentence": "Ils auront ouvert la boutique.",
+              "sentenceEnglish": "They will have opened the shop."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'ouvrir-': j'ouvrirai, tu ouvriras, il/elle ouvrira, nous ouvrirons, vous ouvrirez, ils/elles ouvriront"
+    }
+  }
+}

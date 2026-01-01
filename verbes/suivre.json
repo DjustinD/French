@@ -1,0 +1,460 @@
+{
+  "infinitive": "suivre",
+  "english": "to follow",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "suis",
+              "english": "I follow",
+              "sentence": "Je suis le chemin.",
+              "sentenceEnglish": "I follow the path."
+            },
+            "tu": {
+              "form": "suis",
+              "english": "you follow",
+              "sentence": "Tu suis le cours?",
+              "sentenceEnglish": "Do you follow the course?"
+            },
+            "il/elle": {
+              "form": "suit",
+              "english": "he/she follows",
+              "sentence": "Elle suit les règles.",
+              "sentenceEnglish": "She follows the rules."
+            },
+            "on": {
+              "form": "suit",
+              "english": "we follow",
+              "sentence": "On suit la route.",
+              "sentenceEnglish": "We follow the road."
+            },
+            "nous": {
+              "form": "suivons",
+              "english": "we follow",
+              "sentence": "Nous suivons le guide.",
+              "sentenceEnglish": "We follow the guide."
+            },
+            "vous": {
+              "form": "suivez",
+              "english": "you follow",
+              "sentence": "Vous suivez le plan?",
+              "sentenceEnglish": "Are you following the plan?"
+            },
+            "ils/elles": {
+              "form": "suivent",
+              "english": "they follow",
+              "sentence": "Ils suivent le mouvement.",
+              "sentenceEnglish": "They follow the movement."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de suivre",
+              "english": "I am following",
+              "sentence": "Je suis en train de suivre le cours.",
+              "sentenceEnglish": "I am following the course."
+            },
+            "tu": {
+              "form": "es en train de suivre",
+              "english": "you are following",
+              "sentence": "Tu es en train de suivre qui?",
+              "sentenceEnglish": "Who are you following?"
+            },
+            "il/elle": {
+              "form": "est en train de suivre",
+              "english": "he/she is following",
+              "sentence": "Elle est en train de suivre les instructions.",
+              "sentenceEnglish": "She is following the instructions."
+            },
+            "on": {
+              "form": "est en train de suivre",
+              "english": "we are following",
+              "sentence": "On est en train de suivre le guide.",
+              "sentenceEnglish": "We are following the guide."
+            },
+            "nous": {
+              "form": "sommes en train de suivre",
+              "english": "we are following",
+              "sentence": "Nous sommes en train de suivre la route.",
+              "sentenceEnglish": "We are following the road."
+            },
+            "vous": {
+              "form": "êtes en train de suivre",
+              "english": "you are following",
+              "sentence": "Vous êtes en train de suivre?",
+              "sentenceEnglish": "Are you following?"
+            },
+            "ils/elles": {
+              "form": "sont en train de suivre",
+              "english": "they are following",
+              "sentence": "Ils sont en train de suivre le plan.",
+              "sentenceEnglish": "They are following the plan."
+            }
+          }
+        }
+      },
+      "note": "Irregular verb. Must be memorized: je suis, tu suis, il/elle suit, nous suivons, vous suivez, ils/elles suivent. Note: 'je suis' can mean 'I am' (être) or 'I follow' (suivre) - context determines meaning"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai suivi",
+              "english": "I followed / I have followed",
+              "sentence": "J'ai suivi le cours.",
+              "sentenceEnglish": "I followed the course."
+            },
+            "tu": {
+              "form": "as suivi",
+              "english": "you followed / you have followed",
+              "sentence": "Tu as suivi les règles?",
+              "sentenceEnglish": "Did you follow the rules?"
+            },
+            "il/elle": {
+              "form": "a suivi",
+              "english": "he/she followed / has followed",
+              "sentence": "Elle a suivi le chemin.",
+              "sentenceEnglish": "She followed the path."
+            },
+            "on": {
+              "form": "a suivi",
+              "english": "we followed / we have followed",
+              "sentence": "On a suivi le guide.",
+              "sentenceEnglish": "We followed the guide."
+            },
+            "nous": {
+              "form": "avons suivi",
+              "english": "we followed / we have followed",
+              "sentence": "Nous avons suivi le plan.",
+              "sentenceEnglish": "We followed the plan."
+            },
+            "vous": {
+              "form": "avez suivi",
+              "english": "you followed / you have followed",
+              "sentence": "Vous avez suivi la route?",
+              "sentenceEnglish": "Did you follow the road?"
+            },
+            "ils/elles": {
+              "form": "ont suivi",
+              "english": "they followed / they have followed",
+              "sentence": "Ils ont suivi les instructions.",
+              "sentenceEnglish": "They followed the instructions."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "suivais",
+              "english": "I followed / I was following / I used to follow",
+              "sentence": "Je suivais toujours les règles.",
+              "sentenceEnglish": "I always used to follow the rules."
+            },
+            "tu": {
+              "form": "suivais",
+              "english": "you followed / you were following / you used to follow",
+              "sentence": "Tu suivais le cours?",
+              "sentenceEnglish": "Were you following the course?"
+            },
+            "il/elle": {
+              "form": "suivait",
+              "english": "he/she followed / was following / used to follow",
+              "sentence": "Elle suivait le guide.",
+              "sentenceEnglish": "She was following the guide."
+            },
+            "on": {
+              "form": "suivait",
+              "english": "we followed / we were following / we used to follow",
+              "sentence": "On suivait la route.",
+              "sentenceEnglish": "We were following the road."
+            },
+            "nous": {
+              "form": "suivions",
+              "english": "we followed / we were following / we used to follow",
+              "sentence": "Nous suivions le plan.",
+              "sentenceEnglish": "We were following the plan."
+            },
+            "vous": {
+              "form": "suiviez",
+              "english": "you followed / you were following / you used to follow",
+              "sentence": "Vous suiviez les instructions?",
+              "sentenceEnglish": "Were you following the instructions?"
+            },
+            "ils/elles": {
+              "form": "suivaient",
+              "english": "they followed / they were following / they used to follow",
+              "sentence": "Ils suivaient le chemin.",
+              "sentenceEnglish": "They were following the path."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais suivi",
+              "english": "I had followed",
+              "sentence": "J'avais suivi les règles.",
+              "sentenceEnglish": "I had followed the rules."
+            },
+            "tu": {
+              "form": "avais suivi",
+              "english": "you had followed",
+              "sentence": "Tu avais suivi le cours?",
+              "sentenceEnglish": "Had you followed the course?"
+            },
+            "il/elle": {
+              "form": "avait suivi",
+              "english": "he/she had followed",
+              "sentence": "Elle avait suivi le guide.",
+              "sentenceEnglish": "She had followed the guide."
+            },
+            "on": {
+              "form": "avait suivi",
+              "english": "we had followed",
+              "sentence": "On avait suivi la route.",
+              "sentenceEnglish": "We had followed the road."
+            },
+            "nous": {
+              "form": "avions suivi",
+              "english": "we had followed",
+              "sentence": "Nous avions suivi le plan.",
+              "sentenceEnglish": "We had followed the plan."
+            },
+            "vous": {
+              "form": "aviez suivi",
+              "english": "you had followed",
+              "sentence": "Vous aviez suivi les instructions?",
+              "sentenceEnglish": "Had you followed the instructions?"
+            },
+            "ils/elles": {
+              "form": "avaient suivi",
+              "english": "they had followed",
+              "sentence": "Ils avaient suivi le chemin.",
+              "sentenceEnglish": "They had followed the path."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "suivis",
+              "english": "I followed",
+              "sentence": "Je suivis le guide.",
+              "sentenceEnglish": "I followed the guide."
+            },
+            "tu": {
+              "form": "suivis",
+              "english": "you followed",
+              "sentence": "Tu suivis la route.",
+              "sentenceEnglish": "You followed the road."
+            },
+            "il/elle": {
+              "form": "suivit",
+              "english": "he/she followed",
+              "sentence": "Il suivit le chemin.",
+              "sentenceEnglish": "He followed the path."
+            },
+            "on": {
+              "form": "suivit",
+              "english": "we followed",
+              "sentence": "On suivit ensemble.",
+              "sentenceEnglish": "We followed together."
+            },
+            "nous": {
+              "form": "suivîmes",
+              "english": "we followed",
+              "sentence": "Nous suivîmes le plan.",
+              "sentenceEnglish": "We followed the plan."
+            },
+            "vous": {
+              "form": "suivîtes",
+              "english": "you followed",
+              "sentence": "Vous suivîtes les ordres.",
+              "sentenceEnglish": "You followed the orders."
+            },
+            "ils/elles": {
+              "form": "suivirent",
+              "english": "they followed",
+              "sentence": "Ils suivirent le mouvement.",
+              "sentenceEnglish": "They followed the movement."
+            }
+          }
+        }
+      },
+      "note": "Irregular past participle 'suivi'. Imparfait stem 'suiv-' (from nous suivons): je suivais, tu suivais, il/elle suivait, nous suivions, vous suiviez, ils/elles suivaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "suivrai",
+              "english": "I will follow",
+              "sentence": "Je suivrai le cours.",
+              "sentenceEnglish": "I will follow the course."
+            },
+            "tu": {
+              "form": "suivras",
+              "english": "you will follow",
+              "sentence": "Tu suivras les règles?",
+              "sentenceEnglish": "Will you follow the rules?"
+            },
+            "il/elle": {
+              "form": "suivra",
+              "english": "he/she will follow",
+              "sentence": "Il suivra le chemin.",
+              "sentenceEnglish": "He will follow the path."
+            },
+            "on": {
+              "form": "suivra",
+              "english": "we will follow",
+              "sentence": "On suivra le guide.",
+              "sentenceEnglish": "We will follow the guide."
+            },
+            "nous": {
+              "form": "suivrons",
+              "english": "we will follow",
+              "sentence": "Nous suivrons le plan.",
+              "sentenceEnglish": "We will follow the plan."
+            },
+            "vous": {
+              "form": "suivrez",
+              "english": "you will follow",
+              "sentence": "Vous suivrez la route?",
+              "sentenceEnglish": "Will you follow the road?"
+            },
+            "ils/elles": {
+              "form": "suivront",
+              "english": "they will follow",
+              "sentence": "Elles suivront les instructions.",
+              "sentenceEnglish": "They will follow the instructions."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais suivre",
+              "english": "I am going to follow",
+              "sentence": "Je vais suivre le cours.",
+              "sentenceEnglish": "I am going to follow the course."
+            },
+            "tu": {
+              "form": "vas suivre",
+              "english": "you are going to follow",
+              "sentence": "Tu vas suivre le plan?",
+              "sentenceEnglish": "Are you going to follow the plan?"
+            },
+            "il/elle": {
+              "form": "va suivre",
+              "english": "he/she is going to follow",
+              "sentence": "Elle va suivre les règles.",
+              "sentenceEnglish": "She is going to follow the rules."
+            },
+            "on": {
+              "form": "va suivre",
+              "english": "we are going to follow",
+              "sentence": "On va suivre le guide.",
+              "sentenceEnglish": "We are going to follow the guide."
+            },
+            "nous": {
+              "form": "allons suivre",
+              "english": "we are going to follow",
+              "sentence": "Nous allons suivre la route.",
+              "sentenceEnglish": "We are going to follow the road."
+            },
+            "vous": {
+              "form": "allez suivre",
+              "english": "you are going to follow",
+              "sentence": "Vous allez suivre le chemin?",
+              "sentenceEnglish": "Are you going to follow the path?"
+            },
+            "ils/elles": {
+              "form": "vont suivre",
+              "english": "they are going to follow",
+              "sentence": "Ils vont suivre les instructions.",
+              "sentenceEnglish": "They are going to follow the instructions."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai suivi",
+              "english": "I will have followed",
+              "sentence": "J'aurai suivi le cours.",
+              "sentenceEnglish": "I will have followed the course."
+            },
+            "tu": {
+              "form": "auras suivi",
+              "english": "you will have followed",
+              "sentence": "Tu auras suivi les règles?",
+              "sentenceEnglish": "Will you have followed the rules?"
+            },
+            "il/elle": {
+              "form": "aura suivi",
+              "english": "he/she will have followed",
+              "sentence": "Elle aura suivi le plan.",
+              "sentenceEnglish": "She will have followed the plan."
+            },
+            "on": {
+              "form": "aura suivi",
+              "english": "we will have followed",
+              "sentence": "On aura suivi le guide.",
+              "sentenceEnglish": "We will have followed the guide."
+            },
+            "nous": {
+              "form": "aurons suivi",
+              "english": "we will have followed",
+              "sentence": "Nous aurons suivi la route.",
+              "sentenceEnglish": "We will have followed the road."
+            },
+            "vous": {
+              "form": "aurez suivi",
+              "english": "you will have followed",
+              "sentence": "Vous aurez suivi les instructions?",
+              "sentenceEnglish": "Will you have followed the instructions?"
+            },
+            "ils/elles": {
+              "form": "auront suivi",
+              "english": "they will have followed",
+              "sentence": "Ils auront suivi le chemin.",
+              "sentenceEnglish": "They will have followed the path."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'suivr-': je suivrai, tu suivras, il/elle suivra, nous suivrons, vous suivrez, ils/elles suivront"
+    }
+  }
+}

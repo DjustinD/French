@@ -1,0 +1,427 @@
+[
+    {
+        "masculinSingular": "chaud",
+        "femininSingular": "chaude",
+        "masculinPlural": "chauds",
+        "femininPlural": "chaudes",
+        "english": "hot, warm",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un café chaud",
+                "english": "a hot coffee"
+            },
+            {
+                "french": "une journée chaude",
+                "english": "a hot day"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "froid",
+        "femininSingular": "froide",
+        "masculinPlural": "froids",
+        "femininPlural": "froides",
+        "english": "cold",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un vent froid",
+                "english": "a cold wind"
+            },
+            {
+                "french": "une boisson froide",
+                "english": "a cold drink"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "rapide",
+        "femininSingular": "rapide",
+        "masculinPlural": "rapides",
+        "femininPlural": "rapides",
+        "english": "fast, quick",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un train rapide",
+                "english": "a fast train"
+            },
+            {
+                "french": "une voiture rapide",
+                "english": "a fast car"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "lent",
+        "femininSingular": "lente",
+        "masculinPlural": "lents",
+        "femininPlural": "lentes",
+        "english": "slow",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un escargot lent",
+                "english": "a slow snail"
+            },
+            {
+                "french": "une progression lente",
+                "english": "a slow progression"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "fort",
+        "femininSingular": "forte",
+        "masculinPlural": "forts",
+        "femininPlural": "fortes",
+        "english": "strong",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un homme fort",
+                "english": "a strong man"
+            },
+            {
+                "french": "une odeur forte",
+                "english": "a strong smell"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "faible",
+        "femininSingular": "faible",
+        "masculinPlural": "faibles",
+        "femininPlural": "faibles",
+        "english": "weak",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un signal faible",
+                "english": "a weak signal"
+            },
+            {
+                "french": "une lumière faible",
+                "english": "a weak light"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "facile",
+        "femininSingular": "facile",
+        "masculinPlural": "faciles",
+        "femininPlural": "faciles",
+        "english": "easy",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un exercice facile",
+                "english": "an easy exercise"
+            },
+            {
+                "french": "une question facile",
+                "english": "an easy question"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "difficile",
+        "femininSingular": "difficile",
+        "masculinPlural": "difficiles",
+        "femininPlural": "difficiles",
+        "english": "difficult, hard",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un problème difficile",
+                "english": "a difficult problem"
+            },
+            {
+                "french": "une situation difficile",
+                "english": "a difficult situation"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "heureux",
+        "femininSingular": "heureuse",
+        "masculinPlural": "heureux",
+        "femininPlural": "heureuses",
+        "english": "happy",
+        "position": "après",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "heureux → heureuse",
+            "mascPlur": "no change",
+            "femPlur": "heureuses"
+        },
+        "examples": [
+            {
+                "french": "un enfant heureux",
+                "english": "a happy child"
+            },
+            {
+                "french": "une famille heureuse",
+                "english": "a happy family"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "triste",
+        "femininSingular": "triste",
+        "masculinPlural": "tristes",
+        "femininPlural": "tristes",
+        "english": "sad",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un film triste",
+                "english": "a sad movie"
+            },
+            {
+                "french": "une histoire triste",
+                "english": "a sad story"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "intelligent",
+        "femininSingular": "intelligente",
+        "masculinPlural": "intelligents",
+        "femininPlural": "intelligentes",
+        "english": "intelligent, smart",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un étudiant intelligent",
+                "english": "a smart student"
+            },
+            {
+                "french": "une réponse intelligente",
+                "english": "an intelligent answer"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "stupide",
+        "femininSingular": "stupide",
+        "masculinPlural": "stupides",
+        "femininPlural": "stupides",
+        "english": "stupid",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un commentaire stupide",
+                "english": "a stupid comment"
+            },
+            {
+                "french": "une erreur stupide",
+                "english": "a stupid mistake"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "riche",
+        "femininSingular": "riche",
+        "masculinPlural": "riches",
+        "femininPlural": "riches",
+        "english": "rich",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un homme riche",
+                "english": "a rich man"
+            },
+            {
+                "french": "une famille riche",
+                "english": "a rich family"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "pauvre",
+        "femininSingular": "pauvre",
+        "masculinPlural": "pauvres",
+        "femininPlural": "pauvres",
+        "english": "poor",
+        "position": "both",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un pauvre homme (pitiful)",
+                "english": "a poor man (pitiful)"
+            },
+            {
+                "french": "un homme pauvre (not rich)",
+                "english": "a poor man (not rich)"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "propre",
+        "femininSingular": "propre",
+        "masculinPlural": "propres",
+        "femininPlural": "propres",
+        "english": "clean / own",
+        "position": "both",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "ma propre maison (my own house)",
+                "english": "my own house"
+            },
+            {
+                "french": "une maison propre (a clean house)",
+                "english": "a clean house"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "sale",
+        "femininSingular": "sale",
+        "masculinPlural": "sales",
+        "femininPlural": "sales",
+        "english": "dirty",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "no change",
+            "mascPlur": "+ s",
+            "femPlur": "+ s"
+        },
+        "examples": [
+            {
+                "french": "un vêtement sale",
+                "english": "a dirty garment"
+            },
+            {
+                "french": "une assiette sale",
+                "english": "a dirty plate"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "cher",
+        "femininSingular": "chère",
+        "masculinPlural": "chers",
+        "femininPlural": "chères",
+        "english": "expensive / dear",
+        "position": "both",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "cher → chère",
+            "mascPlur": "+ s",
+            "femPlur": "chères"
+        },
+        "examples": [
+            {
+                "french": "mon cher ami (my dear friend)",
+                "english": "my dear friend"
+            },
+            {
+                "french": "un restaurant cher (an expensive restaurant)",
+                "english": "an expensive restaurant"
+            }
+        ],
+        "image": null
+    }
+]

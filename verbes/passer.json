@@ -1,0 +1,460 @@
+{
+  "infinitive": "passer",
+  "english": "to pass / to spend time",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "passe",
+              "english": "I pass",
+              "sentence": "Je passe du temps.",
+              "sentenceEnglish": "I spend time."
+            },
+            "tu": {
+              "form": "passes",
+              "english": "you pass",
+              "sentence": "Tu passes par ici?",
+              "sentenceEnglish": "Do you pass by here?"
+            },
+            "il/elle": {
+              "form": "passe",
+              "english": "he/she passes",
+              "sentence": "Elle passe l'examen.",
+              "sentenceEnglish": "She takes the exam."
+            },
+            "on": {
+              "form": "passe",
+              "english": "we pass",
+              "sentence": "On passe de bonnes vacances.",
+              "sentenceEnglish": "We spend good vacations."
+            },
+            "nous": {
+              "form": "passons",
+              "english": "we pass",
+              "sentence": "Nous passons la journée ensemble.",
+              "sentenceEnglish": "We spend the day together."
+            },
+            "vous": {
+              "form": "passez",
+              "english": "you pass",
+              "sentence": "Vous passez le weekend ici?",
+              "sentenceEnglish": "Are you spending the weekend here?"
+            },
+            "ils/elles": {
+              "form": "passent",
+              "english": "they pass",
+              "sentence": "Ils passent leur temps ici.",
+              "sentenceEnglish": "They spend their time here."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de passer",
+              "english": "I am passing",
+              "sentence": "Je suis en train de passer.",
+              "sentenceEnglish": "I am passing."
+            },
+            "tu": {
+              "form": "es en train de passer",
+              "english": "you are passing",
+              "sentence": "Tu es en train de passer.",
+              "sentenceEnglish": "You are passing."
+            },
+            "il/elle": {
+              "form": "est en train de passer",
+              "english": "he/she is passesing",
+              "sentence": "Elle est en train de passer.",
+              "sentenceEnglish": "She is passesing."
+            },
+            "on": {
+              "form": "est en train de passer",
+              "english": "we are passing",
+              "sentence": "On est en train de passer.",
+              "sentenceEnglish": "We are passing."
+            },
+            "nous": {
+              "form": "sommes en train de passer",
+              "english": "we are passing",
+              "sentence": "Nous sommes en train de passer.",
+              "sentenceEnglish": "We are passing."
+            },
+            "vous": {
+              "form": "êtes en train de passer",
+              "english": "you are passing",
+              "sentence": "Vous êtes en train de passer.",
+              "sentenceEnglish": "You are passing."
+            },
+            "ils/elles": {
+              "form": "sont en train de passer",
+              "english": "they are passing",
+              "sentence": "Ils sont en train de passer.",
+              "sentenceEnglish": "They are passing."
+            }
+          }
+        }
+      },
+      "note": "Regular -er verb. Pattern: je passe, tu passes, il/elle passe, nous passons, vous passez, ils/elles passent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai passé",
+              "english": "I passed / I have passed",
+              "sentence": "J'ai passé.",
+              "sentenceEnglish": "I passed."
+            },
+            "tu": {
+              "form": "as passé",
+              "english": "you passed / you have passed",
+              "sentence": "Tu as passé.",
+              "sentenceEnglish": "You passed."
+            },
+            "il/elle": {
+              "form": "a passé",
+              "english": "he/she passesed / has passesed",
+              "sentence": "Elle a passé.",
+              "sentenceEnglish": "She passesed."
+            },
+            "on": {
+              "form": "a passé",
+              "english": "we passed / we have passed",
+              "sentence": "On a passé.",
+              "sentenceEnglish": "We passed."
+            },
+            "nous": {
+              "form": "avons passé",
+              "english": "we passed / we have passed",
+              "sentence": "Nous avons passé.",
+              "sentenceEnglish": "We passed."
+            },
+            "vous": {
+              "form": "avez passé",
+              "english": "you passed / you have passed",
+              "sentence": "Vous avez passé.",
+              "sentenceEnglish": "You passed."
+            },
+            "ils/elles": {
+              "form": "ont passé",
+              "english": "they passed / they have passed",
+              "sentence": "Ils ont passé.",
+              "sentenceEnglish": "They passed."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "passais",
+              "english": "I passed / I was passing / I used to pass",
+              "sentence": "Je passais souvent.",
+              "sentenceEnglish": "I often used to pass."
+            },
+            "tu": {
+              "form": "passais",
+              "english": "you passed / you were passing / you used to pass",
+              "sentence": "Tu passais souvent?",
+              "sentenceEnglish": "Did you often pass?"
+            },
+            "il/elle": {
+              "form": "passait",
+              "english": "he/she passesed / was passesing / used to passes",
+              "sentence": "Elle passait toujours.",
+              "sentenceEnglish": "She always used to passes."
+            },
+            "on": {
+              "form": "passait",
+              "english": "we passed / we were passing / we used to pass",
+              "sentence": "On passait ensemble.",
+              "sentenceEnglish": "We used to pass together."
+            },
+            "nous": {
+              "form": "passions",
+              "english": "we passed / we were passing / we used to pass",
+              "sentence": "Nous passions souvent.",
+              "sentenceEnglish": "We often used to pass."
+            },
+            "vous": {
+              "form": "passiez",
+              "english": "you passed / you were passing / you used to pass",
+              "sentence": "Vous passiez souvent?",
+              "sentenceEnglish": "Did you often pass?"
+            },
+            "ils/elles": {
+              "form": "passaient",
+              "english": "they passed / they were passing / they used to pass",
+              "sentence": "Ils passaient ensemble.",
+              "sentenceEnglish": "They used to pass together."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais passé",
+              "english": "I had passed",
+              "sentence": "J'avais passé.",
+              "sentenceEnglish": "I had passed."
+            },
+            "tu": {
+              "form": "avais passé",
+              "english": "you had passed",
+              "sentence": "Tu avais passé.",
+              "sentenceEnglish": "You had passed."
+            },
+            "il/elle": {
+              "form": "avait passé",
+              "english": "he/she had passesed",
+              "sentence": "Elle avait passé.",
+              "sentenceEnglish": "She had passesed."
+            },
+            "on": {
+              "form": "avait passé",
+              "english": "we had passed",
+              "sentence": "On avait passé.",
+              "sentenceEnglish": "We had passed."
+            },
+            "nous": {
+              "form": "avions passé",
+              "english": "we had passed",
+              "sentence": "Nous avions passé.",
+              "sentenceEnglish": "We had passed."
+            },
+            "vous": {
+              "form": "aviez passé",
+              "english": "you had passed",
+              "sentence": "Vous aviez passé.",
+              "sentenceEnglish": "You had passed."
+            },
+            "ils/elles": {
+              "form": "avaient passé",
+              "english": "they had passed",
+              "sentence": "Ils avaient passé.",
+              "sentenceEnglish": "They had passed."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "passai",
+              "english": "I passed",
+              "sentence": "Je passai.",
+              "sentenceEnglish": "I passed."
+            },
+            "tu": {
+              "form": "passas",
+              "english": "you passed",
+              "sentence": "Tu passas.",
+              "sentenceEnglish": "You passed."
+            },
+            "il/elle": {
+              "form": "passa",
+              "english": "he/she passesed",
+              "sentence": "Il passa.",
+              "sentenceEnglish": "He passesed."
+            },
+            "on": {
+              "form": "passa",
+              "english": "we passed",
+              "sentence": "On passa.",
+              "sentenceEnglish": "We passed."
+            },
+            "nous": {
+              "form": "passâmes",
+              "english": "we passed",
+              "sentence": "Nous passâmes.",
+              "sentenceEnglish": "We passed."
+            },
+            "vous": {
+              "form": "passâtes",
+              "english": "you passed",
+              "sentence": "Vous passâtes.",
+              "sentenceEnglish": "You passed."
+            },
+            "ils/elles": {
+              "form": "passèrent",
+              "english": "they passed",
+              "sentence": "Ils passèrent.",
+              "sentenceEnglish": "They passed."
+            }
+          }
+        }
+      },
+      "note": "Regular past participle 'passé'. Imparfait stem 'pass-' (from infinitive): je passais, tu passais, il/elle passait, nous passions, vous passiez, ils/elles passaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "passerai",
+              "english": "I will pass",
+              "sentence": "Je passerai.",
+              "sentenceEnglish": "I will pass."
+            },
+            "tu": {
+              "form": "passeras",
+              "english": "you will pass",
+              "sentence": "Tu passeras.",
+              "sentenceEnglish": "You will pass."
+            },
+            "il/elle": {
+              "form": "passera",
+              "english": "he/she will passes",
+              "sentence": "Il passera.",
+              "sentenceEnglish": "He will passes."
+            },
+            "on": {
+              "form": "passera",
+              "english": "we will pass",
+              "sentence": "On passera.",
+              "sentenceEnglish": "We will pass."
+            },
+            "nous": {
+              "form": "passerons",
+              "english": "we will pass",
+              "sentence": "Nous passerons.",
+              "sentenceEnglish": "We will pass."
+            },
+            "vous": {
+              "form": "passerez",
+              "english": "you will pass",
+              "sentence": "Vous passerez.",
+              "sentenceEnglish": "You will pass."
+            },
+            "ils/elles": {
+              "form": "passeront",
+              "english": "they will pass",
+              "sentence": "Elles passeront.",
+              "sentenceEnglish": "They will pass."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais passer",
+              "english": "I am going to pass",
+              "sentence": "Je vais passer.",
+              "sentenceEnglish": "I am going to pass."
+            },
+            "tu": {
+              "form": "vas passer",
+              "english": "you are going to pass",
+              "sentence": "Tu vas passer.",
+              "sentenceEnglish": "You are going to pass."
+            },
+            "il/elle": {
+              "form": "va passer",
+              "english": "he/she is going to passes",
+              "sentence": "Elle va passer.",
+              "sentenceEnglish": "She is going to passes."
+            },
+            "on": {
+              "form": "va passer",
+              "english": "we are going to pass",
+              "sentence": "On va passer.",
+              "sentenceEnglish": "We are going to pass."
+            },
+            "nous": {
+              "form": "allons passer",
+              "english": "we are going to pass",
+              "sentence": "Nous allons passer.",
+              "sentenceEnglish": "We are going to pass."
+            },
+            "vous": {
+              "form": "allez passer",
+              "english": "you are going to pass",
+              "sentence": "Vous allez passer.",
+              "sentenceEnglish": "You are going to pass."
+            },
+            "ils/elles": {
+              "form": "vont passer",
+              "english": "they are going to pass",
+              "sentence": "Ils vont passer.",
+              "sentenceEnglish": "They are going to pass."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai passé",
+              "english": "I will have passed",
+              "sentence": "J'aurai passé.",
+              "sentenceEnglish": "I will have passed."
+            },
+            "tu": {
+              "form": "auras passé",
+              "english": "you will have passed",
+              "sentence": "Tu auras passé.",
+              "sentenceEnglish": "You will have passed."
+            },
+            "il/elle": {
+              "form": "aura passé",
+              "english": "he/she will have passesed",
+              "sentence": "Elle aura passé.",
+              "sentenceEnglish": "She will have passesed."
+            },
+            "on": {
+              "form": "aura passé",
+              "english": "we will have passed",
+              "sentence": "On aura passé.",
+              "sentenceEnglish": "We will have passed."
+            },
+            "nous": {
+              "form": "aurons passé",
+              "english": "we will have passed",
+              "sentence": "Nous aurons passé.",
+              "sentenceEnglish": "We will have passed."
+            },
+            "vous": {
+              "form": "aurez passé",
+              "english": "you will have passed",
+              "sentence": "Vous aurez passé.",
+              "sentenceEnglish": "You will have passed."
+            },
+            "ils/elles": {
+              "form": "auront passé",
+              "english": "they will have passed",
+              "sentence": "Ils auront passé.",
+              "sentenceEnglish": "They will have passed."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'passer-': je passerai, tu passeras, il/elle passera, nous passerons, vous passerez, ils/elles passeront"
+    }
+  }
+}

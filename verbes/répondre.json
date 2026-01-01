@@ -1,0 +1,460 @@
+{
+  "infinitive": "répondre",
+  "english": "to answer / to reply",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "réponds",
+              "english": "I answer",
+              "sentence": "Je réponds au téléphone.",
+              "sentenceEnglish": "I answer the phone."
+            },
+            "tu": {
+              "form": "réponds",
+              "english": "you answer",
+              "sentence": "Tu réponds?",
+              "sentenceEnglish": "Do you answer?"
+            },
+            "il/elle": {
+              "form": "répond",
+              "english": "he/she answers",
+              "sentence": "Elle répond vite.",
+              "sentenceEnglish": "She answers quickly."
+            },
+            "on": {
+              "form": "répond",
+              "english": "we answer",
+              "sentence": "On répond ensemble.",
+              "sentenceEnglish": "We answer together."
+            },
+            "nous": {
+              "form": "répondons",
+              "english": "we answer",
+              "sentence": "Nous répondons aux questions.",
+              "sentenceEnglish": "We answer the questions."
+            },
+            "vous": {
+              "form": "répondez",
+              "english": "you answer",
+              "sentence": "Vous répondez?",
+              "sentenceEnglish": "Do you answer?"
+            },
+            "ils/elles": {
+              "form": "répondent",
+              "english": "they answer",
+              "sentence": "Ils répondent toujours.",
+              "sentenceEnglish": "They always answer."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de répondre",
+              "english": "I answering",
+              "sentence": "Je suis en train de répondre.",
+              "sentenceEnglish": "I answering."
+            },
+            "tu": {
+              "form": "es en train de répondre",
+              "english": "you answering",
+              "sentence": "Tu es en train de répondre.",
+              "sentenceEnglish": "you answering."
+            },
+            "il/elle": {
+              "form": "est en train de répondre",
+              "english": "he/she answersing",
+              "sentence": "Elle est en train de répondre.",
+              "sentenceEnglish": "he/she answersing."
+            },
+            "on": {
+              "form": "est en train de répondre",
+              "english": "we answering",
+              "sentence": "On est en train de répondre.",
+              "sentenceEnglish": "we answering."
+            },
+            "nous": {
+              "form": "sommes en train de répondre",
+              "english": "we answering",
+              "sentence": "Nous sommes en train de répondre.",
+              "sentenceEnglish": "we answering."
+            },
+            "vous": {
+              "form": "êtes en train de répondre",
+              "english": "you answering",
+              "sentence": "Vous êtes en train de répondre.",
+              "sentenceEnglish": "you answering."
+            },
+            "ils/elles": {
+              "form": "sont en train de répondre",
+              "english": "they answering",
+              "sentence": "Ils sont en train de répondre.",
+              "sentenceEnglish": "they answering."
+            }
+          }
+        }
+      },
+      "note": "Regular -re verb. Pattern: je réponds, tu réponds, il/elle répond, nous répondons, vous répondez, ils/elles répondent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai répondu",
+              "english": "I answered",
+              "sentence": "J'ai répondu.",
+              "sentenceEnglish": "I answered."
+            },
+            "tu": {
+              "form": "as répondu",
+              "english": "you answered",
+              "sentence": "Tu as répondu.",
+              "sentenceEnglish": "you answered."
+            },
+            "il/elle": {
+              "form": "a répondu",
+              "english": "he/she answersed",
+              "sentence": "Elle a répondu.",
+              "sentenceEnglish": "he/she answersed."
+            },
+            "on": {
+              "form": "a répondu",
+              "english": "we answered",
+              "sentence": "On a répondu.",
+              "sentenceEnglish": "we answered."
+            },
+            "nous": {
+              "form": "avons répondu",
+              "english": "we answered",
+              "sentence": "Nous avons répondu.",
+              "sentenceEnglish": "we answered."
+            },
+            "vous": {
+              "form": "avez répondu",
+              "english": "you answered",
+              "sentence": "Vous avez répondu.",
+              "sentenceEnglish": "you answered."
+            },
+            "ils/elles": {
+              "form": "ont répondu",
+              "english": "they answered",
+              "sentence": "Ils ont répondu.",
+              "sentenceEnglish": "they answered."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "répondais",
+              "english": "used to I answer",
+              "sentence": "Je répondais souvent.",
+              "sentenceEnglish": "I used to I answer often."
+            },
+            "tu": {
+              "form": "répondais",
+              "english": "used to you answer",
+              "sentence": "Tu répondais?",
+              "sentenceEnglish": "Did you you answer?"
+            },
+            "il/elle": {
+              "form": "répondait",
+              "english": "used to he/she answers",
+              "sentence": "Elle répondait toujours.",
+              "sentenceEnglish": "She always used to he/she answers."
+            },
+            "on": {
+              "form": "répondait",
+              "english": "used to we answer",
+              "sentence": "On répondait ensemble.",
+              "sentenceEnglish": "We used to we answer together."
+            },
+            "nous": {
+              "form": "répondions",
+              "english": "used to we answer",
+              "sentence": "Nous répondions.",
+              "sentenceEnglish": "We used to we answer."
+            },
+            "vous": {
+              "form": "répondiez",
+              "english": "used to you answer",
+              "sentence": "Vous répondiez?",
+              "sentenceEnglish": "Did you you answer?"
+            },
+            "ils/elles": {
+              "form": "répondaient",
+              "english": "used to they answer",
+              "sentence": "Ils répondaient.",
+              "sentenceEnglish": "They used to they answer."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais répondu",
+              "english": "had I answered",
+              "sentence": "J'avais répondu.",
+              "sentenceEnglish": "I had I answered."
+            },
+            "tu": {
+              "form": "avais répondu",
+              "english": "had you answered",
+              "sentence": "Tu avais répondu.",
+              "sentenceEnglish": "You had you answered."
+            },
+            "il/elle": {
+              "form": "avait répondu",
+              "english": "had he/she answersed",
+              "sentence": "Elle avait répondu.",
+              "sentenceEnglish": "She had he/she answersed."
+            },
+            "on": {
+              "form": "avait répondu",
+              "english": "had we answered",
+              "sentence": "On avait répondu.",
+              "sentenceEnglish": "We had we answered."
+            },
+            "nous": {
+              "form": "avions répondu",
+              "english": "had we answered",
+              "sentence": "Nous avions répondu.",
+              "sentenceEnglish": "We had we answered."
+            },
+            "vous": {
+              "form": "aviez répondu",
+              "english": "had you answered",
+              "sentence": "Vous aviez répondu.",
+              "sentenceEnglish": "You had you answered."
+            },
+            "ils/elles": {
+              "form": "avaient répondu",
+              "english": "had they answered",
+              "sentence": "Ils avaient répondu.",
+              "sentenceEnglish": "They had they answered."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "répondis",
+              "english": "I answered",
+              "sentence": "Je répondis.",
+              "sentenceEnglish": "I I answered."
+            },
+            "tu": {
+              "form": "répondis",
+              "english": "you answered",
+              "sentence": "Tu répondis.",
+              "sentenceEnglish": "You you answered."
+            },
+            "il/elle": {
+              "form": "répondit",
+              "english": "he/she answersed",
+              "sentence": "Il répondit.",
+              "sentenceEnglish": "He he/she answersed."
+            },
+            "on": {
+              "form": "répondit",
+              "english": "we answered",
+              "sentence": "On répondit.",
+              "sentenceEnglish": "We we answered."
+            },
+            "nous": {
+              "form": "répondîmes",
+              "english": "we answered",
+              "sentence": "Nous répondîmes.",
+              "sentenceEnglish": "We we answered."
+            },
+            "vous": {
+              "form": "répondîtes",
+              "english": "you answered",
+              "sentence": "Vous répondîtes.",
+              "sentenceEnglish": "You you answered."
+            },
+            "ils/elles": {
+              "form": "répondirent",
+              "english": "they answered",
+              "sentence": "Ils répondirent.",
+              "sentenceEnglish": "They they answered."
+            }
+          }
+        }
+      },
+      "note": "Regular past participle 'répondu'. Imparfait stem 'répond-': je répondais, tu répondais, il/elle répondait, nous répondions, vous répondiez, ils/elles répondaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "répondrai",
+              "english": "will I answer",
+              "sentence": "Je répondrai.",
+              "sentenceEnglish": "I will I answer."
+            },
+            "tu": {
+              "form": "répondras",
+              "english": "will you answer",
+              "sentence": "Tu répondras.",
+              "sentenceEnglish": "You will you answer."
+            },
+            "il/elle": {
+              "form": "répondra",
+              "english": "will he/she answers",
+              "sentence": "Il répondra.",
+              "sentenceEnglish": "He will he/she answers."
+            },
+            "on": {
+              "form": "répondra",
+              "english": "will we answer",
+              "sentence": "On répondra.",
+              "sentenceEnglish": "We will we answer."
+            },
+            "nous": {
+              "form": "répondrons",
+              "english": "will we answer",
+              "sentence": "Nous répondrons.",
+              "sentenceEnglish": "We will we answer."
+            },
+            "vous": {
+              "form": "répondrez",
+              "english": "will you answer",
+              "sentence": "Vous répondrez.",
+              "sentenceEnglish": "You will you answer."
+            },
+            "ils/elles": {
+              "form": "répondront",
+              "english": "will they answer",
+              "sentence": "Elles répondront.",
+              "sentenceEnglish": "They will they answer."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais répondre",
+              "english": "going to I answer",
+              "sentence": "Je vais répondre.",
+              "sentenceEnglish": "I am going to I answer."
+            },
+            "tu": {
+              "form": "vas répondre",
+              "english": "going to you answer",
+              "sentence": "Tu vas répondre.",
+              "sentenceEnglish": "You are going to you answer."
+            },
+            "il/elle": {
+              "form": "va répondre",
+              "english": "going to he/she answers",
+              "sentence": "Elle va répondre.",
+              "sentenceEnglish": "She is going to he/she answers."
+            },
+            "on": {
+              "form": "va répondre",
+              "english": "going to we answer",
+              "sentence": "On va répondre.",
+              "sentenceEnglish": "We are going to we answer."
+            },
+            "nous": {
+              "form": "allons répondre",
+              "english": "going to we answer",
+              "sentence": "Nous allons répondre.",
+              "sentenceEnglish": "We are going to we answer."
+            },
+            "vous": {
+              "form": "allez répondre",
+              "english": "going to you answer",
+              "sentence": "Vous allez répondre.",
+              "sentenceEnglish": "You are going to you answer."
+            },
+            "ils/elles": {
+              "form": "vont répondre",
+              "english": "going to they answer",
+              "sentence": "Ils vont répondre.",
+              "sentenceEnglish": "They are going to they answer."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai répondu",
+              "english": "will have I answered",
+              "sentence": "J'aurai répondu.",
+              "sentenceEnglish": "I will have I answered."
+            },
+            "tu": {
+              "form": "auras répondu",
+              "english": "will have you answered",
+              "sentence": "Tu auras répondu.",
+              "sentenceEnglish": "You will have you answered."
+            },
+            "il/elle": {
+              "form": "aura répondu",
+              "english": "will have he/she answersed",
+              "sentence": "Elle aura répondu.",
+              "sentenceEnglish": "She will have he/she answersed."
+            },
+            "on": {
+              "form": "aura répondu",
+              "english": "will have we answered",
+              "sentence": "On aura répondu.",
+              "sentenceEnglish": "We will have we answered."
+            },
+            "nous": {
+              "form": "aurons répondu",
+              "english": "will have we answered",
+              "sentence": "Nous aurons répondu.",
+              "sentenceEnglish": "We will have we answered."
+            },
+            "vous": {
+              "form": "aurez répondu",
+              "english": "will have you answered",
+              "sentence": "Vous aurez répondu.",
+              "sentenceEnglish": "You will have you answered."
+            },
+            "ils/elles": {
+              "form": "auront répondu",
+              "english": "will have they answered",
+              "sentence": "Ils auront répondu.",
+              "sentenceEnglish": "They will have they answered."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'répondr-': je répondrai, tu répondras, il/elle répondra, nous répondrons, vous répondrez, ils/elles répondront"
+    }
+  }
+}

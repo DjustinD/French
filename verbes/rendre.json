@@ -1,0 +1,460 @@
+{
+  "infinitive": "rendre",
+  "english": "to return / to give back",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "rends",
+              "english": "I return",
+              "sentence": "Je rends le livre.",
+              "sentenceEnglish": "I return the book."
+            },
+            "tu": {
+              "form": "rends",
+              "english": "you return",
+              "sentence": "Tu rends visite?",
+              "sentenceEnglish": "Are you visiting?"
+            },
+            "il/elle": {
+              "form": "rend",
+              "english": "he/she returns",
+              "sentence": "Elle rend son devoir.",
+              "sentenceEnglish": "She returns her homework."
+            },
+            "on": {
+              "form": "rend",
+              "english": "we return",
+              "sentence": "On rend l'argent.",
+              "sentenceEnglish": "We return the money."
+            },
+            "nous": {
+              "form": "rendons",
+              "english": "we return",
+              "sentence": "Nous rendons les clés.",
+              "sentenceEnglish": "We return the keys."
+            },
+            "vous": {
+              "form": "rendez",
+              "english": "you return",
+              "sentence": "Vous rendez service?",
+              "sentenceEnglish": "Are you helping?"
+            },
+            "ils/elles": {
+              "form": "rendent",
+              "english": "they return",
+              "sentence": "Ils rendent les livres.",
+              "sentenceEnglish": "They return the books."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de rendre",
+              "english": "I returning",
+              "sentence": "Je suis en train de rendre.",
+              "sentenceEnglish": "I returning."
+            },
+            "tu": {
+              "form": "es en train de rendre",
+              "english": "you returning",
+              "sentence": "Tu es en train de rendre.",
+              "sentenceEnglish": "you returning."
+            },
+            "il/elle": {
+              "form": "est en train de rendre",
+              "english": "he/she returnsing",
+              "sentence": "Elle est en train de rendre.",
+              "sentenceEnglish": "he/she returnsing."
+            },
+            "on": {
+              "form": "est en train de rendre",
+              "english": "we returning",
+              "sentence": "On est en train de rendre.",
+              "sentenceEnglish": "we returning."
+            },
+            "nous": {
+              "form": "sommes en train de rendre",
+              "english": "we returning",
+              "sentence": "Nous sommes en train de rendre.",
+              "sentenceEnglish": "we returning."
+            },
+            "vous": {
+              "form": "êtes en train de rendre",
+              "english": "you returning",
+              "sentence": "Vous êtes en train de rendre.",
+              "sentenceEnglish": "you returning."
+            },
+            "ils/elles": {
+              "form": "sont en train de rendre",
+              "english": "they returning",
+              "sentence": "Ils sont en train de rendre.",
+              "sentenceEnglish": "they returning."
+            }
+          }
+        }
+      },
+      "note": "Regular -re verb. Pattern: je rends, tu rends, il/elle rend, nous rendons, vous rendez, ils/elles rendent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai rendu",
+              "english": "I returned",
+              "sentence": "J'ai rendu.",
+              "sentenceEnglish": "I returned."
+            },
+            "tu": {
+              "form": "as rendu",
+              "english": "you returned",
+              "sentence": "Tu as rendu.",
+              "sentenceEnglish": "you returned."
+            },
+            "il/elle": {
+              "form": "a rendu",
+              "english": "he/she returnsed",
+              "sentence": "Elle a rendu.",
+              "sentenceEnglish": "he/she returnsed."
+            },
+            "on": {
+              "form": "a rendu",
+              "english": "we returned",
+              "sentence": "On a rendu.",
+              "sentenceEnglish": "we returned."
+            },
+            "nous": {
+              "form": "avons rendu",
+              "english": "we returned",
+              "sentence": "Nous avons rendu.",
+              "sentenceEnglish": "we returned."
+            },
+            "vous": {
+              "form": "avez rendu",
+              "english": "you returned",
+              "sentence": "Vous avez rendu.",
+              "sentenceEnglish": "you returned."
+            },
+            "ils/elles": {
+              "form": "ont rendu",
+              "english": "they returned",
+              "sentence": "Ils ont rendu.",
+              "sentenceEnglish": "they returned."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "rendais",
+              "english": "used to I return",
+              "sentence": "Je rendais souvent.",
+              "sentenceEnglish": "I used to I return often."
+            },
+            "tu": {
+              "form": "rendais",
+              "english": "used to you return",
+              "sentence": "Tu rendais?",
+              "sentenceEnglish": "Did you you return?"
+            },
+            "il/elle": {
+              "form": "rendait",
+              "english": "used to he/she returns",
+              "sentence": "Elle rendait toujours.",
+              "sentenceEnglish": "She always used to he/she returns."
+            },
+            "on": {
+              "form": "rendait",
+              "english": "used to we return",
+              "sentence": "On rendait ensemble.",
+              "sentenceEnglish": "We used to we return together."
+            },
+            "nous": {
+              "form": "rendions",
+              "english": "used to we return",
+              "sentence": "Nous rendions.",
+              "sentenceEnglish": "We used to we return."
+            },
+            "vous": {
+              "form": "rendiez",
+              "english": "used to you return",
+              "sentence": "Vous rendiez?",
+              "sentenceEnglish": "Did you you return?"
+            },
+            "ils/elles": {
+              "form": "rendaient",
+              "english": "used to they return",
+              "sentence": "Ils rendaient.",
+              "sentenceEnglish": "They used to they return."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais rendu",
+              "english": "had I returned",
+              "sentence": "J'avais rendu.",
+              "sentenceEnglish": "I had I returned."
+            },
+            "tu": {
+              "form": "avais rendu",
+              "english": "had you returned",
+              "sentence": "Tu avais rendu.",
+              "sentenceEnglish": "You had you returned."
+            },
+            "il/elle": {
+              "form": "avait rendu",
+              "english": "had he/she returnsed",
+              "sentence": "Elle avait rendu.",
+              "sentenceEnglish": "She had he/she returnsed."
+            },
+            "on": {
+              "form": "avait rendu",
+              "english": "had we returned",
+              "sentence": "On avait rendu.",
+              "sentenceEnglish": "We had we returned."
+            },
+            "nous": {
+              "form": "avions rendu",
+              "english": "had we returned",
+              "sentence": "Nous avions rendu.",
+              "sentenceEnglish": "We had we returned."
+            },
+            "vous": {
+              "form": "aviez rendu",
+              "english": "had you returned",
+              "sentence": "Vous aviez rendu.",
+              "sentenceEnglish": "You had you returned."
+            },
+            "ils/elles": {
+              "form": "avaient rendu",
+              "english": "had they returned",
+              "sentence": "Ils avaient rendu.",
+              "sentenceEnglish": "They had they returned."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "rendis",
+              "english": "I returned",
+              "sentence": "Je rendis.",
+              "sentenceEnglish": "I I returned."
+            },
+            "tu": {
+              "form": "rendis",
+              "english": "you returned",
+              "sentence": "Tu rendis.",
+              "sentenceEnglish": "You you returned."
+            },
+            "il/elle": {
+              "form": "rendit",
+              "english": "he/she returnsed",
+              "sentence": "Il rendit.",
+              "sentenceEnglish": "He he/she returnsed."
+            },
+            "on": {
+              "form": "rendit",
+              "english": "we returned",
+              "sentence": "On rendit.",
+              "sentenceEnglish": "We we returned."
+            },
+            "nous": {
+              "form": "rendîmes",
+              "english": "we returned",
+              "sentence": "Nous rendîmes.",
+              "sentenceEnglish": "We we returned."
+            },
+            "vous": {
+              "form": "rendîtes",
+              "english": "you returned",
+              "sentence": "Vous rendîtes.",
+              "sentenceEnglish": "You you returned."
+            },
+            "ils/elles": {
+              "form": "rendirent",
+              "english": "they returned",
+              "sentence": "Ils rendirent.",
+              "sentenceEnglish": "They they returned."
+            }
+          }
+        }
+      },
+      "note": "Regular past participle 'rendu'. Imparfait stem 'rend-': je rendais, tu rendais, il/elle rendait, nous rendions, vous rendiez, ils/elles rendaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "rendrai",
+              "english": "will I return",
+              "sentence": "Je rendrai.",
+              "sentenceEnglish": "I will I return."
+            },
+            "tu": {
+              "form": "rendras",
+              "english": "will you return",
+              "sentence": "Tu rendras.",
+              "sentenceEnglish": "You will you return."
+            },
+            "il/elle": {
+              "form": "rendra",
+              "english": "will he/she returns",
+              "sentence": "Il rendra.",
+              "sentenceEnglish": "He will he/she returns."
+            },
+            "on": {
+              "form": "rendra",
+              "english": "will we return",
+              "sentence": "On rendra.",
+              "sentenceEnglish": "We will we return."
+            },
+            "nous": {
+              "form": "rendrons",
+              "english": "will we return",
+              "sentence": "Nous rendrons.",
+              "sentenceEnglish": "We will we return."
+            },
+            "vous": {
+              "form": "rendrez",
+              "english": "will you return",
+              "sentence": "Vous rendrez.",
+              "sentenceEnglish": "You will you return."
+            },
+            "ils/elles": {
+              "form": "rendront",
+              "english": "will they return",
+              "sentence": "Elles rendront.",
+              "sentenceEnglish": "They will they return."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais rendre",
+              "english": "going to I return",
+              "sentence": "Je vais rendre.",
+              "sentenceEnglish": "I am going to I return."
+            },
+            "tu": {
+              "form": "vas rendre",
+              "english": "going to you return",
+              "sentence": "Tu vas rendre.",
+              "sentenceEnglish": "You are going to you return."
+            },
+            "il/elle": {
+              "form": "va rendre",
+              "english": "going to he/she returns",
+              "sentence": "Elle va rendre.",
+              "sentenceEnglish": "She is going to he/she returns."
+            },
+            "on": {
+              "form": "va rendre",
+              "english": "going to we return",
+              "sentence": "On va rendre.",
+              "sentenceEnglish": "We are going to we return."
+            },
+            "nous": {
+              "form": "allons rendre",
+              "english": "going to we return",
+              "sentence": "Nous allons rendre.",
+              "sentenceEnglish": "We are going to we return."
+            },
+            "vous": {
+              "form": "allez rendre",
+              "english": "going to you return",
+              "sentence": "Vous allez rendre.",
+              "sentenceEnglish": "You are going to you return."
+            },
+            "ils/elles": {
+              "form": "vont rendre",
+              "english": "going to they return",
+              "sentence": "Ils vont rendre.",
+              "sentenceEnglish": "They are going to they return."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai rendu",
+              "english": "will have I returned",
+              "sentence": "J'aurai rendu.",
+              "sentenceEnglish": "I will have I returned."
+            },
+            "tu": {
+              "form": "auras rendu",
+              "english": "will have you returned",
+              "sentence": "Tu auras rendu.",
+              "sentenceEnglish": "You will have you returned."
+            },
+            "il/elle": {
+              "form": "aura rendu",
+              "english": "will have he/she returnsed",
+              "sentence": "Elle aura rendu.",
+              "sentenceEnglish": "She will have he/she returnsed."
+            },
+            "on": {
+              "form": "aura rendu",
+              "english": "will have we returned",
+              "sentence": "On aura rendu.",
+              "sentenceEnglish": "We will have we returned."
+            },
+            "nous": {
+              "form": "aurons rendu",
+              "english": "will have we returned",
+              "sentence": "Nous aurons rendu.",
+              "sentenceEnglish": "We will have we returned."
+            },
+            "vous": {
+              "form": "aurez rendu",
+              "english": "will have you returned",
+              "sentence": "Vous aurez rendu.",
+              "sentenceEnglish": "You will have you returned."
+            },
+            "ils/elles": {
+              "form": "auront rendu",
+              "english": "will have they returned",
+              "sentence": "Ils auront rendu.",
+              "sentenceEnglish": "They will have they returned."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'rendr-': je rendrai, tu rendras, il/elle rendra, nous rendrons, vous rendrez, ils/elles rendront"
+    }
+  }
+}

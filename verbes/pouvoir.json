@@ -1,0 +1,145 @@
+{
+  "infinitive": "pouvoir",
+  "english": "to be able to / can",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": { "form": "peux", "english": "I can / I am able to", "sentence": "Je peux venir.", "sentenceEnglish": "I can come." },
+            "tu": { "form": "peux", "english": "you can / you are able to", "sentence": "Tu peux m'aider?", "sentenceEnglish": "Can you help me?" },
+            "il/elle": { "form": "peut", "english": "he/she can / is able to", "sentence": "Elle peut nager.", "sentenceEnglish": "She can swim." },
+            "on": { "form": "peut", "english": "we can / we are able to", "sentence": "On peut partir.", "sentenceEnglish": "We can leave." },
+            "nous": { "form": "pouvons", "english": "we can / we are able to", "sentence": "Nous pouvons réussir.", "sentenceEnglish": "We can succeed." },
+            "vous": { "form": "pouvez", "english": "you can / you are able to", "sentence": "Vous pouvez entrer.", "sentenceEnglish": "You can enter." },
+            "ils/elles": { "form": "peuvent", "english": "they can / they are able to", "sentence": "Ils peuvent attendre.", "sentenceEnglish": "They can wait." }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": { "form": "suis en train de pouvoir", "english": "I am being able to", "sentence": "Je suis en train de pouvoir comprendre.", "sentenceEnglish": "I am being able to understand." },
+            "tu": { "form": "es en train de pouvoir", "english": "you are being able to", "sentence": "Tu es en train de pouvoir y arriver.", "sentenceEnglish": "You are being able to manage it." },
+            "il/elle": { "form": "est en train de pouvoir", "english": "he/she is being able to", "sentence": "Elle est en train de pouvoir marcher.", "sentenceEnglish": "She is being able to walk." },
+            "on": { "form": "est en train de pouvoir", "english": "we are being able to", "sentence": "On est en train de pouvoir finir.", "sentenceEnglish": "We are being able to finish." },
+            "nous": { "form": "sommes en train de pouvoir", "english": "we are being able to", "sentence": "Nous sommes en train de pouvoir réussir.", "sentenceEnglish": "We are being able to succeed." },
+            "vous": { "form": "êtes en train de pouvoir", "english": "you are being able to", "sentence": "Vous êtes en train de pouvoir comprendre?", "sentenceEnglish": "Are you being able to understand?" },
+            "ils/elles": { "form": "sont en train de pouvoir", "english": "they are being able to", "sentence": "Ils sont en train de pouvoir partir.", "sentenceEnglish": "They are being able to leave." }
+          }
+        }
+      },
+      "note": "Highly irregular verb. Must be memorized: je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed actions with present relevance",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "ai pu", "english": "I could / I was able to / I have been able to", "sentence": "J'ai pu venir.", "sentenceEnglish": "I was able to come." },
+            "tu": { "form": "as pu", "english": "you could / you were able to / you have been able to", "sentence": "Tu as pu finir?", "sentenceEnglish": "Were you able to finish?" },
+            "il/elle": { "form": "a pu", "english": "he/she could / was able to / has been able to", "sentence": "Elle a pu réussir.", "sentenceEnglish": "She was able to succeed." },
+            "on": { "form": "a pu", "english": "we could / we were able to / we have been able to", "sentence": "On a pu partir.", "sentenceEnglish": "We were able to leave." },
+            "nous": { "form": "avons pu", "english": "we could / we were able to / we have been able to", "sentence": "Nous avons pu l'aider.", "sentenceEnglish": "We were able to help him." },
+            "vous": { "form": "avez pu", "english": "you could / you were able to / you have been able to", "sentence": "Vous avez pu trouver?", "sentenceEnglish": "Were you able to find it?" },
+            "ils/elles": { "form": "ont pu", "english": "they could / they were able to / they have been able to", "sentence": "Ils ont pu entrer.", "sentenceEnglish": "They were able to enter." }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Ongoing or habitual actions in the past",
+          "forms": {
+            "je": { "form": "pouvais", "english": "I could / I was able to / I used to be able to", "sentence": "Je pouvais courir vite.", "sentenceEnglish": "I could run fast." },
+            "tu": { "form": "pouvais", "english": "you could / you were able to / you used to be able to", "sentence": "Tu pouvais venir?", "sentenceEnglish": "Could you come?" },
+            "il/elle": { "form": "pouvait", "english": "he/she could / was able to / used to be able to", "sentence": "Elle pouvait nager.", "sentenceEnglish": "She could swim." },
+            "on": { "form": "pouvait", "english": "we could / we were able to / we used to be able to", "sentence": "On pouvait partir.", "sentenceEnglish": "We could leave." },
+            "nous": { "form": "pouvions", "english": "we could / we were able to / we used to be able to", "sentence": "Nous pouvions réussir.", "sentenceEnglish": "We could succeed." },
+            "vous": { "form": "pouviez", "english": "you could / you were able to / you used to be able to", "sentence": "Vous pouviez m'aider?", "sentenceEnglish": "Could you help me?" },
+            "ils/elles": { "form": "pouvaient", "english": "they could / they were able to / they used to be able to", "sentence": "Ils pouvaient attendre.", "sentenceEnglish": "They could wait." }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Actions completed before another past action",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "avais pu", "english": "I had been able to", "sentence": "J'avais pu venir.", "sentenceEnglish": "I had been able to come." },
+            "tu": { "form": "avais pu", "english": "you had been able to", "sentence": "Tu avais pu finir?", "sentenceEnglish": "Had you been able to finish?" },
+            "il/elle": { "form": "avait pu", "english": "he/she had been able to", "sentence": "Elle avait pu réussir.", "sentenceEnglish": "She had been able to succeed." },
+            "on": { "form": "avait pu", "english": "we had been able to", "sentence": "On avait pu partir.", "sentenceEnglish": "We had been able to leave." },
+            "nous": { "form": "avions pu", "english": "we had been able to", "sentence": "Nous avions pu l'aider.", "sentenceEnglish": "We had been able to help him." },
+            "vous": { "form": "aviez pu", "english": "you had been able to", "sentence": "Vous aviez pu trouver?", "sentenceEnglish": "Had you been able to find it?" },
+            "ils/elles": { "form": "avaient pu", "english": "they had been able to", "sentence": "Ils avaient pu entrer.", "sentenceEnglish": "They had been able to enter." }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": { "form": "pus", "english": "I could / I was able to", "sentence": "Je pus venir.", "sentenceEnglish": "I was able to come." },
+            "tu": { "form": "pus", "english": "you could / you were able to", "sentence": "Tu pus finir?", "sentenceEnglish": "Were you able to finish?" },
+            "il/elle": { "form": "put", "english": "he/she could / was able to", "sentence": "Elle put réussir.", "sentenceEnglish": "She was able to succeed." },
+            "on": { "form": "put", "english": "we could / we were able to", "sentence": "On put partir.", "sentenceEnglish": "We were able to leave." },
+            "nous": { "form": "pûmes", "english": "we could / we were able to", "sentence": "Nous pûmes l'aider.", "sentenceEnglish": "We were able to help him." },
+            "vous": { "form": "pûtes", "english": "you could / you were able to", "sentence": "Vous pûtes trouver?", "sentenceEnglish": "Were you able to find it?" },
+            "ils/elles": { "form": "purent", "english": "they could / they were able to", "sentence": "Ils purent entrer.", "sentenceEnglish": "They were able to enter." }
+          }
+        }
+      },
+      "note": "Irregular imparfait stem 'pouv-' (from 'nous pouvons')"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Actions that will happen",
+          "forms": {
+            "je": { "form": "pourrai", "english": "I will be able to / I will can", "sentence": "Je pourrai venir.", "sentenceEnglish": "I will be able to come." },
+            "tu": { "form": "pourras", "english": "you will be able to / you will can", "sentence": "Tu pourras m'aider?", "sentenceEnglish": "Will you be able to help me?" },
+            "il/elle": { "form": "pourra", "english": "he/she will be able to / will can", "sentence": "Il pourra nager.", "sentenceEnglish": "He will be able to swim." },
+            "on": { "form": "pourra", "english": "we will be able to / we will can", "sentence": "On pourra partir.", "sentenceEnglish": "We will be able to leave." },
+            "nous": { "form": "pourrons", "english": "we will be able to / we will can", "sentence": "Nous pourrons réussir.", "sentenceEnglish": "We will be able to succeed." },
+            "vous": { "form": "pourrez", "english": "you will be able to / you will can", "sentence": "Vous pourrez entrer.", "sentenceEnglish": "You will be able to enter." },
+            "ils/elles": { "form": "pourront", "english": "they will be able to / they will can", "sentence": "Elles pourront attendre.", "sentenceEnglish": "They will be able to wait." }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future actions",
+          "forms": {
+            "je": { "form": "vais pouvoir", "english": "I am going to be able to", "sentence": "Je vais pouvoir venir.", "sentenceEnglish": "I am going to be able to come." },
+            "tu": { "form": "vas pouvoir", "english": "you are going to be able to", "sentence": "Tu vas pouvoir m'aider?", "sentenceEnglish": "Are you going to be able to help me?" },
+            "il/elle": { "form": "va pouvoir", "english": "he/she is going to be able to", "sentence": "Il va pouvoir nager.", "sentenceEnglish": "He is going to be able to swim." },
+            "on": { "form": "va pouvoir", "english": "we are going to be able to", "sentence": "On va pouvoir partir.", "sentenceEnglish": "We are going to be able to leave." },
+            "nous": { "form": "allons pouvoir", "english": "we are going to be able to", "sentence": "Nous allons pouvoir réussir.", "sentenceEnglish": "We are going to be able to succeed." },
+            "vous": { "form": "allez pouvoir", "english": "you are going to be able to", "sentence": "Vous allez pouvoir entrer.", "sentenceEnglish": "You are going to be able to enter." },
+            "ils/elles": { "form": "vont pouvoir", "english": "they are going to be able to", "sentence": "Ils vont pouvoir attendre.", "sentenceEnglish": "They are going to be able to wait." }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Actions that will be completed by a future time",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": { "form": "aurai pu", "english": "I will have been able to", "sentence": "J'aurai pu venir.", "sentenceEnglish": "I will have been able to come." },
+            "tu": { "form": "auras pu", "english": "you will have been able to", "sentence": "Tu auras pu finir?", "sentenceEnglish": "Will you have been able to finish?" },
+            "il/elle": { "form": "aura pu", "english": "he/she will have been able to", "sentence": "Elle aura pu réussir.", "sentenceEnglish": "She will have been able to succeed." },
+            "on": { "form": "aura pu", "english": "we will have been able to", "sentence": "On aura pu partir.", "sentenceEnglish": "We will have been able to leave." },
+            "nous": { "form": "aurons pu", "english": "we will have been able to", "sentence": "Nous aurons pu l'aider.", "sentenceEnglish": "We will have been able to help him." },
+            "vous": { "form": "aurez pu", "english": "you will have been able to", "sentence": "Vous aurez pu trouver?", "sentenceEnglish": "Will you have been able to find it?" },
+            "ils/elles": { "form": "auront pu", "english": "they will have been able to", "sentence": "Ils auront pu entrer.", "sentenceEnglish": "They will have been able to enter." }
+          }
+        }
+      },
+      "note": "Irregular future stem 'pourr-'"
+    }
+  }
+}

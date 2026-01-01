@@ -1,0 +1,460 @@
+{
+  "infinitive": "tomber",
+  "english": "to fall",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "tombe",
+              "english": "I fall",
+              "sentence": "Je tombe souvent.",
+              "sentenceEnglish": "I often fall."
+            },
+            "tu": {
+              "form": "tombes",
+              "english": "you fall",
+              "sentence": "Tu tombes?",
+              "sentenceEnglish": "Are you falling?"
+            },
+            "il/elle": {
+              "form": "tombe",
+              "english": "he/she falls",
+              "sentence": "Elle tombe dans les escaliers.",
+              "sentenceEnglish": "She falls on the stairs."
+            },
+            "on": {
+              "form": "tombe",
+              "english": "we fall",
+              "sentence": "On tombe amoureux.",
+              "sentenceEnglish": "We fall in love."
+            },
+            "nous": {
+              "form": "tombons",
+              "english": "we fall",
+              "sentence": "Nous tombons ensemble.",
+              "sentenceEnglish": "We fall together."
+            },
+            "vous": {
+              "form": "tombez",
+              "english": "you fall",
+              "sentence": "Vous tombez souvent?",
+              "sentenceEnglish": "Do you fall often?"
+            },
+            "ils/elles": {
+              "form": "tombent",
+              "english": "they fall",
+              "sentence": "Ils tombent par terre.",
+              "sentenceEnglish": "They fall to the ground."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "suis en train de tomber",
+              "english": "I am falling",
+              "sentence": "Je suis en train de tomber!",
+              "sentenceEnglish": "I am falling!"
+            },
+            "tu": {
+              "form": "es en train de tomber",
+              "english": "you are falling",
+              "sentence": "Tu es en train de tomber!",
+              "sentenceEnglish": "You are falling!"
+            },
+            "il/elle": {
+              "form": "est en train de tomber",
+              "english": "he/she is falling",
+              "sentence": "Elle est en train de tomber!",
+              "sentenceEnglish": "She is falling!"
+            },
+            "on": {
+              "form": "est en train de tomber",
+              "english": "we are falling",
+              "sentence": "On est en train de tomber!",
+              "sentenceEnglish": "We are falling!"
+            },
+            "nous": {
+              "form": "sommes en train de tomber",
+              "english": "we are falling",
+              "sentence": "Nous sommes en train de tomber!",
+              "sentenceEnglish": "We are falling!"
+            },
+            "vous": {
+              "form": "êtes en train de tomber",
+              "english": "you are falling",
+              "sentence": "Vous êtes en train de tomber!",
+              "sentenceEnglish": "You are falling!"
+            },
+            "ils/elles": {
+              "form": "sont en train de tomber",
+              "english": "they are falling",
+              "sentence": "Ils sont en train de tomber!",
+              "sentenceEnglish": "They are falling!"
+            }
+          }
+        }
+      },
+      "note": "Regular -er verb. Pattern: je tombe, tu tombes, il/elle tombe, nous tombons, vous tombez, ils/elles tombent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "être",
+          "forms": {
+            "je": {
+              "form": "suis tombé(e)",
+              "english": "I fell / I have fallen",
+              "sentence": "Je suis tombé dans les escaliers.",
+              "sentenceEnglish": "I fell on the stairs."
+            },
+            "tu": {
+              "form": "es tombé(e)",
+              "english": "you fell / you have fallen",
+              "sentence": "Tu es tombé?",
+              "sentenceEnglish": "Did you fall?"
+            },
+            "il/elle": {
+              "form": "est tombé/tombée",
+              "english": "he/she fell / has fallen",
+              "sentence": "Elle est tombée malade.",
+              "sentenceEnglish": "She fell ill."
+            },
+            "on": {
+              "form": "est tombé(s)",
+              "english": "we fell / we have fallen",
+              "sentence": "On est tombés amoureux.",
+              "sentenceEnglish": "We fell in love."
+            },
+            "nous": {
+              "form": "sommes tombé(e)s",
+              "english": "we fell / we have fallen",
+              "sentence": "Nous sommes tombés par terre.",
+              "sentenceEnglish": "We fell to the ground."
+            },
+            "vous": {
+              "form": "êtes tombé(e)(s)",
+              "english": "you fell / you have fallen",
+              "sentence": "Vous êtes tombés?",
+              "sentenceEnglish": "Did you fall?"
+            },
+            "ils/elles": {
+              "form": "sont tombés/tombées",
+              "english": "they fell / they have fallen",
+              "sentence": "Ils sont tombés dans l'eau.",
+              "sentenceEnglish": "They fell in the water."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "tombais",
+              "english": "I fell / I was falling / I used to fall",
+              "sentence": "Je tombais souvent.",
+              "sentenceEnglish": "I used to fall often."
+            },
+            "tu": {
+              "form": "tombais",
+              "english": "you fell / you were falling / you used to fall",
+              "sentence": "Tu tombais souvent?",
+              "sentenceEnglish": "Did you fall often?"
+            },
+            "il/elle": {
+              "form": "tombait",
+              "english": "he/she fell / was falling / used to fall",
+              "sentence": "Elle tombait tous les jours.",
+              "sentenceEnglish": "She used to fall every day."
+            },
+            "on": {
+              "form": "tombait",
+              "english": "we fell / we were falling / we used to fall",
+              "sentence": "On tombait par terre.",
+              "sentenceEnglish": "We used to fall to the ground."
+            },
+            "nous": {
+              "form": "tombions",
+              "english": "we fell / we were falling / we used to fall",
+              "sentence": "Nous tombions souvent.",
+              "sentenceEnglish": "We used to fall often."
+            },
+            "vous": {
+              "form": "tombiez",
+              "english": "you fell / you were falling / you used to fall",
+              "sentence": "Vous tombiez souvent?",
+              "sentenceEnglish": "Did you fall often?"
+            },
+            "ils/elles": {
+              "form": "tombaient",
+              "english": "they fell / they were falling / they used to fall",
+              "sentence": "Ils tombaient malade.",
+              "sentenceEnglish": "They used to fall ill."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "être",
+          "forms": {
+            "je": {
+              "form": "étais tombé(e)",
+              "english": "I had fallen",
+              "sentence": "J'étais tombé par terre.",
+              "sentenceEnglish": "I had fallen to the ground."
+            },
+            "tu": {
+              "form": "étais tombé(e)",
+              "english": "you had fallen",
+              "sentence": "Tu étais tombé?",
+              "sentenceEnglish": "Had you fallen?"
+            },
+            "il/elle": {
+              "form": "était tombé/tombée",
+              "english": "he/she had fallen",
+              "sentence": "Elle était tombée malade.",
+              "sentenceEnglish": "She had fallen ill."
+            },
+            "on": {
+              "form": "était tombé(s)",
+              "english": "we had fallen",
+              "sentence": "On était tombés amoureux.",
+              "sentenceEnglish": "We had fallen in love."
+            },
+            "nous": {
+              "form": "étions tombé(e)s",
+              "english": "we had fallen",
+              "sentence": "Nous étions tombés.",
+              "sentenceEnglish": "We had fallen."
+            },
+            "vous": {
+              "form": "étiez tombé(e)(s)",
+              "english": "you had fallen",
+              "sentence": "Vous étiez tombés?",
+              "sentenceEnglish": "Had you fallen?"
+            },
+            "ils/elles": {
+              "form": "étaient tombés/tombées",
+              "english": "they had fallen",
+              "sentence": "Ils étaient tombés par terre.",
+              "sentenceEnglish": "They had fallen to the ground."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "tombai",
+              "english": "I fell",
+              "sentence": "Je tombai par terre.",
+              "sentenceEnglish": "I fell to the ground."
+            },
+            "tu": {
+              "form": "tombas",
+              "english": "you fell",
+              "sentence": "Tu tombas malade.",
+              "sentenceEnglish": "You fell ill."
+            },
+            "il/elle": {
+              "form": "tomba",
+              "english": "he/she fell",
+              "sentence": "Il tomba amoureux.",
+              "sentenceEnglish": "He fell in love."
+            },
+            "on": {
+              "form": "tomba",
+              "english": "we fell",
+              "sentence": "On tomba ensemble.",
+              "sentenceEnglish": "We fell together."
+            },
+            "nous": {
+              "form": "tombâmes",
+              "english": "we fell",
+              "sentence": "Nous tombâmes.",
+              "sentenceEnglish": "We fell."
+            },
+            "vous": {
+              "form": "tombâtes",
+              "english": "you fell",
+              "sentence": "Vous tombâtes.",
+              "sentenceEnglish": "You fell."
+            },
+            "ils/elles": {
+              "form": "tombèrent",
+              "english": "they fell",
+              "sentence": "Ils tombèrent par terre.",
+              "sentenceEnglish": "They fell to the ground."
+            }
+          }
+        }
+      },
+      "note": "Regular past participle 'tombé'. Uses ÊTRE as auxiliary. Imparfait stem 'tomb-' (from infinitive): je tombais, tu tombais, il/elle tombait, nous tombions, vous tombiez, ils/elles tombaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "tomberai",
+              "english": "I will fall",
+              "sentence": "Je tomberai.",
+              "sentenceEnglish": "I will fall."
+            },
+            "tu": {
+              "form": "tomberas",
+              "english": "you will fall",
+              "sentence": "Tu tomberas?",
+              "sentenceEnglish": "Will you fall?"
+            },
+            "il/elle": {
+              "form": "tombera",
+              "english": "he/she will fall",
+              "sentence": "Il tombera malade.",
+              "sentenceEnglish": "He will fall ill."
+            },
+            "on": {
+              "form": "tombera",
+              "english": "we will fall",
+              "sentence": "On tombera amoureux.",
+              "sentenceEnglish": "We will fall in love."
+            },
+            "nous": {
+              "form": "tomberons",
+              "english": "we will fall",
+              "sentence": "Nous tomberons.",
+              "sentenceEnglish": "We will fall."
+            },
+            "vous": {
+              "form": "tomberez",
+              "english": "you will fall",
+              "sentence": "Vous tomberez?",
+              "sentenceEnglish": "Will you fall?"
+            },
+            "ils/elles": {
+              "form": "tomberont",
+              "english": "they will fall",
+              "sentence": "Elles tomberont par terre.",
+              "sentenceEnglish": "They will fall to the ground."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "vais tomber",
+              "english": "I am going to fall",
+              "sentence": "Je vais tomber!",
+              "sentenceEnglish": "I am going to fall!"
+            },
+            "tu": {
+              "form": "vas tomber",
+              "english": "you are going to fall",
+              "sentence": "Tu vas tomber!",
+              "sentenceEnglish": "You are going to fall!"
+            },
+            "il/elle": {
+              "form": "va tomber",
+              "english": "he/she is going to fall",
+              "sentence": "Elle va tomber malade.",
+              "sentenceEnglish": "She is going to fall ill."
+            },
+            "on": {
+              "form": "va tomber",
+              "english": "we are going to fall",
+              "sentence": "On va tomber amoureux.",
+              "sentenceEnglish": "We are going to fall in love."
+            },
+            "nous": {
+              "form": "allons tomber",
+              "english": "we are going to fall",
+              "sentence": "Nous allons tomber.",
+              "sentenceEnglish": "We are going to fall."
+            },
+            "vous": {
+              "form": "allez tomber",
+              "english": "you are going to fall",
+              "sentence": "Vous allez tomber?",
+              "sentenceEnglish": "Are you going to fall?"
+            },
+            "ils/elles": {
+              "form": "vont tomber",
+              "english": "they are going to fall",
+              "sentence": "Ils vont tomber.",
+              "sentenceEnglish": "They are going to fall."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "être",
+          "forms": {
+            "je": {
+              "form": "serai tombé(e)",
+              "english": "I will have fallen",
+              "sentence": "Je serai tombé.",
+              "sentenceEnglish": "I will have fallen."
+            },
+            "tu": {
+              "form": "seras tombé(e)",
+              "english": "you will have fallen",
+              "sentence": "Tu seras tombé?",
+              "sentenceEnglish": "Will you have fallen?"
+            },
+            "il/elle": {
+              "form": "sera tombé/tombée",
+              "english": "he/she will have fallen",
+              "sentence": "Elle sera tombée malade.",
+              "sentenceEnglish": "She will have fallen ill."
+            },
+            "on": {
+              "form": "sera tombé(s)",
+              "english": "we will have fallen",
+              "sentence": "On sera tombés amoureux.",
+              "sentenceEnglish": "We will have fallen in love."
+            },
+            "nous": {
+              "form": "serons tombé(e)s",
+              "english": "we will have fallen",
+              "sentence": "Nous serons tombés.",
+              "sentenceEnglish": "We will have fallen."
+            },
+            "vous": {
+              "form": "serez tombé(e)(s)",
+              "english": "you will have fallen",
+              "sentence": "Vous serez tombés?",
+              "sentenceEnglish": "Will you have fallen?"
+            },
+            "ils/elles": {
+              "form": "seront tombés/tombées",
+              "english": "they will have fallen",
+              "sentence": "Ils seront tombés.",
+              "sentenceEnglish": "They will have fallen."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'tomber-': je tomberai, tu tomberas, il/elle tombera, nous tomberons, vous tomberez, ils/elles tomberont"
+    }
+  }
+}
