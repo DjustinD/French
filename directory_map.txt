@@ -22,29 +22,53 @@
 ├── verbes
 │   ├── aimer.json
 │   ├── aller.json
+│   ├── apprendre.json
+│   ├── arriver.json
 │   ├── attendre.json
 │   ├── avoir.json
+│   ├── boire.json
+│   ├── choisir.json
+│   ├── commencer.json
+│   ├── comprendre.json
 │   ├── connaître.json
 │   ├── croire.json
 │   ├── demander.json
 │   ├── devoir.json
 │   ├── dire.json
 │   ├── donner.json
+│   ├── entendre.json
 │   ├── faire.json
+│   ├── fermer.json
+│   ├── laisser.json
+│   ├── lire.json
+│   ├── manger.json
 │   ├── mettre.json
+│   ├── offrir.json
+│   ├── ouvrir.json
 │   ├── parler.json
 │   ├── partir.json
+│   ├── passer.json
 │   ├── penser.json
+│   ├── perdre.json
 │   ├── pouvoir.json
 │   ├── prendre.json
 │   ├── regarder.json
+│   ├── rendre.json
+│   ├── rester.json
+│   ├── répondre.json
 │   ├── savoir.json
+│   ├── sembler.json
+│   ├── sortir.json
+│   ├── suivre.json
+│   ├── tenir.json
+│   ├── tomber.json
 │   ├── travailler.json
 │   ├── trouver.json
 │   ├── venir.json
 │   ├── vivre.json
 │   ├── voir.json
 │   ├── vouloir.json
+│   ├── écrire.json
 │   └── être.json
-├── verbes_français.json
-└── verbes_française.html
+├── verbes_français.html
+└── verbes_français.json

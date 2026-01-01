@@ -83,7 +83,7 @@
             adjectivesContainer.innerHTML = '<div class="loading">Chargement...</div>';
 
             try {
-                const response = await fetch(categoryFile);
+                const response = await fetch(`adjectifs/${categoryFile}`);
                 if (!response.ok) throw new Error('Impossible de charger les adjectifs');
                 
                 const adjectives = await response.json();
