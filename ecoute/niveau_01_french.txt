@@ -1,0 +1,881 @@
+Bonjour!
+
+Bonsoir!
+
+Salut!
+
+Comment ça va?
+
+Ça va bien, merci.
+
+Et toi?
+
+Et vous?
+
+Je m'appelle Marie.
+
+Comment tu t'appelles?
+
+Comment vous appelez-vous?
+
+Enchanté.
+
+Enchantée.
+
+Oui.
+
+Non.
+
+S'il vous plaît.
+
+S'il te plaît.
+
+Merci.
+
+Merci beaucoup.
+
+De rien.
+
+Excusez-moi.
+
+Pardon.
+
+Au revoir.
+
+À bientôt.
+
+À demain.
+
+Bonne journée!
+
+Bonne soirée!
+
+Bonne nuit!
+
+Je suis canadien.
+
+Je suis canadienne.
+
+Je suis américain.
+
+Je parle anglais.
+
+Je parle un peu français.
+
+Je ne comprends pas.
+
+Pouvez-vous répéter?
+
+Plus lentement, s'il vous plaît.
+
+Comment dit-on en français?
+
+Qu'est-ce que c'est?
+
+C'est un livre.
+
+C'est une pomme.
+
+Où sont les toilettes?
+
+Je suis désolé.
+
+Je suis désolée.
+
+Pas de problème.
+
+D'accord.
+
+Très bien.
+
+Bien sûr.
+
+Peut-être.
+
+Je ne sais pas.
+
+Aidez-moi, s'il vous plaît.
+
+J'ai besoin d'aide.
+
+Lundi
+
+Mardi
+
+Mercredi
+
+Jeudi
+
+Vendredi
+
+Samedi
+
+Dimanche
+
+Janvier
+
+Février
+
+Mars
+
+Avril
+
+Mai
+
+Juin
+
+Juillet
+
+Août
+
+Septembre
+
+Octobre
+
+Novembre
+
+Décembre
+
+Zéro
+
+Un
+
+Deux
+
+Trois
+
+Quatre
+
+Cinq
+
+Six
+
+Sept
+
+Huit
+
+Neuf
+
+Dix
+
+Onze
+
+Douze
+
+Treize
+
+Quatorze
+
+Quinze
+
+Seize
+
+Dix-sept
+
+Dix-huit
+
+Dix-neuf
+
+Vingt
+
+Rouge
+
+Bleu
+
+Vert
+
+Jaune
+
+Noir
+
+Blanc
+
+Orange
+
+Rose
+
+Violet
+
+Gris
+
+Marron
+
+Je suis français.
+
+Je suis française.
+
+Tu es anglais?
+
+Il est espagnol.
+
+Elle est allemande.
+
+Nous sommes étudiants.
+
+Vous êtes professeur?
+
+Ils sont italiens.
+
+Elles sont chinoises.
+
+J'ai un chat.
+
+J'ai un chien.
+
+Tu as un stylo?
+
+Il a une voiture.
+
+Elle a un vélo.
+
+Nous avons une maison.
+
+Vous avez des enfants?
+
+Le père
+
+La mère
+
+Le frère
+
+La sœur
+
+Le fils
+
+La fille
+
+Le grand-père
+
+La grand-mère
+
+L'oncle
+
+La tante
+
+Le cousin
+
+La cousine
+
+Le mari
+
+La femme
+
+L'ami
+
+L'amie
+
+Le pain
+
+L'eau
+
+Le lait
+
+Le café
+
+Le thé
+
+Le jus
+
+La viande
+
+Le poisson
+
+Le poulet
+
+Le fromage
+
+Le beurre
+
+Le sucre
+
+Le sel
+
+Le riz
+
+Les pâtes
+
+La salade
+
+La soupe
+
+Le légume
+
+Le fruit
+
+La banane
+
+L'orange
+
+La fraise
+
+La tomate
+
+La carotte
+
+La pomme de terre
+
+L'oignon
+
+Je mange.
+
+Tu manges du pain.
+
+Il mange une pomme.
+
+Elle boit de l'eau.
+
+Nous buvons du café.
+
+Vous buvez du thé?
+
+Je dors.
+
+Je marche.
+
+Je cours.
+
+Je lis un livre.
+
+J'écris une lettre.
+
+J'écoute de la musique.
+
+Je regarde la télévision.
+
+Je travaille.
+
+J'étudie le français.
+
+Je joue au football.
+
+Je nage.
+
+Je chante.
+
+Je danse.
+
+Grand
+
+Petit
+
+Bon
+
+Mauvais
+
+Beau
+
+Joli
+
+Jeune
+
+Vieux
+
+Nouveau
+
+Ancien
+
+Chaud
+
+Froid
+
+Rapide
+
+Lent
+
+Facile
+
+Difficile
+
+Content
+
+Triste
+
+La maison
+
+L'appartement
+
+La chambre
+
+La cuisine
+
+La salle de bain
+
+Le salon
+
+La porte
+
+La fenêtre
+
+La table
+
+La chaise
+
+Le lit
+
+Le bureau
+
+Le téléphone
+
+L'ordinateur
+
+La télévision
+
+Le restaurant
+
+Le café
+
+L'hôtel
+
+L'école
+
+L'université
+
+La bibliothèque
+
+L'hôpital
+
+La pharmacie
+
+Le magasin
+
+Le supermarché
+
+La banque
+
+La poste
+
+Le parc
+
+La rue
+
+La ville
+
+Le village
+
+L'aéroport
+
+La gare
+
+Le bus
+
+Le train
+
+Le métro
+
+Le taxi
+
+Quel temps fait-il?
+
+Il fait beau.
+
+Il fait mauvais.
+
+Il fait chaud.
+
+Il fait froid.
+
+Il pleut.
+
+Il neige.
+
+Il y a du soleil.
+
+Il y a du vent.
+
+Il y a des nuages.
+
+Le printemps
+
+L'été
+
+L'automne
+
+L'hiver
+
+Où est la gare?
+
+C'est loin?
+
+C'est près.
+
+C'est ici.
+
+C'est là.
+
+À droite
+
+À gauche
+
+Tout droit
+
+En face de
+
+À côté de
+
+Derrière
+
+Devant
+
+Entre
+
+Sur
+
+Sous
+
+Dans
+
+Avec
+
+Sans
+
+Pour
+
+Contre
+
+Je voudrais un billet.
+
+C'est combien?
+
+Ça coûte cinq euros.
+
+J'achète du pain.
+
+Je vends ma voiture.
+
+Je cherche un hôtel.
+
+Vous avez une chambre?
+
+Pour une nuit.
+
+Pour deux personnes.
+
+Je prends ça.
+
+Puis-je payer par carte?
+
+En espèces
+
+Le reçu, s'il vous plaît.
+
+C'est ouvert?
+
+C'est fermé.
+
+À quelle heure ça ouvre?
+
+À quelle heure ça ferme?
+
+Asseyez-vous.
+
+Levez-vous.
+
+Entrez.
+
+Sortez.
+
+Attendez.
+
+Écoutez.
+
+Regardez.
+
+Lisez.
+
+Écrivez.
+
+Parlez.
+
+Répétez.
+
+Ouvrez le livre.
+
+Fermez la porte.
+
+Le crayon
+
+Le stylo
+
+Le cahier
+
+Le papier
+
+La gomme
+
+La règle
+
+Le sac
+
+Le professeur
+
+L'étudiant
+
+L'étudiante
+
+La classe
+
+Le cours
+
+L'examen
+
+Le devoir
+
+La question
+
+La réponse
+
+J'ai une question.
+
+Je ne sais pas la réponse.
+
+Le matin
+
+L'après-midi
+
+Le soir
+
+La nuit
+
+Le jour
+
+La semaine
+
+Le mois
+
+L'année
+
+Aujourd'hui
+
+Hier
+
+Demain
+
+Maintenant
+
+Bientôt
+
+Plus tard
+
+Toujours
+
+Souvent
+
+Parfois
+
+Rarement
+
+Jamais
+
+Déjà
+
+Encore
+
+Il est une heure.
+
+Il est deux heures.
+
+Il est trois heures et demie.
+
+Il est quatre heures et quart.
+
+Il est cinq heures moins le quart.
+
+Le matin, je mange du pain.
+
+Le soir, je regarde la télé.
+
+La nuit, je dors.
+
+Je me lève à sept heures.
+
+Je me couche à dix heures.
+
+Très
+
+Trop
+
+Assez
+
+Beaucoup
+
+Peu
+
+Plus
+
+Moins
+
+Aussi
+
+Seulement
+
+Ensemble
+
+Seul
+
+Bien
+
+Mal
+
+Vite
+
+Je suis heureux.
+
+Je suis heureuse.
+
+Je suis malade.
+
+Je suis en bonne santé.
+
+Ça va?
+
+Ça va.
+
+Ça ne va pas.
+
+J'ai mal à la tête.
+
+J'ai mal au ventre.
+
+La tête
+
+Les yeux
+
+Le nez
+
+La bouche
+
+Les oreilles
+
+Le bras
+
+La main
+
+La jambe
+
+Le pied
+
+Le corps
+
+Je veux manger.
+
+Je peux t'aider.
+
+Je dois partir.
+
+Tu veux du café?
+
+Peux-tu m'aider?
+
+Tu dois étudier.
+
+J'aime bien ce livre.
+
+Je préfère le thé.
+
+Je déteste les légumes.
+
+C'est bon!
+
+C'est délicieux!
+
+C'est mauvais.
+
+C'est intéressant.
+
+C'est ennuyeux.
+
+C'est facile.
+
+C'est difficile.
+
+C'est important.
+
+Ce n'est pas grave.
+
+Félicitations!
+
+Bon anniversaire!
+
+Bonne année!
+
+Joyeux Noël!
+
+Bonne chance!
+
+Bon appétit!
+
+Santé!
+
+Bienvenue!
+
+À votre santé!
+
+Je t'aime.
+
+Je vous aime.
+
+Mon
+
+Ma
+
+Mes
+
+Ton
+
+Ta
+
+Tes
+
+Son
+
+Sa
+
+Ses
+
+Notre
+
+Nos
+
+Votre
+
+Vos
+
+Ce
+
+Cette
+
+Ces
+
+Qui?
+
+Quoi?
+
+Où?
+
+Quand?
+
+Pourquoi?
+
+Comment?
+
+Combien?
+
+Quel?
+
+Quelle?
+
+Parce que
+
+Mais
+
+Et
+
+Ou
+
+Donc
+
+Si
+
+Quand
+
+Comme

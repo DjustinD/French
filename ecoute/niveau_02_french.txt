@@ -1,0 +1,699 @@
+J'habite à Montréal.
+
+Tu habites où?
+
+Je viens du Canada.
+
+D'où viens-tu?
+
+J'ai vingt-cinq ans.
+
+Quel âge as-tu?
+
+Je suis étudiant.
+
+Je suis étudiante.
+
+Je travaille dans un bureau.
+
+Qu'est-ce que tu fais dans la vie?
+
+J'aime le café.
+
+Je n'aime pas le thé.
+
+J'adore le chocolat.
+
+Tu aimes la musique?
+
+Oui, j'aime beaucoup la musique.
+
+Je voudrais un café, s'il vous plaît.
+
+Je voudrais l'addition.
+
+Combien ça coûte?
+
+Ça coûte dix dollars.
+
+C'est trop cher.
+
+Quelle heure est-il?
+
+Il est trois heures.
+
+Il est midi.
+
+Il est minuit.
+
+J'ai faim.
+
+J'ai soif.
+
+J'ai froid.
+
+J'ai chaud.
+
+Je suis fatigué.
+
+Je suis fatiguée.
+
+Je vais au supermarché.
+
+Tu vas où?
+
+Je dois partir.
+
+À quelle heure?
+
+Maintenant.
+
+Tout à l'heure.
+
+Aujourd'hui.
+
+Demain.
+
+Hier.
+
+La semaine prochaine.
+
+J'habite dans un appartement.
+
+J'habite dans une maison.
+
+J'habite avec mes parents.
+
+J'habite seul.
+
+J'habite seule.
+
+Mon appartement est petit.
+
+Ma maison est grande.
+
+J'ai deux chambres.
+
+Il y a une cuisine.
+
+Il y a un jardin.
+
+Je suis médecin.
+
+Je suis infirmier.
+
+Je suis infirmière.
+
+Je suis professeur.
+
+Je suis ingénieur.
+
+Je suis avocat.
+
+Je suis avocate.
+
+Je suis serveur.
+
+Je suis serveuse.
+
+Je suis cuisinier.
+
+Je suis cuisinière.
+
+Je travaille dans un hôpital.
+
+Je travaille dans une école.
+
+Je travaille dans un restaurant.
+
+Je travaille à temps plein.
+
+Je travaille à temps partiel.
+
+Je cherche un travail.
+
+Je suis au chômage.
+
+Je suis à la retraite.
+
+J'ai un frère.
+
+J'ai une sœur.
+
+J'ai deux frères.
+
+Je n'ai pas de frères.
+
+J'ai trois enfants.
+
+Mon frère a dix ans.
+
+Ma sœur est étudiante.
+
+Mes parents habitent à Paris.
+
+Mon père est professeur.
+
+Ma mère est médecin.
+
+Je suis marié.
+
+Je suis mariée.
+
+Je suis célibataire.
+
+Je suis divorcé.
+
+J'ai un petit ami.
+
+J'ai une petite amie.
+
+Je voudrais un croissant.
+
+Je voudrais une baguette.
+
+Je prends un thé.
+
+Je prends un café au lait.
+
+Avec du sucre?
+
+Sans sucre, merci.
+
+Un verre de vin, s'il vous plaît.
+
+Une bouteille d'eau.
+
+Pour emporter.
+
+Pour manger sur place.
+
+Le menu, s'il vous plaît.
+
+Qu'est-ce que vous recommandez?
+
+C'est quoi la spécialité?
+
+Je suis végétarien.
+
+Je suis végétarienne.
+
+Je suis allergique aux noix.
+
+C'est délicieux!
+
+C'est très bon!
+
+Je n'aime pas ça.
+
+Il fait quel temps?
+
+Il fait beau aujourd'hui.
+
+Il fait mauvais.
+
+Il y a du soleil.
+
+Il y a des nuages.
+
+Il pleut beaucoup.
+
+Il va pleuvoir.
+
+Il neige.
+
+Il fait froid ce matin.
+
+Il fait chaud cet après-midi.
+
+Quelle est la température?
+
+Il fait vingt degrés.
+
+Je vais au travail.
+
+Je vais à l'école.
+
+Je vais au cinéma.
+
+Je vais à la plage.
+
+Je vais chez le médecin.
+
+Je vais chez mes parents.
+
+Je rentre à la maison.
+
+Je reste à la maison.
+
+Je sors ce soir.
+
+Tu viens avec moi?
+
+Oui, je viens.
+
+Non, je ne peux pas.
+
+Je suis occupé.
+
+Je suis occupée.
+
+Je suis libre.
+
+J'ai le temps.
+
+Je n'ai pas le temps.
+
+Je suis en retard.
+
+Je suis à l'heure.
+
+Je suis en avance.
+
+Je prends le bus.
+
+Je prends le métro.
+
+Je prends le train.
+
+Je vais à pied.
+
+Je vais à vélo.
+
+Je vais en voiture.
+
+Combien de temps ça prend?
+
+Ça prend dix minutes.
+
+Ça prend une heure.
+
+C'est près d'ici.
+
+C'est loin d'ici.
+
+Je me réveille à six heures.
+
+Je me lève à sept heures.
+
+Je prends mon petit-déjeuner.
+
+Je prends une douche.
+
+Je m'habille.
+
+Je pars à huit heures.
+
+Je déjeune à midi.
+
+Je dîne à sept heures.
+
+Je me couche à dix heures.
+
+Je dors huit heures.
+
+Qu'est-ce que tu fais le week-end?
+
+Je fais du sport.
+
+Je fais du jogging.
+
+Je fais de la natation.
+
+Je fais du yoga.
+
+Je joue au tennis.
+
+Je joue au basketball.
+
+Je joue de la guitare.
+
+Je joue du piano.
+
+J'écoute de la musique.
+
+Je regarde un film.
+
+Je lis un livre.
+
+Je fais les courses.
+
+Je fais le ménage.
+
+Je fais la cuisine.
+
+Je fais la vaisselle.
+
+Je fais la lessive.
+
+Je me repose.
+
+Je me détends.
+
+Je sors avec mes amis.
+
+Je vois mes amis.
+
+Je rends visite à ma famille.
+
+Qu'est-ce que tu aimes faire?
+
+J'aime voyager.
+
+J'aime lire.
+
+J'aime cuisiner.
+
+J'aime danser.
+
+J'aime chanter.
+
+J'aime le cinéma.
+
+J'aime le sport.
+
+J'aime la nature.
+
+J'aime les animaux.
+
+Je n'aime pas le bruit.
+
+Je déteste le froid.
+
+Je préfère l'été.
+
+J'ai sommeil.
+
+J'ai peur.
+
+J'ai raison.
+
+Tu as tort.
+
+J'ai de la chance.
+
+Je n'ai pas de chance.
+
+J'ai envie de dormir.
+
+J'ai envie d'un café.
+
+J'ai besoin de repos.
+
+J'ai besoin d'argent.
+
+Je cherche un livre.
+
+Je cherche la poste.
+
+Vous cherchez quelque chose?
+
+Je ne trouve pas mes clés.
+
+J'ai perdu mon téléphone.
+
+J'ai oublié mon sac.
+
+Ce sac est à moi.
+
+C'est à toi?
+
+Ce n'est pas à moi.
+
+Ça m'appartient.
+
+C'est bon marché.
+
+C'est cher.
+
+C'est gratuit.
+
+Il y a une promotion.
+
+Il y a une réduction.
+
+Vous acceptez les cartes?
+
+Je paie en espèces.
+
+Je paie par carte.
+
+Gardez la monnaie.
+
+Je peux essayer?
+
+Quelle taille?
+
+Quelle couleur?
+
+Vous avez en bleu?
+
+C'est trop grand.
+
+C'est trop petit.
+
+Ça me va bien.
+
+Je le prends.
+
+Je ne le prends pas.
+
+J'ai rendez-vous à trois heures.
+
+Je voudrais prendre rendez-vous.
+
+C'est possible demain?
+
+Quel jour vous convient?
+
+Lundi, ça va.
+
+Je ne suis pas disponible.
+
+Je suis disponible.
+
+On se voit quand?
+
+On se voit demain?
+
+D'accord, à demain.
+
+À tout à l'heure.
+
+À plus tard.
+
+À ce soir.
+
+À la semaine prochaine.
+
+Il est quelle heure?
+
+Il est six heures du matin.
+
+Il est six heures du soir.
+
+Il est midi et demi.
+
+Il est minuit et quart.
+
+Dans cinq minutes.
+
+Dans une heure.
+
+Il y a dix minutes.
+
+Il y a une semaine.
+
+Ce matin
+
+Cet après-midi
+
+Ce soir
+
+Cette nuit
+
+Cette semaine
+
+Ce week-end
+
+Ce mois-ci
+
+Cette année
+
+La semaine dernière
+
+Le mois dernier
+
+L'année dernière
+
+Le week-end prochain
+
+Le mois prochain
+
+L'année prochaine
+
+Combien de personnes?
+
+Combien de temps?
+
+Combien de fois?
+
+Beaucoup de gens
+
+Peu de gens
+
+Plusieurs fois
+
+Une fois
+
+Deux fois
+
+Trois fois
+
+Tout le monde
+
+Personne
+
+Quelqu'un
+
+Quelque chose
+
+Rien
+
+Tout
+
+Mon ami s'appelle Pierre.
+
+Il est grand.
+
+Elle est petite.
+
+Il a les cheveux noirs.
+
+Elle a les cheveux blonds.
+
+Il a les yeux bleus.
+
+Elle a les yeux verts.
+
+Il est gentil.
+
+Elle est sympathique.
+
+Il est drôle.
+
+Elle est intelligente.
+
+Il est timide.
+
+Elle est bavarde.
+
+C'est un bon ami.
+
+C'est une bonne amie.
+
+Le pantalon
+
+La chemise
+
+Le pull
+
+La robe
+
+La jupe
+
+Le manteau
+
+La veste
+
+Les chaussures
+
+Les chaussettes
+
+Le chapeau
+
+Le t-shirt
+
+Le jean
+
+Je porte un pantalon noir.
+
+Elle porte une robe rouge.
+
+Qu'est-ce que tu portes?
+
+J'ai mal à la gorge.
+
+J'ai mal aux dents.
+
+J'ai mal au dos.
+
+Je tousse.
+
+J'ai de la fièvre.
+
+Je suis enrhumé.
+
+Je suis enrhumée.
+
+Je ne me sens pas bien.
+
+Je me sens mieux.
+
+Je vais bien.
+
+Bon week-end!
+
+Bonnes vacances!
+
+Bon courage!
+
+Amuse-toi bien!
+
+Fais attention!
+
+Prends soin de toi!
+
+Repose-toi bien!
+
+Dépêche-toi!
+
+Ne t'inquiète pas.
+
+Ça va aller.
+
+C'est vrai.
+
+Ce n'est pas vrai.
+
+Je pense que oui.
+
+Je pense que non.
+
+Je suis d'accord.
+
+Je ne suis pas d'accord.
+
+Tu as raison.
+
+C'est une bonne idée.
+
+Pourquoi pas?
+
+Avec plaisir.
+
+Volontiers.
+
+Je veux bien.
+
+Ça m'est égal.
+
+Comme tu veux.
+
+À toi de choisir.
+
+Qu'est-ce que tu en penses?
+
+Je ne sais pas encore.
+
+Je vais réfléchir.
