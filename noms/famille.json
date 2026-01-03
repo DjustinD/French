@@ -1,0 +1,177 @@
+[
+  {
+    "singular": "la famille",
+    "plural": "les familles",
+    "image": "images/famille.jpg"
+  },
+  {
+    "singular": "le père",
+    "plural": "les pères",
+    "image": "images/pere.jpg"
+  },
+  {
+    "singular": "la mère",
+    "plural": "les mères",
+    "image": "images/mere.jpg"
+  },
+  {
+    "singular": "les parents",
+    "plural": "les parents",
+    "image": "images/parents.jpg"
+  },
+  {
+    "singular": "le fils",
+    "plural": "les fils",
+    "image": "images/fils.jpg"
+  },
+  {
+    "singular": "la fille",
+    "plural": "les filles",
+    "image": "images/fille.jpg"
+  },
+  {
+    "singular": "le frère",
+    "plural": "les frères",
+    "image": "images/frere.jpg"
+  },
+  {
+    "singular": "la sœur",
+    "plural": "les sœurs",
+    "image": "images/soeur.jpg"
+  },
+  {
+    "singular": "le grand-père",
+    "plural": "les grands-pères",
+    "image": "images/grand_pere.jpg"
+  },
+  {
+    "singular": "la grand-mère",
+    "plural": "les grands-mères",
+    "image": "images/grand_mere.jpg"
+  },
+  {
+    "singular": "les grands-parents",
+    "plural": "les grands-parents",
+    "image": "images/grands_parents.jpg"
+  },
+  {
+    "singular": "le petit-fils",
+    "plural": "les petits-fils",
+    "image": "images/petit_fils.jpg"
+  },
+  {
+    "singular": "la petite-fille",
+    "plural": "les petites-filles",
+    "image": "images/petite_fille.jpg"
+  },
+  {
+    "singular": "l'oncle",
+    "plural": "les oncles",
+    "image": "images/oncle.jpg"
+  },
+  {
+    "singular": "la tante",
+    "plural": "les tantes",
+    "image": "images/tante.jpg"
+  },
+  {
+    "singular": "le cousin",
+    "plural": "les cousins",
+    "image": "images/cousin.jpg"
+  },
+  {
+    "singular": "la cousine",
+    "plural": "les cousines",
+    "image": "images/cousine.jpg"
+  },
+  {
+    "singular": "le neveu",
+    "plural": "les neveux",
+    "image": "images/neveu.jpg"
+  },
+  {
+    "singular": "la nièce",
+    "plural": "les nièces",
+    "image": "images/niece.jpg"
+  },
+  {
+    "singular": "le mari",
+    "plural": "les maris",
+    "image": "images/mari.jpg"
+  },
+  {
+    "singular": "la femme",
+    "plural": "les femmes",
+    "image": "images/femme_epouse.jpg"
+  },
+  {
+    "singular": "l'époux",
+    "plural": "les époux",
+    "image": "images/epoux.jpg"
+  },
+  {
+    "singular": "l'épouse",
+    "plural": "les épouses",
+    "image": "images/epouse.jpg"
+  },
+  {
+    "singular": "le beau-père",
+    "plural": "les beaux-pères",
+    "image": "images/beau_pere.jpg"
+  },
+  {
+    "singular": "la belle-mère",
+    "plural": "les belles-mères",
+    "image": "images/belle_mere.jpg"
+  },
+  {
+    "singular": "le beau-frère",
+    "plural": "les beaux-frères",
+    "image": "images/beau_frere.jpg"
+  },
+  {
+    "singular": "la belle-sœur",
+    "plural": "les belles-sœurs",
+    "image": "images/belle_soeur.jpg"
+  },
+  {
+    "singular": "le gendre",
+    "plural": "les gendres",
+    "image": "images/gendre.jpg"
+  },
+  {
+    "singular": "la belle-fille",
+    "plural": "les belles-filles",
+    "image": "images/belle_fille.jpg"
+  },
+  {
+    "singular": "le bébé",
+    "plural": "les bébés",
+    "image": "images/bebe.jpg"
+  },
+  {
+    "singular": "l'enfant",
+    "plural": "les enfants",
+    "image": "images/enfant.jpg"
+  },
+  {
+    "singular": "l'adulte",
+    "plural": "les adultes",
+    "image": "images/adulte.jpg"
+  },
+  {
+    "singular": "le jumeau",
+    "plural": "les jumeaux",
+    "image": "images/jumeau.jpg"
+  },
+  {
+    "singular": "la jumelle",
+    "plural": "les jumelles",
+    "image": "images/jumelle.jpg"
+  },
+  {
+    "singular": "l'ami",
+    "plural": "les amis",
+    "image": "images/ami.jpg"
+  }
+]

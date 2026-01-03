@@ -1,0 +1,152 @@
+[
+  {
+    "singular": "le chapeau",
+    "plural": "les chapeaux",
+    "image": "images/chapeau.jpg"
+  },
+  {
+    "singular": "la casquette",
+    "plural": "les casquettes",
+    "image": "images/casquette.jpg"
+  },
+  {
+    "singular": "le manteau",
+    "plural": "les manteaux",
+    "image": "images/manteau.jpg"
+  },
+  {
+    "singular": "la veste",
+    "plural": "les vestes",
+    "image": "images/veste.jpg"
+  },
+  {
+    "singular": "le pull",
+    "plural": "les pulls",
+    "image": "images/pull.jpg"
+  },
+  {
+    "singular": "la chemise",
+    "plural": "les chemises",
+    "image": "images/chemise.jpg"
+  },
+  {
+    "singular": "le t-shirt",
+    "plural": "les t-shirts",
+    "image": "images/tshirt.jpg"
+  },
+  {
+    "singular": "le pantalon",
+    "plural": "les pantalons",
+    "image": "images/pantalon.jpg"
+  },
+  {
+    "singular": "le jean",
+    "plural": "les jeans",
+    "image": "images/jean.jpg"
+  },
+  {
+    "singular": "la jupe",
+    "plural": "les jupes",
+    "image": "images/jupe.jpg"
+  },
+  {
+    "singular": "la robe",
+    "plural": "les robes",
+    "image": "images/robe.jpg"
+  },
+  {
+    "singular": "le short",
+    "plural": "les shorts",
+    "image": "images/short.jpg"
+  },
+  {
+    "singular": "la chaussette",
+    "plural": "les chaussettes",
+    "image": "images/chaussette.jpg"
+  },
+  {
+    "singular": "la chaussure",
+    "plural": "les chaussures",
+    "image": "images/chaussure.jpg"
+  },
+  {
+    "singular": "la botte",
+    "plural": "les bottes",
+    "image": "images/botte.jpg"
+  },
+  {
+    "singular": "la sandale",
+    "plural": "les sandales",
+    "image": "images/sandale.jpg"
+  },
+  {
+    "singular": "le gant",
+    "plural": "les gants",
+    "image": "images/gant.jpg"
+  },
+  {
+    "singular": "l'écharpe",
+    "plural": "les écharpes",
+    "image": "images/echarpe.jpg"
+  },
+  {
+    "singular": "la cravate",
+    "plural": "les cravates",
+    "image": "images/cravate.jpg"
+  },
+  {
+    "singular": "la ceinture",
+    "plural": "les ceintures",
+    "image": "images/ceinture.jpg"
+  },
+  {
+    "singular": "le maillot de bain",
+    "plural": "les maillots de bain",
+    "image": "images/maillot.jpg"
+  },
+  {
+    "singular": "le pyjama",
+    "plural": "les pyjamas",
+    "image": "images/pyjama.jpg"
+  },
+  {
+    "singular": "le sac",
+    "plural": "les sacs",
+    "image": "images/sac.jpg"
+  },
+  {
+    "singular": "la montre",
+    "plural": "les montres",
+    "image": "images/montre.jpg"
+  },
+  {
+    "singular": "les lunettes",
+    "plural": "les lunettes",
+    "image": "images/lunettes.jpg"
+  },
+  {
+    "singular": "le parapluie",
+    "plural": "les parapluies",
+    "image": "images/parapluie.jpg"
+  },
+  {
+    "singular": "le blouson",
+    "plural": "les blousons",
+    "image": "images/blouson.jpg"
+  },
+  {
+    "singular": "le collant",
+    "plural": "les collants",
+    "image": "images/collant.jpg"
+  },
+  {
+    "singular": "le bijou",
+    "plural": "les bijoux",
+    "image": "images/bijou.jpg"
+  },
+  {
+    "singular": "la bague",
+    "plural": "les bagues",
+    "image": "images/bague.jpg"
+  }
+]

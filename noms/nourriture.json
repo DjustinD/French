@@ -1,0 +1,177 @@
+[
+  {
+    "singular": "le pain",
+    "plural": "les pains",
+    "image": "images/pain.jpg"
+  },
+  {
+    "singular": "le fromage",
+    "plural": "les fromages",
+    "image": "images/fromage.jpg"
+  },
+  {
+    "singular": "le lait",
+    "plural": "les laits",
+    "image": "images/lait.jpg"
+  },
+  {
+    "singular": "le beurre",
+    "plural": "les beurres",
+    "image": "images/beurre.jpg"
+  },
+  {
+    "singular": "l'œuf",
+    "plural": "les œufs",
+    "image": "images/oeuf.jpg"
+  },
+  {
+    "singular": "la viande",
+    "plural": "les viandes",
+    "image": "images/viande.jpg"
+  },
+  {
+    "singular": "le poulet",
+    "plural": "les poulets",
+    "image": "images/poulet.jpg"
+  },
+  {
+    "singular": "le poisson",
+    "plural": "les poissons",
+    "image": "images/poisson_nourriture.jpg"
+  },
+  {
+    "singular": "la pomme",
+    "plural": "les pommes",
+    "image": "images/pomme.jpg"
+  },
+  {
+    "singular": "la banane",
+    "plural": "les bananes",
+    "image": "images/banane.jpg"
+  },
+  {
+    "singular": "l'orange",
+    "plural": "les oranges",
+    "image": "images/orange.jpg"
+  },
+  {
+    "singular": "la fraise",
+    "plural": "les fraises",
+    "image": "images/fraise.jpg"
+  },
+  {
+    "singular": "le raisin",
+    "plural": "les raisins",
+    "image": "images/raisin.jpg"
+  },
+  {
+    "singular": "la poire",
+    "plural": "les poires",
+    "image": "images/poire.jpg"
+  },
+  {
+    "singular": "la pêche",
+    "plural": "les pêches",
+    "image": "images/peche.jpg"
+  },
+  {
+    "singular": "la tomate",
+    "plural": "les tomates",
+    "image": "images/tomate.jpg"
+  },
+  {
+    "singular": "la carotte",
+    "plural": "les carottes",
+    "image": "images/carotte.jpg"
+  },
+  {
+    "singular": "la pomme de terre",
+    "plural": "les pommes de terre",
+    "image": "images/pomme_de_terre.jpg"
+  },
+  {
+    "singular": "la salade",
+    "plural": "les salades",
+    "image": "images/salade.jpg"
+  },
+  {
+    "singular": "l'oignon",
+    "plural": "les oignons",
+    "image": "images/oignon.jpg"
+  },
+  {
+    "singular": "le riz",
+    "plural": "les riz",
+    "image": "images/riz.jpg"
+  },
+  {
+    "singular": "les pâtes",
+    "plural": "les pâtes",
+    "image": "images/pates.jpg"
+  },
+  {
+    "singular": "le sucre",
+    "plural": "les sucres",
+    "image": "images/sucre.jpg"
+  },
+  {
+    "singular": "le sel",
+    "plural": "les sels",
+    "image": "images/sel.jpg"
+  },
+  {
+    "singular": "le gâteau",
+    "plural": "les gâteaux",
+    "image": "images/gateau.jpg"
+  },
+  {
+    "singular": "le chocolat",
+    "plural": "les chocolats",
+    "image": "images/chocolat.jpg"
+  },
+  {
+    "singular": "la glace",
+    "plural": "les glaces",
+    "image": "images/glace.jpg"
+  },
+  {
+    "singular": "le biscuit",
+    "plural": "les biscuits",
+    "image": "images/biscuit.jpg"
+  },
+  {
+    "singular": "l'eau",
+    "plural": "les eaux",
+    "image": "images/eau.jpg"
+  },
+  {
+    "singular": "le jus",
+    "plural": "les jus",
+    "image": "images/jus.jpg"
+  },
+  {
+    "singular": "le café",
+    "plural": "les cafés",
+    "image": "images/cafe.jpg"
+  },
+  {
+    "singular": "le thé",
+    "plural": "les thés",
+    "image": "images/the.jpg"
+  },
+  {
+    "singular": "le vin",
+    "plural": "les vins",
+    "image": "images/vin.jpg"
+  },
+  {
+    "singular": "la bière",
+    "plural": "les bières",
+    "image": "images/biere.jpg"
+  },
+  {
+    "singular": "la soupe",
+    "plural": "les soupes",
+    "image": "images/soupe.jpg"
+  }
+]

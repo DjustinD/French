@@ -1,0 +1,152 @@
+[
+  {
+    "singular": "la tête",
+    "plural": "les têtes",
+    "image": "images/tete.jpg"
+  },
+  {
+    "singular": "le visage",
+    "plural": "les visages",
+    "image": "images/visage.jpg"
+  },
+  {
+    "singular": "les cheveux",
+    "plural": "les cheveux",
+    "image": "images/cheveux.jpg"
+  },
+  {
+    "singular": "l'œil",
+    "plural": "les yeux",
+    "image": "images/oeil.jpg"
+  },
+  {
+    "singular": "le nez",
+    "plural": "les nez",
+    "image": "images/nez.jpg"
+  },
+  {
+    "singular": "la bouche",
+    "plural": "les bouches",
+    "image": "images/bouche.jpg"
+  },
+  {
+    "singular": "la dent",
+    "plural": "les dents",
+    "image": "images/dent.jpg"
+  },
+  {
+    "singular": "la langue",
+    "plural": "les langues",
+    "image": "images/langue.jpg"
+  },
+  {
+    "singular": "l'oreille",
+    "plural": "les oreilles",
+    "image": "images/oreille.jpg"
+  },
+  {
+    "singular": "le cou",
+    "plural": "les cous",
+    "image": "images/cou.jpg"
+  },
+  {
+    "singular": "l'épaule",
+    "plural": "les épaules",
+    "image": "images/epaule.jpg"
+  },
+  {
+    "singular": "le bras",
+    "plural": "les bras",
+    "image": "images/bras.jpg"
+  },
+  {
+    "singular": "le coude",
+    "plural": "les coudes",
+    "image": "images/coude.jpg"
+  },
+  {
+    "singular": "la main",
+    "plural": "les mains",
+    "image": "images/main.jpg"
+  },
+  {
+    "singular": "le doigt",
+    "plural": "les doigts",
+    "image": "images/doigt.jpg"
+  },
+  {
+    "singular": "le pouce",
+    "plural": "les pouces",
+    "image": "images/pouce.jpg"
+  },
+  {
+    "singular": "l'ongle",
+    "plural": "les ongles",
+    "image": "images/ongle.jpg"
+  },
+  {
+    "singular": "la poitrine",
+    "plural": "les poitrines",
+    "image": "images/poitrine.jpg"
+  },
+  {
+    "singular": "le dos",
+    "plural": "les dos",
+    "image": "images/dos.jpg"
+  },
+  {
+    "singular": "le ventre",
+    "plural": "les ventres",
+    "image": "images/ventre.jpg"
+  },
+  {
+    "singular": "la jambe",
+    "plural": "les jambes",
+    "image": "images/jambe.jpg"
+  },
+  {
+    "singular": "le genou",
+    "plural": "les genoux",
+    "image": "images/genou.jpg"
+  },
+  {
+    "singular": "le pied",
+    "plural": "les pieds",
+    "image": "images/pied.jpg"
+  },
+  {
+    "singular": "l'orteil",
+    "plural": "les orteils",
+    "image": "images/orteil.jpg"
+  },
+  {
+    "singular": "le cœur",
+    "plural": "les cœurs",
+    "image": "images/coeur.jpg"
+  },
+  {
+    "singular": "le cerveau",
+    "plural": "les cerveaux",
+    "image": "images/cerveau.jpg"
+  },
+  {
+    "singular": "l'estomac",
+    "plural": "les estomacs",
+    "image": "images/estomac.jpg"
+  },
+  {
+    "singular": "le sang",
+    "plural": "le sang",
+    "image": "images/sang.jpg"
+  },
+  {
+    "singular": "l'os",
+    "plural": "les os",
+    "image": "images/os.jpg"
+  },
+  {
+    "singular": "la peau",
+    "plural": "les peaux",
+    "image": "images/peau.jpg"
+  }
+]

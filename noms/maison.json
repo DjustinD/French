@@ -1,0 +1,177 @@
+[
+  {
+    "singular": "la maison",
+    "plural": "les maisons",
+    "image": "images/maison.jpg"
+  },
+  {
+    "singular": "l'appartement",
+    "plural": "les appartements",
+    "image": "images/appartement.jpg"
+  },
+  {
+    "singular": "la porte",
+    "plural": "les portes",
+    "image": "images/porte.jpg"
+  },
+  {
+    "singular": "la fenêtre",
+    "plural": "les fenêtres",
+    "image": "images/fenetre.jpg"
+  },
+  {
+    "singular": "le mur",
+    "plural": "les murs",
+    "image": "images/mur.jpg"
+  },
+  {
+    "singular": "le plafond",
+    "plural": "les plafonds",
+    "image": "images/plafond.jpg"
+  },
+  {
+    "singular": "le sol",
+    "plural": "les sols",
+    "image": "images/sol.jpg"
+  },
+  {
+    "singular": "le toit",
+    "plural": "les toits",
+    "image": "images/toit.jpg"
+  },
+  {
+    "singular": "l'escalier",
+    "plural": "les escaliers",
+    "image": "images/escalier.jpg"
+  },
+  {
+    "singular": "la chambre",
+    "plural": "les chambres",
+    "image": "images/chambre.jpg"
+  },
+  {
+    "singular": "le salon",
+    "plural": "les salons",
+    "image": "images/salon.jpg"
+  },
+  {
+    "singular": "la cuisine",
+    "plural": "les cuisines",
+    "image": "images/cuisine.jpg"
+  },
+  {
+    "singular": "la salle de bain",
+    "plural": "les salles de bain",
+    "image": "images/salle_de_bain.jpg"
+  },
+  {
+    "singular": "le jardin",
+    "plural": "les jardins",
+    "image": "images/jardin.jpg"
+  },
+  {
+    "singular": "le garage",
+    "plural": "les garages",
+    "image": "images/garage.jpg"
+  },
+  {
+    "singular": "le lit",
+    "plural": "les lits",
+    "image": "images/lit.jpg"
+  },
+  {
+    "singular": "la table",
+    "plural": "les tables",
+    "image": "images/table.jpg"
+  },
+  {
+    "singular": "la chaise",
+    "plural": "les chaises",
+    "image": "images/chaise.jpg"
+  },
+  {
+    "singular": "le fauteuil",
+    "plural": "les fauteuils",
+    "image": "images/fauteuil.jpg"
+  },
+  {
+    "singular": "le canapé",
+    "plural": "les canapés",
+    "image": "images/canape.jpg"
+  },
+  {
+    "singular": "l'armoire",
+    "plural": "les armoires",
+    "image": "images/armoire.jpg"
+  },
+  {
+    "singular": "le bureau",
+    "plural": "les bureaux",
+    "image": "images/bureau.jpg"
+  },
+  {
+    "singular": "l'étagère",
+    "plural": "les étagères",
+    "image": "images/etagere.jpg"
+  },
+  {
+    "singular": "le tapis",
+    "plural": "les tapis",
+    "image": "images/tapis.jpg"
+  },
+  {
+    "singular": "le rideau",
+    "plural": "les rideaux",
+    "image": "images/rideau.jpg"
+  },
+  {
+    "singular": "la lampe",
+    "plural": "les lampes",
+    "image": "images/lampe.jpg"
+  },
+  {
+    "singular": "le miroir",
+    "plural": "les miroirs",
+    "image": "images/miroir.jpg"
+  },
+  {
+    "singular": "l'horloge",
+    "plural": "les horloges",
+    "image": "images/horloge.jpg"
+  },
+  {
+    "singular": "le réfrigérateur",
+    "plural": "les réfrigérateurs",
+    "image": "images/refrigerateur.jpg"
+  },
+  {
+    "singular": "le four",
+    "plural": "les fours",
+    "image": "images/four.jpg"
+  },
+  {
+    "singular": "le lave-vaisselle",
+    "plural": "les lave-vaisselle",
+    "image": "images/lave_vaisselle.jpg"
+  },
+  {
+    "singular": "la machine à laver",
+    "plural": "les machines à laver",
+    "image": "images/machine_a_laver.jpg"
+  },
+  {
+    "singular": "le lavabo",
+    "plural": "les lavabos",
+    "image": "images/lavabo.jpg"
+  },
+  {
+    "singular": "la douche",
+    "plural": "les douches",
+    "image": "images/douche.jpg"
+  },
+  {
+    "singular": "la baignoire",
+    "plural": "les baignoires",
+    "image": "images/baignoire.jpg"
+  }
+]

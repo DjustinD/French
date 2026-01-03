@@ -5,6 +5,21 @@
         "description": "Common animals"
     },
     {
+        "name": "Plantes",
+        "file": "plantes.json",
+        "description": "Plants, trees, and flowers"
+    },
+    {
+        "name": "Vêtements",
+        "file": "vetements.json",
+        "description": "Clothing and accessories"
+    },
+    {
+        "name": "Corps",
+        "file": "corps.json",
+        "description": "Body parts"
+    },
+    {
         "name": "Nourriture",
         "file": "nourriture.json",
         "description": "Food and drinks"

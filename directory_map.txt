@@ -46,7 +46,12 @@
 ├── nombres_français.json
 ├── noms
 │   ├── animaux.json
-│   └── plantes.json
+│   ├── corps.json
+│   ├── famille.json
+│   ├── maison.json
+│   ├── nourriture.json
+│   ├── plantes.json
+│   └── vetements.json
 ├── noms_français.html
 ├── noms_français.json
 ├── phrases_et_sentences.html
