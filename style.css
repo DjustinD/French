@@ -244,6 +244,10 @@ select:focus,
     font-weight: 600;
     color: #667eea;
     margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
 .word-plural,
@@ -251,6 +255,88 @@ select:focus,
     font-size: 1.2em;
     color: #764ba2;
     font-style: italic;
+}
+
+/* Adjective Forms Grid */
+.forms-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 12px;
+    margin: 15px 0;
+}
+
+.form-box {
+    background: #f8f9fa;
+    padding: 12px;
+    border-radius: 8px;
+    border: 2px solid #e9ecef;
+    transition: all 0.3s ease;
+}
+
+.form-box:hover {
+    border-color: #667eea;
+    background: #f0f4ff;
+}
+
+.form-gender {
+    font-size: 0.75em;
+    color: #6c757d;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+
+.form-text {
+    font-size: 1.2em;
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+.form-change {
+    font-size: 0.85em;
+    color: #7f8c8d;
+    margin-top: 4px;
+    font-style: italic;
+}
+
+/* Example Sentences */
+.example-sentence {
+    background: #e7f0ff;
+    padding: 12px 15px;
+    border-radius: 8px;
+    margin: 10px 0;
+    border-left: 4px solid #667eea;
+}
+
+.example-french {
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 5px;
+}
+
+.example-english {
+    color: #7f8c8d;
+    font-style: italic;
+    font-size: 0.95em;
+}
+
+/* Number Display */
+.number-display {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.number-value {
+    font-size: 2em;
+    font-weight: 700;
+    color: #667eea;
+    background: #f0f4ff;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: 2px solid #667eea;
 }
 
 /* Tags & Badges */
@@ -271,6 +357,17 @@ select:focus,
 .plural-tag {
     background: #f3e8ff;
     color: #764ba2;
+}
+
+.position-badge {
+    display: inline-block;
+    background: #4dabf7;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 15px;
+    font-size: 0.7em;
+    font-weight: 600;
+    text-transform: lowercase;
 }
 
 .irregular-badge {
@@ -474,169 +571,64 @@ select:focus,
     color: #c00;
     padding: 20px;
     border-radius: 8px;
+    border-left: 4px solid #c00;
     margin: 20px 0;
-    border: 2px solid #fcc;
 }
 
 .no-words,
 .no-adjectives {
     text-align: center;
-    color: white;
-    font-size: 1.3em;
-    padding: 60px;
-    background: rgba(255,255,255,0.1);
-    border-radius: 15px;
+    color: #666;
+    font-size: 1.2em;
+    padding: 40px;
+    background: white;
+    border-radius: 8px;
 }
 
 .note-section {
-    margin-top: 20px;
+    background: #fff9e6;
     padding: 15px 20px;
-    background: #fff3cd;
-    border-left: 4px solid #ffc107;
     border-radius: 8px;
+    border-left: 4px solid #ffd93d;
+    margin-top: 20px;
     color: #856404;
+    line-height: 1.6;
 }
 
-/* Adjective-Specific Styles */
-.forms-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 15px;
-    margin-bottom: 15px;
-}
-
-.form-box {
-    background: #f8f9fa;
-    padding: 15px;
-    border-radius: 8px;
-    text-align: center;
-    border: 2px solid transparent;
-    transition: all 0.3s;
-}
-
-.form-box:hover {
-    background: #e7f0ff;
-    border-color: #667eea;
-    transform: scale(1.02);
-}
-
-.form-gender {
-    font-size: 0.8em;
-    color: #6c757d;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 5px;
-}
-
-.form-text {
-    font-size: 1.3em;
-    font-weight: 600;
-    color: #667eea;
-}
-
-.form-change {
-    font-size: 0.75em;
-    color: #764ba2;
-    margin-top: 5px;
-    font-style: italic;
-}
-
-.example-sentence {
-    padding: 10px 15px;
-    background: #f8f9fa;
-    border-radius: 8px;
-    margin-bottom: 8px;
-    font-size: 0.95em;
-}
-
-.example-sentence:last-child {
-    margin-bottom: 0;
-}
-
-.example-french {
-    color: #2c3e50;
-    font-weight: 600;
-}
-
-.example-english {
-    color: #6c757d;
-    font-style: italic;
-    margin-top: 3px;
-    font-size: 0.9em;
-}
-
-.position-badge {
-    display: inline-block;
-    background: #4dabf7;
-    color: white;
-    padding: 3px 10px;
-    border-radius: 12px;
-    font-size: 0.7em;
-    margin-left: 8px;
-    font-weight: 600;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    h1 {
-        font-size: 2em;
-    }
-
-    .words-grid,
-    .adjectives-grid {
-        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-        gap: 15px;
-    }
-
-    .control-group {
-        flex-direction: column;
-        align-items: stretch;
-    }
-
-    .forms-grid {
-        grid-template-columns: 1fr;
-    }
-}
-
-/* Accessibility */
-[aria-hidden="true"] {
-    /* Elements marked as hidden from screen readers */
-}
-
-/* Home Page Styles */
+/* Index Page Specific Styles */
 .hero {
-    text-align: center;
-    padding: 40px 20px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    border-radius: 12px;
+    background: white;
+    padding: 60px 40px;
+    border-radius: 15px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.2);
     margin-bottom: 40px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    text-align: center;
 }
 
 .hero h1 {
-    font-size: 3em;
-    margin: 0 0 15px 0;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    color: #2c3e50;
+    font-size: 3.5em;
+    margin-bottom: 15px;
+    text-shadow: none;
 }
 
 .hero p {
+    color: #555;
     font-size: 1.3em;
     margin: 10px 0;
-    opacity: 0.95;
 }
 
 .modules-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     gap: 25px;
-    margin: 40px 0;
+    margin: 30px 0;
 }
 
 .module-card {
     background: white;
-    border-radius: 12px;
     padding: 30px;
+    border-radius: 15px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease;
     text-decoration: none;
@@ -758,6 +750,7 @@ select:focus,
     padding-left: 25px;
 }
 
+/* Phrase Cards for Audio Practice */
 .phrase-card {
     background: white;
     border: 2px solid #e0e0e0;
@@ -791,6 +784,7 @@ select:focus,
     border-top: 1px solid #ecf0f1;
 }
 
+/* Control Buttons */
 .control-buttons {
     display: flex;
     gap: 15px;
@@ -840,6 +834,7 @@ select:focus,
     cursor: not-allowed;
 }
 
+/* Settings Panel */
 .settings-group {
     background: #f8f9fa;
     padding: 20px;
@@ -872,6 +867,7 @@ select:focus,
     border-radius: 4px;
 }
 
+/* Progress & Info Displays */
 .progress-info {
     background: #e3f2fd;
     padding: 15px;
@@ -898,6 +894,7 @@ select:focus,
     color: #666;
 }
 
+/* Quebec Levels Page */
 .page-header {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
@@ -918,6 +915,28 @@ select:focus,
     border-radius: 12px;
     margin-bottom: 30px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.intro-section h2 {
+    color: #2c3e50;
+    margin-bottom: 15px;
+}
+
+.intro-section p {
+    color: #555;
+    line-height: 1.8;
+    margin-bottom: 15px;
+}
+
+.intro-section ul {
+    margin: 15px 0;
+    padding-left: 30px;
+}
+
+.intro-section li {
+    margin-bottom: 10px;
+    color: #555;
+    line-height: 1.6;
 }
 
 .level-section {
@@ -1005,6 +1024,7 @@ select:focus,
     line-height: 1.6;
 }
 
+/* Resources Section */
 .resources-section {
     background: white;
     padding: 30px;
@@ -1050,6 +1070,7 @@ select:focus,
     font-size: 0.95em;
 }
 
+/* Comparison Table */
 .comparison-table {
     width: 100%;
     border-collapse: collapse;
@@ -1077,6 +1098,7 @@ select:focus,
     background: #f8f9fa;
 }
 
+/* Back Button */
 .back-button {
     display: inline-block;
     padding: 12px 24px;
@@ -1095,6 +1117,43 @@ select:focus,
     box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
 }
 
+/* Responsive Design */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2em;
+    }
+    
+    .hero h1 {
+        font-size: 2.5em;
+    }
+    
+    .modules-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .words-grid,
+    .adjectives-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .forms-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .control-group {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .control-buttons {
+        flex-direction: column;
+    }
+    
+    .btn {
+        width: 100%;
+    }
+}
+
 /* Print Styles */
 @media print {
     body {
@@ -1103,12 +1162,16 @@ select:focus,
 
     .controls,
     .dimension-nav,
-    .selector-buttons {
+    .selector-buttons,
+    .control-buttons,
+    .settings-group,
+    .back-button {
         display: none;
     }
 
     .word-card,
-    .adjective-card {
+    .adjective-card,
+    .phrase-card {
         break-inside: avoid;
     }
 }
