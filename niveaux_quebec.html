@@ -5,204 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Échelle Québécoise des Niveaux de Compétence en Français</title>
     <link rel="stylesheet" href="style.css">
-    <style>
-        .page-header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 40px 30px;
-            border-radius: 12px;
-            margin-bottom: 30px;
-            text-align: center;
-        }
-        
-        .page-header h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-        }
-        
-        .intro-section {
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-            margin-bottom: 30px;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-        }
-        
-        .level-section {
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-            margin-bottom: 25px;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-            border-left: 6px solid #667eea;
-            transition: all 0.3s ease;
-        }
-        
-        .level-section:hover {
-            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
-            transform: translateX(5px);
-        }
-        
-        .level-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 15px;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-        
-        .level-title {
-            font-size: 1.8em;
-            color: #2c3e50;
-            margin: 0;
-        }
-        
-        .level-badges {
-            display: flex;
-            gap: 10px;
-            align-items: center;
-        }
-        
-        .cefr-badge {
-            background: #4CAF50;
-            color: white;
-            padding: 8px 16px;
-            border-radius: 20px;
-            font-weight: 600;
-            font-size: 0.9em;
-        }
-        
-        .stage-badge {
-            background: #2196F3;
-            color: white;
-            padding: 8px 16px;
-            border-radius: 20px;
-            font-weight: 600;
-            font-size: 0.9em;
-        }
-        
-        .level-description {
-            color: #555;
-            line-height: 1.8;
-            margin-bottom: 20px;
-            font-size: 1.05em;
-        }
-        
-        .competencies {
-            background: #f8f9fa;
-            padding: 20px;
-            border-radius: 8px;
-            margin-top: 15px;
-        }
-        
-        .competencies h4 {
-            color: #667eea;
-            margin-bottom: 12px;
-            font-size: 1.1em;
-        }
-        
-        .competencies ul {
-            margin: 0;
-            padding-left: 25px;
-        }
-        
-        .competencies li {
-            margin-bottom: 8px;
-            color: #555;
-            line-height: 1.6;
-        }
-        
-        .resources-section {
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-            margin-top: 30px;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-        }
-        
-        .resources-section h2 {
-            color: #2c3e50;
-            margin-bottom: 20px;
-            border-bottom: 3px solid #667eea;
-            padding-bottom: 10px;
-        }
-        
-        .resource-link {
-            display: block;
-            padding: 15px 20px;
-            background: #f8f9fa;
-            border-radius: 8px;
-            margin-bottom: 15px;
-            text-decoration: none;
-            color: #2c3e50;
-            border-left: 4px solid #667eea;
-            transition: all 0.3s ease;
-        }
-        
-        .resource-link:hover {
-            background: #e7f0ff;
-            border-left-width: 8px;
-            transform: translateX(5px);
-        }
-        
-        .resource-link strong {
-            color: #667eea;
-            font-size: 1.1em;
-            display: block;
-            margin-bottom: 5px;
-        }
-        
-        .resource-link span {
-            color: #666;
-            font-size: 0.95em;
-        }
-        
-        .comparison-table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0;
-            background: white;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-            overflow: hidden;
-        }
-        
-        .comparison-table th {
-            background: #667eea;
-            color: white;
-            padding: 15px;
-            text-align: left;
-            font-weight: 600;
-        }
-        
-        .comparison-table td {
-            padding: 12px 15px;
-            border-bottom: 1px solid #eee;
-        }
-        
-        .comparison-table tr:hover {
-            background: #f8f9fa;
-        }
-        
-        .back-button {
-            display: inline-block;
-            padding: 12px 24px;
-            background: #667eea;
-            color: white;
-            text-decoration: none;
-            border-radius: 8px;
-            font-weight: 600;
-            margin-top: 20px;
-            transition: all 0.3s ease;
-        }
-        
-        .back-button:hover {
-            background: #764ba2;
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
-        }
-    </style>
+
 </head>
 <body>
     <div class="container">
@@ -559,34 +362,29 @@
         <div class="resources-section">
             <h2>📚 Further Information & Resources</h2>
             
-            <a href="https://www.quebec.ca/en/immigration/learn-french" target="_blank" class="resource-link">
+            <a href="https://www.quebec.ca/en/education/learn-french" target="_blank" class="resource-link">
                 <strong>🏛️ Quebec Government - Learn French</strong>
                 <span>Official government resource for French language learning in Quebec, including information about francisation programs.</span>
             </a>
 
-            <a href="https://www.immigration-quebec.gouv.qc.ca/en/french-language/index.html" target="_blank" class="resource-link">
+            <a href="https://www.quebecentete.com/en/live-in-quebec/learn-french" target="_blank" class="resource-link">
                 <strong>🗂️ Immigration Quebec - French Language</strong>
                 <span>Information about French language requirements for immigration and available resources for newcomers.</span>
             </a>
 
-            <a href="https://www.quebec.ca/en/immigration/learn-french/francisation-quebec" target="_blank" class="resource-link">
+            <a href="https://referencesfrancisation.immigration-quebec.gouv.qc.ca/moodle_ref/" target="_blank" class="resource-link">
                 <strong>📖 Francisation Québec</strong>
                 <span>Free French courses offered by the Quebec government for permanent residents and accepted immigrants.</span>
             </a>
 
-            <a href="https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions" target="_blank" class="resource-link">
-                <strong>🇪🇺 CEFR Official Descriptions</strong>
+            <a href="https://www.coe.int/en/web/common-european-framework-reference-languages/cefr-descriptors" target="_blank" class="resource-link">
+                <strong>CEFR Official Descriptions</strong>
                 <span>Detailed descriptions of CEFR levels from the Council of Europe, which the Quebec scale is based on.</span>
             </a>
 
-            <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility/language-proof.html" target="_blank" class="resource-link">
+            <a href="https://immigration.ca/canadian-citizenship-requirements/#:~:text=Language%20Requirements,true%20or%20false%20questions%20covering:" target="_blank" class="resource-link">
                 <strong>🍁 Canadian Citizenship Language Requirements</strong>
                 <span>Official information about language proficiency requirements for Canadian citizenship.</span>
-            </a>
-
-            <a href="écoute_française.html" class="resource-link">
-                <strong>🎧 Practice with Our Listening Module</strong>
-                <span>Use our Écoute Française tool to practice listening comprehension at each Quebec Francisation Scale level.</span>
             </a>
         </div>
 

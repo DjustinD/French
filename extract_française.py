@@ -20,7 +20,7 @@ def extract_française_phrases(json_file, output_file=None):
     # If no output file specified, create one based on input filename
     if output_file is None:
         base_name = os.path.splitext(json_file)[0]
-        output_file = f"{base_name}_french.txt"
+        output_file = f"{base_name}_française.txt"
     
     # Read the JSON file
     try:

@@ -10,11 +10,30 @@
 ├── directory_map.txt
 ├── ecoute
 │   ├── niveau_01.json
-│   └── niveau_02.json
+│   ├── niveau_01_french.txt
+│   ├── niveau_02.json
+│   ├── niveau_02_french.txt
+│   ├── niveau_03.json
+│   ├── niveau_04.json
+│   ├── niveau_05.json
+│   ├── niveau_06.json
+│   ├── niveau_07.json
+│   ├── niveau_08.json
+│   ├── niveau_09.json
+│   ├── niveau_10.json
+│   ├── niveau_11.json
+│   └── niveau_12.json
+├── extract_française.py
 ├── images
 │   ├── canard.jpg
+│   ├── chat.jpg
 │   ├── chien.jpg
-│   └── renard.jpg
+│   ├── cochon.jpg
+│   ├── mouton.jpg
+│   ├── oiseau.jpg
+│   ├── poisson.jpg
+│   ├── renard.jpg
+│   └── vache.jpg
 ├── index.html
 ├── niveaux_quebec.html
 ├── nombres
