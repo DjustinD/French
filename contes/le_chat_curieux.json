@@ -1,0 +1,54 @@
+{
+    "title": "Le Chat Curieux",
+    "level": "Niveau 1-2",
+    "cefr": "A1.1-A1.2",
+    "description": "Une histoire simple sur un chat curieux qui explore la maison",
+    "vocabulary_used": {
+        "verbes": ["être", "avoir", "voir", "regarder", "aller", "trouver"],
+        "noms": ["chat", "maison", "porte", "fenêtre", "cuisine", "jardin"],
+        "adjectifs": ["petit", "grand", "rouge", "bleu", "curieux", "content"],
+        "nombres": ["un", "deux", "trois"]
+    },
+    "paragraphs": [
+        {
+            "french": "Il était une fois un petit chat gris. Il s'appelait Félix.",
+            "english": "Once upon a time there was a little gray cat. His name was Felix.",
+            "image": "le_chat_curieux_1.jpg"
+        },
+        {
+            "french": "Félix était très curieux. Il voulait voir toute la maison.",
+            "english": "Felix was very curious. He wanted to see the whole house.",
+            "image": "le_chat_curieux_2.jpg"
+        },
+        {
+            "french": "D'abord, il va dans la cuisine. Il voit une porte rouge.",
+            "english": "First, he goes into the kitchen. He sees a red door.",
+            "image": "le_chat_curieux_3.jpg"
+        },
+        {
+            "french": "Ensuite, il monte les escaliers. Il y a trois chambres en haut.",
+            "english": "Next, he climbs the stairs. There are three bedrooms upstairs.",
+            "image": "le_chat_curieux_4.jpg"
+        },
+        {
+            "french": "Dans la première chambre, il trouve un grand lit bleu.",
+            "english": "In the first bedroom, he finds a big blue bed.",
+            "image": "le_chat_curieux_5.jpg"
+        },
+        {
+            "french": "Dans la deuxième chambre, il voit deux fenêtres.",
+            "english": "In the second bedroom, he sees two windows.",
+            "image": "le_chat_curieux_6.jpg"
+        },
+        {
+            "french": "Félix regarde par la fenêtre. Il voit le jardin.",
+            "english": "Felix looks out the window. He sees the garden.",
+            "image": "le_chat_curieux_7.jpg"
+        },
+        {
+            "french": "Le chat est content. Il aime sa maison!",
+            "english": "The cat is happy. He loves his house!",
+            "image": "le_chat_curieux_8.jpg"
+        }
+    ]
+}

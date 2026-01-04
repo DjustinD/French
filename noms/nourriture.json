@@ -173,5 +173,25 @@
     "singular": "la soupe",
     "plural": "les soupes",
     "image": "images/soupe.jpg"
+  },
+  {
+    "singular": "le concombre",
+    "plural": "les concombres",
+    "image": "images/concombre.jpg"
+  },
+  {
+    "singular": "la baguette",
+    "plural": "les baguettes",
+    "image": "images/baguette.jpg"
+  },
+  {
+    "singular": "le légume",
+    "plural": "les légumes",
+    "image": "images/legume.jpg"
+  },
+  {
+    "singular": "le fruit",
+    "plural": "les fruits",
+    "image": "images/fruit.jpg"
   }
 ]

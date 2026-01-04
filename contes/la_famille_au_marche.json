@@ -1,0 +1,99 @@
+{
+    "title": "La Famille Dubois au Marché",
+    "level": "Niveau 3-4",
+    "cefr": "A2.1-A2.2",
+    "description": "Une famille fait les courses au marché et découvre les couleurs et les nombres",
+    "vocabulary_used": {
+        "verbes": ["aller", "acheter", "voir", "choisir", "payer", "coûter", "porter", "préférer"],
+        "noms": ["famille", "marché", "mère", "père", "enfant", "pomme", "banane", "tomate", "carotte", "fromage", "pain", "sac"],
+        "adjectifs": ["rouge", "vert", "jaune", "frais", "délicieux", "cher", "bon marché", "lourd"],
+        "nombres": ["vingt", "trente", "cinquante", "cent", "deux", "trois", "cinq", "dix"]
+    },
+    "paragraphs": [
+        {
+            "french": "C'est samedi matin. La famille Dubois va au marché de la ville.",
+            "english": "It's Saturday morning. The Dubois family goes to the town market.",
+            "image": "la_famille_au_marche_1.jpg"
+        },
+        {
+            "french": "Il y a le père Marc, la mère Julie, et leurs deux enfants: Emma et Lucas.",
+            "english": "There is the father Marc, the mother Julie, and their two children: Emma and Lucas.",
+            "image": "la_famille_au_marche_2.jpg"
+        },
+        {
+            "french": "Au marché, il y a beaucoup de fruits et de légumes frais et colorés.",
+            "english": "At the market, there are many fresh and colorful fruits and vegetables.",
+            "image": "la_famille_au_marche_3.jpg"
+        },
+        {
+            "french": "Emma voit des pommes rouges brillantes. «Maman, je peux avoir des pommes?»",
+            "english": "Emma sees shiny red apples. 'Mom, can I have some apples?'",
+            "image": "la_famille_au_marche_4.jpg"
+        },
+        {
+            "french": "«Bien sûr, ma chérie. Combien en veux-tu?» demande Julie.",
+            "english": "'Of course, my dear. How many do you want?' asks Julie.",
+            "image": "la_famille_au_marche_5.jpg"
+        },
+        {
+            "french": "«Cinq pommes, s'il vous plaît!» dit Emma au marchand.",
+            "english": "'Five apples, please!' says Emma to the merchant.",
+            "image": "la_famille_au_marche_6.jpg"
+        },
+        {
+            "french": "Le marchand pèse les pommes. «Ça fait trois dollars», dit-il.",
+            "english": "The merchant weighs the apples. 'That's three dollars,' he says.",
+            "image": "la_famille_au_marche_7.jpg"
+        },
+        {
+            "french": "Lucas préfère les bananes jaunes. Il en choisit dix pour toute la famille.",
+            "english": "Lucas prefers yellow bananas. He chooses ten for the whole family.",
+            "image": "la_famille_au_marche_8.jpg"
+        },
+        {
+            "french": "Marc achète des tomates rouges, des carottes oranges, et des concombres verts.",
+            "english": "Marc buys red tomatoes, orange carrots, and green cucumbers.",
+            "image": "la_famille_au_marche_9.jpg"
+        },
+        {
+            "french": "«Regardez ces belles tomates!» dit-il. «Elles coûtent seulement cinq dollars le kilo.»",
+            "english": "'Look at these beautiful tomatoes!' he says. 'They cost only five dollars per kilo.'",
+            "image": "la_famille_au_marche_10.jpg"
+        },
+        {
+            "french": "Julie va à la boulangerie. Elle achète deux baguettes croustillantes et un pain de campagne.",
+            "english": "Julie goes to the bakery. She buys two crusty baguettes and a country bread.",
+            "image": "la_famille_au_marche_11.jpg"
+        },
+        {
+            "french": "Les enfants aiment beaucoup le fromage. La famille achète trois fromages différents.",
+            "english": "The children really love cheese. The family buys three different cheeses.",
+            "image": "la_famille_au_marche_12.jpg"
+        },
+        {
+            "french": "«Papa, notre sac est très lourd maintenant!» dit Lucas en riant.",
+            "english": "'Dad, our bag is very heavy now!' says Lucas laughing.",
+            "image": "la_famille_au_marche_13.jpg"
+        },
+        {
+            "french": "Marc compte l'argent: «Nous avons dépensé cinquante dollars aujourd'hui.»",
+            "english": "Marc counts the money: 'We spent fifty dollars today.'",
+            "image": "la_famille_au_marche_14.jpg"
+        },
+        {
+            "french": "Julie sourit: «Oui, mais nous avons acheté des produits frais et délicieux!",
+            "english": "Julie smiles: 'Yes, but we bought fresh and delicious products!'",
+            "image": "la_famille_au_marche_15.jpg"
+        },
+        {
+            "french": "Sur le chemin du retour, Emma compte tout ce qu'ils ont acheté: cinq pommes, dix bananes, trois fromages, et beaucoup de légumes!",
+            "english": "On the way home, Emma counts everything they bought: five apples, ten bananas, three cheeses, and lots of vegetables!",
+            "image": "la_famille_au_marche_16.jpg"
+        },
+        {
+            "french": "«C'était une belle matinée au marché!» dit toute la famille ensemble.",
+            "english": "'It was a beautiful morning at the market!' says the whole family together.",
+            "image": "la_famille_au_marche_17.jpg"
+        }
+    ]
+}

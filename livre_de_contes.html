@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Livre de Contes - French Storybook</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Livre de Contes</h1>
+            <p>French Storybook - Stories using vocabulary from all modules</p>
+            <a href="index.html" class="btn btn-secondary">← Retour à l'accueil</a>
+        </header>
+
+        <div class="settings-group">
+            <div class="form-group">
+                <label for="storySelect">Choisissez un conte:</label>
+                <select id="storySelect" onchange="loadStory()">
+                    <option value="">-- Sélectionnez une histoire --</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="storyMetadata" style="display: none; margin-bottom: 2rem; padding: 1.5rem; background-color: #f8f9fa; border-radius: 8px;">
+            <h2 id="storyTitle" style="margin-top: 0;"></h2>
+            <p id="storyLevel" style="margin: 0.5rem 0; color: #666;"></p>
+            <p id="storyDescription" style="margin: 0.5rem 0;"></p>
+        </div>
+
+        <div class="control-buttons">
+            <button id="playBtn" class="btn btn-primary" onclick="startReading()" disabled>
+                ▶ Lire l'histoire
+            </button>
+            <button id="pauseBtn" class="btn btn-secondary" onclick="pauseReading()" disabled>
+                ⏸ Pause
+            </button>
+            <button id="stopBtn" class="btn btn-danger" onclick="stopReading()" disabled>
+                ⏹ Arrêter
+            </button>
+        </div>
+
+        <div class="settings-group">
+            <div class="form-group">
+                <label for="voiceSelect">Voix:</label>
+                <select id="voiceSelect" onchange="updateVoice()">
+                    <option value="">Chargement des voix...</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="speedControl">
+                    Vitesse: <span id="speedValue">0.8</span>x
+                </label>
+                <input type="range" id="speedControl" min="0.5" max="1.5" step="0.1" value="0.8" oninput="updateSpeed()">
+            </div>
+
+            <div class="form-group">
+                <label for="pauseDuration">
+                    Pause entre paragraphes: <span id="pauseValue">2</span>s
+                </label>
+                <input type="range" id="pauseDuration" min="0.5" max="5" step="0.5" value="2" oninput="updatePauseDuration()">
+            </div>
+        </div>
+
+        <div id="progressContainer" style="display: none; margin: 1rem 0;">
+            <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+                <span id="progressText">Paragraphe 0 / 0</span>
+                <span id="progressPercent">0%</span>
+            </div>
+            <div style="background-color: #e0e0e0; height: 8px; border-radius: 4px; overflow: hidden;">
+                <div id="progressBar" style="background-color: #4CAF50; height: 100%; width: 0%; transition: width 0.3s;"></div>
+            </div>
+        </div>
+
+        <div id="storyContent"></div>
+    </div>
+
+    <script>
+        let synth = window.speechSynthesis;
+        let currentUtterance = null;
+        let voices = [];
+        let selectedVoice = null;
+        let currentStory = null;
+        let currentParagraphIndex = 0;
+        let isReading = false;
+        let isPaused = false;
+        let speed = 0.8;
+        let pauseDuration = 2000; // milliseconds
+
+        // Load available voices
+        function loadVoices() {
+            voices = synth.getVoices();
+            const voiceSelect = document.getElementById('voiceSelect');
+            voiceSelect.innerHTML = '';
+
+            // Filter for French voices
+            const frenchVoices = voices.filter(voice => voice.lang.startsWith('fr'));
+            
+            if (frenchVoices.length === 0) {
+                voiceSelect.innerHTML = '<option value="">Aucune voix française disponible</option>';
+                return;
+            }
+
+            // Prioritize Canadian French (fr-CA)
+            frenchVoices.sort((a, b) => {
+                if (a.lang === 'fr-CA' && b.lang !== 'fr-CA') return -1;
+                if (a.lang !== 'fr-CA' && b.lang === 'fr-CA') return 1;
+                return 0;
+            });
+
+            frenchVoices.forEach((voice, index) => {
+                const option = document.createElement('option');
+                option.value = index;
+                option.textContent = `${voice.name} (${voice.lang})`;
+                voiceSelect.appendChild(option);
+            });
+
+            // Select the first voice (which will be fr-CA if available)
+            if (frenchVoices.length > 0) {
+                selectedVoice = frenchVoices[0];
+                voiceSelect.selectedIndex = 0;
+            }
+        }
+
+        // Update selected voice
+        function updateVoice() {
+            const voiceSelect = document.getElementById('voiceSelect');
+            const frenchVoices = voices.filter(voice => voice.lang.startsWith('fr'));
+            if (voiceSelect.selectedIndex >= 0) {
+                selectedVoice = frenchVoices[voiceSelect.selectedIndex];
+            }
+        }
+
+        // Update reading speed
+        function updateSpeed() {
+            const speedControl = document.getElementById('speedControl');
+            const speedValue = document.getElementById('speedValue');
+            speed = parseFloat(speedControl.value);
+            speedValue.textContent = speed.toFixed(1);
+        }
+
+        // Update pause duration between paragraphs
+        function updatePauseDuration() {
+            const pauseControl = document.getElementById('pauseDuration');
+            const pauseValue = document.getElementById('pauseValue');
+            pauseDuration = parseFloat(pauseControl.value) * 1000;
+            pauseValue.textContent = pauseControl.value;
+        }
+
+        // Load stories list
+        async function loadStories() {
+            try {
+                const response = await fetch('livre_de_contes.json');
+                const data = await response.json();
+                
+                const storySelect = document.getElementById('storySelect');
+                storySelect.innerHTML = '<option value="">-- Sélectionnez une histoire --</option>';
+                
+                data.forEach((story, index) => {
+                    const option = document.createElement('option');
+                    option.value = story.file;
+                    option.textContent = `${story.title} (${story.level})`;
+                    storySelect.appendChild(option);
+                });
+            } catch (error) {
+                console.error('Error loading stories:', error);
+            }
+        }
+
+        // Load a specific story
+        async function loadStory() {
+            const storySelect = document.getElementById('storySelect');
+            const selectedFile = storySelect.value;
+            
+            if (!selectedFile) {
+                document.getElementById('storyMetadata').style.display = 'none';
+                document.getElementById('storyContent').innerHTML = '';
+                document.getElementById('playBtn').disabled = true;
+                document.getElementById('progressContainer').style.display = 'none';
+                return;
+            }
+
+            try {
+                const response = await fetch(`contes/${selectedFile}`);
+                currentStory = await response.json();
+                
+                // Display metadata
+                document.getElementById('storyTitle').textContent = currentStory.title;
+                document.getElementById('storyLevel').textContent = `Niveau: ${currentStory.level} | CEFR: ${currentStory.cefr}`;
+                document.getElementById('storyDescription').textContent = currentStory.description;
+                document.getElementById('storyMetadata').style.display = 'block';
+                
+                // Display story content
+                const contentDiv = document.getElementById('storyContent');
+                contentDiv.innerHTML = '<div style="background-color: white; padding: 2rem; border-radius: 8px; line-height: 1.8;">';
+                
+                currentStory.paragraphs.forEach((para, index) => {
+                    // If paragraph has an image, insert it above the paragraph
+                    if (para.image) {
+                        const img = document.createElement('img');
+                        img.src = `images/${para.image}`;
+                        img.alt = para.french.substring(0, 60);
+                        img.style.display = 'block';
+                        img.style.maxWidth = '100%';
+                        img.style.height = 'auto';
+                        img.style.margin = '0 0 1rem 0';
+                        img.loading = 'lazy';
+                        contentDiv.firstChild.appendChild(img);
+                    }
+
+                    const p = document.createElement('p');
+                    p.id = `para-${index}`;
+                    p.style.marginBottom = '0.5rem';
+                    p.style.fontSize = '1.1rem';
+                    p.textContent = para.french;
+                    contentDiv.firstChild.appendChild(p);
+
+                    // Add English translation under the paragraph
+                    const translation = document.createElement('p');
+                    translation.className = 'translation';
+                    translation.style.color = '#666';
+                    translation.style.fontSize = '0.95rem';
+                    translation.style.marginTop = '0.25rem';
+                    translation.style.marginBottom = '1.5rem';
+                    translation.style.fontStyle = 'italic';
+                    translation.textContent = `→ ${para.english}`;
+                    contentDiv.firstChild.appendChild(translation);
+                });
+                
+                contentDiv.innerHTML += '</div>';
+                
+                // Enable play button
+                document.getElementById('playBtn').disabled = false;
+                document.getElementById('progressContainer').style.display = 'block';
+                updateProgress();
+                
+            } catch (error) {
+                console.error('Error loading story:', error);
+                alert('Erreur lors du chargement de l\'histoire');
+            }
+        }
+
+        // Update progress display
+        function updateProgress() {
+            if (!currentStory) return;
+            
+            const total = currentStory.paragraphs.length;
+            const current = currentParagraphIndex;
+            const percent = total > 0 ? Math.round((current / total) * 100) : 0;
+            
+            document.getElementById('progressText').textContent = `Paragraphe ${current} / ${total}`;
+            document.getElementById('progressPercent').textContent = `${percent}%`;
+            document.getElementById('progressBar').style.width = `${percent}%`;
+        }
+
+        // Highlight current paragraph
+        function highlightParagraph(index) {
+            // Remove all highlights
+            document.querySelectorAll('[id^="para-"]').forEach(p => {
+                p.style.backgroundColor = '';
+                p.style.padding = '';
+                p.style.borderRadius = '';
+            });
+            
+            // Highlight current paragraph
+            const currentPara = document.getElementById(`para-${index}`);
+            if (currentPara) {
+                currentPara.style.backgroundColor = '#fff3cd';
+                currentPara.style.padding = '1rem';
+                currentPara.style.borderRadius = '4px';
+                currentPara.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+        }
+
+        // Read a single paragraph
+        function readParagraph(index) {
+            if (index >= currentStory.paragraphs.length) {
+                stopReading();
+                return;
+            }
+
+            currentParagraphIndex = index;
+            updateProgress();
+            highlightParagraph(index);
+
+            const text = currentStory.paragraphs[index].french;
+            currentUtterance = new SpeechSynthesisUtterance(text);
+            currentUtterance.voice = selectedVoice;
+            currentUtterance.rate = speed;
+            currentUtterance.lang = 'fr-CA';
+
+            currentUtterance.onend = () => {
+                if (isReading && !isPaused) {
+                    // Pause between paragraphs
+                    setTimeout(() => {
+                        if (isReading && !isPaused) {
+                            readParagraph(index + 1);
+                        }
+                    }, pauseDuration);
+                }
+            };
+
+            currentUtterance.onerror = (event) => {
+                console.error('Speech synthesis error:', event);
+            };
+
+            synth.speak(currentUtterance);
+        }
+
+        // Start reading the story
+        function startReading() {
+            if (!currentStory) return;
+
+            if (isPaused) {
+                // Resume from where we paused
+                isPaused = false;
+                synth.resume();
+            } else {
+                // Start from beginning or current position
+                isReading = true;
+                readParagraph(currentParagraphIndex);
+            }
+
+            document.getElementById('playBtn').disabled = true;
+            document.getElementById('pauseBtn').disabled = false;
+            document.getElementById('stopBtn').disabled = false;
+        }
+
+        // Pause reading
+        function pauseReading() {
+            if (synth.speaking && !synth.paused) {
+                synth.pause();
+                isPaused = true;
+                document.getElementById('playBtn').disabled = false;
+                document.getElementById('pauseBtn').disabled = true;
+            }
+        }
+
+        // Stop reading
+        function stopReading() {
+            isReading = false;
+            isPaused = false;
+            synth.cancel();
+            currentParagraphIndex = 0;
+            updateProgress();
+            
+            // Remove highlights
+            document.querySelectorAll('[id^="para-"]').forEach(p => {
+                p.style.backgroundColor = '';
+                p.style.padding = '';
+                p.style.borderRadius = '';
+            });
+
+            document.getElementById('playBtn').disabled = false;
+            document.getElementById('pauseBtn').disabled = true;
+            document.getElementById('stopBtn').disabled = true;
+        }
+
+        // Initialize on page load
+        window.addEventListener('DOMContentLoaded', () => {
+            loadVoices();
+            loadStories();
+
+            // Reload voices when they change (some browsers load them asynchronously)
+            if (synth.onvoiceschanged !== undefined) {
+                synth.onvoiceschanged = loadVoices;
+            }
+        });
+    </script>
+</body>
+</html>

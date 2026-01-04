@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Le Chat Curieux",
+        "file": "le_chat_curieux.json",
+        "level": "Niveau 1-2",
+        "cefr": "A1.1-A1.2",
+        "description": "A simple story about a curious cat exploring the house"
+    },
+    {
+        "title": "Le Petit Lapin et les Carottes",
+        "file": "le_petit_lapin.json",
+        "level": "Niveau 2-3",
+        "cefr": "A1.2-A2.1",
+        "description": "A rabbit learns about sharing and counting vegetables"
+    },
+    {
+        "title": "La Famille Dubois au Marché",
+        "file": "la_famille_au_marche.json",
+        "level": "Niveau 3-4",
+        "cefr": "A2.1-A2.2",
+        "description": "A family goes shopping at the market, learning colors and numbers"
+    }
+]

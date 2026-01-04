@@ -1,0 +1,64 @@
+{
+    "title": "Le Petit Lapin et les Carottes",
+    "level": "Niveau 2-3",
+    "cefr": "A1.2-A2.1",
+    "description": "Un lapin apprend à partager et à compter les légumes",
+    "vocabulary_used": {
+        "verbes": ["avoir", "être", "vouloir", "manger", "donner", "apprendre", "compter"],
+        "noms": ["lapin", "carotte", "jardin", "ami", "légume"],
+        "adjectifs": ["petit", "grand", "orange", "content", "gentil", "gourmand"],
+        "nombres": ["cinq", "dix", "deux", "trois", "huit"]
+    },
+    "paragraphs": [
+        {
+            "french": "Pierre est un petit lapin blanc. Il habite dans un grand jardin.",
+            "english": "Pierre is a little white rabbit. He lives in a big garden.",
+            "image": "le_petit_lapin_1.jpg"
+        },
+        {
+            "french": "Aujourd'hui, Pierre a trouvé dix carottes oranges. Elles sont très belles!",
+            "english": "Today, Pierre found ten orange carrots. They are very beautiful!",
+            "image": "le_petit_lapin_2.jpg"
+        },
+        {
+            "french": "Pierre est gourmand. Il veut manger toutes les carottes.",
+            "english": "Pierre is greedy. He wants to eat all the carrots.",
+            "image": "le_petit_lapin_3.jpg"
+        },
+        {
+            "french": "Soudain, son amie Sophie arrive. Sophie est un lapin gris.",
+            "english": "Suddenly, his friend Sophie arrives. Sophie is a gray rabbit.",
+            "image": "le_petit_lapin_4.jpg"
+        },
+        {
+            "french": "Sophie dit: «Bonjour Pierre! Tu as beaucoup de carottes!»",
+            "english": "Sophie says: 'Hello Pierre! You have many carrots!'",
+            "image": "le_petit_lapin_5.jpg"
+        },
+        {
+            "french": "Pierre pense. Il veut être gentil. Il décide de partager.",
+            "english": "Pierre thinks. He wants to be kind. He decides to share.",
+            "image": "le_petit_lapin_6.jpg"
+        },
+        {
+            "french": "«Je te donne cinq carottes», dit Pierre. «Maintenant, nous avons cinq carottes chacun.»",
+            "english": "'I'll give you five carrots,' says Pierre. 'Now we each have five carrots.'",
+            "image": "le_petit_lapin_7.jpg"
+        },
+        {
+            "french": "Sophie est très contente. «Merci, Pierre! Tu es un bon ami!»",
+            "english": "Sophie is very happy. 'Thank you, Pierre! You are a good friend!'",
+            "image": "le_petit_lapin_8.jpg"
+        },
+        {
+            "french": "Les deux lapins comptent leurs carottes ensemble: un, deux, trois, quatre, cinq!",
+            "english": "The two rabbits count their carrots together: one, two, three, four, five!",
+            "image": "le_petit_lapin_9.jpg"
+        },
+        {
+            "french": "Pierre a appris quelque chose d'important: partager rend heureux!",
+            "english": "Pierre learned something important: sharing makes you happy!",
+            "image": "le_petit_lapin_10.jpg"
+        }
+    ]
+}

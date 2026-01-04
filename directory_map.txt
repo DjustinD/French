@@ -7,6 +7,10 @@
 │   └── taille.json
 ├── adjectifs_français.html
 ├── adjectifs_français.json
+├── contes
+│   ├── la_famille_au_marche.json
+│   ├── le_chat_curieux.json
+│   └── le_petit_lapin.json
 ├── directory_map.txt
 ├── ecoute
 │   ├── niveau_01.json
@@ -25,16 +29,73 @@
 │   └── niveau_12.json
 ├── extract_française.py
 ├── images
+│   ├── argent.jpg
+│   ├── baguette.jpg
+│   ├── botte.jpg
+│   ├── boulangerie.jpg
 │   ├── canard.jpg
+│   ├── casquette.jpg
+│   ├── ceinture.jpg
+│   ├── chapeau.jpg
 │   ├── chat.jpg
+│   ├── chaussette.jpg
+│   ├── chaussure.jpg
+│   ├── chemin.jpg
+│   ├── chemise.jpg
 │   ├── chien.jpg
 │   ├── cochon.jpg
+│   ├── cravate.jpg
+│   ├── dollar.jpg
+│   ├── echarpe.jpg
+│   ├── for vscode chat.txt
+│   ├── gant.jpg
+│   ├── jean.jpg
+│   ├── jupe.jpg
+│   ├── kilo.jpg
+│   ├── lapin.jpg
+│   ├── le_chat_curieux_1.jpg
+│   ├── le_chat_curieux_2.jpg
+│   ├── le_chat_curieux_3.jpg
+│   ├── le_chat_curieux_4.jpg
+│   ├── le_chat_curieux_5.jpg
+│   ├── le_chat_curieux_6.png
+│   ├── le_chat_curieux_7.jpg
+│   ├── le_chat_curieux_8.png
+│   ├── loup.jpg
+│   ├── magasin.jpg
+│   ├── maillot.jpg
+│   ├── manteau.jpg
+│   ├── marchand.jpg
+│   ├── marche.png
 │   ├── mouton.jpg
 │   ├── oiseau.jpg
+│   ├── pantalon.jpg
 │   ├── poisson.jpg
+│   ├── prix.jpg
+│   ├── produit.jpg
+│   ├── prompts
+│   │   ├── botte.prompt
+│   │   ├── ceinture.prompt
+│   │   ├── cravate.prompt
+│   │   ├── echarpe.prompt
+│   │   ├── gant.prompt
+│   │   ├── maillot.prompt
+│   │   └── sandale.prompt
+│   ├── pull.jpg
 │   ├── renard.jpg
-│   └── vache.jpg
+│   ├── robe.jpg
+│   ├── sac.jpg
+│   ├── sandale.jpg
+│   ├── short.jpg
+│   ├── souris.jpg
+│   ├── tigre.jpg
+│   ├── tshirt.jpg
+│   ├── vache.jpg
+│   ├── veste.jpg
+│   └── ville.jpg
 ├── index.html
+├── livre_de_contes.html
+├── livre_de_contes.json
 ├── niveaux_quebec.html
 ├── nombres
 │   ├── cardinaux_21_100.json
@@ -48,6 +109,7 @@
 │   ├── animaux.json
 │   ├── corps.json
 │   ├── famille.json
+│   ├── lieux.json
 │   ├── maison.json
 │   ├── nourriture.json
 │   ├── plantes.json

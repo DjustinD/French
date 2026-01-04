@@ -1,0 +1,13 @@
+Scan the project folder I provide and find all image filenames referenced in JSON files under noms (or another folder I name). For each referenced JPEG that does not exist in images, create a .prompt text file in prompts named exactly like the missing JPEG but with a .prompt extension (example: boulangerie.prompt). For each prompt file:
+
+Write the content in French.
+Start with a first line: Fichier final: <filename>.jpg.
+Then include one paragraph (3–6 sentences) of a detailed Mistral «Le Chat» prompt describing composition, subject, camera/angle, lighting, color palette, mood, and any contextual props.
+Add one final short line with technical instructions: Spécifications : JPEG 400×300 px (4:3), optimiser pour ≈100 KB, pas de texte ni de logos.
+Rules:
+
+Only create prompts for images that are referenced in the JSON but missing from images.
+Do not overwrite existing .prompt files unless I explicitly ask.
+Be sure to create a prompt that shows the entire scene in the picture
+Batch the work and create up to 10 prompts at once.
+Return a short report listing the created .prompt file paths and the original missing filenames.

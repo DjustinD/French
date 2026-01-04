@@ -423,5 +423,230 @@
             }
         ],
         "image": null
+    },
+    {
+        "masculinSingular": "content",
+        "femininSingular": "contente",
+        "masculinPlural": "contents",
+        "femininPlural": "contentes",
+        "english": "happy, pleased",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un enfant content",
+                "english": "a happy child"
+            },
+            {
+                "french": "une cliente contente",
+                "english": "a pleased customer"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "curieux",
+        "femininSingular": "curieuse",
+        "masculinPlural": "curieux",
+        "femininPlural": "curieuses",
+        "english": "curious",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "curieux → curieuse",
+            "mascPlur": "no change",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un chat curieux",
+                "english": "a curious cat"
+            },
+            {
+                "french": "une question curieuse",
+                "english": "a curious question"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "gentil",
+        "femininSingular": "gentille",
+        "masculinPlural": "gentils",
+        "femininPlural": "gentilles",
+        "english": "kind, nice",
+        "position": "après",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "gentil → gentille",
+            "mascPlur": "+ s",
+            "femPlur": "gentilles"
+        },
+        "examples": [
+            {
+                "french": "un homme gentil",
+                "english": "a kind man"
+            },
+            {
+                "french": "une fille gentille",
+                "english": "a nice girl"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "gourmand",
+        "femininSingular": "gourmande",
+        "masculinPlural": "gourmands",
+        "femininPlural": "gourmandes",
+        "english": "greedy (for food), food-loving",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un lapin gourmand",
+                "english": "a greedy rabbit"
+            },
+            {
+                "french": "une personne gourmande",
+                "english": "a food-loving person"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "frais",
+        "femininSingular": "fraîche",
+        "masculinPlural": "frais",
+        "femininPlural": "fraîches",
+        "english": "fresh, cool",
+        "position": "après",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "frais → fraîche",
+            "mascPlur": "no change",
+            "femPlur": "fraîches"
+        },
+        "examples": [
+            {
+                "french": "du pain frais",
+                "english": "fresh bread"
+            },
+            {
+                "french": "une brise fraîche",
+                "english": "a cool breeze"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "délicieux",
+        "femininSingular": "délicieuse",
+        "masculinPlural": "délicieux",
+        "femininPlural": "délicieuses",
+        "english": "delicious",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "délicieux → délicieuse",
+            "mascPlur": "no change",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un gâteau délicieux",
+                "english": "a delicious cake"
+            },
+            {
+                "french": "une soupe délicieuse",
+                "english": "a delicious soup"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "lourd",
+        "femininSingular": "lourde",
+        "masculinPlural": "lourds",
+        "femininPlural": "lourdes",
+        "english": "heavy",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un sac lourd",
+                "english": "a heavy bag"
+            },
+            {
+                "french": "une valise lourde",
+                "english": "a heavy suitcase"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "brillant",
+        "femininSingular": "brillante",
+        "masculinPlural": "brillants",
+        "femininPlural": "brillantes",
+        "english": "shiny, brilliant",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "un diamant brillant",
+                "english": "a brilliant diamond"
+            },
+            {
+                "french": "une étoile brillante",
+                "english": "a shiny star"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "croustillant",
+        "femininSingular": "croustillante",
+        "masculinPlural": "croustillants",
+        "femininPlural": "croustillantes",
+        "english": "crispy, crusty",
+        "position": "après",
+        "irregular": false,
+        "formChanges": {
+            "femSing": "+ e",
+            "mascPlur": "+ s",
+            "femPlur": "+ es"
+        },
+        "examples": [
+            {
+                "french": "du pain croustillant",
+                "english": "crispy bread"
+            },
+            {
+                "french": "une baguette croustillante",
+                "english": "a crusty baguette"
+            }
+        ],
+        "image": null
     }
 ]

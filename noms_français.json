@@ -33,5 +33,10 @@
         "name": "Famille",
         "file": "famille.json",
         "description": "Family members"
+    },
+    {
+        "name": "Lieux et Commerce",
+        "file": "lieux.json",
+        "description": "Places and shopping locations"
     }
 ]

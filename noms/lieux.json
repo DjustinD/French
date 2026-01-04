@@ -1,0 +1,62 @@
+[
+  {
+    "singular": "le marché",
+    "plural": "les marchés",
+    "image": "images/marche.jpg"
+  },
+  {
+    "singular": "la ville",
+    "plural": "les villes",
+    "image": "images/ville.jpg"
+  },
+  {
+    "singular": "le magasin",
+    "plural": "les magasins",
+    "image": "images/magasin.jpg"
+  },
+  {
+    "singular": "la boulangerie",
+    "plural": "les boulangeries",
+    "image": "images/boulangerie.jpg"
+  },
+  {
+    "singular": "le marchand",
+    "plural": "les marchands",
+    "image": "images/marchand.jpg"
+  },
+  {
+    "singular": "le produit",
+    "plural": "les produits",
+    "image": "images/produit.jpg"
+  },
+  {
+    "singular": "le sac",
+    "plural": "les sacs",
+    "image": "images/sac.jpg"
+  },
+  {
+    "singular": "l'argent",
+    "plural": "les argents",
+    "image": "images/argent.jpg"
+  },
+  {
+    "singular": "le dollar",
+    "plural": "les dollars",
+    "image": "images/dollar.jpg"
+  },
+  {
+    "singular": "le prix",
+    "plural": "les prix",
+    "image": "images/prix.jpg"
+  },
+  {
+    "singular": "le kilo",
+    "plural": "les kilos",
+    "image": "images/kilo.jpg"
+  },
+  {
+    "singular": "le chemin",
+    "plural": "les chemins",
+    "image": "images/chemin.jpg"
+  }
+]
