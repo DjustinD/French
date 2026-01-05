@@ -16,6 +16,16 @@
 
         <div class="controls">
             <div class="control-group">
+                <label for="cefr-filter">Niveau de difficulté (CEFR) :</label>
+                <div class="selector-buttons" id="cefrSelector">
+                    <button class="selector-btn active" data-cefr="all">Tous</button>
+                    <button class="selector-btn" data-cefr="A1">A1</button>
+                    <button class="selector-btn" data-cefr="A2">A2</button>
+                    <button class="selector-btn" data-cefr="B1">B1</button>
+                </div>
+            </div>
+            
+            <div class="control-group">
                 <label for="category-select">Choisir une catégorie :</label>
                 <select id="category-select">
                     <option value="">-- Sélectionnez une catégorie --</option>
@@ -25,12 +35,45 @@
 
         <div id="words-container"></div>
     </div>
-    <div style="text-align: center; margin: 30px 0;">
+    <div class="back-button-container">
         <a href="index.html" class="back-button">← Retour à l'accueil</a>
     </div>
     <script>
         const categorySelect = document.getElementById('category-select');
         const wordsContainer = document.getElementById('words-container');
+        let allWords = [];
+        let currentCEFR = 'all';
+
+        // CEFR filter functionality
+        document.getElementById('cefrSelector').addEventListener('click', (e) => {
+            if (e.target.classList.contains('selector-btn')) {
+                // Update active button
+                document.querySelectorAll('#cefrSelector .selector-btn').forEach(btn => {
+                    btn.classList.remove('active');
+                });
+                e.target.classList.add('active');
+                
+                // Update current CEFR and filter
+                currentCEFR = e.target.dataset.cefr;
+                filterAndDisplayWords();
+            }
+        });
+
+        function filterAndDisplayWords() {
+            if (!allWords || allWords.length === 0) return;
+            
+            let filteredWords = allWords;
+            if (currentCEFR !== 'all') {
+                filteredWords = allWords.filter(word => word.cefr === currentCEFR);
+            }
+            
+            if (filteredWords.length === 0) {
+                wordsContainer.innerHTML = `<div class="no-words">Aucun mot trouvé pour le niveau ${currentCEFR}.</div>`;
+                return;
+            }
+            
+            displayWords(filteredWords);
+        }
 
         // Load categories from main JSON file
         async function loadCategories() {
@@ -72,6 +115,7 @@
         async function loadWords(categoryFile) {
             if (!categoryFile) {
                 wordsContainer.innerHTML = '';
+                allWords = [];
                 return;
             }
 
@@ -81,14 +125,14 @@
                 const response = await fetch(`noms/${categoryFile}`);
                 if (!response.ok) throw new Error('Impossible de charger les mots');
                 
-                const words = await response.json();
+                allWords = await response.json();
                 
-                if (words.length === 0) {
+                if (allWords.length === 0) {
                     wordsContainer.innerHTML = '<div class="no-words">Aucun mot dans cette catégorie.</div>';
                     return;
                 }
 
-                displayWords(words);
+                filterAndDisplayWords();
             } catch (error) {
                 wordsContainer.innerHTML = `
                     <div class="error">
@@ -126,16 +170,60 @@
                 // Create word info
                 const info = document.createElement('div');
                 info.className = 'word-info';
-                info.innerHTML = `
-                    <div class="word-singular">
-                        <span class="label-tag singular-tag" title="Singulier">sg.</span>
-                        ${word.singular}
-                    </div>
-                    <div class="word-plural">
-                        <span class="label-tag plural-tag" title="Pluriel">pl.</span>
-                        ${word.plural}
-                    </div>
-                `;
+                
+                // Create singular section with tooltip
+                const singularDiv = document.createElement('div');
+                singularDiv.className = 'word-singular';
+                
+                const singularLabel = document.createElement('span');
+                singularLabel.className = 'label-tag singular-tag tooltip-trigger';
+                singularLabel.textContent = 'sg.';
+                
+                const singularTooltip = document.createElement('span');
+                singularTooltip.className = 'tooltip';
+                singularTooltip.setAttribute('aria-hidden', 'true');
+                singularTooltip.textContent = 'Singular';
+                singularLabel.appendChild(singularTooltip);
+                
+                singularDiv.appendChild(singularLabel);
+                singularDiv.appendChild(document.createTextNode(' ' + word.singular));
+                
+                // Create plural section with tooltip
+                const pluralDiv = document.createElement('div');
+                pluralDiv.className = 'word-plural';
+                
+                const pluralLabel = document.createElement('span');
+                pluralLabel.className = 'label-tag plural-tag tooltip-trigger';
+                pluralLabel.textContent = 'pl.';
+                
+                const pluralTooltip = document.createElement('span');
+                pluralTooltip.className = 'tooltip';
+                pluralTooltip.setAttribute('aria-hidden', 'true');
+                pluralTooltip.textContent = 'Plural';
+                pluralLabel.appendChild(pluralTooltip);
+                
+                pluralDiv.appendChild(pluralLabel);
+                pluralDiv.appendChild(document.createTextNode(' ' + word.plural));
+                
+                // Add English translation with tooltip if available
+                if (word.english) {
+                    const englishDiv = document.createElement('div');
+                    englishDiv.className = 'word-english tooltip-trigger';
+                    englishDiv.textContent = '🇬🇧';
+                    
+                    const englishTooltip = document.createElement('span');
+                    englishTooltip.className = 'tooltip';
+                    englishTooltip.setAttribute('aria-hidden', 'true');
+                    englishTooltip.textContent = word.english;
+                    englishDiv.appendChild(englishTooltip);
+                    
+                    info.appendChild(singularDiv);
+                    info.appendChild(pluralDiv);
+                    info.appendChild(englishDiv);
+                } else {
+                    info.appendChild(singularDiv);
+                    info.appendChild(pluralDiv);
+                }
 
                 card.appendChild(imageDiv);
                 card.appendChild(info);

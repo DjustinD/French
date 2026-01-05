@@ -15,6 +15,16 @@
 
         <div class="controls">
             <div class="control-group">
+                <label for="cefr-filter">Niveau de difficulté (CEFR) :</label>
+                <div class="selector-buttons" id="cefrSelector">
+                    <button class="selector-btn active" data-cefr="all">Tous</button>
+                    <button class="selector-btn" data-cefr="A1">A1</button>
+                    <button class="selector-btn" data-cefr="A2">A2</button>
+                    <button class="selector-btn" data-cefr="B1">B1</button>
+                </div>
+            </div>
+            
+            <div class="control-group">
                 <label for="category-select">Choisir une catégorie :</label>
                 <select id="category-select">
                     <option value="">-- Sélectionnez une catégorie --</option>
@@ -24,12 +34,14 @@
 
         <div id="adjectives-container"></div>
     </div>
-    <div style="text-align: center; margin: 30px 0;">
+    <div class="back-button-container">
         <a href="index.html" class="back-button">← Retour à l'accueil</a>
     </div>
     <script>
         const categorySelect = document.getElementById('category-select');
         const adjectivesContainer = document.getElementById('adjectives-container');
+        let allAdjectives = [];
+        let currentCEFR = 'all';
 
         // Position information
         const positionInfo = {
@@ -37,6 +49,37 @@
             'après': 'After noun',
             'both': 'Before or after'
         };
+
+        // CEFR filter functionality
+        document.getElementById('cefrSelector').addEventListener('click', (e) => {
+            if (e.target.classList.contains('selector-btn')) {
+                // Update active button
+                document.querySelectorAll('#cefrSelector .selector-btn').forEach(btn => {
+                    btn.classList.remove('active');
+                });
+                e.target.classList.add('active');
+                
+                // Update current CEFR and filter
+                currentCEFR = e.target.dataset.cefr;
+                filterAndDisplayAdjectives();
+            }
+        });
+
+        function filterAndDisplayAdjectives() {
+            if (!allAdjectives || allAdjectives.length === 0) return;
+            
+            let filteredAdjectives = allAdjectives;
+            if (currentCEFR !== 'all') {
+                filteredAdjectives = allAdjectives.filter(adj => adj.cefr === currentCEFR);
+            }
+            
+            if (filteredAdjectives.length === 0) {
+                adjectivesContainer.innerHTML = `<div class="no-words">Aucun adjectif trouvé pour le niveau ${currentCEFR}.</div>`;
+                return;
+            }
+            
+            displayAdjectives(filteredAdjectives);
+        }
 
         // Load categories from main JSON file
         async function loadCategories() {
@@ -79,6 +122,7 @@
         async function loadAdjectives(categoryFile) {
             if (!categoryFile) {
                 adjectivesContainer.innerHTML = '';
+                allAdjectives = [];
                 return;
             }
 
@@ -88,14 +132,14 @@
                 const response = await fetch(`adjectifs/${categoryFile}`);
                 if (!response.ok) throw new Error('Impossible de charger les adjectifs');
                 
-                const adjectives = await response.json();
+                allAdjectives = await response.json();
                 
-                if (adjectives.length === 0) {
+                if (allAdjectives.length === 0) {
                     adjectivesContainer.innerHTML = '<div class="no-adjectives">Aucun adjectif dans cette catégorie.</div>';
                     return;
                 }
 
-                displayAdjectives(adjectives);
+                filterAndDisplayAdjectives();
             } catch (error) {
                 adjectivesContainer.innerHTML = `
                     <div class="error">
@@ -179,15 +223,15 @@
                 let titleHTML = `<div class="adjective-forms">
                     ${adj.english}`;
                 
-                // Position badge
+                // Position badge with aria-hidden tooltip
                 if (adj.position) {
                     const positionText = positionInfo[adj.position] || adj.position;
-                    titleHTML += `<span class="position-badge" title="Position: ${positionText}">${adj.position}</span>`;
+                    titleHTML += `<span class="position-badge tooltip-trigger">${adj.position}<span class="tooltip" aria-hidden="true">Position: ${positionText}</span></span>`;
                 }
                 
-                // Irregular badge
+                // Irregular badge with aria-hidden tooltip
                 if (adj.irregular) {
-                    titleHTML += '<span class="irregular-badge">irrégulier</span>';
+                    titleHTML += '<span class="irregular-badge tooltip-trigger">irrégulier<span class="tooltip" aria-hidden="true">Irregular adjective</span></span>';
                 }
                 
                 titleHTML += '</div>';

@@ -257,6 +257,13 @@ select:focus,
     font-style: italic;
 }
 
+.word-english {
+    font-size: 1.1em;
+    color: #666;
+    margin-top: 8px;
+    cursor: help;
+}
+
 /* Adjective Forms Grid */
 .forms-grid {
     display: grid;
@@ -1111,6 +1118,11 @@ select:focus,
 }
 
 /* Back Button */
+.back-button-container {
+    text-align: center;
+    margin: 30px 0;
+}
+
 .back-button {
     display: inline-block;
     padding: 12px 24px;
@@ -1127,6 +1139,124 @@ select:focus,
     background: #764ba2;
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+/* Utility Classes for Hidden Elements */
+.level-info-hidden,
+.progress-info-hidden,
+.story-metadata-hidden {
+    display: none;
+}
+
+/* Story metadata styling for livre_de_contes */
+#storyMetadata {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+}
+
+#storyTitle {
+    margin-top: 0;
+}
+
+#storyLevel {
+    margin: 0.5rem 0;
+    color: #666;
+}
+
+#storyDescription {
+    margin: 0.5rem 0;
+}
+
+/* Utility Classes for Common Layouts */
+.subtitle-secondary {
+    font-size: 1em;
+    opacity: 0.9;
+}
+
+.story-title-spaced {
+    margin: 20px 0 10px 0;
+}
+
+.story-level-info {
+    color: #667eea;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.story-description {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.progress-container {
+    margin: 20px 0;
+    padding: 10px;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+
+.progress-flex {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.progress-bar-container {
+    flex: 1;
+    height: 8px;
+    background: #e9ecef;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, #667eea, #764ba2);
+    transition: width 0.3s ease;
+    width: 0%;
+}
+
+.content-padded {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    line-height: 1.8;
+}
+
+/* Story content styling */
+.story-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 0 1rem 0;
+}
+
+.story-paragraph {
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.story-translation {
+    color: #666;
+    font-size: 0.95rem;
+    margin-top: 0.25rem;
+    margin-bottom: 1.5rem;
+    font-style: italic;
+}
+
+.highlighted-paragraph {
+    background-color: #fff3cd;
+    padding: 1rem;
+    border-radius: 4px;
+}
+
+.section-title {
+    color: #2c3e50;
+    margin: 30px 0 20px 0;
+    text-align: center;
+    font-size: 2em;
 }
 
 /* Responsive Design */

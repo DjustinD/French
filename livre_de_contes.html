@@ -23,10 +23,10 @@
             </div>
         </div>
 
-        <div id="storyMetadata" style="display: none; margin-bottom: 2rem; padding: 1.5rem; background-color: #f8f9fa; border-radius: 8px;">
-            <h2 id="storyTitle" style="margin-top: 0;"></h2>
-            <p id="storyLevel" style="margin: 0.5rem 0; color: #666;"></p>
-            <p id="storyDescription" style="margin: 0.5rem 0;"></p>
+        <div id="storyMetadata" class="story-metadata-hidden">
+            <h2 id="storyTitle" class="story-title-spaced"></h2>
+            <p id="storyLevel" class="story-level-info"></p>
+            <p id="storyDescription" class="story-description"></p>
         </div>
 
         <div class="control-buttons">
@@ -64,13 +64,13 @@
             </div>
         </div>
 
-        <div id="progressContainer" style="display: none; margin: 1rem 0;">
-            <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+        <div id="progressContainer" class="progress-container" style="display: none;">
+            <div class="progress-flex">
                 <span id="progressText">Paragraphe 0 / 0</span>
                 <span id="progressPercent">0%</span>
             </div>
-            <div style="background-color: #e0e0e0; height: 8px; border-radius: 4px; overflow: hidden;">
-                <div id="progressBar" style="background-color: #4CAF50; height: 100%; width: 0%; transition: width 0.3s;"></div>
+            <div class="progress-bar-container">
+                <div id="progressBar" class="progress-bar"></div>
             </div>
         </div>
 
@@ -194,7 +194,7 @@
                 
                 // Display story content
                 const contentDiv = document.getElementById('storyContent');
-                contentDiv.innerHTML = '<div style="background-color: white; padding: 2rem; border-radius: 8px; line-height: 1.8;">';
+                contentDiv.innerHTML = '<div class="content-padded">';
                 
                 currentStory.paragraphs.forEach((para, index) => {
                     // If paragraph has an image, insert it above the paragraph
@@ -202,29 +202,20 @@
                         const img = document.createElement('img');
                         img.src = `images/${para.image}`;
                         img.alt = para.french.substring(0, 60);
-                        img.style.display = 'block';
-                        img.style.maxWidth = '100%';
-                        img.style.height = 'auto';
-                        img.style.margin = '0 0 1rem 0';
+                        img.className = 'story-image';
                         img.loading = 'lazy';
                         contentDiv.firstChild.appendChild(img);
                     }
 
                     const p = document.createElement('p');
                     p.id = `para-${index}`;
-                    p.style.marginBottom = '0.5rem';
-                    p.style.fontSize = '1.1rem';
+                    p.className = 'story-paragraph';
                     p.textContent = para.french;
                     contentDiv.firstChild.appendChild(p);
 
                     // Add English translation under the paragraph
                     const translation = document.createElement('p');
-                    translation.className = 'translation';
-                    translation.style.color = '#666';
-                    translation.style.fontSize = '0.95rem';
-                    translation.style.marginTop = '0.25rem';
-                    translation.style.marginBottom = '1.5rem';
-                    translation.style.fontStyle = 'italic';
+                    translation.className = 'translation story-translation';
                     translation.textContent = `→ ${para.english}`;
                     contentDiv.firstChild.appendChild(translation);
                 });
@@ -259,17 +250,13 @@
         function highlightParagraph(index) {
             // Remove all highlights
             document.querySelectorAll('[id^="para-"]').forEach(p => {
-                p.style.backgroundColor = '';
-                p.style.padding = '';
-                p.style.borderRadius = '';
+                p.classList.remove('highlighted-paragraph');
             });
             
             // Highlight current paragraph
             const currentPara = document.getElementById(`para-${index}`);
             if (currentPara) {
-                currentPara.style.backgroundColor = '#fff3cd';
-                currentPara.style.padding = '1rem';
-                currentPara.style.borderRadius = '4px';
+                currentPara.classList.add('highlighted-paragraph');
                 currentPara.scrollIntoView({ behavior: 'smooth', block: 'center' });
             }
         }
@@ -348,9 +335,7 @@
             
             // Remove highlights
             document.querySelectorAll('[id^="para-"]').forEach(p => {
-                p.style.backgroundColor = '';
-                p.style.padding = '';
-                p.style.borderRadius = '';
+                p.classList.remove('highlighted-paragraph');
             });
 
             document.getElementById('playBtn').disabled = false;

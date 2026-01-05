@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Verbes Français</title>
     <link rel="stylesheet" href="style.css">
-
 </head>
 <body>
     <div class="container">
@@ -42,7 +41,7 @@
             <div class="loading">Chargement des verbes...</div>
         </div>
     </div>
-    <div style="text-align: center; margin: 30px 0;">
+    <div class="back-button-container">
         <a href="index.html" class="back-button">← Retour à l'accueil</a>
     </div>
     <script>
@@ -215,17 +214,15 @@
                 if (level.key === currentCEFR) btn.classList.add('active');
                 btn.textContent = level.label;
                 
-                btn.addEventListener('click', () => {
+                btn.addEventListener('click', async () => {
                     currentCEFR = level.key;
                     filterVerbsByCEFR();
                     renderCEFRSelector();
-                    renderVerbSelector();
-                    // If current verb is filtered out, switch to first available
-                    if (!filteredVerbList.find(v => v.infinitive === currentVerb)) {
-                        if (filteredVerbList.length > 0) {
-                            loadVerb(filteredVerbList[0].infinitive);
-                        }
+                    // Always load the first verb from the filtered list
+                    if (filteredVerbList.length > 0) {
+                        await loadVerb(filteredVerbList[0].infinitive);
                     }
+                    renderVerbSelector();
                 });
                 
                 container.appendChild(btn);
