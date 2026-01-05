@@ -1,6 +1,7 @@
 {
   "infinitive": "écrire",
   "english": "to write",
+  "cefr": "A2",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train d'écrire",
+              "form": "écris",
               "english": "I am writing",
               "sentence": "Je suis en train d'écrire une lettre.",
               "sentenceEnglish": "I am writing a letter."
             },
             "tu": {
-              "form": "es en train d'écrire",
+              "form": "écris",
               "english": "you are writing",
               "sentence": "Tu es en train d'écrire quoi?",
               "sentenceEnglish": "What are you writing?"
             },
             "il/elle": {
-              "form": "est en train d'écrire",
+              "form": "écrit",
               "english": "he/she is writing",
               "sentence": "Elle est en train d'écrire un livre.",
               "sentenceEnglish": "She is writing a book."
             },
             "on": {
-              "form": "est en train d'écrire",
+              "form": "écrit",
               "english": "we are writing",
               "sentence": "On est en train d'écrire ensemble.",
               "sentenceEnglish": "We are writing together."
             },
             "nous": {
-              "form": "sommes en train d'écrire",
+              "form": "écrivons",
               "english": "we are writing",
               "sentence": "Nous sommes en train d'écrire un roman.",
               "sentenceEnglish": "We are writing a novel."
             },
             "vous": {
-              "form": "êtes en train d'écrire",
+              "form": "écrivez",
               "english": "you are writing",
               "sentence": "Vous êtes en train d'écrire?",
               "sentenceEnglish": "Are you writing?"
             },
             "ils/elles": {
-              "form": "sont en train d'écrire",
+              "form": "écrivent",
               "english": "they are writing",
               "sentence": "Ils sont en train d'écrire des poèmes.",
               "sentenceEnglish": "They are writing poems."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais écrire",
+              "form": "écrirai",
               "english": "I am going to write",
               "sentence": "Je vais écrire une lettre.",
               "sentenceEnglish": "I am going to write a letter."
             },
             "tu": {
-              "form": "vas écrire",
+              "form": "écriras",
               "english": "you are going to write",
               "sentence": "Tu vas écrire un livre?",
               "sentenceEnglish": "Are you going to write a book?"
             },
             "il/elle": {
-              "form": "va écrire",
+              "form": "écrira",
               "english": "he/she is going to write",
               "sentence": "Elle va écrire un roman.",
               "sentenceEnglish": "She is going to write a novel."
             },
             "on": {
-              "form": "va écrire",
+              "form": "écrira",
               "english": "we are going to write",
               "sentence": "On va écrire ensemble.",
               "sentenceEnglish": "We are going to write together."
             },
             "nous": {
-              "form": "allons écrire",
+              "form": "écrirons",
               "english": "we are going to write",
               "sentence": "Nous allons écrire des poèmes.",
               "sentenceEnglish": "We are going to write poems."
             },
             "vous": {
-              "form": "allez écrire",
+              "form": "écrirez",
               "english": "you are going to write",
               "sentence": "Vous allez écrire?",
               "sentenceEnglish": "Are you going to write?"
             },
             "ils/elles": {
-              "form": "vont écrire",
+              "form": "écriront",
               "english": "they are going to write",
               "sentence": "Ils vont écrire des histoires.",
               "sentenceEnglish": "They are going to write stories."

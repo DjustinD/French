@@ -1,0 +1,461 @@
+{
+  "infinitive": "chercher",
+  "english": "to look for / to search",
+  "cefr": "A1",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "cherche",
+              "english": "I look for / I search",
+              "sentence": "Je cherche mes clés.",
+              "sentenceEnglish": "I'm looking for my keys."
+            },
+            "tu": {
+              "form": "cherches",
+              "english": "you look for / you search",
+              "sentence": "Tu cherches quoi?",
+              "sentenceEnglish": "What are you looking for?"
+            },
+            "il/elle": {
+              "form": "cherche",
+              "english": "he/she looks for / searches",
+              "sentence": "Elle cherche son chat.",
+              "sentenceEnglish": "She's looking for her cat."
+            },
+            "on": {
+              "form": "cherche",
+              "english": "we look for / we search",
+              "sentence": "On cherche un restaurant.",
+              "sentenceEnglish": "We're looking for a restaurant."
+            },
+            "nous": {
+              "form": "cherchons",
+              "english": "we look for / we search",
+              "sentence": "Nous cherchons une solution.",
+              "sentenceEnglish": "We're looking for a solution."
+            },
+            "vous": {
+              "form": "cherchez",
+              "english": "you look for / you search",
+              "sentence": "Vous cherchez quelqu'un?",
+              "sentenceEnglish": "Are you looking for someone?"
+            },
+            "ils/elles": {
+              "form": "cherchent",
+              "english": "they look for / they search",
+              "sentence": "Ils cherchent leur chemin.",
+              "sentenceEnglish": "They're looking for their way."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "cherche",
+              "english": "I am looking for",
+              "sentence": "Je suis en train de chercher.",
+              "sentenceEnglish": "I am looking."
+            },
+            "tu": {
+              "form": "cherches",
+              "english": "you are looking for",
+              "sentence": "Tu es en train de chercher?",
+              "sentenceEnglish": "Are you looking?"
+            },
+            "il/elle": {
+              "form": "cherche",
+              "english": "he/she is looking for",
+              "sentence": "Elle est en train de chercher.",
+              "sentenceEnglish": "She is looking."
+            },
+            "on": {
+              "form": "cherche",
+              "english": "we are looking for",
+              "sentence": "On est en train de chercher.",
+              "sentenceEnglish": "We are looking."
+            },
+            "nous": {
+              "form": "cherchons",
+              "english": "we are looking for",
+              "sentence": "Nous sommes en train de chercher.",
+              "sentenceEnglish": "We are looking."
+            },
+            "vous": {
+              "form": "cherchez",
+              "english": "you are looking for",
+              "sentence": "Vous êtes en train de chercher?",
+              "sentenceEnglish": "Are you looking?"
+            },
+            "ils/elles": {
+              "form": "cherchent",
+              "english": "they are looking for",
+              "sentence": "Ils sont en train de chercher.",
+              "sentenceEnglish": "They are looking."
+            }
+          }
+        }
+      },
+      "note": "Regular -er verb. Pattern: je cherche, tu cherches, il/elle cherche, nous cherchons, vous cherchez, ils/elles cherchent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai cherché",
+              "english": "I looked for / I searched",
+              "sentence": "J'ai cherché partout.",
+              "sentenceEnglish": "I looked everywhere."
+            },
+            "tu": {
+              "form": "as cherché",
+              "english": "you looked for / you searched",
+              "sentence": "Tu as cherché longtemps?",
+              "sentenceEnglish": "Did you search for long?"
+            },
+            "il/elle": {
+              "form": "a cherché",
+              "english": "he/she looked for / searched",
+              "sentence": "Elle a cherché son sac.",
+              "sentenceEnglish": "She looked for her bag."
+            },
+            "on": {
+              "form": "a cherché",
+              "english": "we looked for / we searched",
+              "sentence": "On a cherché ensemble.",
+              "sentenceEnglish": "We searched together."
+            },
+            "nous": {
+              "form": "avons cherché",
+              "english": "we looked for / we searched",
+              "sentence": "Nous avons cherché toute la journée.",
+              "sentenceEnglish": "We searched all day."
+            },
+            "vous": {
+              "form": "avez cherché",
+              "english": "you looked for / you searched",
+              "sentence": "Vous avez cherché où?",
+              "sentenceEnglish": "Where did you look?"
+            },
+            "ils/elles": {
+              "form": "ont cherché",
+              "english": "they looked for / they searched",
+              "sentence": "Ils ont cherché en vain.",
+              "sentenceEnglish": "They searched in vain."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "cherchais",
+              "english": "I was looking for / I used to look for",
+              "sentence": "Je cherchais mes lunettes.",
+              "sentenceEnglish": "I was looking for my glasses."
+            },
+            "tu": {
+              "form": "cherchais",
+              "english": "you were looking for / you used to look for",
+              "sentence": "Tu cherchais quelque chose?",
+              "sentenceEnglish": "Were you looking for something?"
+            },
+            "il/elle": {
+              "form": "cherchait",
+              "english": "he/she was looking for / used to look for",
+              "sentence": "Elle cherchait son frère.",
+              "sentenceEnglish": "She was looking for her brother."
+            },
+            "on": {
+              "form": "cherchait",
+              "english": "we were looking for / we used to look for",
+              "sentence": "On cherchait un hôtel.",
+              "sentenceEnglish": "We were looking for a hotel."
+            },
+            "nous": {
+              "form": "cherchions",
+              "english": "we were looking for / we used to look for",
+              "sentence": "Nous cherchions une maison.",
+              "sentenceEnglish": "We were looking for a house."
+            },
+            "vous": {
+              "form": "cherchiez",
+              "english": "you were looking for / you used to look for",
+              "sentence": "Vous cherchiez quoi?",
+              "sentenceEnglish": "What were you looking for?"
+            },
+            "ils/elles": {
+              "form": "cherchaient",
+              "english": "they were looking for / they used to look for",
+              "sentence": "Ils cherchaient du travail.",
+              "sentenceEnglish": "They were looking for work."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais cherché",
+              "english": "I had looked for",
+              "sentence": "J'avais cherché partout.",
+              "sentenceEnglish": "I had looked everywhere."
+            },
+            "tu": {
+              "form": "avais cherché",
+              "english": "you had looked for",
+              "sentence": "Tu avais cherché longtemps?",
+              "sentenceEnglish": "Had you looked for long?"
+            },
+            "il/elle": {
+              "form": "avait cherché",
+              "english": "he/she had looked for",
+              "sentence": "Elle avait cherché son ami.",
+              "sentenceEnglish": "She had looked for her friend."
+            },
+            "on": {
+              "form": "avait cherché",
+              "english": "we had looked for",
+              "sentence": "On avait cherché ensemble.",
+              "sentenceEnglish": "We had looked together."
+            },
+            "nous": {
+              "form": "avions cherché",
+              "english": "we had looked for",
+              "sentence": "Nous avions cherché toute la nuit.",
+              "sentenceEnglish": "We had looked all night."
+            },
+            "vous": {
+              "form": "aviez cherché",
+              "english": "you had looked for",
+              "sentence": "Vous aviez cherché où?",
+              "sentenceEnglish": "Where had you looked?"
+            },
+            "ils/elles": {
+              "form": "avaient cherché",
+              "english": "they had looked for",
+              "sentence": "Ils avaient cherché en vain.",
+              "sentenceEnglish": "They had looked in vain."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "cherchai",
+              "english": "I looked for",
+              "sentence": "Je cherchai la vérité.",
+              "sentenceEnglish": "I looked for the truth."
+            },
+            "tu": {
+              "form": "cherchas",
+              "english": "you looked for",
+              "sentence": "Tu cherchas la réponse.",
+              "sentenceEnglish": "You looked for the answer."
+            },
+            "il/elle": {
+              "form": "chercha",
+              "english": "he/she looked for",
+              "sentence": "Il chercha son chemin.",
+              "sentenceEnglish": "He looked for his way."
+            },
+            "on": {
+              "form": "chercha",
+              "english": "we looked for",
+              "sentence": "On chercha ensemble.",
+              "sentenceEnglish": "We looked together."
+            },
+            "nous": {
+              "form": "cherchâmes",
+              "english": "we looked for",
+              "sentence": "Nous cherchâmes refuge.",
+              "sentenceEnglish": "We looked for shelter."
+            },
+            "vous": {
+              "form": "cherchâtes",
+              "english": "you looked for",
+              "sentence": "Vous cherchâtes longtemps.",
+              "sentenceEnglish": "You looked for long."
+            },
+            "ils/elles": {
+              "form": "cherchèrent",
+              "english": "they looked for",
+              "sentence": "Ils cherchèrent la sortie.",
+              "sentenceEnglish": "They looked for the exit."
+            }
+          }
+        }
+      },
+      "note": "Regular imparfait stem 'cherch-' (from infinitive): je cherchais, tu cherchais, il/elle cherchait, nous cherchions, vous cherchiez, ils/elles cherchaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "chercherai",
+              "english": "I will look for",
+              "sentence": "Je chercherai un nouveau travail.",
+              "sentenceEnglish": "I will look for a new job."
+            },
+            "tu": {
+              "form": "chercheras",
+              "english": "you will look for",
+              "sentence": "Tu chercheras où?",
+              "sentenceEnglish": "Where will you look?"
+            },
+            "il/elle": {
+              "form": "cherchera",
+              "english": "he/she will look for",
+              "sentence": "Il cherchera une solution.",
+              "sentenceEnglish": "He will look for a solution."
+            },
+            "on": {
+              "form": "cherchera",
+              "english": "we will look for",
+              "sentence": "On cherchera ensemble.",
+              "sentenceEnglish": "We will look together."
+            },
+            "nous": {
+              "form": "chercherons",
+              "english": "we will look for",
+              "sentence": "Nous chercherons demain.",
+              "sentenceEnglish": "We will look tomorrow."
+            },
+            "vous": {
+              "form": "chercherez",
+              "english": "you will look for",
+              "sentence": "Vous chercherez longtemps?",
+              "sentenceEnglish": "Will you look for long?"
+            },
+            "ils/elles": {
+              "form": "chercheront",
+              "english": "they will look for",
+              "sentence": "Elles chercheront partout.",
+              "sentenceEnglish": "They will look everywhere."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "chercherai",
+              "english": "I am going to look for",
+              "sentence": "Je vais chercher mes clés.",
+              "sentenceEnglish": "I am going to look for my keys."
+            },
+            "tu": {
+              "form": "chercheras",
+              "english": "you are going to look for",
+              "sentence": "Tu vas chercher quoi?",
+              "sentenceEnglish": "What are you going to look for?"
+            },
+            "il/elle": {
+              "form": "cherchera",
+              "english": "he/she is going to look for",
+              "sentence": "Elle va chercher son ami.",
+              "sentenceEnglish": "She is going to look for her friend."
+            },
+            "on": {
+              "form": "cherchera",
+              "english": "we are going to look for",
+              "sentence": "On va chercher un hôtel.",
+              "sentenceEnglish": "We are going to look for a hotel."
+            },
+            "nous": {
+              "form": "chercherons",
+              "english": "we are going to look for",
+              "sentence": "Nous allons chercher ensemble.",
+              "sentenceEnglish": "We are going to look together."
+            },
+            "vous": {
+              "form": "chercherez",
+              "english": "you are going to look for",
+              "sentence": "Vous allez chercher où?",
+              "sentenceEnglish": "Where are you going to look?"
+            },
+            "ils/elles": {
+              "form": "chercheront",
+              "english": "they are going to look for",
+              "sentence": "Ils vont chercher de l'aide.",
+              "sentenceEnglish": "They are going to look for help."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai cherché",
+              "english": "I will have looked for",
+              "sentence": "J'aurai cherché partout.",
+              "sentenceEnglish": "I will have looked everywhere."
+            },
+            "tu": {
+              "form": "auras cherché",
+              "english": "you will have looked for",
+              "sentence": "Tu auras cherché longtemps?",
+              "sentenceEnglish": "Will you have looked for long?"
+            },
+            "il/elle": {
+              "form": "aura cherché",
+              "english": "he/she will have looked for",
+              "sentence": "Elle aura cherché en vain.",
+              "sentenceEnglish": "She will have looked in vain."
+            },
+            "on": {
+              "form": "aura cherché",
+              "english": "we will have looked for",
+              "sentence": "On aura cherché toute la journée.",
+              "sentenceEnglish": "We will have looked all day."
+            },
+            "nous": {
+              "form": "aurons cherché",
+              "english": "we will have looked for",
+              "sentence": "Nous aurons cherché ensemble.",
+              "sentenceEnglish": "We will have looked together."
+            },
+            "vous": {
+              "form": "aurez cherché",
+              "english": "you will have looked for",
+              "sentence": "Vous aurez cherché où?",
+              "sentenceEnglish": "Where will you have looked?"
+            },
+            "ils/elles": {
+              "form": "auront cherché",
+              "english": "they will have looked for",
+              "sentence": "Ils auront cherché partout.",
+              "sentenceEnglish": "They will have looked everywhere."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'chercher-': je chercherai, tu chercheras, il/elle cherchera, nous chercherons, vous chercherez, ils/elles chercheront"
+    }
+  }
+}

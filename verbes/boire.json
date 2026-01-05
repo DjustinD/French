@@ -1,6 +1,7 @@
 {
   "infinitive": "boire",
   "english": "to drink",
+  "cefr": "A1",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de boire",
+              "form": "bois",
               "english": "I am drinking",
               "sentence": "Je suis en train de boire de l'eau.",
               "sentenceEnglish": "I am drinking water."
             },
             "tu": {
-              "form": "es en train de boire",
+              "form": "bois",
               "english": "you are drinking",
               "sentence": "Tu es en train de boire quoi?",
               "sentenceEnglish": "What are you drinking?"
             },
             "il/elle": {
-              "form": "est en train de boire",
+              "form": "boit",
               "english": "he/she is drinking",
               "sentence": "Elle est en train de boire du café.",
               "sentenceEnglish": "She is drinking coffee."
             },
             "on": {
-              "form": "est en train de boire",
+              "form": "boit",
               "english": "we are drinking",
               "sentence": "On est en train de boire ensemble.",
               "sentenceEnglish": "We are drinking together."
             },
             "nous": {
-              "form": "sommes en train de boire",
+              "form": "buvons",
               "english": "we are drinking",
               "sentence": "Nous sommes en train de boire du thé.",
               "sentenceEnglish": "We are drinking tea."
             },
             "vous": {
-              "form": "êtes en train de boire",
+              "form": "buvez",
               "english": "you are drinking",
               "sentence": "Vous êtes en train de boire?",
               "sentenceEnglish": "Are you drinking?"
             },
             "ils/elles": {
-              "form": "sont en train de boire",
+              "form": "boivent",
               "english": "they are drinking",
               "sentence": "Ils sont en train de boire du vin.",
               "sentenceEnglish": "They are drinking wine."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais boire",
+              "form": "boirai",
               "english": "I am going to drink",
               "sentence": "Je vais boire de l'eau.",
               "sentenceEnglish": "I am going to drink water."
             },
             "tu": {
-              "form": "vas boire",
+              "form": "boiras",
               "english": "you are going to drink",
               "sentence": "Tu vas boire du café?",
               "sentenceEnglish": "Are you going to drink coffee?"
             },
             "il/elle": {
-              "form": "va boire",
+              "form": "boira",
               "english": "he/she is going to drink",
               "sentence": "Elle va boire du thé.",
               "sentenceEnglish": "She is going to drink tea."
             },
             "on": {
-              "form": "va boire",
+              "form": "boira",
               "english": "we are going to drink",
               "sentence": "On va boire ensemble.",
               "sentenceEnglish": "We are going to drink together."
             },
             "nous": {
-              "form": "allons boire",
+              "form": "boirons",
               "english": "we are going to drink",
               "sentence": "Nous allons boire du vin.",
               "sentenceEnglish": "We are going to drink wine."
             },
             "vous": {
-              "form": "allez boire",
+              "form": "boirez",
               "english": "you are going to drink",
               "sentence": "Vous allez boire?",
               "sentenceEnglish": "Are you going to drink?"
             },
             "ils/elles": {
-              "form": "vont boire",
+              "form": "boiront",
               "english": "they are going to drink",
               "sentence": "Ils vont boire du jus.",
               "sentenceEnglish": "They are going to drink juice."

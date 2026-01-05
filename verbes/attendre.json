@@ -1,6 +1,7 @@
 {
   "infinitive": "attendre",
   "english": "to wait / to wait for / to expect",
+  "cefr": "A1",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -10,26 +11,96 @@
           "name": "Présent Simple",
           "description": "Simple present tense",
           "forms": {
-            "je": { "form": "attends", "english": "I wait / I wait for", "sentence": "J'attends le bus.", "sentenceEnglish": "I'm waiting for the bus." },
-            "tu": { "form": "attends", "english": "you wait / you wait for", "sentence": "Tu attends quelqu'un?", "sentenceEnglish": "Are you waiting for someone?" },
-            "il/elle": { "form": "attend", "english": "he/she waits / waits for", "sentence": "Elle attend son ami.", "sentenceEnglish": "She's waiting for her friend." },
-            "on": { "form": "attend", "english": "we wait / we wait for", "sentence": "On attend depuis une heure.", "sentenceEnglish": "We've been waiting for an hour." },
-            "nous": { "form": "attendons", "english": "we wait / we wait for", "sentence": "Nous attendons le train.", "sentenceEnglish": "We're waiting for the train." },
-            "vous": { "form": "attendez", "english": "you wait / you wait for", "sentence": "Vous attendez longtemps?", "sentenceEnglish": "Have you been waiting long?" },
-            "ils/elles": { "form": "attendent", "english": "they wait / they wait for", "sentence": "Ils attendent leurs parents.", "sentenceEnglish": "They're waiting for their parents." }
+            "je": {
+              "form": "attends",
+              "english": "I wait / I wait for",
+              "sentence": "J'attends le bus.",
+              "sentenceEnglish": "I'm waiting for the bus."
+            },
+            "tu": {
+              "form": "attends",
+              "english": "you wait / you wait for",
+              "sentence": "Tu attends quelqu'un?",
+              "sentenceEnglish": "Are you waiting for someone?"
+            },
+            "il/elle": {
+              "form": "attend",
+              "english": "he/she waits / waits for",
+              "sentence": "Elle attend son ami.",
+              "sentenceEnglish": "She's waiting for her friend."
+            },
+            "on": {
+              "form": "attend",
+              "english": "we wait / we wait for",
+              "sentence": "On attend depuis une heure.",
+              "sentenceEnglish": "We've been waiting for an hour."
+            },
+            "nous": {
+              "form": "attendons",
+              "english": "we wait / we wait for",
+              "sentence": "Nous attendons le train.",
+              "sentenceEnglish": "We're waiting for the train."
+            },
+            "vous": {
+              "form": "attendez",
+              "english": "you wait / you wait for",
+              "sentence": "Vous attendez longtemps?",
+              "sentenceEnglish": "Have you been waiting long?"
+            },
+            "ils/elles": {
+              "form": "attendent",
+              "english": "they wait / they wait for",
+              "sentence": "Ils attendent leurs parents.",
+              "sentenceEnglish": "They're waiting for their parents."
+            }
           }
         },
         "continu": {
           "name": "Présent Continu",
           "description": "Present continuous tense",
           "forms": {
-            "je": { "form": "suis en train d'attendre", "english": "I am waiting", "sentence": "Je suis en train d'attendre le bus.", "sentenceEnglish": "I am waiting for the bus." },
-            "tu": { "form": "es en train d'attendre", "english": "you are waiting", "sentence": "Tu es en train d'attendre qui?", "sentenceEnglish": "Who are you waiting for?" },
-            "il/elle": { "form": "est en train d'attendre", "english": "he/she is waiting", "sentence": "Elle est en train d'attendre son rendez-vous.", "sentenceEnglish": "She is waiting for her appointment." },
-            "on": { "form": "est en train d'attendre", "english": "we are waiting", "sentence": "On est en train d'attendre le train.", "sentenceEnglish": "We are waiting for the train." },
-            "nous": { "form": "sommes en train d'attendre", "english": "we are waiting", "sentence": "Nous sommes en train d'attendre nos amis.", "sentenceEnglish": "We are waiting for our friends." },
-            "vous": { "form": "êtes en train d'attendre", "english": "you are waiting", "sentence": "Vous êtes en train d'attendre depuis longtemps?", "sentenceEnglish": "Have you been waiting for a long time?" },
-            "ils/elles": { "form": "sont en train d'attendre", "english": "they are waiting", "sentence": "Ils sont en train d'attendre le résultat.", "sentenceEnglish": "They are waiting for the result." }
+            "je": {
+              "form": "attends",
+              "english": "I am waiting",
+              "sentence": "Je suis en train d'attendre le bus.",
+              "sentenceEnglish": "I am waiting for the bus."
+            },
+            "tu": {
+              "form": "attends",
+              "english": "you are waiting",
+              "sentence": "Tu es en train d'attendre qui?",
+              "sentenceEnglish": "Who are you waiting for?"
+            },
+            "il/elle": {
+              "form": "attend",
+              "english": "he/she is waiting",
+              "sentence": "Elle est en train d'attendre son rendez-vous.",
+              "sentenceEnglish": "She is waiting for her appointment."
+            },
+            "on": {
+              "form": "attend",
+              "english": "we are waiting",
+              "sentence": "On est en train d'attendre le train.",
+              "sentenceEnglish": "We are waiting for the train."
+            },
+            "nous": {
+              "form": "attendons",
+              "english": "we are waiting",
+              "sentence": "Nous sommes en train d'attendre nos amis.",
+              "sentenceEnglish": "We are waiting for our friends."
+            },
+            "vous": {
+              "form": "attendez",
+              "english": "you are waiting",
+              "sentence": "Vous êtes en train d'attendre depuis longtemps?",
+              "sentenceEnglish": "Have you been waiting for a long time?"
+            },
+            "ils/elles": {
+              "form": "attendent",
+              "english": "they are waiting",
+              "sentence": "Ils sont en train d'attendre le résultat.",
+              "sentenceEnglish": "They are waiting for the result."
+            }
           }
         }
       },
@@ -43,26 +114,96 @@
           "description": "Completed action in the past",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "ai attendu", "english": "I waited / I have waited", "sentence": "J'ai attendu une heure.", "sentenceEnglish": "I waited an hour." },
-            "tu": { "form": "as attendu", "english": "you waited / you have waited", "sentence": "Tu as attendu longtemps?", "sentenceEnglish": "Did you wait long?" },
-            "il/elle": { "form": "a attendu", "english": "he/she waited / has waited", "sentence": "Elle a attendu son ami.", "sentenceEnglish": "She waited for her friend." },
-            "on": { "form": "a attendu", "english": "we waited / we have waited", "sentence": "On a attendu le bus.", "sentenceEnglish": "We waited for the bus." },
-            "nous": { "form": "avons attendu", "english": "we waited / we have waited", "sentence": "Nous avons attendu toute la journée.", "sentenceEnglish": "We waited all day." },
-            "vous": { "form": "avez attendu", "english": "you waited / you have waited", "sentence": "Vous avez attendu combien de temps?", "sentenceEnglish": "How long did you wait?" },
-            "ils/elles": { "form": "ont attendu", "english": "they waited / they have waited", "sentence": "Ils ont attendu leurs parents.", "sentenceEnglish": "They waited for their parents." }
+            "je": {
+              "form": "ai attendu",
+              "english": "I waited / I have waited",
+              "sentence": "J'ai attendu une heure.",
+              "sentenceEnglish": "I waited an hour."
+            },
+            "tu": {
+              "form": "as attendu",
+              "english": "you waited / you have waited",
+              "sentence": "Tu as attendu longtemps?",
+              "sentenceEnglish": "Did you wait long?"
+            },
+            "il/elle": {
+              "form": "a attendu",
+              "english": "he/she waited / has waited",
+              "sentence": "Elle a attendu son ami.",
+              "sentenceEnglish": "She waited for her friend."
+            },
+            "on": {
+              "form": "a attendu",
+              "english": "we waited / we have waited",
+              "sentence": "On a attendu le bus.",
+              "sentenceEnglish": "We waited for the bus."
+            },
+            "nous": {
+              "form": "avons attendu",
+              "english": "we waited / we have waited",
+              "sentence": "Nous avons attendu toute la journée.",
+              "sentenceEnglish": "We waited all day."
+            },
+            "vous": {
+              "form": "avez attendu",
+              "english": "you waited / you have waited",
+              "sentence": "Vous avez attendu combien de temps?",
+              "sentenceEnglish": "How long did you wait?"
+            },
+            "ils/elles": {
+              "form": "ont attendu",
+              "english": "they waited / they have waited",
+              "sentence": "Ils ont attendu leurs parents.",
+              "sentenceEnglish": "They waited for their parents."
+            }
           }
         },
         "imparfait": {
           "name": "Imparfait",
           "description": "Habitual or ongoing past action",
           "forms": {
-            "je": { "form": "attendais", "english": "I waited / I was waiting / I used to wait", "sentence": "J'attendais le bus tous les jours.", "sentenceEnglish": "I used to wait for the bus every day." },
-            "tu": { "form": "attendais", "english": "you waited / you were waiting / you used to wait", "sentence": "Tu attendais quelqu'un?", "sentenceEnglish": "Were you waiting for someone?" },
-            "il/elle": { "form": "attendait", "english": "he/she waited / was waiting / used to wait", "sentence": "Elle attendait son ami.", "sentenceEnglish": "She was waiting for her friend." },
-            "on": { "form": "attendait", "english": "we waited / we were waiting / we used to wait", "sentence": "On attendait depuis longtemps.", "sentenceEnglish": "We had been waiting for a long time." },
-            "nous": { "form": "attendions", "english": "we waited / we were waiting / we used to wait", "sentence": "Nous attendions le train.", "sentenceEnglish": "We were waiting for the train." },
-            "vous": { "form": "attendiez", "english": "you waited / you were waiting / you used to wait", "sentence": "Vous attendiez qui?", "sentenceEnglish": "Who were you waiting for?" },
-            "ils/elles": { "form": "attendaient", "english": "they waited / they were waiting / they used to wait", "sentence": "Ils attendaient leurs parents.", "sentenceEnglish": "They were waiting for their parents." }
+            "je": {
+              "form": "attendais",
+              "english": "I waited / I was waiting / I used to wait",
+              "sentence": "J'attendais le bus tous les jours.",
+              "sentenceEnglish": "I used to wait for the bus every day."
+            },
+            "tu": {
+              "form": "attendais",
+              "english": "you waited / you were waiting / you used to wait",
+              "sentence": "Tu attendais quelqu'un?",
+              "sentenceEnglish": "Were you waiting for someone?"
+            },
+            "il/elle": {
+              "form": "attendait",
+              "english": "he/she waited / was waiting / used to wait",
+              "sentence": "Elle attendait son ami.",
+              "sentenceEnglish": "She was waiting for her friend."
+            },
+            "on": {
+              "form": "attendait",
+              "english": "we waited / we were waiting / we used to wait",
+              "sentence": "On attendait depuis longtemps.",
+              "sentenceEnglish": "We had been waiting for a long time."
+            },
+            "nous": {
+              "form": "attendions",
+              "english": "we waited / we were waiting / we used to wait",
+              "sentence": "Nous attendions le train.",
+              "sentenceEnglish": "We were waiting for the train."
+            },
+            "vous": {
+              "form": "attendiez",
+              "english": "you waited / you were waiting / you used to wait",
+              "sentence": "Vous attendiez qui?",
+              "sentenceEnglish": "Who were you waiting for?"
+            },
+            "ils/elles": {
+              "form": "attendaient",
+              "english": "they waited / they were waiting / they used to wait",
+              "sentence": "Ils attendaient leurs parents.",
+              "sentenceEnglish": "They were waiting for their parents."
+            }
           }
         },
         "plus-que-parfait": {
@@ -70,26 +211,96 @@
           "description": "Past perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "avais attendu", "english": "I had waited", "sentence": "J'avais attendu deux heures.", "sentenceEnglish": "I had waited two hours." },
-            "tu": { "form": "avais attendu", "english": "you had waited", "sentence": "Tu avais attendu longtemps?", "sentenceEnglish": "Had you waited long?" },
-            "il/elle": { "form": "avait attendu", "english": "he/she had waited", "sentence": "Elle avait attendu son ami.", "sentenceEnglish": "She had waited for her friend." },
-            "on": { "form": "avait attendu", "english": "we had waited", "sentence": "On avait attendu le bus.", "sentenceEnglish": "We had waited for the bus." },
-            "nous": { "form": "avions attendu", "english": "we had waited", "sentence": "Nous avions attendu toute la journée.", "sentenceEnglish": "We had waited all day." },
-            "vous": { "form": "aviez attendu", "english": "you had waited", "sentence": "Vous aviez attendu combien de temps?", "sentenceEnglish": "How long had you waited?" },
-            "ils/elles": { "form": "avaient attendu", "english": "they had waited", "sentence": "Ils avaient attendu leurs parents.", "sentenceEnglish": "They had waited for their parents." }
+            "je": {
+              "form": "avais attendu",
+              "english": "I had waited",
+              "sentence": "J'avais attendu deux heures.",
+              "sentenceEnglish": "I had waited two hours."
+            },
+            "tu": {
+              "form": "avais attendu",
+              "english": "you had waited",
+              "sentence": "Tu avais attendu longtemps?",
+              "sentenceEnglish": "Had you waited long?"
+            },
+            "il/elle": {
+              "form": "avait attendu",
+              "english": "he/she had waited",
+              "sentence": "Elle avait attendu son ami.",
+              "sentenceEnglish": "She had waited for her friend."
+            },
+            "on": {
+              "form": "avait attendu",
+              "english": "we had waited",
+              "sentence": "On avait attendu le bus.",
+              "sentenceEnglish": "We had waited for the bus."
+            },
+            "nous": {
+              "form": "avions attendu",
+              "english": "we had waited",
+              "sentence": "Nous avions attendu toute la journée.",
+              "sentenceEnglish": "We had waited all day."
+            },
+            "vous": {
+              "form": "aviez attendu",
+              "english": "you had waited",
+              "sentence": "Vous aviez attendu combien de temps?",
+              "sentenceEnglish": "How long had you waited?"
+            },
+            "ils/elles": {
+              "form": "avaient attendu",
+              "english": "they had waited",
+              "sentence": "Ils avaient attendu leurs parents.",
+              "sentenceEnglish": "They had waited for their parents."
+            }
           }
         },
         "simple": {
           "name": "Passé Simple",
           "description": "Literary past tense",
           "forms": {
-            "je": { "form": "attendis", "english": "I waited", "sentence": "J'attendis son retour.", "sentenceEnglish": "I waited for his return." },
-            "tu": { "form": "attendis", "english": "you waited", "sentence": "Tu attendis longtemps.", "sentenceEnglish": "You waited a long time." },
-            "il/elle": { "form": "attendit", "english": "he/she waited", "sentence": "Il attendit son ami.", "sentenceEnglish": "He waited for his friend." },
-            "on": { "form": "attendit", "english": "we waited", "sentence": "On attendit le train.", "sentenceEnglish": "We waited for the train." },
-            "nous": { "form": "attendîmes", "english": "we waited", "sentence": "Nous attendîmes toute la nuit.", "sentenceEnglish": "We waited all night." },
-            "vous": { "form": "attendîtes", "english": "you waited", "sentence": "Vous attendîtes son retour.", "sentenceEnglish": "You waited for his return." },
-            "ils/elles": { "form": "attendirent", "english": "they waited", "sentence": "Ils attendirent leurs parents.", "sentenceEnglish": "They waited for their parents." }
+            "je": {
+              "form": "attendis",
+              "english": "I waited",
+              "sentence": "J'attendis son retour.",
+              "sentenceEnglish": "I waited for his return."
+            },
+            "tu": {
+              "form": "attendis",
+              "english": "you waited",
+              "sentence": "Tu attendis longtemps.",
+              "sentenceEnglish": "You waited a long time."
+            },
+            "il/elle": {
+              "form": "attendit",
+              "english": "he/she waited",
+              "sentence": "Il attendit son ami.",
+              "sentenceEnglish": "He waited for his friend."
+            },
+            "on": {
+              "form": "attendit",
+              "english": "we waited",
+              "sentence": "On attendit le train.",
+              "sentenceEnglish": "We waited for the train."
+            },
+            "nous": {
+              "form": "attendîmes",
+              "english": "we waited",
+              "sentence": "Nous attendîmes toute la nuit.",
+              "sentenceEnglish": "We waited all night."
+            },
+            "vous": {
+              "form": "attendîtes",
+              "english": "you waited",
+              "sentence": "Vous attendîtes son retour.",
+              "sentenceEnglish": "You waited for his return."
+            },
+            "ils/elles": {
+              "form": "attendirent",
+              "english": "they waited",
+              "sentence": "Ils attendirent leurs parents.",
+              "sentenceEnglish": "They waited for their parents."
+            }
           }
         }
       },
@@ -102,26 +313,96 @@
           "name": "Futur Simple",
           "description": "Simple future tense",
           "forms": {
-            "je": { "form": "attendrai", "english": "I will wait", "sentence": "J'attendrai le bus.", "sentenceEnglish": "I will wait for the bus." },
-            "tu": { "form": "attendras", "english": "you will wait", "sentence": "Tu attendras combien de temps?", "sentenceEnglish": "How long will you wait?" },
-            "il/elle": { "form": "attendra", "english": "he/she will wait", "sentence": "Il attendra son ami.", "sentenceEnglish": "He will wait for his friend." },
-            "on": { "form": "attendra", "english": "we will wait", "sentence": "On attendra le train.", "sentenceEnglish": "We will wait for the train." },
-            "nous": { "form": "attendrons", "english": "we will wait", "sentence": "Nous attendrons ici.", "sentenceEnglish": "We will wait here." },
-            "vous": { "form": "attendrez", "english": "you will wait", "sentence": "Vous attendrez longtemps?", "sentenceEnglish": "Will you wait long?" },
-            "ils/elles": { "form": "attendront", "english": "they will wait", "sentence": "Elles attendront leurs parents.", "sentenceEnglish": "They will wait for their parents." }
+            "je": {
+              "form": "attendrai",
+              "english": "I will wait",
+              "sentence": "J'attendrai le bus.",
+              "sentenceEnglish": "I will wait for the bus."
+            },
+            "tu": {
+              "form": "attendras",
+              "english": "you will wait",
+              "sentence": "Tu attendras combien de temps?",
+              "sentenceEnglish": "How long will you wait?"
+            },
+            "il/elle": {
+              "form": "attendra",
+              "english": "he/she will wait",
+              "sentence": "Il attendra son ami.",
+              "sentenceEnglish": "He will wait for his friend."
+            },
+            "on": {
+              "form": "attendra",
+              "english": "we will wait",
+              "sentence": "On attendra le train.",
+              "sentenceEnglish": "We will wait for the train."
+            },
+            "nous": {
+              "form": "attendrons",
+              "english": "we will wait",
+              "sentence": "Nous attendrons ici.",
+              "sentenceEnglish": "We will wait here."
+            },
+            "vous": {
+              "form": "attendrez",
+              "english": "you will wait",
+              "sentence": "Vous attendrez longtemps?",
+              "sentenceEnglish": "Will you wait long?"
+            },
+            "ils/elles": {
+              "form": "attendront",
+              "english": "they will wait",
+              "sentence": "Elles attendront leurs parents.",
+              "sentenceEnglish": "They will wait for their parents."
+            }
           }
         },
         "proche": {
           "name": "Futur Proche",
           "description": "Near future tense",
           "forms": {
-            "je": { "form": "vais attendre", "english": "I am going to wait", "sentence": "Je vais attendre le bus.", "sentenceEnglish": "I am going to wait for the bus." },
-            "tu": { "form": "vas attendre", "english": "you are going to wait", "sentence": "Tu vas attendre longtemps?", "sentenceEnglish": "Are you going to wait long?" },
-            "il/elle": { "form": "va attendre", "english": "he/she is going to wait", "sentence": "Elle va attendre son ami.", "sentenceEnglish": "She is going to wait for her friend." },
-            "on": { "form": "va attendre", "english": "we are going to wait", "sentence": "On va attendre ici.", "sentenceEnglish": "We are going to wait here." },
-            "nous": { "form": "allons attendre", "english": "we are going to wait", "sentence": "Nous allons attendre le train.", "sentenceEnglish": "We are going to wait for the train." },
-            "vous": { "form": "allez attendre", "english": "you are going to wait", "sentence": "Vous allez attendre combien de temps?", "sentenceEnglish": "How long are you going to wait?" },
-            "ils/elles": { "form": "vont attendre", "english": "they are going to wait", "sentence": "Ils vont attendre leurs parents.", "sentenceEnglish": "They are going to wait for their parents." }
+            "je": {
+              "form": "attendrai",
+              "english": "I am going to wait",
+              "sentence": "Je vais attendre le bus.",
+              "sentenceEnglish": "I am going to wait for the bus."
+            },
+            "tu": {
+              "form": "attendras",
+              "english": "you are going to wait",
+              "sentence": "Tu vas attendre longtemps?",
+              "sentenceEnglish": "Are you going to wait long?"
+            },
+            "il/elle": {
+              "form": "attendra",
+              "english": "he/she is going to wait",
+              "sentence": "Elle va attendre son ami.",
+              "sentenceEnglish": "She is going to wait for her friend."
+            },
+            "on": {
+              "form": "attendra",
+              "english": "we are going to wait",
+              "sentence": "On va attendre ici.",
+              "sentenceEnglish": "We are going to wait here."
+            },
+            "nous": {
+              "form": "attendrons",
+              "english": "we are going to wait",
+              "sentence": "Nous allons attendre le train.",
+              "sentenceEnglish": "We are going to wait for the train."
+            },
+            "vous": {
+              "form": "attendrez",
+              "english": "you are going to wait",
+              "sentence": "Vous allez attendre combien de temps?",
+              "sentenceEnglish": "How long are you going to wait?"
+            },
+            "ils/elles": {
+              "form": "attendront",
+              "english": "they are going to wait",
+              "sentence": "Ils vont attendre leurs parents.",
+              "sentenceEnglish": "They are going to wait for their parents."
+            }
           }
         },
         "antérieur": {
@@ -129,13 +410,48 @@
           "description": "Future perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "aurai attendu", "english": "I will have waited", "sentence": "J'aurai attendu une heure.", "sentenceEnglish": "I will have waited an hour." },
-            "tu": { "form": "auras attendu", "english": "you will have waited", "sentence": "Tu auras attendu longtemps?", "sentenceEnglish": "Will you have waited long?" },
-            "il/elle": { "form": "aura attendu", "english": "he/she will have waited", "sentence": "Elle aura attendu son ami.", "sentenceEnglish": "She will have waited for her friend." },
-            "on": { "form": "aura attendu", "english": "we will have waited", "sentence": "On aura attendu le bus.", "sentenceEnglish": "We will have waited for the bus." },
-            "nous": { "form": "aurons attendu", "english": "we will have waited", "sentence": "Nous aurons attendu toute la journée.", "sentenceEnglish": "We will have waited all day." },
-            "vous": { "form": "aurez attendu", "english": "you will have waited", "sentence": "Vous aurez attendu combien de temps?", "sentenceEnglish": "How long will you have waited?" },
-            "ils/elles": { "form": "auront attendu", "english": "they will have waited", "sentence": "Ils auront attendu leurs parents.", "sentenceEnglish": "They will have waited for their parents." }
+            "je": {
+              "form": "aurai attendu",
+              "english": "I will have waited",
+              "sentence": "J'aurai attendu une heure.",
+              "sentenceEnglish": "I will have waited an hour."
+            },
+            "tu": {
+              "form": "auras attendu",
+              "english": "you will have waited",
+              "sentence": "Tu auras attendu longtemps?",
+              "sentenceEnglish": "Will you have waited long?"
+            },
+            "il/elle": {
+              "form": "aura attendu",
+              "english": "he/she will have waited",
+              "sentence": "Elle aura attendu son ami.",
+              "sentenceEnglish": "She will have waited for her friend."
+            },
+            "on": {
+              "form": "aura attendu",
+              "english": "we will have waited",
+              "sentence": "On aura attendu le bus.",
+              "sentenceEnglish": "We will have waited for the bus."
+            },
+            "nous": {
+              "form": "aurons attendu",
+              "english": "we will have waited",
+              "sentence": "Nous aurons attendu toute la journée.",
+              "sentenceEnglish": "We will have waited all day."
+            },
+            "vous": {
+              "form": "aurez attendu",
+              "english": "you will have waited",
+              "sentence": "Vous aurez attendu combien de temps?",
+              "sentenceEnglish": "How long will you have waited?"
+            },
+            "ils/elles": {
+              "form": "auront attendu",
+              "english": "they will have waited",
+              "sentence": "Ils auront attendu leurs parents.",
+              "sentenceEnglish": "They will have waited for their parents."
+            }
           }
         }
       },

@@ -2,151 +2,241 @@
   {
     "singular": "le chapeau",
     "plural": "les chapeaux",
+    "french": "chapeau",
+    "english": "hat",
+    "cefr": "A1",
     "image": "images/chapeau.jpg"
   },
   {
     "singular": "la casquette",
     "plural": "les casquettes",
+    "french": "casquette",
+    "english": "cap",
+    "cefr": "A1",
     "image": "images/casquette.jpg"
   },
   {
     "singular": "le manteau",
     "plural": "les manteaux",
+    "french": "manteau",
+    "english": "coat",
+    "cefr": "A1",
     "image": "images/manteau.jpg"
   },
   {
     "singular": "la veste",
     "plural": "les vestes",
+    "french": "veste",
+    "english": "jacket",
+    "cefr": "A1",
     "image": "images/veste.jpg"
   },
   {
     "singular": "le pull",
     "plural": "les pulls",
+    "french": "pull",
+    "english": "sweater",
+    "cefr": "A1",
     "image": "images/pull.jpg"
   },
   {
     "singular": "la chemise",
     "plural": "les chemises",
+    "french": "chemise",
+    "english": "shirt",
+    "cefr": "A1",
     "image": "images/chemise.jpg"
   },
   {
     "singular": "le t-shirt",
     "plural": "les t-shirts",
+    "french": "t-shirt",
+    "english": "t-shirt",
+    "cefr": "A1",
     "image": "images/tshirt.jpg"
   },
   {
     "singular": "le pantalon",
     "plural": "les pantalons",
+    "french": "pantalon",
+    "english": "trousers",
+    "cefr": "A1",
     "image": "images/pantalon.jpg"
   },
   {
     "singular": "le jean",
     "plural": "les jeans",
+    "french": "jean",
+    "english": "jeans",
+    "cefr": "A1",
     "image": "images/jean.jpg"
   },
   {
     "singular": "la jupe",
     "plural": "les jupes",
+    "french": "jupe",
+    "english": "skirt",
+    "cefr": "A1",
     "image": "images/jupe.jpg"
   },
   {
     "singular": "la robe",
     "plural": "les robes",
+    "french": "robe",
+    "english": "dress",
+    "cefr": "A1",
     "image": "images/robe.jpg"
   },
   {
     "singular": "le short",
     "plural": "les shorts",
+    "french": "short",
+    "english": "shorts",
+    "cefr": "A1",
     "image": "images/short.jpg"
   },
   {
     "singular": "la chaussette",
     "plural": "les chaussettes",
+    "french": "chaussette",
+    "english": "sock",
+    "cefr": "A1",
     "image": "images/chaussette.jpg"
   },
   {
     "singular": "la chaussure",
     "plural": "les chaussures",
+    "french": "chaussure",
+    "english": "shoe",
+    "cefr": "A1",
     "image": "images/chaussure.jpg"
   },
   {
     "singular": "la botte",
     "plural": "les bottes",
+    "french": "botte",
+    "english": "boot",
+    "cefr": "A1",
     "image": "images/botte.jpg"
   },
   {
     "singular": "la sandale",
     "plural": "les sandales",
+    "french": "sandale",
+    "english": "sandal",
+    "cefr": "A1",
     "image": "images/sandale.jpg"
   },
   {
     "singular": "le gant",
     "plural": "les gants",
+    "french": "gant",
+    "english": "glove",
+    "cefr": "A1",
     "image": "images/gant.jpg"
   },
   {
     "singular": "l'écharpe",
     "plural": "les écharpes",
+    "french": "écharpe",
+    "english": "scarf",
+    "cefr": "A1",
     "image": "images/echarpe.jpg"
   },
   {
     "singular": "la cravate",
     "plural": "les cravates",
+    "french": "cravate",
+    "english": "tie",
+    "cefr": "A1",
     "image": "images/cravate.jpg"
   },
   {
     "singular": "la ceinture",
     "plural": "les ceintures",
+    "french": "ceinture",
+    "english": "belt",
+    "cefr": "A1",
     "image": "images/ceinture.jpg"
   },
   {
     "singular": "le maillot de bain",
     "plural": "les maillots de bain",
+    "french": "maillot de bain",
+    "english": "swimsuit",
+    "cefr": "A1",
     "image": "images/maillot.jpg"
   },
   {
     "singular": "le pyjama",
     "plural": "les pyjamas",
+    "french": "pyjama",
+    "english": "pajamas",
+    "cefr": "A1",
     "image": "images/pyjama.jpg"
   },
   {
     "singular": "le sac",
     "plural": "les sacs",
+    "french": "sac",
+    "english": "bag",
+    "cefr": "A1",
     "image": "images/sac.jpg"
   },
   {
     "singular": "la montre",
     "plural": "les montres",
+    "french": "montre",
+    "english": "watch",
+    "cefr": "A1",
     "image": "images/montre.jpg"
   },
   {
     "singular": "les lunettes",
     "plural": "les lunettes",
+    "french": "lunettes",
+    "english": "glasses",
+    "cefr": "A1",
     "image": "images/lunettes.jpg"
   },
   {
     "singular": "le parapluie",
     "plural": "les parapluies",
+    "french": "parapluie",
+    "english": "umbrella",
+    "cefr": "A1",
     "image": "images/parapluie.jpg"
   },
   {
     "singular": "le blouson",
     "plural": "les blousons",
+    "french": "blouson",
+    "english": "coat",
+    "cefr": "A1",
     "image": "images/blouson.jpg"
   },
   {
     "singular": "le collant",
     "plural": "les collants",
+    "french": "collant",
+    "english": "tights",
+    "cefr": "A1",
     "image": "images/collant.jpg"
   },
   {
     "singular": "le bijou",
     "plural": "les bijoux",
+    "french": "bijou",
+    "english": "jewel",
+    "cefr": "A2",
     "image": "images/bijou.jpg"
   },
   {
     "singular": "la bague",
     "plural": "les bagues",
+    "french": "bague",
+    "english": "ring",
+    "cefr": "A1",
     "image": "images/bague.jpg"
   }
 ]

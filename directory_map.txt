@@ -241,6 +241,11 @@
 ├── noms_français.json
 ├── phrases_et_sentences.html
 ├── style.css
+├── tools
+│   ├── fix_verbes.py
+│   ├── generate_verbes_index.py
+│   ├── set_cefr_verbes.py
+│   └── validate_verbes.py
 ├── verbes
 │   ├── aimer.json
 │   ├── aller.json
@@ -249,6 +254,7 @@
 │   ├── attendre.json
 │   ├── avoir.json
 │   ├── boire.json
+│   ├── chercher.json
 │   ├── choisir.json
 │   ├── commencer.json
 │   ├── comprendre.json
@@ -261,6 +267,7 @@
 │   ├── dire.json
 │   ├── donner.json
 │   ├── entendre.json
+│   ├── essayer.json
 │   ├── faire.json
 │   ├── fermer.json
 │   ├── laisser.json
@@ -293,6 +300,7 @@
 │   ├── vivre.json
 │   ├── voir.json
 │   ├── vouloir.json
+│   ├── écouter.json
 │   ├── écrire.json
 │   └── être.json
 ├── verbes_français.html

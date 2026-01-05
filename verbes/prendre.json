@@ -1,158 +1,510 @@
-{"infinitive": "prendre",
-    "english": "to take / to have (food/drink)",
-    "irregular": true,
-    "conjugations": {
-        "présent": {
-            "name": "Présent (Present)",
-            "aspects": {
-                "simple": {
-                    "name": "Présent Simple",
-                    "description": "Simple present tense",
-                    "forms": {
-                        "je": { "form": "prends", "english": "I take", "sentence": "Je prends le bus.", "sentenceEnglish": "I take the bus." },
-                        "tu": { "form": "prends", "english": "you take", "sentence": "Tu prends du café?", "sentenceEnglish": "Do you have coffee?" },
-                        "il/elle": { "form": "prend", "english": "he/she takes", "sentence": "Elle prend son temps.", "sentenceEnglish": "She takes her time." },
-                        "on": { "form": "prend", "english": "we take", "sentence": "On prend le train.", "sentenceEnglish": "We take the train." },
-                        "nous": { "form": "prenons", "english": "we take", "sentence": "Nous prenons des notes.", "sentenceEnglish": "We take notes." },
-                        "vous": { "form": "prenez", "english": "you take", "sentence": "Vous prenez quoi?", "sentenceEnglish": "What are you having?" },
-                        "ils/elles": { "form": "prennent", "english": "they take", "sentence": "Ils prennent des photos.", "sentenceEnglish": "They take photos." }
-                    }
-                },
-                "continu": {
-                    "name": "Présent Continu",
-                    "description": "Present continuous tense",
-                    "forms": {
-                        "je": { "form": "suis en train de prendre", "english": "I am taking", "sentence": "Je suis en train de prendre une douche.", "sentenceEnglish": "I am taking a shower." },
-                        "tu": { "form": "es en train de prendre", "english": "you are taking", "sentence": "Tu es en train de prendre ton petit déjeuner?", "sentenceEnglish": "Are you having breakfast?" },
-                        "il/elle": { "form": "est en train de prendre", "english": "he/she is taking", "sentence": "Elle est en train de prendre des notes.", "sentenceEnglish": "She is taking notes." },
-                        "on": { "form": "est en train de prendre", "english": "we are taking", "sentence": "On est en train de prendre une décision.", "sentenceEnglish": "We are making a decision." },
-                        "nous": { "form": "sommes en train de prendre", "english": "we are taking", "sentence": "Nous sommes en train de prendre un café.", "sentenceEnglish": "We are having coffee." },
-                        "vous": { "form": "êtes en train de prendre", "english": "you are taking", "sentence": "Vous êtes en train de prendre des photos?", "sentenceEnglish": "Are you taking photos?" },
-                        "ils/elles": { "form": "sont en train de prendre", "english": "they are taking", "sentence": "Ils sont en train de prendre le métro.", "sentenceEnglish": "They are taking the metro." }
-                    }
-                },
-                "perfect": {
-                    "name": "Passé Composé (Present Perfect)",
-                    "description": "Actions terminées avec une pertinence présente (Completed actions with present relevance)",
-                    "auxiliary": "avoir",
-                    "forms": {
-                        "je": { "form": "ai pris", "english": "I took / I have taken", "sentence": "J'ai pris le bus.", "sentenceEnglish": "I took the bus." },
-                        "tu": { "form": "as pris", "english": "you took / you have taken", "sentence": "Tu as pris ton médicament?", "sentenceEnglish": "Did you take your medicine?" },
-                        "il/elle": { "form": "a pris", "english": "he/she took / has taken", "sentence": "Elle a pris une douche.", "sentenceEnglish": "She took a shower." },
-                        "on": { "form": "a pris", "english": "we took / we have taken", "sentence": "On a pris des photos.", "sentenceEnglish": "We took photos." },
-                        "nous": { "form": "avons pris", "english": "we took / we have taken", "sentence": "Nous avons pris le train.", "sentenceEnglish": "We took the train." },
-                        "vous": { "form": "avez pris", "english": "you took / you have taken", "sentence": "Vous avez pris du café?", "sentenceEnglish": "Did you have coffee?" },
-                        "ils/elles": { "form": "ont pris", "english": "they took / they have taken", "sentence": "Ils ont pris leur temps.", "sentenceEnglish": "They took their time." }
-                    }
-                }
-            }
-        },
-        "note": "Irregular verb. Must be memorized: je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent. Note the double 'n' in ils/elles prennent."
-    },
-    "passé": {
-        "name": "Passé (Past)",
-        "aspects": {
-            "composé": {
-                "name": "Passé Composé",
-                "description": "Completed actions with present relevance",
-                "auxiliary": "avoir",
-                "forms": {
-                    "je": { "form": "ai pris", "english": "I took / I have taken", "sentence": "J'ai pris le bus.", "sentenceEnglish": "I took the bus." },
-                    "tu": { "form": "as pris", "english": "you took / you have taken", "sentence": "Tu as pris ton médicament?", "sentenceEnglish": "Did you take your medicine?" },
-                    "il/elle": { "form": "a pris", "english": "he/she took / has taken", "sentence": "Elle a pris une douche.", "sentenceEnglish": "She took a shower." },
-                    "on": { "form": "a pris", "english": "we took / we have taken", "sentence": "On a pris des photos.", "sentenceEnglish": "We took photos." },
-                    "nous": { "form": "avons pris", "english": "we took / we have taken", "sentence": "Nous avons pris le train.", "sentenceEnglish": "We took the train." },
-                    "vous": { "form": "avez pris", "english": "you took / you have taken", "sentence": "Vous avez pris du café?", "sentenceEnglish": "Did you have coffee?" },
-                    "ils/elles": { "form": "ont pris", "english": "they took / they have taken", "sentence": "Ils ont pris leur temps.", "sentenceEnglish": "They took their time." }
-                }
+{
+  "infinitive": "prendre",
+  "english": "to take / to have (food/drink)",
+  "cefr": "A1",
+  "irregular": true,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "prends",
+              "english": "I take",
+              "sentence": "Je prends le bus.",
+              "sentenceEnglish": "I take the bus."
             },
-            "imparfait": {
-                "name": "Imparfait",
-                "description": "Ongoing or habitual actions in the past",
-                    "forms": {
-                        "je": { "form": "prenais", "english": "I was taking / I used to take", "sentence": "Je prenais le bus.", "sentenceEnglish": "I used to take the bus." },
-                        "tu": { "form": "prenais", "english": "you were taking / you used to take", "sentence": "Tu prenais du café?", "sentenceEnglish": "Did you use to have coffee?" },
-                        "il/elle": { "form": "prenait", "english": "he/she was taking / used to take", "sentence": "Elle prenait son temps.", "sentenceEnglish": "She was taking her time." },
-                        "on": { "form": "prenait", "english": "we were taking / we used to take", "sentence": "On prenait le train.", "sentenceEnglish": "We used to take the train." },
-                        "nous": { "form": "prenions", "english": "we were taking / we used to take", "sentence": "Nous prenions des notes.", "sentenceEnglish": "We were taking notes." },
-                        "vous": { "form": "preniez", "english": "you were taking / you used to take", "sentence": "Vous preniez quoi?", "sentenceEnglish": "What were you having?" },
-                        "ils/elles": { "form": "prenaient", "english": "they were taking / they used to take", "sentence": "Ils prenaient des photos.", "sentenceEnglish": "They were taking photos." }
-                    }
-                },
-            "plus-que-parfait": {
-                "name": "Plus-que-parfait",
-                "description": "Actions completed before another past action",
-                    "auxiliary": "avoir",
-                    "forms": {
-                        "je": { "form": "avais pris", "english": "I had taken", "sentence": "J'avais pris le bus.", "sentenceEnglish": "I had taken the bus." },
-                        "tu": { "form": "avais pris", "english": "you had taken", "sentence": "Tu avais pris ton médicament?", "sentenceEnglish": "Had you taken your medicine?" },
-                        "il/elle": { "form": "avait pris", "english": "he/she had taken", "sentence": "Elle avait pris une douche.", "sentenceEnglish": "She had taken a shower." },
-                        "on": { "form": "avait pris", "english": "we had taken", "sentence": "On avait pris des photos.", "sentenceEnglish": "We had taken photos." },
-                        "nous": { "form": "avions pris", "english": "we had taken", "sentence": "Nous avions pris le train.", "sentenceEnglish": "We had taken the train." },
-                        "vous": { "form": "aviez pris", "english": "you had taken", "sentence": "Vous aviez pris du café?", "sentenceEnglish": "Had you had coffee?" },
-                        "ils/elles": { "form": "avaient pris", "english": "they had taken", "sentence": "Ils avaient pris leur temps.", "sentenceEnglish": "They had taken their time." }
-                    }
-                },
-            "simple": {
-                "name": "Passé Simple",
-                "description": "Literary past tense",
-                "forms": {
-                    "je": { "form": "pris", "english": "I took", "sentence": "Je pris le bus.", "sentenceEnglish": "I took the bus." },
-                    "tu": { "form": "pris", "english": "you took", "sentence": "Tu pris ton médicament?", "sentenceEnglish": "Did you take your medicine?" },
-                    "il/elle": { "form": "prit", "english": "he/she took", "sentence": "Elle prit une douche.", "sentenceEnglish": "She took a shower." },
-                    "on": { "form": "prit", "english": "we took", "sentence": "On prit des photos.", "sentenceEnglish": "We took photos." },
-                    "nous": { "form": "prîmes", "english": "we took", "sentence": "Nous prîmes le train.", "sentenceEnglish": "We took the train." },
-                    "vous": { "form": "prîtes", "english": "you took", "sentence": "Vous prîtes du café?", "sentenceEnglish": "Did you have coffee?" },
-                    "ils/elles": { "form": "prirent", "english": "they took", "sentence": "Ils prirent leur temps.", "sentenceEnglish": "They took their time." }
-                }
-            }
-        },
-        "note": "Irregular imparfait stem 'pren-' (from 'nous prenons')"
-    },
-        "futur": {
-            "name": "Futur (Future)",
-            "aspects": {
-                "simple": {
-                    "name": "Futur Simple",
-                    "description": "Actions that will happen",
-                    "forms": {
-                        "je": { "form": "prendrai", "english": "I will take", "sentence": "Je prendrai le bus.", "sentenceEnglish": "I will take the bus." },
-                        "tu": { "form": "prendras", "english": "you will take", "sentence": "Tu prendras du café?", "sentenceEnglish": "Will you have coffee?" },
-                        "il/elle": { "form": "prendra", "english": "he/she will take", "sentence": "Il prendra son temps.", "sentenceEnglish": "He will take his time." },
-                        "on": { "form": "prendra", "english": "we will take", "sentence": "On prendra le train.", "sentenceEnglish": "We will take the train." },
-                        "nous": { "form": "prendrons", "english": "we will take", "sentence": "Nous prendrons des notes.", "sentenceEnglish": "We will take notes." },
-                        "vous": { "form": "prendrez", "english": "you will take", "sentence": "Vous prendrez quoi?", "sentenceEnglish": "What will you have?" },
-                        "ils/elles": { "form": "prendront", "english": "they will take", "sentence": "Elles prendront des photos.", "sentenceEnglish": "They will take photos." }
-                    }
-                },
-                "proche": {
-                    "name": "Futur Proche",
-                    "description": "Near future actions",
-                    "forms": {
-                        "je": { "form": "vais prendre", "english": "I am going to take", "sentence": "Je vais prendre le bus.", "sentenceEnglish": "I am going to take the bus." },
-                        "tu": { "form": "vas prendre", "english": "you are going to take", "sentence": "Tu vas prendre du café?", "sentenceEnglish": "Are you going to have coffee?" },
-                        "il/elle": { "form": "va prendre", "english": "he/she is going to take", "sentence": "Il va prendre son temps.", "sentenceEnglish": "He is going to take his time." },
-                        "on": { "form": "va prendre", "english": "we are going to take", "sentence": "On va prendre le train.", "sentenceEnglish": "We are going to take the train." },
-                        "nous": { "form": "allons prendre", "english": "we are going to take", "sentence": "Nous allons prendre des notes.", "sentenceEnglish": "We are going to take notes." },
-                        "vous": { "form": "allez prendre", "english": "you are going to take", "sentence": "Vous allez prendre quoi?", "sentenceEnglish": "What are you going to have?" },
-                        "ils/elles": { "form": "vont prendre", "english": "they are going to take", "sentence": "Elles vont prendre des photos.", "sentenceEnglish": "They are going to take photos." }
-                    }
-                },
-                "antérieur": {
-                    "name": "Futur Antérieur",
-                    "description": "Actions that will be completed by a future time",
-                    "auxiliary": "avoir",
-                    "forms": {
-                        "je": { "form": "aurai pris", "english": "I will have taken", "sentence": "J'aurai pris le bus.", "sentenceEnglish": "I will have taken the bus." },
-                        "tu": { "form": "auras pris", "english": "you will have taken", "sentence": "Tu auras pris ton médicament?", "sentenceEnglish": "Will you have taken your medicine?" },
-                        "il/elle": { "form": "aura pris", "english": "he/she will have taken", "sentence": "Elle aura pris une douche.", "sentenceEnglish": "She will have taken a shower." },
-                        "on": { "form": "aura pris", "english": "we will have taken", "sentence": "On aura pris des photos.", "sentenceEnglish": "We will have taken photos." },
-                        "nous": { "form": "aurons pris", "english": "we will have taken", "sentence": "Nous aurons pris le train.", "sentenceEnglish": "We will have taken the train." },
-                        "vous": { "form": "aurez pris", "english": "you will have taken", "sentence": "Vous aurez pris du café?", "sentenceEnglish": "Will you have had coffee?" },
-                        "ils/elles": { "form": "auront pris", "english": "they will have taken", "sentence": "Ils auront pris leur temps.", "sentenceEnglish": "They will have taken their time." }
-                    }
-                }
+            "tu": {
+              "form": "prends",
+              "english": "you take",
+              "sentence": "Tu prends du café?",
+              "sentenceEnglish": "Do you have coffee?"
             },
-        "note": "Irregular future stem 'prendr-'"
-    }
+            "il/elle": {
+              "form": "prend",
+              "english": "he/she takes",
+              "sentence": "Elle prend son temps.",
+              "sentenceEnglish": "She takes her time."
+            },
+            "on": {
+              "form": "prend",
+              "english": "we take",
+              "sentence": "On prend le train.",
+              "sentenceEnglish": "We take the train."
+            },
+            "nous": {
+              "form": "prenons",
+              "english": "we take",
+              "sentence": "Nous prenons des notes.",
+              "sentenceEnglish": "We take notes."
+            },
+            "vous": {
+              "form": "prenez",
+              "english": "you take",
+              "sentence": "Vous prenez quoi?",
+              "sentenceEnglish": "What are you having?"
+            },
+            "ils/elles": {
+              "form": "prennent",
+              "english": "they take",
+              "sentence": "Ils prennent des photos.",
+              "sentenceEnglish": "They take photos."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "prends",
+              "english": "I am taking",
+              "sentence": "Je suis en train de prendre une douche.",
+              "sentenceEnglish": "I am taking a shower."
+            },
+            "tu": {
+              "form": "prends",
+              "english": "you are taking",
+              "sentence": "Tu es en train de prendre ton petit déjeuner?",
+              "sentenceEnglish": "Are you having breakfast?"
+            },
+            "il/elle": {
+              "form": "prend",
+              "english": "he/she is taking",
+              "sentence": "Elle est en train de prendre des notes.",
+              "sentenceEnglish": "She is taking notes."
+            },
+            "on": {
+              "form": "prend",
+              "english": "we are taking",
+              "sentence": "On est en train de prendre une décision.",
+              "sentenceEnglish": "We are making a decision."
+            },
+            "nous": {
+              "form": "prenons",
+              "english": "we are taking",
+              "sentence": "Nous sommes en train de prendre un café.",
+              "sentenceEnglish": "We are having coffee."
+            },
+            "vous": {
+              "form": "prenez",
+              "english": "you are taking",
+              "sentence": "Vous êtes en train de prendre des photos?",
+              "sentenceEnglish": "Are you taking photos?"
+            },
+            "ils/elles": {
+              "form": "prennent",
+              "english": "they are taking",
+              "sentence": "Ils sont en train de prendre le métro.",
+              "sentenceEnglish": "They are taking the metro."
+            }
+          }
+        },
+        "perfect": {
+          "name": "Passé Composé (Present Perfect)",
+          "description": "Actions terminées avec une pertinence présente (Completed actions with present relevance)",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai pris",
+              "english": "I took / I have taken",
+              "sentence": "J'ai pris le bus.",
+              "sentenceEnglish": "I took the bus."
+            },
+            "tu": {
+              "form": "as pris",
+              "english": "you took / you have taken",
+              "sentence": "Tu as pris ton médicament?",
+              "sentenceEnglish": "Did you take your medicine?"
+            },
+            "il/elle": {
+              "form": "a pris",
+              "english": "he/she took / has taken",
+              "sentence": "Elle a pris une douche.",
+              "sentenceEnglish": "She took a shower."
+            },
+            "on": {
+              "form": "a pris",
+              "english": "we took / we have taken",
+              "sentence": "On a pris des photos.",
+              "sentenceEnglish": "We took photos."
+            },
+            "nous": {
+              "form": "avons pris",
+              "english": "we took / we have taken",
+              "sentence": "Nous avons pris le train.",
+              "sentenceEnglish": "We took the train."
+            },
+            "vous": {
+              "form": "avez pris",
+              "english": "you took / you have taken",
+              "sentence": "Vous avez pris du café?",
+              "sentenceEnglish": "Did you have coffee?"
+            },
+            "ils/elles": {
+              "form": "ont pris",
+              "english": "they took / they have taken",
+              "sentence": "Ils ont pris leur temps.",
+              "sentenceEnglish": "They took their time."
+            }
+          }
+        }
+      }
+    },
+    "note": "Irregular verb. Must be memorized: je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent. Note the double 'n' in ils/elles prennent."
+  },
+  "passé": {
+    "name": "Passé (Past)",
+    "aspects": {
+      "composé": {
+        "name": "Passé Composé",
+        "description": "Completed actions with present relevance",
+        "auxiliary": "avoir",
+        "forms": {
+          "je": {
+            "form": "ai pris",
+            "english": "I took / I have taken",
+            "sentence": "J'ai pris le bus.",
+            "sentenceEnglish": "I took the bus."
+          },
+          "tu": {
+            "form": "as pris",
+            "english": "you took / you have taken",
+            "sentence": "Tu as pris ton médicament?",
+            "sentenceEnglish": "Did you take your medicine?"
+          },
+          "il/elle": {
+            "form": "a pris",
+            "english": "he/she took / has taken",
+            "sentence": "Elle a pris une douche.",
+            "sentenceEnglish": "She took a shower."
+          },
+          "on": {
+            "form": "a pris",
+            "english": "we took / we have taken",
+            "sentence": "On a pris des photos.",
+            "sentenceEnglish": "We took photos."
+          },
+          "nous": {
+            "form": "avons pris",
+            "english": "we took / we have taken",
+            "sentence": "Nous avons pris le train.",
+            "sentenceEnglish": "We took the train."
+          },
+          "vous": {
+            "form": "avez pris",
+            "english": "you took / you have taken",
+            "sentence": "Vous avez pris du café?",
+            "sentenceEnglish": "Did you have coffee?"
+          },
+          "ils/elles": {
+            "form": "ont pris",
+            "english": "they took / they have taken",
+            "sentence": "Ils ont pris leur temps.",
+            "sentenceEnglish": "They took their time."
+          }
+        }
+      },
+      "imparfait": {
+        "name": "Imparfait",
+        "description": "Ongoing or habitual actions in the past",
+        "forms": {
+          "je": {
+            "form": "prenais",
+            "english": "I was taking / I used to take",
+            "sentence": "Je prenais le bus.",
+            "sentenceEnglish": "I used to take the bus."
+          },
+          "tu": {
+            "form": "prenais",
+            "english": "you were taking / you used to take",
+            "sentence": "Tu prenais du café?",
+            "sentenceEnglish": "Did you use to have coffee?"
+          },
+          "il/elle": {
+            "form": "prenait",
+            "english": "he/she was taking / used to take",
+            "sentence": "Elle prenait son temps.",
+            "sentenceEnglish": "She was taking her time."
+          },
+          "on": {
+            "form": "prenait",
+            "english": "we were taking / we used to take",
+            "sentence": "On prenait le train.",
+            "sentenceEnglish": "We used to take the train."
+          },
+          "nous": {
+            "form": "prenions",
+            "english": "we were taking / we used to take",
+            "sentence": "Nous prenions des notes.",
+            "sentenceEnglish": "We were taking notes."
+          },
+          "vous": {
+            "form": "preniez",
+            "english": "you were taking / you used to take",
+            "sentence": "Vous preniez quoi?",
+            "sentenceEnglish": "What were you having?"
+          },
+          "ils/elles": {
+            "form": "prenaient",
+            "english": "they were taking / they used to take",
+            "sentence": "Ils prenaient des photos.",
+            "sentenceEnglish": "They were taking photos."
+          }
+        }
+      },
+      "plus-que-parfait": {
+        "name": "Plus-que-parfait",
+        "description": "Actions completed before another past action",
+        "auxiliary": "avoir",
+        "forms": {
+          "je": {
+            "form": "avais pris",
+            "english": "I had taken",
+            "sentence": "J'avais pris le bus.",
+            "sentenceEnglish": "I had taken the bus."
+          },
+          "tu": {
+            "form": "avais pris",
+            "english": "you had taken",
+            "sentence": "Tu avais pris ton médicament?",
+            "sentenceEnglish": "Had you taken your medicine?"
+          },
+          "il/elle": {
+            "form": "avait pris",
+            "english": "he/she had taken",
+            "sentence": "Elle avait pris une douche.",
+            "sentenceEnglish": "She had taken a shower."
+          },
+          "on": {
+            "form": "avait pris",
+            "english": "we had taken",
+            "sentence": "On avait pris des photos.",
+            "sentenceEnglish": "We had taken photos."
+          },
+          "nous": {
+            "form": "avions pris",
+            "english": "we had taken",
+            "sentence": "Nous avions pris le train.",
+            "sentenceEnglish": "We had taken the train."
+          },
+          "vous": {
+            "form": "aviez pris",
+            "english": "you had taken",
+            "sentence": "Vous aviez pris du café?",
+            "sentenceEnglish": "Had you had coffee?"
+          },
+          "ils/elles": {
+            "form": "avaient pris",
+            "english": "they had taken",
+            "sentence": "Ils avaient pris leur temps.",
+            "sentenceEnglish": "They had taken their time."
+          }
+        }
+      },
+      "simple": {
+        "name": "Passé Simple",
+        "description": "Literary past tense",
+        "forms": {
+          "je": {
+            "form": "pris",
+            "english": "I took",
+            "sentence": "Je pris le bus.",
+            "sentenceEnglish": "I took the bus."
+          },
+          "tu": {
+            "form": "pris",
+            "english": "you took",
+            "sentence": "Tu pris ton médicament?",
+            "sentenceEnglish": "Did you take your medicine?"
+          },
+          "il/elle": {
+            "form": "prit",
+            "english": "he/she took",
+            "sentence": "Elle prit une douche.",
+            "sentenceEnglish": "She took a shower."
+          },
+          "on": {
+            "form": "prit",
+            "english": "we took",
+            "sentence": "On prit des photos.",
+            "sentenceEnglish": "We took photos."
+          },
+          "nous": {
+            "form": "prîmes",
+            "english": "we took",
+            "sentence": "Nous prîmes le train.",
+            "sentenceEnglish": "We took the train."
+          },
+          "vous": {
+            "form": "prîtes",
+            "english": "you took",
+            "sentence": "Vous prîtes du café?",
+            "sentenceEnglish": "Did you have coffee?"
+          },
+          "ils/elles": {
+            "form": "prirent",
+            "english": "they took",
+            "sentence": "Ils prirent leur temps.",
+            "sentenceEnglish": "They took their time."
+          }
+        }
+      }
+    },
+    "note": "Irregular imparfait stem 'pren-' (from 'nous prenons')"
+  },
+  "futur": {
+    "name": "Futur (Future)",
+    "aspects": {
+      "simple": {
+        "name": "Futur Simple",
+        "description": "Actions that will happen",
+        "forms": {
+          "je": {
+            "form": "prendrai",
+            "english": "I will take",
+            "sentence": "Je prendrai le bus.",
+            "sentenceEnglish": "I will take the bus."
+          },
+          "tu": {
+            "form": "prendras",
+            "english": "you will take",
+            "sentence": "Tu prendras du café?",
+            "sentenceEnglish": "Will you have coffee?"
+          },
+          "il/elle": {
+            "form": "prendra",
+            "english": "he/she will take",
+            "sentence": "Il prendra son temps.",
+            "sentenceEnglish": "He will take his time."
+          },
+          "on": {
+            "form": "prendra",
+            "english": "we will take",
+            "sentence": "On prendra le train.",
+            "sentenceEnglish": "We will take the train."
+          },
+          "nous": {
+            "form": "prendrons",
+            "english": "we will take",
+            "sentence": "Nous prendrons des notes.",
+            "sentenceEnglish": "We will take notes."
+          },
+          "vous": {
+            "form": "prendrez",
+            "english": "you will take",
+            "sentence": "Vous prendrez quoi?",
+            "sentenceEnglish": "What will you have?"
+          },
+          "ils/elles": {
+            "form": "prendront",
+            "english": "they will take",
+            "sentence": "Elles prendront des photos.",
+            "sentenceEnglish": "They will take photos."
+          }
+        }
+      },
+      "proche": {
+        "name": "Futur Proche",
+        "description": "Near future actions",
+        "forms": {
+          "je": {
+            "form": "vais prendre",
+            "english": "I am going to take",
+            "sentence": "Je vais prendre le bus.",
+            "sentenceEnglish": "I am going to take the bus."
+          },
+          "tu": {
+            "form": "vas prendre",
+            "english": "you are going to take",
+            "sentence": "Tu vas prendre du café?",
+            "sentenceEnglish": "Are you going to have coffee?"
+          },
+          "il/elle": {
+            "form": "va prendre",
+            "english": "he/she is going to take",
+            "sentence": "Il va prendre son temps.",
+            "sentenceEnglish": "He is going to take his time."
+          },
+          "on": {
+            "form": "va prendre",
+            "english": "we are going to take",
+            "sentence": "On va prendre le train.",
+            "sentenceEnglish": "We are going to take the train."
+          },
+          "nous": {
+            "form": "allons prendre",
+            "english": "we are going to take",
+            "sentence": "Nous allons prendre des notes.",
+            "sentenceEnglish": "We are going to take notes."
+          },
+          "vous": {
+            "form": "allez prendre",
+            "english": "you are going to take",
+            "sentence": "Vous allez prendre quoi?",
+            "sentenceEnglish": "What are you going to have?"
+          },
+          "ils/elles": {
+            "form": "vont prendre",
+            "english": "they are going to take",
+            "sentence": "Elles vont prendre des photos.",
+            "sentenceEnglish": "They are going to take photos."
+          }
+        }
+      },
+      "antérieur": {
+        "name": "Futur Antérieur",
+        "description": "Actions that will be completed by a future time",
+        "auxiliary": "avoir",
+        "forms": {
+          "je": {
+            "form": "aurai pris",
+            "english": "I will have taken",
+            "sentence": "J'aurai pris le bus.",
+            "sentenceEnglish": "I will have taken the bus."
+          },
+          "tu": {
+            "form": "auras pris",
+            "english": "you will have taken",
+            "sentence": "Tu auras pris ton médicament?",
+            "sentenceEnglish": "Will you have taken your medicine?"
+          },
+          "il/elle": {
+            "form": "aura pris",
+            "english": "he/she will have taken",
+            "sentence": "Elle aura pris une douche.",
+            "sentenceEnglish": "She will have taken a shower."
+          },
+          "on": {
+            "form": "aura pris",
+            "english": "we will have taken",
+            "sentence": "On aura pris des photos.",
+            "sentenceEnglish": "We will have taken photos."
+          },
+          "nous": {
+            "form": "aurons pris",
+            "english": "we will have taken",
+            "sentence": "Nous aurons pris le train.",
+            "sentenceEnglish": "We will have taken the train."
+          },
+          "vous": {
+            "form": "aurez pris",
+            "english": "you will have taken",
+            "sentence": "Vous aurez pris du café?",
+            "sentenceEnglish": "Will you have had coffee?"
+          },
+          "ils/elles": {
+            "form": "auront pris",
+            "english": "they will have taken",
+            "sentence": "Ils auront pris leur temps.",
+            "sentenceEnglish": "They will have taken their time."
+          }
+        }
+      }
+    },
+    "note": "Irregular future stem 'prendr-'"
+  }
 }

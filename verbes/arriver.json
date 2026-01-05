@@ -1,6 +1,7 @@
 {
   "infinitive": "arriver",
   "english": "to arrive / to happen",
+  "cefr": "A1",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -10,26 +11,96 @@
           "name": "Présent Simple",
           "description": "Simple present tense",
           "forms": {
-            "je": { "form": "arrive", "english": "I arrive", "sentence": "J'arrive à l'heure.", "sentenceEnglish": "I arrive on time." },
-            "tu": { "form": "arrives", "english": "you arrive", "sentence": "Tu arrives bientôt?", "sentenceEnglish": "Are you arriving soon?" },
-            "il/elle": { "form": "arrive", "english": "he/she arrives", "sentence": "Elle arrive en retard.", "sentenceEnglish": "She arrives late." },
-            "on": { "form": "arrive", "english": "we arrive", "sentence": "On arrive à Paris.", "sentenceEnglish": "We arrive in Paris." },
-            "nous": { "form": "arrivons", "english": "we arrive", "sentence": "Nous arrivons demain.", "sentenceEnglish": "We arrive tomorrow." },
-            "vous": { "form": "arrivez", "english": "you arrive", "sentence": "Vous arrivez quand?", "sentenceEnglish": "When do you arrive?" },
-            "ils/elles": { "form": "arrivent", "english": "they arrive", "sentence": "Ils arrivent ce soir.", "sentenceEnglish": "They arrive tonight." }
+            "je": {
+              "form": "arrive",
+              "english": "I arrive",
+              "sentence": "J'arrive à l'heure.",
+              "sentenceEnglish": "I arrive on time."
+            },
+            "tu": {
+              "form": "arrives",
+              "english": "you arrive",
+              "sentence": "Tu arrives bientôt?",
+              "sentenceEnglish": "Are you arriving soon?"
+            },
+            "il/elle": {
+              "form": "arrive",
+              "english": "he/she arrives",
+              "sentence": "Elle arrive en retard.",
+              "sentenceEnglish": "She arrives late."
+            },
+            "on": {
+              "form": "arrive",
+              "english": "we arrive",
+              "sentence": "On arrive à Paris.",
+              "sentenceEnglish": "We arrive in Paris."
+            },
+            "nous": {
+              "form": "arrivons",
+              "english": "we arrive",
+              "sentence": "Nous arrivons demain.",
+              "sentenceEnglish": "We arrive tomorrow."
+            },
+            "vous": {
+              "form": "arrivez",
+              "english": "you arrive",
+              "sentence": "Vous arrivez quand?",
+              "sentenceEnglish": "When do you arrive?"
+            },
+            "ils/elles": {
+              "form": "arrivent",
+              "english": "they arrive",
+              "sentence": "Ils arrivent ce soir.",
+              "sentenceEnglish": "They arrive tonight."
+            }
           }
         },
         "continu": {
           "name": "Présent Continu",
           "description": "Present continuous tense",
           "forms": {
-            "je": { "form": "suis en train d'arriver", "english": "I am arriving", "sentence": "Je suis en train d'arriver.", "sentenceEnglish": "I am arriving." },
-            "tu": { "form": "es en train d'arriver", "english": "you are arriving", "sentence": "Tu es en train d'arriver à la gare?", "sentenceEnglish": "Are you arriving at the station?" },
-            "il/elle": { "form": "est en train d'arriver", "english": "he/she is arriving", "sentence": "Elle est en train d'arriver.", "sentenceEnglish": "She is arriving." },
-            "on": { "form": "est en train d'arriver", "english": "we are arriving", "sentence": "On est en train d'arriver.", "sentenceEnglish": "We are arriving." },
-            "nous": { "form": "sommes en train d'arriver", "english": "we are arriving", "sentence": "Nous sommes en train d'arriver.", "sentenceEnglish": "We are arriving." },
-            "vous": { "form": "êtes en train d'arriver", "english": "you are arriving", "sentence": "Vous êtes en train d'arriver?", "sentenceEnglish": "Are you arriving?" },
-            "ils/elles": { "form": "sont en train d'arriver", "english": "they are arriving", "sentence": "Ils sont en train d'arriver.", "sentenceEnglish": "They are arriving." }
+            "je": {
+              "form": "arrive",
+              "english": "I am arriving",
+              "sentence": "Je suis en train d'arriver.",
+              "sentenceEnglish": "I am arriving."
+            },
+            "tu": {
+              "form": "arrives",
+              "english": "you are arriving",
+              "sentence": "Tu es en train d'arriver à la gare?",
+              "sentenceEnglish": "Are you arriving at the station?"
+            },
+            "il/elle": {
+              "form": "arrive",
+              "english": "he/she is arriving",
+              "sentence": "Elle est en train d'arriver.",
+              "sentenceEnglish": "She is arriving."
+            },
+            "on": {
+              "form": "arrive",
+              "english": "we are arriving",
+              "sentence": "On est en train d'arriver.",
+              "sentenceEnglish": "We are arriving."
+            },
+            "nous": {
+              "form": "arrivons",
+              "english": "we are arriving",
+              "sentence": "Nous sommes en train d'arriver.",
+              "sentenceEnglish": "We are arriving."
+            },
+            "vous": {
+              "form": "arrivez",
+              "english": "you are arriving",
+              "sentence": "Vous êtes en train d'arriver?",
+              "sentenceEnglish": "Are you arriving?"
+            },
+            "ils/elles": {
+              "form": "arrivent",
+              "english": "they are arriving",
+              "sentence": "Ils sont en train d'arriver.",
+              "sentenceEnglish": "They are arriving."
+            }
           }
         }
       },
@@ -43,26 +114,96 @@
           "description": "Completed action in the past",
           "auxiliary": "être",
           "forms": {
-            "je": { "form": "suis arrivé(e)", "english": "I arrived / I have arrived", "sentence": "Je suis arrivé hier.", "sentenceEnglish": "I arrived yesterday." },
-            "tu": { "form": "es arrivé(e)", "english": "you arrived / you have arrived", "sentence": "Tu es arrivé à l'heure?", "sentenceEnglish": "Did you arrive on time?" },
-            "il/elle": { "form": "est arrivé/arrivée", "english": "he/she arrived / has arrived", "sentence": "Elle est arrivée en retard.", "sentenceEnglish": "She arrived late." },
-            "on": { "form": "est arrivé(s)", "english": "we arrived / we have arrived", "sentence": "On est arrivés ce matin.", "sentenceEnglish": "We arrived this morning." },
-            "nous": { "form": "sommes arrivé(e)s", "english": "we arrived / we have arrived", "sentence": "Nous sommes arrivés à Paris.", "sentenceEnglish": "We arrived in Paris." },
-            "vous": { "form": "êtes arrivé(e)(s)", "english": "you arrived / you have arrived", "sentence": "Vous êtes arrivés quand?", "sentenceEnglish": "When did you arrive?" },
-            "ils/elles": { "form": "sont arrivés/arrivées", "english": "they arrived / they have arrived", "sentence": "Ils sont arrivés hier soir.", "sentenceEnglish": "They arrived last night." }
+            "je": {
+              "form": "suis arrivé",
+              "english": "I arrived / I have arrived",
+              "sentence": "Je suis arrivé hier.",
+              "sentenceEnglish": "I arrived yesterday."
+            },
+            "tu": {
+              "form": "es arrivé",
+              "english": "you arrived / you have arrived",
+              "sentence": "Tu es arrivé à l'heure?",
+              "sentenceEnglish": "Did you arrive on time?"
+            },
+            "il/elle": {
+              "form": "est arrivé",
+              "english": "he/she arrived / has arrived",
+              "sentence": "Elle est arrivée en retard.",
+              "sentenceEnglish": "She arrived late."
+            },
+            "on": {
+              "form": "est arrivé",
+              "english": "we arrived / we have arrived",
+              "sentence": "On est arrivés ce matin.",
+              "sentenceEnglish": "We arrived this morning."
+            },
+            "nous": {
+              "form": "sommes arrivés",
+              "english": "we arrived / we have arrived",
+              "sentence": "Nous sommes arrivés à Paris.",
+              "sentenceEnglish": "We arrived in Paris."
+            },
+            "vous": {
+              "form": "êtes arrivé",
+              "english": "you arrived / you have arrived",
+              "sentence": "Vous êtes arrivés quand?",
+              "sentenceEnglish": "When did you arrive?"
+            },
+            "ils/elles": {
+              "form": "sont arrivés",
+              "english": "they arrived / they have arrived",
+              "sentence": "Ils sont arrivés hier soir.",
+              "sentenceEnglish": "They arrived last night."
+            }
           }
         },
         "imparfait": {
           "name": "Imparfait",
           "description": "Habitual or ongoing past action",
           "forms": {
-            "je": { "form": "arrivais", "english": "I arrived / I was arriving / I used to arrive", "sentence": "J'arrivais toujours à l'heure.", "sentenceEnglish": "I always used to arrive on time." },
-            "tu": { "form": "arrivais", "english": "you arrived / you were arriving / you used to arrive", "sentence": "Tu arrivais souvent en retard?", "sentenceEnglish": "Did you often arrive late?" },
-            "il/elle": { "form": "arrivait", "english": "he/she arrived / was arriving / used to arrive", "sentence": "Elle arrivait toujours tôt.", "sentenceEnglish": "She always used to arrive early." },
-            "on": { "form": "arrivait", "english": "we arrived / we were arriving / we used to arrive", "sentence": "On arrivait vers midi.", "sentenceEnglish": "We used to arrive around noon." },
-            "nous": { "form": "arrivions", "english": "we arrived / we were arriving / we used to arrive", "sentence": "Nous arrivions le matin.", "sentenceEnglish": "We used to arrive in the morning." },
-            "vous": { "form": "arriviez", "english": "you arrived / you were arriving / you used to arrive", "sentence": "Vous arriviez quand?", "sentenceEnglish": "When did you used to arrive?" },
-            "ils/elles": { "form": "arrivaient", "english": "they arrived / they were arriving / they used to arrive", "sentence": "Ils arrivaient ensemble.", "sentenceEnglish": "They used to arrive together." }
+            "je": {
+              "form": "arrivais",
+              "english": "I arrived / I was arriving / I used to arrive",
+              "sentence": "J'arrivais toujours à l'heure.",
+              "sentenceEnglish": "I always used to arrive on time."
+            },
+            "tu": {
+              "form": "arrivais",
+              "english": "you arrived / you were arriving / you used to arrive",
+              "sentence": "Tu arrivais souvent en retard?",
+              "sentenceEnglish": "Did you often arrive late?"
+            },
+            "il/elle": {
+              "form": "arrivait",
+              "english": "he/she arrived / was arriving / used to arrive",
+              "sentence": "Elle arrivait toujours tôt.",
+              "sentenceEnglish": "She always used to arrive early."
+            },
+            "on": {
+              "form": "arrivait",
+              "english": "we arrived / we were arriving / we used to arrive",
+              "sentence": "On arrivait vers midi.",
+              "sentenceEnglish": "We used to arrive around noon."
+            },
+            "nous": {
+              "form": "arrivions",
+              "english": "we arrived / we were arriving / we used to arrive",
+              "sentence": "Nous arrivions le matin.",
+              "sentenceEnglish": "We used to arrive in the morning."
+            },
+            "vous": {
+              "form": "arriviez",
+              "english": "you arrived / you were arriving / you used to arrive",
+              "sentence": "Vous arriviez quand?",
+              "sentenceEnglish": "When did you used to arrive?"
+            },
+            "ils/elles": {
+              "form": "arrivaient",
+              "english": "they arrived / they were arriving / they used to arrive",
+              "sentence": "Ils arrivaient ensemble.",
+              "sentenceEnglish": "They used to arrive together."
+            }
           }
         },
         "plus-que-parfait": {
@@ -70,26 +211,96 @@
           "description": "Past perfect tense",
           "auxiliary": "être",
           "forms": {
-            "je": { "form": "étais arrivé(e)", "english": "I had arrived", "sentence": "J'étais arrivé en avance.", "sentenceEnglish": "I had arrived early." },
-            "tu": { "form": "étais arrivé(e)", "english": "you had arrived", "sentence": "Tu étais arrivé avant moi?", "sentenceEnglish": "Had you arrived before me?" },
-            "il/elle": { "form": "était arrivé/arrivée", "english": "he/she had arrived", "sentence": "Elle était arrivée la veille.", "sentenceEnglish": "She had arrived the day before." },
-            "on": { "form": "était arrivé(s)", "english": "we had arrived", "sentence": "On était arrivés tôt.", "sentenceEnglish": "We had arrived early." },
-            "nous": { "form": "étions arrivé(e)s", "english": "we had arrived", "sentence": "Nous étions arrivés à temps.", "sentenceEnglish": "We had arrived on time." },
-            "vous": { "form": "étiez arrivé(e)(s)", "english": "you had arrived", "sentence": "Vous étiez arrivés quand?", "sentenceEnglish": "When had you arrived?" },
-            "ils/elles": { "form": "étaient arrivés/arrivées", "english": "they had arrived", "sentence": "Ils étaient arrivés hier.", "sentenceEnglish": "They had arrived yesterday." }
+            "je": {
+              "form": "étais arrivé",
+              "english": "I had arrived",
+              "sentence": "J'étais arrivé en avance.",
+              "sentenceEnglish": "I had arrived early."
+            },
+            "tu": {
+              "form": "étais arrivé",
+              "english": "you had arrived",
+              "sentence": "Tu étais arrivé avant moi?",
+              "sentenceEnglish": "Had you arrived before me?"
+            },
+            "il/elle": {
+              "form": "était arrivé",
+              "english": "he/she had arrived",
+              "sentence": "Elle était arrivée la veille.",
+              "sentenceEnglish": "She had arrived the day before."
+            },
+            "on": {
+              "form": "était arrivé",
+              "english": "we had arrived",
+              "sentence": "On était arrivés tôt.",
+              "sentenceEnglish": "We had arrived early."
+            },
+            "nous": {
+              "form": "étions arrivés",
+              "english": "we had arrived",
+              "sentence": "Nous étions arrivés à temps.",
+              "sentenceEnglish": "We had arrived on time."
+            },
+            "vous": {
+              "form": "étiez arrivé",
+              "english": "you had arrived",
+              "sentence": "Vous étiez arrivés quand?",
+              "sentenceEnglish": "When had you arrived?"
+            },
+            "ils/elles": {
+              "form": "étaient arrivés",
+              "english": "they had arrived",
+              "sentence": "Ils étaient arrivés hier.",
+              "sentenceEnglish": "They had arrived yesterday."
+            }
           }
         },
         "simple": {
           "name": "Passé Simple",
           "description": "Literary past tense",
           "forms": {
-            "je": { "form": "arrivai", "english": "I arrived", "sentence": "J'arrivai au château.", "sentenceEnglish": "I arrived at the castle." },
-            "tu": { "form": "arrivas", "english": "you arrived", "sentence": "Tu arrivas à temps.", "sentenceEnglish": "You arrived on time." },
-            "il/elle": { "form": "arriva", "english": "he/she arrived", "sentence": "Il arriva enfin.", "sentenceEnglish": "He finally arrived." },
-            "on": { "form": "arriva", "english": "we arrived", "sentence": "On arriva ensemble.", "sentenceEnglish": "We arrived together." },
-            "nous": { "form": "arrivâmes", "english": "we arrived", "sentence": "Nous arrivâmes au port.", "sentenceEnglish": "We arrived at the port." },
-            "vous": { "form": "arrivâtes", "english": "you arrived", "sentence": "Vous arrivâtes tard.", "sentenceEnglish": "You arrived late." },
-            "ils/elles": { "form": "arrivèrent", "english": "they arrived", "sentence": "Ils arrivèrent de nuit.", "sentenceEnglish": "They arrived at night." }
+            "je": {
+              "form": "arrivai",
+              "english": "I arrived",
+              "sentence": "J'arrivai au château.",
+              "sentenceEnglish": "I arrived at the castle."
+            },
+            "tu": {
+              "form": "arrivas",
+              "english": "you arrived",
+              "sentence": "Tu arrivas à temps.",
+              "sentenceEnglish": "You arrived on time."
+            },
+            "il/elle": {
+              "form": "arriva",
+              "english": "he/she arrived",
+              "sentence": "Il arriva enfin.",
+              "sentenceEnglish": "He finally arrived."
+            },
+            "on": {
+              "form": "arriva",
+              "english": "we arrived",
+              "sentence": "On arriva ensemble.",
+              "sentenceEnglish": "We arrived together."
+            },
+            "nous": {
+              "form": "arrivâmes",
+              "english": "we arrived",
+              "sentence": "Nous arrivâmes au port.",
+              "sentenceEnglish": "We arrived at the port."
+            },
+            "vous": {
+              "form": "arrivâtes",
+              "english": "you arrived",
+              "sentence": "Vous arrivâtes tard.",
+              "sentenceEnglish": "You arrived late."
+            },
+            "ils/elles": {
+              "form": "arrivèrent",
+              "english": "they arrived",
+              "sentence": "Ils arrivèrent de nuit.",
+              "sentenceEnglish": "They arrived at night."
+            }
           }
         }
       },
@@ -102,26 +313,96 @@
           "name": "Futur Simple",
           "description": "Simple future tense",
           "forms": {
-            "je": { "form": "arriverai", "english": "I will arrive", "sentence": "J'arriverai demain.", "sentenceEnglish": "I will arrive tomorrow." },
-            "tu": { "form": "arriveras", "english": "you will arrive", "sentence": "Tu arriveras à l'heure?", "sentenceEnglish": "Will you arrive on time?" },
-            "il/elle": { "form": "arrivera", "english": "he/she will arrive", "sentence": "Il arrivera bientôt.", "sentenceEnglish": "He will arrive soon." },
-            "on": { "form": "arrivera", "english": "we will arrive", "sentence": "On arrivera ce soir.", "sentenceEnglish": "We will arrive tonight." },
-            "nous": { "form": "arriverons", "english": "we will arrive", "sentence": "Nous arriverons à huit heures.", "sentenceEnglish": "We will arrive at eight o'clock." },
-            "vous": { "form": "arriverez", "english": "you will arrive", "sentence": "Vous arriverez quand?", "sentenceEnglish": "When will you arrive?" },
-            "ils/elles": { "form": "arriveront", "english": "they will arrive", "sentence": "Elles arriveront demain.", "sentenceEnglish": "They will arrive tomorrow." }
+            "je": {
+              "form": "arriverai",
+              "english": "I will arrive",
+              "sentence": "J'arriverai demain.",
+              "sentenceEnglish": "I will arrive tomorrow."
+            },
+            "tu": {
+              "form": "arriveras",
+              "english": "you will arrive",
+              "sentence": "Tu arriveras à l'heure?",
+              "sentenceEnglish": "Will you arrive on time?"
+            },
+            "il/elle": {
+              "form": "arrivera",
+              "english": "he/she will arrive",
+              "sentence": "Il arrivera bientôt.",
+              "sentenceEnglish": "He will arrive soon."
+            },
+            "on": {
+              "form": "arrivera",
+              "english": "we will arrive",
+              "sentence": "On arrivera ce soir.",
+              "sentenceEnglish": "We will arrive tonight."
+            },
+            "nous": {
+              "form": "arriverons",
+              "english": "we will arrive",
+              "sentence": "Nous arriverons à huit heures.",
+              "sentenceEnglish": "We will arrive at eight o'clock."
+            },
+            "vous": {
+              "form": "arriverez",
+              "english": "you will arrive",
+              "sentence": "Vous arriverez quand?",
+              "sentenceEnglish": "When will you arrive?"
+            },
+            "ils/elles": {
+              "form": "arriveront",
+              "english": "they will arrive",
+              "sentence": "Elles arriveront demain.",
+              "sentenceEnglish": "They will arrive tomorrow."
+            }
           }
         },
         "proche": {
           "name": "Futur Proche",
           "description": "Near future tense",
           "forms": {
-            "je": { "form": "vais arriver", "english": "I am going to arrive", "sentence": "Je vais arriver dans cinq minutes.", "sentenceEnglish": "I am going to arrive in five minutes." },
-            "tu": { "form": "vas arriver", "english": "you are going to arrive", "sentence": "Tu vas arriver bientôt?", "sentenceEnglish": "Are you going to arrive soon?" },
-            "il/elle": { "form": "va arriver", "english": "he/she is going to arrive", "sentence": "Elle va arriver en retard.", "sentenceEnglish": "She is going to arrive late." },
-            "on": { "form": "va arriver", "english": "we are going to arrive", "sentence": "On va arriver ensemble.", "sentenceEnglish": "We are going to arrive together." },
-            "nous": { "form": "allons arriver", "english": "we are going to arrive", "sentence": "Nous allons arriver à temps.", "sentenceEnglish": "We are going to arrive on time." },
-            "vous": { "form": "allez arriver", "english": "you are going to arrive", "sentence": "Vous allez arriver quand?", "sentenceEnglish": "When are you going to arrive?" },
-            "ils/elles": { "form": "vont arriver", "english": "they are going to arrive", "sentence": "Ils vont arriver ce soir.", "sentenceEnglish": "They are going to arrive tonight." }
+            "je": {
+              "form": "arriverai",
+              "english": "I am going to arrive",
+              "sentence": "Je vais arriver dans cinq minutes.",
+              "sentenceEnglish": "I am going to arrive in five minutes."
+            },
+            "tu": {
+              "form": "arriveras",
+              "english": "you are going to arrive",
+              "sentence": "Tu vas arriver bientôt?",
+              "sentenceEnglish": "Are you going to arrive soon?"
+            },
+            "il/elle": {
+              "form": "arrivera",
+              "english": "he/she is going to arrive",
+              "sentence": "Elle va arriver en retard.",
+              "sentenceEnglish": "She is going to arrive late."
+            },
+            "on": {
+              "form": "arrivera",
+              "english": "we are going to arrive",
+              "sentence": "On va arriver ensemble.",
+              "sentenceEnglish": "We are going to arrive together."
+            },
+            "nous": {
+              "form": "arriverons",
+              "english": "we are going to arrive",
+              "sentence": "Nous allons arriver à temps.",
+              "sentenceEnglish": "We are going to arrive on time."
+            },
+            "vous": {
+              "form": "arriverez",
+              "english": "you are going to arrive",
+              "sentence": "Vous allez arriver quand?",
+              "sentenceEnglish": "When are you going to arrive?"
+            },
+            "ils/elles": {
+              "form": "arriveront",
+              "english": "they are going to arrive",
+              "sentence": "Ils vont arriver ce soir.",
+              "sentenceEnglish": "They are going to arrive tonight."
+            }
           }
         },
         "antérieur": {
@@ -129,13 +410,48 @@
           "description": "Future perfect tense",
           "auxiliary": "être",
           "forms": {
-            "je": { "form": "serai arrivé(e)", "english": "I will have arrived", "sentence": "Je serai arrivé avant toi.", "sentenceEnglish": "I will have arrived before you." },
-            "tu": { "form": "seras arrivé(e)", "english": "you will have arrived", "sentence": "Tu seras arrivé à l'heure?", "sentenceEnglish": "Will you have arrived on time?" },
-            "il/elle": { "form": "sera arrivé/arrivée", "english": "he/she will have arrived", "sentence": "Elle sera arrivée avant midi.", "sentenceEnglish": "She will have arrived before noon." },
-            "on": { "form": "sera arrivé(s)", "english": "we will have arrived", "sentence": "On sera arrivés ce soir.", "sentenceEnglish": "We will have arrived tonight." },
-            "nous": { "form": "serons arrivé(e)s", "english": "we will have arrived", "sentence": "Nous serons arrivés à temps.", "sentenceEnglish": "We will have arrived on time." },
-            "vous": { "form": "serez arrivé(e)(s)", "english": "you will have arrived", "sentence": "Vous serez arrivés quand?", "sentenceEnglish": "When will you have arrived?" },
-            "ils/elles": { "form": "seront arrivés/arrivées", "english": "they will have arrived", "sentence": "Ils seront arrivés demain.", "sentenceEnglish": "They will have arrived tomorrow." }
+            "je": {
+              "form": "serai arrivé",
+              "english": "I will have arrived",
+              "sentence": "Je serai arrivé avant toi.",
+              "sentenceEnglish": "I will have arrived before you."
+            },
+            "tu": {
+              "form": "seras arrivé",
+              "english": "you will have arrived",
+              "sentence": "Tu seras arrivé à l'heure?",
+              "sentenceEnglish": "Will you have arrived on time?"
+            },
+            "il/elle": {
+              "form": "sera arrivé",
+              "english": "he/she will have arrived",
+              "sentence": "Elle sera arrivée avant midi.",
+              "sentenceEnglish": "She will have arrived before noon."
+            },
+            "on": {
+              "form": "sera arrivé",
+              "english": "we will have arrived",
+              "sentence": "On sera arrivés ce soir.",
+              "sentenceEnglish": "We will have arrived tonight."
+            },
+            "nous": {
+              "form": "serons arrivés",
+              "english": "we will have arrived",
+              "sentence": "Nous serons arrivés à temps.",
+              "sentenceEnglish": "We will have arrived on time."
+            },
+            "vous": {
+              "form": "serez arrivé",
+              "english": "you will have arrived",
+              "sentence": "Vous serez arrivés quand?",
+              "sentenceEnglish": "When will you have arrived?"
+            },
+            "ils/elles": {
+              "form": "seront arrivés",
+              "english": "they will have arrived",
+              "sentence": "Ils seront arrivés demain.",
+              "sentenceEnglish": "They will have arrived tomorrow."
+            }
           }
         }
       },

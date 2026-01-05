@@ -1,6 +1,7 @@
 {
   "infinitive": "suivre",
   "english": "to follow",
+  "cefr": "B1",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de suivre",
+              "form": "suis",
               "english": "I am following",
               "sentence": "Je suis en train de suivre le cours.",
               "sentenceEnglish": "I am following the course."
             },
             "tu": {
-              "form": "es en train de suivre",
+              "form": "suis",
               "english": "you are following",
               "sentence": "Tu es en train de suivre qui?",
               "sentenceEnglish": "Who are you following?"
             },
             "il/elle": {
-              "form": "est en train de suivre",
+              "form": "suit",
               "english": "he/she is following",
               "sentence": "Elle est en train de suivre les instructions.",
               "sentenceEnglish": "She is following the instructions."
             },
             "on": {
-              "form": "est en train de suivre",
+              "form": "suit",
               "english": "we are following",
               "sentence": "On est en train de suivre le guide.",
               "sentenceEnglish": "We are following the guide."
             },
             "nous": {
-              "form": "sommes en train de suivre",
+              "form": "suivons",
               "english": "we are following",
               "sentence": "Nous sommes en train de suivre la route.",
               "sentenceEnglish": "We are following the road."
             },
             "vous": {
-              "form": "êtes en train de suivre",
+              "form": "suivez",
               "english": "you are following",
               "sentence": "Vous êtes en train de suivre?",
               "sentenceEnglish": "Are you following?"
             },
             "ils/elles": {
-              "form": "sont en train de suivre",
+              "form": "suivent",
               "english": "they are following",
               "sentence": "Ils sont en train de suivre le plan.",
               "sentenceEnglish": "They are following the plan."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais suivre",
+              "form": "suivrai",
               "english": "I am going to follow",
               "sentence": "Je vais suivre le cours.",
               "sentenceEnglish": "I am going to follow the course."
             },
             "tu": {
-              "form": "vas suivre",
+              "form": "suivras",
               "english": "you are going to follow",
               "sentence": "Tu vas suivre le plan?",
               "sentenceEnglish": "Are you going to follow the plan?"
             },
             "il/elle": {
-              "form": "va suivre",
+              "form": "suivra",
               "english": "he/she is going to follow",
               "sentence": "Elle va suivre les règles.",
               "sentenceEnglish": "She is going to follow the rules."
             },
             "on": {
-              "form": "va suivre",
+              "form": "suivra",
               "english": "we are going to follow",
               "sentence": "On va suivre le guide.",
               "sentenceEnglish": "We are going to follow the guide."
             },
             "nous": {
-              "form": "allons suivre",
+              "form": "suivrons",
               "english": "we are going to follow",
               "sentence": "Nous allons suivre la route.",
               "sentenceEnglish": "We are going to follow the road."
             },
             "vous": {
-              "form": "allez suivre",
+              "form": "suivrez",
               "english": "you are going to follow",
               "sentence": "Vous allez suivre le chemin?",
               "sentenceEnglish": "Are you going to follow the path?"
             },
             "ils/elles": {
-              "form": "vont suivre",
+              "form": "suivront",
               "english": "they are going to follow",
               "sentence": "Ils vont suivre les instructions.",
               "sentenceEnglish": "They are going to follow the instructions."

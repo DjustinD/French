@@ -1,6 +1,7 @@
 {
   "infinitive": "avoir",
   "english": "to have",
+  "cefr": "A1",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -10,26 +11,96 @@
           "name": "Présent Simple",
           "description": "Simple present tense",
           "forms": {
-            "je": { "form": "ai", "english": "I have", "sentence": "J'ai un chat.", "sentenceEnglish": "I have a cat." },
-            "tu": { "form": "as", "english": "you have", "sentence": "Tu as une voiture?", "sentenceEnglish": "Do you have a car?" },
-            "il/elle": { "form": "a", "english": "he/she has", "sentence": "Elle a vingt ans.", "sentenceEnglish": "She is twenty years old." },
-            "on": { "form": "a", "english": "we have", "sentence": "On a faim.", "sentenceEnglish": "We are hungry." },
-            "nous": { "form": "avons", "english": "we have", "sentence": "Nous avons du temps.", "sentenceEnglish": "We have time." },
-            "vous": { "form": "avez", "english": "you have", "sentence": "Vous avez raison.", "sentenceEnglish": "You are right." },
-            "ils/elles": { "form": "ont", "english": "they have", "sentence": "Ils ont des enfants.", "sentenceEnglish": "They have children." }
+            "je": {
+              "form": "ai",
+              "english": "I have",
+              "sentence": "J'ai un chat.",
+              "sentenceEnglish": "I have a cat."
+            },
+            "tu": {
+              "form": "as",
+              "english": "you have",
+              "sentence": "Tu as une voiture?",
+              "sentenceEnglish": "Do you have a car?"
+            },
+            "il/elle": {
+              "form": "a",
+              "english": "he/she has",
+              "sentence": "Elle a vingt ans.",
+              "sentenceEnglish": "She is twenty years old."
+            },
+            "on": {
+              "form": "a",
+              "english": "we have",
+              "sentence": "On a faim.",
+              "sentenceEnglish": "We are hungry."
+            },
+            "nous": {
+              "form": "avons",
+              "english": "we have",
+              "sentence": "Nous avons du temps.",
+              "sentenceEnglish": "We have time."
+            },
+            "vous": {
+              "form": "avez",
+              "english": "you have",
+              "sentence": "Vous avez raison.",
+              "sentenceEnglish": "You are right."
+            },
+            "ils/elles": {
+              "form": "ont",
+              "english": "they have",
+              "sentence": "Ils ont des enfants.",
+              "sentenceEnglish": "They have children."
+            }
           }
         },
         "continu": {
           "name": "Présent Continu",
           "description": "Present continuous tense",
           "forms": {
-            "je": { "form": "suis en train d'avoir", "english": "I am having", "sentence": "Je suis en train d'avoir une idée.", "sentenceEnglish": "I am having an idea." },
-            "tu": { "form": "es en train d'avoir", "english": "you are having", "sentence": "Tu es en train d'avoir un problème?", "sentenceEnglish": "Are you having a problem?" },
-            "il/elle": { "form": "est en train d'avoir", "english": "he/she is having", "sentence": "Elle est en train d'avoir des difficultés.", "sentenceEnglish": "She is having difficulties." },
-            "on": { "form": "est en train d'avoir", "english": "we are having", "sentence": "On est en train d'avoir une conversation.", "sentenceEnglish": "We are having a conversation." },
-            "nous": { "form": "sommes en train d'avoir", "english": "we are having", "sentence": "Nous sommes en train d'avoir des résultats.", "sentenceEnglish": "We are having results." },
-            "vous": { "form": "êtes en train d'avoir", "english": "you are having", "sentence": "Vous êtes en train d'avoir du succès?", "sentenceEnglish": "Are you having success?" },
-            "ils/elles": { "form": "sont en train d'avoir", "english": "they are having", "sentence": "Ils sont en train d'avoir une réunion.", "sentenceEnglish": "They are having a meeting." }
+            "je": {
+              "form": "ai",
+              "english": "I am having",
+              "sentence": "Je suis en train d'avoir une idée.",
+              "sentenceEnglish": "I am having an idea."
+            },
+            "tu": {
+              "form": "as",
+              "english": "you are having",
+              "sentence": "Tu es en train d'avoir un problème?",
+              "sentenceEnglish": "Are you having a problem?"
+            },
+            "il/elle": {
+              "form": "a",
+              "english": "he/she is having",
+              "sentence": "Elle est en train d'avoir des difficultés.",
+              "sentenceEnglish": "She is having difficulties."
+            },
+            "on": {
+              "form": "a",
+              "english": "we are having",
+              "sentence": "On est en train d'avoir une conversation.",
+              "sentenceEnglish": "We are having a conversation."
+            },
+            "nous": {
+              "form": "avons",
+              "english": "we are having",
+              "sentence": "Nous sommes en train d'avoir des résultats.",
+              "sentenceEnglish": "We are having results."
+            },
+            "vous": {
+              "form": "avez",
+              "english": "you are having",
+              "sentence": "Vous êtes en train d'avoir du succès?",
+              "sentenceEnglish": "Are you having success?"
+            },
+            "ils/elles": {
+              "form": "ont",
+              "english": "they are having",
+              "sentence": "Ils sont en train d'avoir une réunion.",
+              "sentenceEnglish": "They are having a meeting."
+            }
           }
         }
       },
@@ -43,26 +114,96 @@
           "description": "Completed action in the past",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "ai eu", "english": "I had / I have had", "sentence": "J'ai eu de la chance.", "sentenceEnglish": "I was lucky." },
-            "tu": { "form": "as eu", "english": "you had / you have had", "sentence": "Tu as eu ton examen?", "sentenceEnglish": "Did you have your exam?" },
-            "il/elle": { "form": "a eu", "english": "he/she had / has had", "sentence": "Elle a eu un accident.", "sentenceEnglish": "She had an accident." },
-            "on": { "form": "a eu", "english": "we had / we have had", "sentence": "On a eu peur.", "sentenceEnglish": "We were scared." },
-            "nous": { "form": "avons eu", "english": "we had / we have had", "sentence": "Nous avons eu des problèmes.", "sentenceEnglish": "We had problems." },
-            "vous": { "form": "avez eu", "english": "you had / you have had", "sentence": "Vous avez eu le temps?", "sentenceEnglish": "Did you have time?" },
-            "ils/elles": { "form": "ont eu", "english": "they had / they have had", "sentence": "Ils ont eu raison.", "sentenceEnglish": "They were right." }
+            "je": {
+              "form": "ai eu",
+              "english": "I had / I have had",
+              "sentence": "J'ai eu de la chance.",
+              "sentenceEnglish": "I was lucky."
+            },
+            "tu": {
+              "form": "as eu",
+              "english": "you had / you have had",
+              "sentence": "Tu as eu ton examen?",
+              "sentenceEnglish": "Did you have your exam?"
+            },
+            "il/elle": {
+              "form": "a eu",
+              "english": "he/she had / has had",
+              "sentence": "Elle a eu un accident.",
+              "sentenceEnglish": "She had an accident."
+            },
+            "on": {
+              "form": "a eu",
+              "english": "we had / we have had",
+              "sentence": "On a eu peur.",
+              "sentenceEnglish": "We were scared."
+            },
+            "nous": {
+              "form": "avons eu",
+              "english": "we had / we have had",
+              "sentence": "Nous avons eu des problèmes.",
+              "sentenceEnglish": "We had problems."
+            },
+            "vous": {
+              "form": "avez eu",
+              "english": "you had / you have had",
+              "sentence": "Vous avez eu le temps?",
+              "sentenceEnglish": "Did you have time?"
+            },
+            "ils/elles": {
+              "form": "ont eu",
+              "english": "they had / they have had",
+              "sentence": "Ils ont eu raison.",
+              "sentenceEnglish": "They were right."
+            }
           }
         },
         "imparfait": {
           "name": "Imparfait",
           "description": "Habitual or ongoing past action",
           "forms": {
-            "je": { "form": "avais", "english": "I had / I used to have", "sentence": "J'avais un chien.", "sentenceEnglish": "I had a dog." },
-            "tu": { "form": "avais", "english": "you had / you used to have", "sentence": "Tu avais peur?", "sentenceEnglish": "Were you afraid?" },
-            "il/elle": { "form": "avait", "english": "he/she had / used to have", "sentence": "Elle avait raison.", "sentenceEnglish": "She was right." },
-            "on": { "form": "avait", "english": "we had / we used to have", "sentence": "On avait faim.", "sentenceEnglish": "We were hungry." },
-            "nous": { "form": "avions", "english": "we had / we used to have", "sentence": "Nous avions une maison.", "sentenceEnglish": "We had a house." },
-            "vous": { "form": "aviez", "english": "you had / you used to have", "sentence": "Vous aviez du temps?", "sentenceEnglish": "Did you have time?" },
-            "ils/elles": { "form": "avaient", "english": "they had / they used to have", "sentence": "Ils avaient des amis.", "sentenceEnglish": "They had friends." }
+            "je": {
+              "form": "avais",
+              "english": "I had / I used to have",
+              "sentence": "J'avais un chien.",
+              "sentenceEnglish": "I had a dog."
+            },
+            "tu": {
+              "form": "avais",
+              "english": "you had / you used to have",
+              "sentence": "Tu avais peur?",
+              "sentenceEnglish": "Were you afraid?"
+            },
+            "il/elle": {
+              "form": "avait",
+              "english": "he/she had / used to have",
+              "sentence": "Elle avait raison.",
+              "sentenceEnglish": "She was right."
+            },
+            "on": {
+              "form": "avait",
+              "english": "we had / we used to have",
+              "sentence": "On avait faim.",
+              "sentenceEnglish": "We were hungry."
+            },
+            "nous": {
+              "form": "avions",
+              "english": "we had / we used to have",
+              "sentence": "Nous avions une maison.",
+              "sentenceEnglish": "We had a house."
+            },
+            "vous": {
+              "form": "aviez",
+              "english": "you had / you used to have",
+              "sentence": "Vous aviez du temps?",
+              "sentenceEnglish": "Did you have time?"
+            },
+            "ils/elles": {
+              "form": "avaient",
+              "english": "they had / they used to have",
+              "sentence": "Ils avaient des amis.",
+              "sentenceEnglish": "They had friends."
+            }
           }
         },
         "plus-que-parfait": {
@@ -70,26 +211,96 @@
           "description": "Past perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "avais eu", "english": "I had had", "sentence": "J'avais eu tort.", "sentenceEnglish": "I had been wrong." },
-            "tu": { "form": "avais eu", "english": "you had had", "sentence": "Tu avais eu peur?", "sentenceEnglish": "Had you been afraid?" },
-            "il/elle": { "form": "avait eu", "english": "he/she had had", "sentence": "Elle avait eu raison.", "sentenceEnglish": "She had been right." },
-            "on": { "form": "avait eu", "english": "we had had", "sentence": "On avait eu de la chance.", "sentenceEnglish": "We had been lucky." },
-            "nous": { "form": "avions eu", "english": "we had had", "sentence": "Nous avions eu des problèmes.", "sentenceEnglish": "We had had problems." },
-            "vous": { "form": "aviez eu", "english": "you had had", "sentence": "Vous aviez eu le temps?", "sentenceEnglish": "Had you had time?" },
-            "ils/elles": { "form": "avaient eu", "english": "they had had", "sentence": "Ils avaient eu du mal.", "sentenceEnglish": "They had had difficulty." }
+            "je": {
+              "form": "avais eu",
+              "english": "I had had",
+              "sentence": "J'avais eu tort.",
+              "sentenceEnglish": "I had been wrong."
+            },
+            "tu": {
+              "form": "avais eu",
+              "english": "you had had",
+              "sentence": "Tu avais eu peur?",
+              "sentenceEnglish": "Had you been afraid?"
+            },
+            "il/elle": {
+              "form": "avait eu",
+              "english": "he/she had had",
+              "sentence": "Elle avait eu raison.",
+              "sentenceEnglish": "She had been right."
+            },
+            "on": {
+              "form": "avait eu",
+              "english": "we had had",
+              "sentence": "On avait eu de la chance.",
+              "sentenceEnglish": "We had been lucky."
+            },
+            "nous": {
+              "form": "avions eu",
+              "english": "we had had",
+              "sentence": "Nous avions eu des problèmes.",
+              "sentenceEnglish": "We had had problems."
+            },
+            "vous": {
+              "form": "aviez eu",
+              "english": "you had had",
+              "sentence": "Vous aviez eu le temps?",
+              "sentenceEnglish": "Had you had time?"
+            },
+            "ils/elles": {
+              "form": "avaient eu",
+              "english": "they had had",
+              "sentence": "Ils avaient eu du mal.",
+              "sentenceEnglish": "They had had difficulty."
+            }
           }
         },
         "simple": {
           "name": "Passé Simple",
           "description": "Literary past tense",
           "forms": {
-            "je": { "form": "eus", "english": "I had", "sentence": "J'eus une idée.", "sentenceEnglish": "I had an idea." },
-            "tu": { "form": "eus", "english": "you had", "sentence": "Tu eus peur.", "sentenceEnglish": "You were afraid." },
-            "il/elle": { "form": "eut", "english": "he/she had", "sentence": "Il eut raison.", "sentenceEnglish": "He was right." },
-            "on": { "form": "eut", "english": "we had", "sentence": "On eut faim.", "sentenceEnglish": "We were hungry." },
-            "nous": { "form": "eûmes", "english": "we had", "sentence": "Nous eûmes du temps.", "sentenceEnglish": "We had time." },
-            "vous": { "form": "eûtes", "english": "you had", "sentence": "Vous eûtes tort.", "sentenceEnglish": "You were wrong." },
-            "ils/elles": { "form": "eurent", "english": "they had", "sentence": "Ils eurent des problèmes.", "sentenceEnglish": "They had problems." }
+            "je": {
+              "form": "eus",
+              "english": "I had",
+              "sentence": "J'eus une idée.",
+              "sentenceEnglish": "I had an idea."
+            },
+            "tu": {
+              "form": "eus",
+              "english": "you had",
+              "sentence": "Tu eus peur.",
+              "sentenceEnglish": "You were afraid."
+            },
+            "il/elle": {
+              "form": "eut",
+              "english": "he/she had",
+              "sentence": "Il eut raison.",
+              "sentenceEnglish": "He was right."
+            },
+            "on": {
+              "form": "eut",
+              "english": "we had",
+              "sentence": "On eut faim.",
+              "sentenceEnglish": "We were hungry."
+            },
+            "nous": {
+              "form": "eûmes",
+              "english": "we had",
+              "sentence": "Nous eûmes du temps.",
+              "sentenceEnglish": "We had time."
+            },
+            "vous": {
+              "form": "eûtes",
+              "english": "you had",
+              "sentence": "Vous eûtes tort.",
+              "sentenceEnglish": "You were wrong."
+            },
+            "ils/elles": {
+              "form": "eurent",
+              "english": "they had",
+              "sentence": "Ils eurent des problèmes.",
+              "sentenceEnglish": "They had problems."
+            }
           }
         }
       },
@@ -102,26 +313,96 @@
           "name": "Futur Simple",
           "description": "Simple future tense",
           "forms": {
-            "je": { "form": "aurai", "english": "I will have", "sentence": "J'aurai du temps.", "sentenceEnglish": "I will have time." },
-            "tu": { "form": "auras", "english": "you will have", "sentence": "Tu auras besoin d'aide?", "sentenceEnglish": "Will you need help?" },
-            "il/elle": { "form": "aura", "english": "he/she will have", "sentence": "Il aura trente ans.", "sentenceEnglish": "He will be thirty years old." },
-            "on": { "form": "aura", "english": "we will have", "sentence": "On aura fini demain.", "sentenceEnglish": "We will have finished tomorrow." },
-            "nous": { "form": "aurons", "english": "we will have", "sentence": "Nous aurons des vacances.", "sentenceEnglish": "We will have vacation." },
-            "vous": { "form": "aurez", "english": "you will have", "sentence": "Vous aurez raison.", "sentenceEnglish": "You will be right." },
-            "ils/elles": { "form": "auront", "english": "they will have", "sentence": "Elles auront des enfants.", "sentenceEnglish": "They will have children." }
+            "je": {
+              "form": "aurai",
+              "english": "I will have",
+              "sentence": "J'aurai du temps.",
+              "sentenceEnglish": "I will have time."
+            },
+            "tu": {
+              "form": "auras",
+              "english": "you will have",
+              "sentence": "Tu auras besoin d'aide?",
+              "sentenceEnglish": "Will you need help?"
+            },
+            "il/elle": {
+              "form": "aura",
+              "english": "he/she will have",
+              "sentence": "Il aura trente ans.",
+              "sentenceEnglish": "He will be thirty years old."
+            },
+            "on": {
+              "form": "aura",
+              "english": "we will have",
+              "sentence": "On aura fini demain.",
+              "sentenceEnglish": "We will have finished tomorrow."
+            },
+            "nous": {
+              "form": "aurons",
+              "english": "we will have",
+              "sentence": "Nous aurons des vacances.",
+              "sentenceEnglish": "We will have vacation."
+            },
+            "vous": {
+              "form": "aurez",
+              "english": "you will have",
+              "sentence": "Vous aurez raison.",
+              "sentenceEnglish": "You will be right."
+            },
+            "ils/elles": {
+              "form": "auront",
+              "english": "they will have",
+              "sentence": "Elles auront des enfants.",
+              "sentenceEnglish": "They will have children."
+            }
           }
         },
         "proche": {
           "name": "Futur Proche",
           "description": "Near future tense",
           "forms": {
-            "je": { "form": "vais avoir", "english": "I am going to have", "sentence": "Je vais avoir une réunion.", "sentenceEnglish": "I am going to have a meeting." },
-            "tu": { "form": "vas avoir", "english": "you are going to have", "sentence": "Tu vas avoir un entretien?", "sentenceEnglish": "Are you going to have an interview?" },
-            "il/elle": { "form": "va avoir", "english": "he/she is going to have", "sentence": "Elle va avoir une conversation.", "sentenceEnglish": "She is going to have a conversation." },
-            "on": { "form": "va avoir", "english": "we are going to have", "sentence": "On va avoir du plaisir.", "sentenceEnglish": "We are going to have fun." },
-            "nous": { "form": "allons avoir", "english": "we are going to have", "sentence": "Nous allons avoir des résultats.", "sentenceEnglish": "We are going to have results." },
-            "vous": { "form": "allez avoir", "english": "you are going to have", "sentence": "Vous allez avoir une discussion?", "sentenceEnglish": "Are you going to have a discussion?" },
-            "ils/elles": { "form": "vont avoir", "english": "they are going to have", "sentence": "Ils vont avoir des difficultés.", "sentenceEnglish": "They are going to have difficulties." }
+            "je": {
+              "form": "aurai",
+              "english": "I am going to have",
+              "sentence": "Je vais avoir une réunion.",
+              "sentenceEnglish": "I am going to have a meeting."
+            },
+            "tu": {
+              "form": "auras",
+              "english": "you are going to have",
+              "sentence": "Tu vas avoir un entretien?",
+              "sentenceEnglish": "Are you going to have an interview?"
+            },
+            "il/elle": {
+              "form": "aura",
+              "english": "he/she is going to have",
+              "sentence": "Elle va avoir une conversation.",
+              "sentenceEnglish": "She is going to have a conversation."
+            },
+            "on": {
+              "form": "aura",
+              "english": "we are going to have",
+              "sentence": "On va avoir du plaisir.",
+              "sentenceEnglish": "We are going to have fun."
+            },
+            "nous": {
+              "form": "aurons",
+              "english": "we are going to have",
+              "sentence": "Nous allons avoir des résultats.",
+              "sentenceEnglish": "We are going to have results."
+            },
+            "vous": {
+              "form": "aurez",
+              "english": "you are going to have",
+              "sentence": "Vous allez avoir une discussion?",
+              "sentenceEnglish": "Are you going to have a discussion?"
+            },
+            "ils/elles": {
+              "form": "auront",
+              "english": "they are going to have",
+              "sentence": "Ils vont avoir des difficultés.",
+              "sentenceEnglish": "They are going to have difficulties."
+            }
           }
         },
         "antérieur": {
@@ -129,13 +410,48 @@
           "description": "Future perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "aurai eu", "english": "I will have had", "sentence": "J'aurai eu le temps.", "sentenceEnglish": "I will have had time." },
-            "tu": { "form": "auras eu", "english": "you will have had", "sentence": "Tu auras eu raison.", "sentenceEnglish": "You will have been right." },
-            "il/elle": { "form": "aura eu", "english": "he/she will have had", "sentence": "Elle aura eu de la chance.", "sentenceEnglish": "She will have been lucky." },
-            "on": { "form": "aura eu", "english": "we will have had", "sentence": "On aura eu peur.", "sentenceEnglish": "We will have been scared." },
-            "nous": { "form": "aurons eu", "english": "we will have had", "sentence": "Nous aurons eu des problèmes.", "sentenceEnglish": "We will have had problems." },
-            "vous": { "form": "aurez eu", "english": "you will have had", "sentence": "Vous aurez eu tort?", "sentenceEnglish": "Will you have been wrong?" },
-            "ils/elles": { "form": "auront eu", "english": "they will have had", "sentence": "Ils auront eu du succès.", "sentenceEnglish": "They will have had success." }
+            "je": {
+              "form": "aurai eu",
+              "english": "I will have had",
+              "sentence": "J'aurai eu le temps.",
+              "sentenceEnglish": "I will have had time."
+            },
+            "tu": {
+              "form": "auras eu",
+              "english": "you will have had",
+              "sentence": "Tu auras eu raison.",
+              "sentenceEnglish": "You will have been right."
+            },
+            "il/elle": {
+              "form": "aura eu",
+              "english": "he/she will have had",
+              "sentence": "Elle aura eu de la chance.",
+              "sentenceEnglish": "She will have been lucky."
+            },
+            "on": {
+              "form": "aura eu",
+              "english": "we will have had",
+              "sentence": "On aura eu peur.",
+              "sentenceEnglish": "We will have been scared."
+            },
+            "nous": {
+              "form": "aurons eu",
+              "english": "we will have had",
+              "sentence": "Nous aurons eu des problèmes.",
+              "sentenceEnglish": "We will have had problems."
+            },
+            "vous": {
+              "form": "aurez eu",
+              "english": "you will have had",
+              "sentence": "Vous aurez eu tort?",
+              "sentenceEnglish": "Will you have been wrong?"
+            },
+            "ils/elles": {
+              "form": "auront eu",
+              "english": "they will have had",
+              "sentence": "Ils auront eu du succès.",
+              "sentenceEnglish": "They will have had success."
+            }
           }
         }
       },

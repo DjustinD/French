@@ -1,6 +1,7 @@
 {
   "infinitive": "travailler",
   "english": "to work",
+  "cefr": "A2",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -10,26 +11,96 @@
           "name": "Présent Simple",
           "description": "Simple present tense",
           "forms": {
-            "je": { "form": "travaille", "english": "I work", "sentence": "Je travaille à Paris.", "sentenceEnglish": "I work in Paris." },
-            "tu": { "form": "travailles", "english": "you work", "sentence": "Tu travailles où?", "sentenceEnglish": "Where do you work?" },
-            "il/elle": { "form": "travaille", "english": "he/she works", "sentence": "Elle travaille dans un hôpital.", "sentenceEnglish": "She works in a hospital." },
-            "on": { "form": "travaille", "english": "we work", "sentence": "On travaille ensemble.", "sentenceEnglish": "We work together." },
-            "nous": { "form": "travaillons", "english": "we work", "sentence": "Nous travaillons tous les jours.", "sentenceEnglish": "We work every day." },
-            "vous": { "form": "travaillez", "english": "you work", "sentence": "Vous travaillez le weekend?", "sentenceEnglish": "Do you work on weekends?" },
-            "ils/elles": { "form": "travaillent", "english": "they work", "sentence": "Ils travaillent dur.", "sentenceEnglish": "They work hard." }
+            "je": {
+              "form": "travaille",
+              "english": "I work",
+              "sentence": "Je travaille à Paris.",
+              "sentenceEnglish": "I work in Paris."
+            },
+            "tu": {
+              "form": "travailles",
+              "english": "you work",
+              "sentence": "Tu travailles où?",
+              "sentenceEnglish": "Where do you work?"
+            },
+            "il/elle": {
+              "form": "travaille",
+              "english": "he/she works",
+              "sentence": "Elle travaille dans un hôpital.",
+              "sentenceEnglish": "She works in a hospital."
+            },
+            "on": {
+              "form": "travaille",
+              "english": "we work",
+              "sentence": "On travaille ensemble.",
+              "sentenceEnglish": "We work together."
+            },
+            "nous": {
+              "form": "travaillons",
+              "english": "we work",
+              "sentence": "Nous travaillons tous les jours.",
+              "sentenceEnglish": "We work every day."
+            },
+            "vous": {
+              "form": "travaillez",
+              "english": "you work",
+              "sentence": "Vous travaillez le weekend?",
+              "sentenceEnglish": "Do you work on weekends?"
+            },
+            "ils/elles": {
+              "form": "travaillent",
+              "english": "they work",
+              "sentence": "Ils travaillent dur.",
+              "sentenceEnglish": "They work hard."
+            }
           }
         },
         "continu": {
           "name": "Présent Continu",
           "description": "Present continuous tense",
           "forms": {
-            "je": { "form": "suis en train de travailler", "english": "I am working", "sentence": "Je suis en train de travailler sur un projet.", "sentenceEnglish": "I am working on a project." },
-            "tu": { "form": "es en train de travailler", "english": "you are working", "sentence": "Tu es en train de travailler?", "sentenceEnglish": "Are you working?" },
-            "il/elle": { "form": "est en train de travailler", "english": "he/she is working", "sentence": "Elle est en train de travailler à la maison.", "sentenceEnglish": "She is working at home." },
-            "on": { "form": "est en train de travailler", "english": "we are working", "sentence": "On est en train de travailler ensemble.", "sentenceEnglish": "We are working together." },
-            "nous": { "form": "sommes en train de travailler", "english": "we are working", "sentence": "Nous sommes en train de travailler sur le rapport.", "sentenceEnglish": "We are working on the report." },
-            "vous": { "form": "êtes en train de travailler", "english": "you are working", "sentence": "Vous êtes en train de travailler tard?", "sentenceEnglish": "Are you working late?" },
-            "ils/elles": { "form": "sont en train de travailler", "english": "they are working", "sentence": "Ils sont en train de travailler au bureau.", "sentenceEnglish": "They are working at the office." }
+            "je": {
+              "form": "travaille",
+              "english": "I am working",
+              "sentence": "Je suis en train de travailler sur un projet.",
+              "sentenceEnglish": "I am working on a project."
+            },
+            "tu": {
+              "form": "travailles",
+              "english": "you are working",
+              "sentence": "Tu es en train de travailler?",
+              "sentenceEnglish": "Are you working?"
+            },
+            "il/elle": {
+              "form": "travaille",
+              "english": "he/she is working",
+              "sentence": "Elle est en train de travailler à la maison.",
+              "sentenceEnglish": "She is working at home."
+            },
+            "on": {
+              "form": "travaille",
+              "english": "we are working",
+              "sentence": "On est en train de travailler ensemble.",
+              "sentenceEnglish": "We are working together."
+            },
+            "nous": {
+              "form": "travaillons",
+              "english": "we are working",
+              "sentence": "Nous sommes en train de travailler sur le rapport.",
+              "sentenceEnglish": "We are working on the report."
+            },
+            "vous": {
+              "form": "travaillez",
+              "english": "you are working",
+              "sentence": "Vous êtes en train de travailler tard?",
+              "sentenceEnglish": "Are you working late?"
+            },
+            "ils/elles": {
+              "form": "travaillent",
+              "english": "they are working",
+              "sentence": "Ils sont en train de travailler au bureau.",
+              "sentenceEnglish": "They are working at the office."
+            }
           }
         }
       },
@@ -43,26 +114,96 @@
           "description": "Completed action in the past",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "ai travaillé", "english": "I worked / I have worked", "sentence": "J'ai travaillé toute la journée.", "sentenceEnglish": "I worked all day." },
-            "tu": { "form": "as travaillé", "english": "you worked / you have worked", "sentence": "Tu as travaillé hier?", "sentenceEnglish": "Did you work yesterday?" },
-            "il/elle": { "form": "a travaillé", "english": "he/she worked / has worked", "sentence": "Elle a travaillé dur.", "sentenceEnglish": "She worked hard." },
-            "on": { "form": "a travaillé", "english": "we worked / we have worked", "sentence": "On a travaillé ensemble.", "sentenceEnglish": "We worked together." },
-            "nous": { "form": "avons travaillé", "english": "we worked / we have worked", "sentence": "Nous avons travaillé tard.", "sentenceEnglish": "We worked late." },
-            "vous": { "form": "avez travaillé", "english": "you worked / you have worked", "sentence": "Vous avez travaillé combien d'heures?", "sentenceEnglish": "How many hours did you work?" },
-            "ils/elles": { "form": "ont travaillé", "english": "they worked / they have worked", "sentence": "Ils ont travaillé le weekend.", "sentenceEnglish": "They worked on the weekend." }
+            "je": {
+              "form": "ai travaillé",
+              "english": "I worked / I have worked",
+              "sentence": "J'ai travaillé toute la journée.",
+              "sentenceEnglish": "I worked all day."
+            },
+            "tu": {
+              "form": "as travaillé",
+              "english": "you worked / you have worked",
+              "sentence": "Tu as travaillé hier?",
+              "sentenceEnglish": "Did you work yesterday?"
+            },
+            "il/elle": {
+              "form": "a travaillé",
+              "english": "he/she worked / has worked",
+              "sentence": "Elle a travaillé dur.",
+              "sentenceEnglish": "She worked hard."
+            },
+            "on": {
+              "form": "a travaillé",
+              "english": "we worked / we have worked",
+              "sentence": "On a travaillé ensemble.",
+              "sentenceEnglish": "We worked together."
+            },
+            "nous": {
+              "form": "avons travaillé",
+              "english": "we worked / we have worked",
+              "sentence": "Nous avons travaillé tard.",
+              "sentenceEnglish": "We worked late."
+            },
+            "vous": {
+              "form": "avez travaillé",
+              "english": "you worked / you have worked",
+              "sentence": "Vous avez travaillé combien d'heures?",
+              "sentenceEnglish": "How many hours did you work?"
+            },
+            "ils/elles": {
+              "form": "ont travaillé",
+              "english": "they worked / they have worked",
+              "sentence": "Ils ont travaillé le weekend.",
+              "sentenceEnglish": "They worked on the weekend."
+            }
           }
         },
         "imparfait": {
           "name": "Imparfait",
           "description": "Habitual or ongoing past action",
           "forms": {
-            "je": { "form": "travaillais", "english": "I worked / I was working / I used to work", "sentence": "Je travaillais dans un restaurant.", "sentenceEnglish": "I used to work in a restaurant." },
-            "tu": { "form": "travaillais", "english": "you worked / you were working / you used to work", "sentence": "Tu travaillais où?", "sentenceEnglish": "Where did you work?" },
-            "il/elle": { "form": "travaillait", "english": "he/she worked / was working / used to work", "sentence": "Elle travaillait à Paris.", "sentenceEnglish": "She used to work in Paris." },
-            "on": { "form": "travaillait", "english": "we worked / we were working / we used to work", "sentence": "On travaillait ensemble.", "sentenceEnglish": "We used to work together." },
-            "nous": { "form": "travaillions", "english": "we worked / we were working / we used to work", "sentence": "Nous travaillions tous les jours.", "sentenceEnglish": "We used to work every day." },
-            "vous": { "form": "travailliez", "english": "you worked / you were working / you used to work", "sentence": "Vous travailliez le weekend?", "sentenceEnglish": "Did you work on weekends?" },
-            "ils/elles": { "form": "travaillaient", "english": "they worked / they were working / they used to work", "sentence": "Ils travaillaient dur.", "sentenceEnglish": "They used to work hard." }
+            "je": {
+              "form": "travaillais",
+              "english": "I worked / I was working / I used to work",
+              "sentence": "Je travaillais dans un restaurant.",
+              "sentenceEnglish": "I used to work in a restaurant."
+            },
+            "tu": {
+              "form": "travaillais",
+              "english": "you worked / you were working / you used to work",
+              "sentence": "Tu travaillais où?",
+              "sentenceEnglish": "Where did you work?"
+            },
+            "il/elle": {
+              "form": "travaillait",
+              "english": "he/she worked / was working / used to work",
+              "sentence": "Elle travaillait à Paris.",
+              "sentenceEnglish": "She used to work in Paris."
+            },
+            "on": {
+              "form": "travaillait",
+              "english": "we worked / we were working / we used to work",
+              "sentence": "On travaillait ensemble.",
+              "sentenceEnglish": "We used to work together."
+            },
+            "nous": {
+              "form": "travaillions",
+              "english": "we worked / we were working / we used to work",
+              "sentence": "Nous travaillions tous les jours.",
+              "sentenceEnglish": "We used to work every day."
+            },
+            "vous": {
+              "form": "travailliez",
+              "english": "you worked / you were working / you used to work",
+              "sentence": "Vous travailliez le weekend?",
+              "sentenceEnglish": "Did you work on weekends?"
+            },
+            "ils/elles": {
+              "form": "travaillaient",
+              "english": "they worked / they were working / they used to work",
+              "sentence": "Ils travaillaient dur.",
+              "sentenceEnglish": "They used to work hard."
+            }
           }
         },
         "plus-que-parfait": {
@@ -70,26 +211,96 @@
           "description": "Past perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "avais travaillé", "english": "I had worked", "sentence": "J'avais travaillé toute la journée.", "sentenceEnglish": "I had worked all day." },
-            "tu": { "form": "avais travaillé", "english": "you had worked", "sentence": "Tu avais travaillé où?", "sentenceEnglish": "Where had you worked?" },
-            "il/elle": { "form": "avait travaillé", "english": "he/she had worked", "sentence": "Elle avait travaillé dur.", "sentenceEnglish": "She had worked hard." },
-            "on": { "form": "avait travaillé", "english": "we had worked", "sentence": "On avait travaillé ensemble.", "sentenceEnglish": "We had worked together." },
-            "nous": { "form": "avions travaillé", "english": "we had worked", "sentence": "Nous avions travaillé tard.", "sentenceEnglish": "We had worked late." },
-            "vous": { "form": "aviez travaillé", "english": "you had worked", "sentence": "Vous aviez travaillé combien d'heures?", "sentenceEnglish": "How many hours had you worked?" },
-            "ils/elles": { "form": "avaient travaillé", "english": "they had worked", "sentence": "Ils avaient travaillé le weekend.", "sentenceEnglish": "They had worked on the weekend." }
+            "je": {
+              "form": "avais travaillé",
+              "english": "I had worked",
+              "sentence": "J'avais travaillé toute la journée.",
+              "sentenceEnglish": "I had worked all day."
+            },
+            "tu": {
+              "form": "avais travaillé",
+              "english": "you had worked",
+              "sentence": "Tu avais travaillé où?",
+              "sentenceEnglish": "Where had you worked?"
+            },
+            "il/elle": {
+              "form": "avait travaillé",
+              "english": "he/she had worked",
+              "sentence": "Elle avait travaillé dur.",
+              "sentenceEnglish": "She had worked hard."
+            },
+            "on": {
+              "form": "avait travaillé",
+              "english": "we had worked",
+              "sentence": "On avait travaillé ensemble.",
+              "sentenceEnglish": "We had worked together."
+            },
+            "nous": {
+              "form": "avions travaillé",
+              "english": "we had worked",
+              "sentence": "Nous avions travaillé tard.",
+              "sentenceEnglish": "We had worked late."
+            },
+            "vous": {
+              "form": "aviez travaillé",
+              "english": "you had worked",
+              "sentence": "Vous aviez travaillé combien d'heures?",
+              "sentenceEnglish": "How many hours had you worked?"
+            },
+            "ils/elles": {
+              "form": "avaient travaillé",
+              "english": "they had worked",
+              "sentence": "Ils avaient travaillé le weekend.",
+              "sentenceEnglish": "They had worked on the weekend."
+            }
           }
         },
         "simple": {
           "name": "Passé Simple",
           "description": "Literary past tense",
           "forms": {
-            "je": { "form": "travaillai", "english": "I worked", "sentence": "Je travaillai toute la nuit.", "sentenceEnglish": "I worked all night." },
-            "tu": { "form": "travaillas", "english": "you worked", "sentence": "Tu travaillas dur.", "sentenceEnglish": "You worked hard." },
-            "il/elle": { "form": "travailla", "english": "he/she worked", "sentence": "Il travailla sans relâche.", "sentenceEnglish": "He worked tirelessly." },
-            "on": { "form": "travailla", "english": "we worked", "sentence": "On travailla ensemble.", "sentenceEnglish": "We worked together." },
-            "nous": { "form": "travaillâmes", "english": "we worked", "sentence": "Nous travaillâmes toute la journée.", "sentenceEnglish": "We worked all day." },
-            "vous": { "form": "travaillâtes", "english": "you worked", "sentence": "Vous travaillâtes le weekend.", "sentenceEnglish": "You worked on the weekend." },
-            "ils/elles": { "form": "travaillèrent", "english": "they worked", "sentence": "Ils travaillèrent dans les champs.", "sentenceEnglish": "They worked in the fields." }
+            "je": {
+              "form": "travaillai",
+              "english": "I worked",
+              "sentence": "Je travaillai toute la nuit.",
+              "sentenceEnglish": "I worked all night."
+            },
+            "tu": {
+              "form": "travaillas",
+              "english": "you worked",
+              "sentence": "Tu travaillas dur.",
+              "sentenceEnglish": "You worked hard."
+            },
+            "il/elle": {
+              "form": "travailla",
+              "english": "he/she worked",
+              "sentence": "Il travailla sans relâche.",
+              "sentenceEnglish": "He worked tirelessly."
+            },
+            "on": {
+              "form": "travailla",
+              "english": "we worked",
+              "sentence": "On travailla ensemble.",
+              "sentenceEnglish": "We worked together."
+            },
+            "nous": {
+              "form": "travaillâmes",
+              "english": "we worked",
+              "sentence": "Nous travaillâmes toute la journée.",
+              "sentenceEnglish": "We worked all day."
+            },
+            "vous": {
+              "form": "travaillâtes",
+              "english": "you worked",
+              "sentence": "Vous travaillâtes le weekend.",
+              "sentenceEnglish": "You worked on the weekend."
+            },
+            "ils/elles": {
+              "form": "travaillèrent",
+              "english": "they worked",
+              "sentence": "Ils travaillèrent dans les champs.",
+              "sentenceEnglish": "They worked in the fields."
+            }
           }
         }
       },
@@ -102,26 +313,96 @@
           "name": "Futur Simple",
           "description": "Simple future tense",
           "forms": {
-            "je": { "form": "travaillerai", "english": "I will work", "sentence": "Je travaillerai demain.", "sentenceEnglish": "I will work tomorrow." },
-            "tu": { "form": "travailleras", "english": "you will work", "sentence": "Tu travailleras ce weekend?", "sentenceEnglish": "Will you work this weekend?" },
-            "il/elle": { "form": "travaillera", "english": "he/she will work", "sentence": "Il travaillera à Paris.", "sentenceEnglish": "He will work in Paris." },
-            "on": { "form": "travaillera", "english": "we will work", "sentence": "On travaillera ensemble.", "sentenceEnglish": "We will work together." },
-            "nous": { "form": "travaillerons", "english": "we will work", "sentence": "Nous travaillerons dur.", "sentenceEnglish": "We will work hard." },
-            "vous": { "form": "travaillerez", "english": "you will work", "sentence": "Vous travaillerez combien d'heures?", "sentenceEnglish": "How many hours will you work?" },
-            "ils/elles": { "form": "travailleront", "english": "they will work", "sentence": "Elles travailleront au bureau.", "sentenceEnglish": "They will work at the office." }
+            "je": {
+              "form": "travaillerai",
+              "english": "I will work",
+              "sentence": "Je travaillerai demain.",
+              "sentenceEnglish": "I will work tomorrow."
+            },
+            "tu": {
+              "form": "travailleras",
+              "english": "you will work",
+              "sentence": "Tu travailleras ce weekend?",
+              "sentenceEnglish": "Will you work this weekend?"
+            },
+            "il/elle": {
+              "form": "travaillera",
+              "english": "he/she will work",
+              "sentence": "Il travaillera à Paris.",
+              "sentenceEnglish": "He will work in Paris."
+            },
+            "on": {
+              "form": "travaillera",
+              "english": "we will work",
+              "sentence": "On travaillera ensemble.",
+              "sentenceEnglish": "We will work together."
+            },
+            "nous": {
+              "form": "travaillerons",
+              "english": "we will work",
+              "sentence": "Nous travaillerons dur.",
+              "sentenceEnglish": "We will work hard."
+            },
+            "vous": {
+              "form": "travaillerez",
+              "english": "you will work",
+              "sentence": "Vous travaillerez combien d'heures?",
+              "sentenceEnglish": "How many hours will you work?"
+            },
+            "ils/elles": {
+              "form": "travailleront",
+              "english": "they will work",
+              "sentence": "Elles travailleront au bureau.",
+              "sentenceEnglish": "They will work at the office."
+            }
           }
         },
         "proche": {
           "name": "Futur Proche",
           "description": "Near future tense",
           "forms": {
-            "je": { "form": "vais travailler", "english": "I am going to work", "sentence": "Je vais travailler demain.", "sentenceEnglish": "I am going to work tomorrow." },
-            "tu": { "form": "vas travailler", "english": "you are going to work", "sentence": "Tu vas travailler où?", "sentenceEnglish": "Where are you going to work?" },
-            "il/elle": { "form": "va travailler", "english": "he/she is going to work", "sentence": "Elle va travailler à la maison.", "sentenceEnglish": "She is going to work at home." },
-            "on": { "form": "va travailler", "english": "we are going to work", "sentence": "On va travailler ensemble.", "sentenceEnglish": "We are going to work together." },
-            "nous": { "form": "allons travailler", "english": "we are going to work", "sentence": "Nous allons travailler tard.", "sentenceEnglish": "We are going to work late." },
-            "vous": { "form": "allez travailler", "english": "you are going to work", "sentence": "Vous allez travailler ce weekend?", "sentenceEnglish": "Are you going to work this weekend?" },
-            "ils/elles": { "form": "vont travailler", "english": "they are going to work", "sentence": "Ils vont travailler dur.", "sentenceEnglish": "They are going to work hard." }
+            "je": {
+              "form": "travaillerai",
+              "english": "I am going to work",
+              "sentence": "Je vais travailler demain.",
+              "sentenceEnglish": "I am going to work tomorrow."
+            },
+            "tu": {
+              "form": "travailleras",
+              "english": "you are going to work",
+              "sentence": "Tu vas travailler où?",
+              "sentenceEnglish": "Where are you going to work?"
+            },
+            "il/elle": {
+              "form": "travaillera",
+              "english": "he/she is going to work",
+              "sentence": "Elle va travailler à la maison.",
+              "sentenceEnglish": "She is going to work at home."
+            },
+            "on": {
+              "form": "travaillera",
+              "english": "we are going to work",
+              "sentence": "On va travailler ensemble.",
+              "sentenceEnglish": "We are going to work together."
+            },
+            "nous": {
+              "form": "travaillerons",
+              "english": "we are going to work",
+              "sentence": "Nous allons travailler tard.",
+              "sentenceEnglish": "We are going to work late."
+            },
+            "vous": {
+              "form": "travaillerez",
+              "english": "you are going to work",
+              "sentence": "Vous allez travailler ce weekend?",
+              "sentenceEnglish": "Are you going to work this weekend?"
+            },
+            "ils/elles": {
+              "form": "travailleront",
+              "english": "they are going to work",
+              "sentence": "Ils vont travailler dur.",
+              "sentenceEnglish": "They are going to work hard."
+            }
           }
         },
         "antérieur": {
@@ -129,13 +410,48 @@
           "description": "Future perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "aurai travaillé", "english": "I will have worked", "sentence": "J'aurai travaillé huit heures.", "sentenceEnglish": "I will have worked eight hours." },
-            "tu": { "form": "auras travaillé", "english": "you will have worked", "sentence": "Tu auras travaillé où?", "sentenceEnglish": "Where will you have worked?" },
-            "il/elle": { "form": "aura travaillé", "english": "he/she will have worked", "sentence": "Elle aura travaillé toute la journée.", "sentenceEnglish": "She will have worked all day." },
-            "on": { "form": "aura travaillé", "english": "we will have worked", "sentence": "On aura travaillé ensemble.", "sentenceEnglish": "We will have worked together." },
-            "nous": { "form": "aurons travaillé", "english": "we will have worked", "sentence": "Nous aurons travaillé dur.", "sentenceEnglish": "We will have worked hard." },
-            "vous": { "form": "aurez travaillé", "english": "you will have worked", "sentence": "Vous aurez travaillé combien d'heures?", "sentenceEnglish": "How many hours will you have worked?" },
-            "ils/elles": { "form": "auront travaillé", "english": "they will have worked", "sentence": "Ils auront travaillé le weekend.", "sentenceEnglish": "They will have worked on the weekend." }
+            "je": {
+              "form": "aurai travaillé",
+              "english": "I will have worked",
+              "sentence": "J'aurai travaillé huit heures.",
+              "sentenceEnglish": "I will have worked eight hours."
+            },
+            "tu": {
+              "form": "auras travaillé",
+              "english": "you will have worked",
+              "sentence": "Tu auras travaillé où?",
+              "sentenceEnglish": "Where will you have worked?"
+            },
+            "il/elle": {
+              "form": "aura travaillé",
+              "english": "he/she will have worked",
+              "sentence": "Elle aura travaillé toute la journée.",
+              "sentenceEnglish": "She will have worked all day."
+            },
+            "on": {
+              "form": "aura travaillé",
+              "english": "we will have worked",
+              "sentence": "On aura travaillé ensemble.",
+              "sentenceEnglish": "We will have worked together."
+            },
+            "nous": {
+              "form": "aurons travaillé",
+              "english": "we will have worked",
+              "sentence": "Nous aurons travaillé dur.",
+              "sentenceEnglish": "We will have worked hard."
+            },
+            "vous": {
+              "form": "aurez travaillé",
+              "english": "you will have worked",
+              "sentence": "Vous aurez travaillé combien d'heures?",
+              "sentenceEnglish": "How many hours will you have worked?"
+            },
+            "ils/elles": {
+              "form": "auront travaillé",
+              "english": "they will have worked",
+              "sentence": "Ils auront travaillé le weekend.",
+              "sentenceEnglish": "They will have worked on the weekend."
+            }
           }
         }
       },

@@ -5,6 +5,7 @@
         "masculinPlural": "chauds",
         "femininPlural": "chaudes",
         "english": "hot, warm",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -13,14 +14,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un café chaud",
-                "english": "a hot coffee"
-            },
-            {
-                "french": "une journée chaude",
-                "english": "a hot day"
-            }
+            { "french": "un café chaud", "english": "a hot coffee" },
+            { "french": "une journée chaude", "english": "a hot day" },
+            { "french": "une soupe chaude", "english": "a hot soup" },
+            { "french": "un manteau chaud", "english": "a warm coat" },
+            { "french": "une tasse chaude", "english": "a warm cup" },
+            { "french": "de l'eau chaude", "english": "hot water" },
+            { "french": "un soleil chaud", "english": "a warm sun" },
+            { "french": "des mains chaudes", "english": "warm hands" },
+            { "french": "un repas chaud", "english": "a hot meal" },
+            { "french": "un feu chaud", "english": "a warm fire" }
         ],
         "image": null
     },
@@ -30,6 +33,7 @@
         "masculinPlural": "froids",
         "femininPlural": "froides",
         "english": "cold",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -38,14 +42,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un vent froid",
-                "english": "a cold wind"
-            },
-            {
-                "french": "une boisson froide",
-                "english": "a cold drink"
-            }
+            { "french": "un vent froid", "english": "a cold wind" },
+            { "french": "une boisson froide", "english": "a cold drink" },
+            { "french": "une nuit froide", "english": "a cold night" },
+            { "french": "de l'eau froide", "english": "cold water" },
+            { "french": "un hiver froid", "english": "a cold winter" },
+            { "french": "un sol froid", "english": "a cold floor" },
+            { "french": "des mains froides", "english": "cold hands" },
+            { "french": "une pièce froide", "english": "a cold room" },
+            { "french": "un matin froid", "english": "a cold morning" },
+            { "french": "une boisson très froide", "english": "a very cold drink" }
         ],
         "image": null
     },
@@ -55,6 +61,7 @@
         "masculinPlural": "rapides",
         "femininPlural": "rapides",
         "english": "fast, quick",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -63,14 +70,16 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un train rapide",
-                "english": "a fast train"
-            },
-            {
-                "french": "une voiture rapide",
-                "english": "a fast car"
-            }
+            { "french": "un train rapide", "english": "a fast train" },
+            { "french": "une voiture rapide", "english": "a fast car" },
+            { "french": "un coureur rapide", "english": "a fast runner" },
+            { "french": "un service rapide", "english": "a quick service" },
+            { "french": "une réponse rapide", "english": "a quick reply" },
+            { "french": "une croissance rapide", "english": "rapid growth" },
+            { "french": "un internet rapide", "english": "fast internet" },
+            { "french": "un bateau rapide", "english": "a fast boat" },
+            { "french": "un oiseau rapide", "english": "a swift bird" },
+            { "french": "une décision rapide", "english": "a quick decision" }
         ],
         "image": null
     },
@@ -80,6 +89,7 @@
         "masculinPlural": "lents",
         "femininPlural": "lentes",
         "english": "slow",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -88,14 +98,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un escargot lent",
-                "english": "a slow snail"
-            },
-            {
-                "french": "une progression lente",
-                "english": "a slow progression"
-            }
+            { "french": "un escargot lent", "english": "a slow snail" },
+            { "french": "une progression lente", "english": "a slow progression" },
+            { "french": "une voiture lente", "english": "a slow car" },
+            { "french": "un pas lent", "english": "a slow step" },
+            { "french": "une respiration lente", "english": "slow breathing" },
+            { "french": "un rythme lent", "english": "a slow rhythm" },
+            { "french": "un film lent", "english": "a slow movie" },
+            { "french": "un ordinateur lent", "english": "a slow computer" },
+            { "french": "une marche lente", "english": "a slow walk" },
+            { "french": "une cuisson lente", "english": "slow cooking" }
         ],
         "image": null
     },
@@ -105,6 +117,7 @@
         "masculinPlural": "forts",
         "femininPlural": "fortes",
         "english": "strong",
+        "cefr": "A2",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -113,14 +126,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un homme fort",
-                "english": "a strong man"
-            },
-            {
-                "french": "une odeur forte",
-                "english": "a strong smell"
-            }
+            { "french": "un homme fort", "english": "a strong man" },
+            { "french": "une odeur forte", "english": "a strong smell" },
+            { "french": "un vent fort", "english": "a strong wind" },
+            { "french": "une voix forte", "english": "a loud voice" },
+            { "french": "une pluie forte", "english": "heavy rain" },
+            { "french": "un café fort", "english": "strong coffee" },
+            { "french": "une lumière forte", "english": "bright light" },
+            { "french": "une augmentation forte", "english": "a sharp increase" },
+            { "french": "un coup fort", "english": "a strong blow" },
+            { "french": "un muscle fort", "english": "a strong muscle" }
         ],
         "image": null
     },
@@ -130,6 +145,7 @@
         "masculinPlural": "faibles",
         "femininPlural": "faibles",
         "english": "weak",
+        "cefr": "A2",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -138,14 +154,16 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un signal faible",
-                "english": "a weak signal"
-            },
-            {
-                "french": "une lumière faible",
-                "english": "a weak light"
-            }
+            { "french": "un signal faible", "english": "a weak signal" },
+            { "french": "une lumière faible", "english": "a weak light" },
+            { "french": "une énergie faible", "english": "low energy" },
+            { "french": "une voix faible", "english": "a weak voice" },
+            { "french": "un goût faible", "english": "a faint taste" },
+            { "french": "un effet faible", "english": "a weak effect" },
+            { "french": "une économie faible", "english": "a weak economy" },
+            { "french": "un courant faible", "english": "a low current" },
+            { "french": "une réponse faible", "english": "a weak response" },
+            { "french": "une performance faible", "english": "a poor performance" }
         ],
         "image": null
     },
@@ -155,6 +173,7 @@
         "masculinPlural": "faciles",
         "femininPlural": "faciles",
         "english": "easy",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -163,14 +182,16 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un exercice facile",
-                "english": "an easy exercise"
-            },
-            {
-                "french": "une question facile",
-                "english": "an easy question"
-            }
+            { "french": "un exercice facile", "english": "an easy exercise" },
+            { "french": "une question facile", "english": "an easy question" },
+            { "french": "un livre facile", "english": "an easy book" },
+            { "french": "une tâche facile", "english": "an easy task" },
+            { "french": "une recette facile", "english": "an easy recipe" },
+            { "french": "un test facile", "english": "an easy test" },
+            { "french": "une solution facile", "english": "an easy solution" },
+            { "french": "une promenade facile", "english": "an easy walk" },
+            { "french": "un jeu facile", "english": "an easy game" },
+            { "french": "un exercice très facile", "english": "a very easy exercise" }
         ],
         "image": null
     },
@@ -180,6 +201,7 @@
         "masculinPlural": "difficiles",
         "femininPlural": "difficiles",
         "english": "difficult, hard",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -188,14 +210,16 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un problème difficile",
-                "english": "a difficult problem"
-            },
-            {
-                "french": "une situation difficile",
-                "english": "a difficult situation"
-            }
+            { "french": "un problème difficile", "english": "a difficult problem" },
+            { "french": "une situation difficile", "english": "a difficult situation" },
+            { "french": "un examen difficile", "english": "a difficult exam" },
+            { "french": "une décision difficile", "english": "a hard decision" },
+            { "french": "une tâche difficile", "english": "a difficult task" },
+            { "french": "une conversation difficile", "english": "a difficult conversation" },
+            { "french": "apprendre est difficile", "english": "learning is difficult" },
+            { "french": "un chemin difficile", "english": "a difficult path" },
+            { "french": "une épreuve difficile", "english": "a tough challenge" },
+            { "french": "un exercice difficile", "english": "a hard exercise" }
         ],
         "image": null
     },
@@ -205,6 +229,7 @@
         "masculinPlural": "heureux",
         "femininPlural": "heureuses",
         "english": "happy",
+        "cefr": "A1",
         "position": "après",
         "irregular": true,
         "formChanges": {
@@ -213,14 +238,16 @@
             "femPlur": "heureuses"
         },
         "examples": [
-            {
-                "french": "un enfant heureux",
-                "english": "a happy child"
-            },
-            {
-                "french": "une famille heureuse",
-                "english": "a happy family"
-            }
+            { "french": "un enfant heureux", "english": "a happy child" },
+            { "french": "une famille heureuse", "english": "a happy family" },
+            { "french": "un couple heureux", "english": "a happy couple" },
+            { "french": "une fin heureuse", "english": "a happy ending" },
+            { "french": "un gagnant heureux", "english": "a happy winner" },
+            { "french": "un visage heureux", "english": "a happy face" },
+            { "french": "une journée heureuse", "english": "a happy day" },
+            { "french": "un souvenir heureux", "english": "a happy memory" },
+            { "french": "un mariage heureux", "english": "a happy wedding" },
+            { "french": "être heureux au travail", "english": "to be happy at work" }
         ],
         "image": null
     },
@@ -230,6 +257,7 @@
         "masculinPlural": "tristes",
         "femininPlural": "tristes",
         "english": "sad",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -238,14 +266,16 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un film triste",
-                "english": "a sad movie"
-            },
-            {
-                "french": "une histoire triste",
-                "english": "a sad story"
-            }
+            { "french": "un film triste", "english": "a sad movie" },
+            { "french": "une histoire triste", "english": "a sad story" },
+            { "french": "une chanson triste", "english": "a sad song" },
+            { "french": "un visage triste", "english": "a sad face" },
+            { "french": "une nouvelle triste", "english": "sad news" },
+            { "french": "se sentir triste", "english": "to feel sad" },
+            { "french": "une journée triste", "english": "a sad day" },
+            { "french": "une lettre triste", "english": "a sad letter" },
+            { "french": "un livre triste", "english": "a sad book" },
+            { "french": "une musique triste", "english": "sad music" }
         ],
         "image": null
     },
@@ -255,6 +285,7 @@
         "masculinPlural": "intelligents",
         "femininPlural": "intelligentes",
         "english": "intelligent, smart",
+        "cefr": "A2",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -263,14 +294,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un étudiant intelligent",
-                "english": "a smart student"
-            },
-            {
-                "french": "une réponse intelligente",
-                "english": "an intelligent answer"
-            }
+            { "french": "un étudiant intelligent", "english": "a smart student" },
+            { "french": "une réponse intelligente", "english": "an intelligent answer" },
+            { "french": "une idée intelligente", "english": "a clever idea" },
+            { "french": "un appareil intelligent", "english": "a smart device" },
+            { "french": "un robot intelligent", "english": "an intelligent robot" },
+            { "french": "une solution intelligente", "english": "a smart solution" },
+            { "french": "un élève intelligent", "english": "a bright pupil" },
+            { "french": "une observation intelligente", "english": "an insightful observation" },
+            { "french": "un projet intelligent", "english": "a clever project" },
+            { "french": "une décision intelligente", "english": "an intelligent decision" }
         ],
         "image": null
     },
@@ -280,6 +313,7 @@
         "masculinPlural": "stupides",
         "femininPlural": "stupides",
         "english": "stupid",
+        "cefr": "B1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -288,14 +322,16 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un commentaire stupide",
-                "english": "a stupid comment"
-            },
-            {
-                "french": "une erreur stupide",
-                "english": "a stupid mistake"
-            }
+            { "french": "un commentaire stupide", "english": "a stupid comment" },
+            { "french": "une erreur stupide", "english": "a stupid mistake" },
+            { "french": "une décision stupide", "english": "a foolish decision" },
+            { "french": "un geste stupide", "english": "a silly gesture" },
+            { "french": "une remarque stupide", "english": "a stupid remark" },
+            { "french": "une idée stupide", "english": "a stupid idea" },
+            { "french": "un comportement stupide", "english": "a stupid behaviour" },
+            { "french": "une blague stupide", "english": "a dumb joke" },
+            { "french": "une question stupide", "english": "a silly question" },
+            { "french": "un choix stupide", "english": "a stupid choice" }
         ],
         "image": null
     },
@@ -305,6 +341,7 @@
         "masculinPlural": "riches",
         "femininPlural": "riches",
         "english": "rich",
+        "cefr": "A2",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -313,14 +350,16 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un homme riche",
-                "english": "a rich man"
-            },
-            {
-                "french": "une famille riche",
-                "english": "a rich family"
-            }
+            { "french": "un homme riche", "english": "a rich man" },
+            { "french": "une famille riche", "english": "a rich family" },
+            { "french": "une ville riche", "english": "a wealthy city" },
+            { "french": "un pays riche", "english": "a rich country" },
+            { "french": "un héritage riche", "english": "a large inheritance" },
+            { "french": "une culture riche", "english": "a rich culture" },
+            { "french": "un sol riche", "english": "a fertile soil" },
+            { "french": "une imagination riche", "english": "a rich imagination" },
+            { "french": "un repas riche", "english": "a rich meal" },
+            { "french": "une entreprise riche", "english": "a wealthy company" }
         ],
         "image": null
     },
@@ -330,6 +369,7 @@
         "masculinPlural": "pauvres",
         "femininPlural": "pauvres",
         "english": "poor",
+        "cefr": "A2",
         "position": "both",
         "irregular": false,
         "formChanges": {
@@ -338,14 +378,16 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un pauvre homme (pitiful)",
-                "english": "a poor man (pitiful)"
-            },
-            {
-                "french": "un homme pauvre (not rich)",
-                "english": "a poor man (not rich)"
-            }
+            { "french": "un pauvre homme", "english": "a poor man (pitiful)" },
+            { "french": "un homme pauvre", "english": "a poor man (not rich)" },
+            { "french": "une région pauvre", "english": "a poor region" },
+            { "french": "un village pauvre", "english": "a poor village" },
+            { "french": "une famille pauvre", "english": "a poor family" },
+            { "french": "un pays pauvre", "english": "a poor country" },
+            { "french": "des enfants pauvres", "english": "poor children" },
+            { "french": "des conditions de vie pauvres", "english": "poor living conditions" },
+            { "french": "un sol pauvre", "english": "infertile soil" },
+            { "french": "une économie pauvre", "english": "a weak economy" }
         ],
         "image": null
     },
@@ -355,6 +397,7 @@
         "masculinPlural": "propres",
         "femininPlural": "propres",
         "english": "clean / own",
+        "cefr": "A2",
         "position": "both",
         "irregular": false,
         "formChanges": {
@@ -363,14 +406,16 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "ma propre maison (my own house)",
-                "english": "my own house"
-            },
-            {
-                "french": "une maison propre (a clean house)",
-                "english": "a clean house"
-            }
+            { "french": "ma propre maison", "english": "my own house" },
+            { "french": "une maison propre", "english": "a clean house" },
+            { "french": "mes propres affaires", "english": "my own things" },
+            { "french": "des vêtements propres", "english": "clean clothes" },
+            { "french": "une cuisine propre", "english": "a clean kitchen" },
+            { "french": "des mains propres", "english": "clean hands" },
+            { "french": "une chambre propre", "english": "a tidy room" },
+            { "french": "une voiture propre", "english": "a clean car" },
+            { "french": "un sol propre", "english": "a clean floor" },
+            { "french": "des draps propres", "english": "clean sheets" }
         ],
         "image": null
     },
@@ -380,6 +425,7 @@
         "masculinPlural": "sales",
         "femininPlural": "sales",
         "english": "dirty",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -388,14 +434,16 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un vêtement sale",
-                "english": "a dirty garment"
-            },
-            {
-                "french": "une assiette sale",
-                "english": "a dirty plate"
-            }
+            { "french": "un vêtement sale", "english": "a dirty garment" },
+            { "french": "une assiette sale", "english": "a dirty plate" },
+            { "french": "des mains sales", "english": "dirty hands" },
+            { "french": "une rue sale", "english": "a dirty street" },
+            { "french": "une cuisine sale", "english": "a dirty kitchen" },
+            { "french": "une voiture sale", "english": "a dirty car" },
+            { "french": "des chaussures sales", "english": "dirty shoes" },
+            { "french": "une maison sale", "english": "a dirty house" },
+            { "french": "une main sale", "english": "a dirty hand" },
+            { "french": "des draps sales", "english": "dirty sheets" }
         ],
         "image": null
     },
@@ -405,6 +453,7 @@
         "masculinPlural": "chers",
         "femininPlural": "chères",
         "english": "expensive / dear",
+        "cefr": "A1",
         "position": "both",
         "irregular": true,
         "formChanges": {
@@ -413,14 +462,16 @@
             "femPlur": "chères"
         },
         "examples": [
-            {
-                "french": "mon cher ami (my dear friend)",
-                "english": "my dear friend"
-            },
-            {
-                "french": "un restaurant cher (an expensive restaurant)",
-                "english": "an expensive restaurant"
-            }
+            { "french": "mon cher ami", "english": "my dear friend" },
+            { "french": "un restaurant cher", "english": "an expensive restaurant" },
+            { "french": "une montre chère", "english": "an expensive watch" },
+            { "french": "une robe chère", "english": "an expensive dress" },
+            { "french": "un hôtel cher", "english": "an expensive hotel" },
+            { "french": "un cadeau cher", "english": "a dear/expensive gift" },
+            { "french": "un restaurant trop cher", "english": "a too expensive restaurant" },
+            { "french": "un produit cher", "english": "an expensive product" },
+            { "french": "une voiture chère", "english": "an expensive car" },
+            { "french": "un prix cher", "english": "a high price" }
         ],
         "image": null
     },
@@ -430,6 +481,7 @@
         "masculinPlural": "contents",
         "femininPlural": "contentes",
         "english": "happy, pleased",
+        "cefr": "A2",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -438,14 +490,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un enfant content",
-                "english": "a happy child"
-            },
-            {
-                "french": "une cliente contente",
-                "english": "a pleased customer"
-            }
+            { "french": "un enfant content", "english": "a happy child" },
+            { "french": "une cliente contente", "english": "a pleased customer" },
+            { "french": "un client content", "english": "a satisfied customer" },
+            { "french": "une équipe contente", "english": "a happy team" },
+            { "french": "une mère contente", "english": "a pleased mother" },
+            { "french": "les élèves sont contents", "english": "the students are happy" },
+            { "french": "je suis content", "english": "I am pleased" },
+            { "french": "il est content de son travail", "english": "he is happy with his work" },
+            { "french": "elle est contente", "english": "she is happy" },
+            { "french": "tout le monde est content", "english": "everyone is happy" }
         ],
         "image": null
     },
@@ -455,6 +509,7 @@
         "masculinPlural": "curieux",
         "femininPlural": "curieuses",
         "english": "curious",
+        "cefr": "A2",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -463,14 +518,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un chat curieux",
-                "english": "a curious cat"
-            },
-            {
-                "french": "une question curieuse",
-                "english": "a curious question"
-            }
+            { "french": "un chat curieux", "english": "a curious cat" },
+            { "french": "une question curieuse", "english": "a curious question" },
+            { "french": "un enfant curieux", "english": "a curious child" },
+            { "french": "une personne curieuse", "english": "a curious person" },
+            { "french": "un regard curieux", "english": "a curious look" },
+            { "french": "un objet curieux", "english": "a curious object" },
+            { "french": "un comportement curieux", "english": "a curious behaviour" },
+            { "french": "être curieux de savoir", "english": "to be curious to know" },
+            { "french": "une expression curieuse", "english": "a curious expression" },
+            { "french": "des questions curieuses", "english": "curious questions" }
         ],
         "image": null
     },
@@ -480,6 +537,7 @@
         "masculinPlural": "gentils",
         "femininPlural": "gentilles",
         "english": "kind, nice",
+        "cefr": "A1",
         "position": "après",
         "irregular": true,
         "formChanges": {
@@ -488,14 +546,16 @@
             "femPlur": "gentilles"
         },
         "examples": [
-            {
-                "french": "un homme gentil",
-                "english": "a kind man"
-            },
-            {
-                "french": "une fille gentille",
-                "english": "a nice girl"
-            }
+            { "french": "un homme gentil", "english": "a kind man" },
+            { "french": "une fille gentille", "english": "a nice girl" },
+            { "french": "un garçon gentil", "english": "a kind boy" },
+            { "french": "une voisine gentille", "english": "a nice neighbor" },
+            { "french": "un geste gentil", "english": "a kind gesture" },
+            { "french": "un mot gentil", "english": "a kind word" },
+            { "french": "une action gentille", "english": "a kind action" },
+            { "french": "une personne gentille", "english": "a gentle person" },
+            { "french": "un sourire gentil", "english": "a kind smile" },
+            { "french": "des paroles gentilles", "english": "kind words" }
         ],
         "image": null
     },
@@ -505,6 +565,7 @@
         "masculinPlural": "gourmands",
         "femininPlural": "gourmandes",
         "english": "greedy (for food), food-loving",
+        "cefr": "B1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -513,14 +574,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un lapin gourmand",
-                "english": "a greedy rabbit"
-            },
-            {
-                "french": "une personne gourmande",
-                "english": "a food-loving person"
-            }
+            { "french": "un lapin gourmand", "english": "a greedy rabbit" },
+            { "french": "une personne gourmande", "english": "a food-loving person" },
+            { "french": "un enfant gourmand", "english": "a child who loves food" },
+            { "french": "un goûter gourmand", "english": "a gourmet snack" },
+            { "french": "des desserts gourmands", "english": "rich desserts" },
+            { "french": "une pâtisserie gourmande", "english": "a tasty pastry" },
+            { "french": "un appétit gourmand", "english": "a hearty appetite" },
+            { "french": "un plat gourmand", "english": "a indulgent dish" },
+            { "french": "des saveurs gourmandes", "english": "gourmet flavours" },
+            { "french": "un amateur gourmand", "english": "a foodie" }
         ],
         "image": null
     },
@@ -530,6 +593,7 @@
         "masculinPlural": "frais",
         "femininPlural": "fraîches",
         "english": "fresh, cool",
+        "cefr": "A2",
         "position": "après",
         "irregular": true,
         "formChanges": {
@@ -538,14 +602,16 @@
             "femPlur": "fraîches"
         },
         "examples": [
-            {
-                "french": "du pain frais",
-                "english": "fresh bread"
-            },
-            {
-                "french": "une brise fraîche",
-                "english": "a cool breeze"
-            }
+            { "french": "du pain frais", "english": "fresh bread" },
+            { "french": "une brise fraîche", "english": "a cool breeze" },
+            { "french": "des fruits frais", "english": "fresh fruits" },
+            { "french": "des légumes frais", "english": "fresh vegetables" },
+            { "french": "une salade fraîche", "english": "a fresh salad" },
+            { "french": "de l'air frais", "english": "fresh air" },
+            { "french": "une eau fraîche", "english": "cool water" },
+            { "french": "un matin frais", "english": "a fresh morning" },
+            { "french": "une odeur fraîche", "english": "a fresh smell" },
+            { "french": "de la viande fraîche", "english": "fresh meat" }
         ],
         "image": null
     },
@@ -555,6 +621,7 @@
         "masculinPlural": "délicieux",
         "femininPlural": "délicieuses",
         "english": "delicious",
+        "cefr": "A2",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -563,14 +630,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un gâteau délicieux",
-                "english": "a delicious cake"
-            },
-            {
-                "french": "une soupe délicieuse",
-                "english": "a delicious soup"
-            }
+            { "french": "un gâteau délicieux", "english": "a delicious cake" },
+            { "french": "une soupe délicieuse", "english": "a delicious soup" },
+            { "french": "un plat délicieux", "english": "a delicious dish" },
+            { "french": "un dessert délicieux", "english": "a tasty dessert" },
+            { "french": "une cuisine délicieuse", "english": "delicious cooking" },
+            { "french": "un biscuit délicieux", "english": "a delicious biscuit" },
+            { "french": "des fruits délicieux", "english": "delicious fruits" },
+            { "french": "un repas délicieux", "english": "a delightful meal" },
+            { "french": "une tarte délicieuse", "english": "a delicious pie" },
+            { "french": "un parfum délicieux", "english": "a delightful scent" }
         ],
         "image": null
     },
@@ -580,6 +649,7 @@
         "masculinPlural": "lourds",
         "femininPlural": "lourdes",
         "english": "heavy",
+        "cefr": "A2",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -588,14 +658,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un sac lourd",
-                "english": "a heavy bag"
-            },
-            {
-                "french": "une valise lourde",
-                "english": "a heavy suitcase"
-            }
+            { "french": "un sac lourd", "english": "a heavy bag" },
+            { "french": "une valise lourde", "english": "a heavy suitcase" },
+            { "french": "un colis lourd", "english": "a heavy parcel" },
+            { "french": "une porte lourde", "english": "a heavy door" },
+            { "french": "une masse lourde", "english": "a heavy mass" },
+            { "french": "un camion lourd", "english": "a heavy truck" },
+            { "french": "une charge lourde", "english": "a heavy load" },
+            { "french": "un meuble lourd", "english": "a heavy piece of furniture" },
+            { "french": "un sac très lourd", "english": "a very heavy bag" },
+            { "french": "une responsabilité lourde", "english": "a heavy responsibility" }
         ],
         "image": null
     },
@@ -605,6 +677,7 @@
         "masculinPlural": "brillants",
         "femininPlural": "brillantes",
         "english": "shiny, brilliant",
+        "cefr": "B1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -613,14 +686,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un diamant brillant",
-                "english": "a brilliant diamond"
-            },
-            {
-                "french": "une étoile brillante",
-                "english": "a shiny star"
-            }
+            { "french": "un diamant brillant", "english": "a brilliant diamond" },
+            { "french": "une étoile brillante", "english": "a shiny star" },
+            { "french": "un élève brillant", "english": "a brilliant student" },
+            { "french": "une idée brillante", "english": "a brilliant idea" },
+            { "french": "un succès brillant", "english": "a brilliant success" },
+            { "french": "une surface brillante", "english": "a shiny surface" },
+            { "french": "un métal brillant", "english": "a bright metal" },
+            { "french": "une carrière brillante", "english": "a brilliant career" },
+            { "french": "un sourire brillant", "english": "a bright smile" },
+            { "french": "une lumière brillante", "english": "a bright light" }
         ],
         "image": null
     },
@@ -630,6 +705,7 @@
         "masculinPlural": "croustillants",
         "femininPlural": "croustillantes",
         "english": "crispy, crusty",
+        "cefr": "B1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -638,14 +714,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "du pain croustillant",
-                "english": "crispy bread"
-            },
-            {
-                "french": "une baguette croustillante",
-                "english": "a crusty baguette"
-            }
+            { "french": "du pain croustillant", "english": "crispy bread" },
+            { "french": "une baguette croustillante", "english": "a crusty baguette" },
+            { "french": "un poulet croustillant", "english": "crispy chicken" },
+            { "french": "un biscuit croustillant", "english": "a crunchy biscuit" },
+            { "french": "des chips croustillantes", "english": "crispy chips" },
+            { "french": "une croûte croustillante", "english": "a crispy crust" },
+            { "french": "une texture croustillante", "english": "a crunchy texture" },
+            { "french": "des légumes croustillants", "english": "crispy vegetables" },
+            { "french": "un plat croustillant", "english": "a crispy dish" },
+            { "french": "un en-cas croustillant", "english": "a crunchy snack" }
         ],
         "image": null
     },
@@ -655,6 +733,7 @@
         "masculinPlural": "joyeux",
         "femininPlural": "joyeuses",
         "english": "joyful, merry",
+        "cefr": "A2",
         "position": "après",
         "irregular": true,
         "formChanges": {
@@ -663,14 +742,16 @@
             "femPlur": "-eux → -euses"
         },
         "examples": [
-            {
-                "french": "un enfant joyeux",
-                "english": "a joyful child"
-            },
-            {
-                "french": "une chanson joyeuse",
-                "english": "a merry song"
-            }
+            { "french": "un enfant joyeux", "english": "a joyful child" },
+            { "french": "une chanson joyeuse", "english": "a merry song" },
+            { "french": "une fête joyeuse", "english": "a joyful party" },
+            { "french": "un visage joyeux", "english": "a joyful face" },
+            { "french": "un sourire joyeux", "english": "a joyful smile" },
+            { "french": "un anniversaire joyeux", "english": "a happy birthday" },
+            { "french": "un moment joyeux", "english": "a joyful moment" },
+            { "french": "une réunion joyeuse", "english": "a joyous gathering" },
+            { "french": "une atmosphère joyeuse", "english": "a joyful atmosphere" },
+            { "french": "une nouvelle joyeuse", "english": "good news" }
         ],
         "image": null
     },
@@ -680,6 +761,7 @@
         "masculinPlural": "heureux",
         "femininPlural": "heureuses",
         "english": "happy",
+        "cefr": "A1",
         "position": "après",
         "irregular": true,
         "formChanges": {
@@ -688,14 +770,16 @@
             "femPlur": "-eux → -euses"
         },
         "examples": [
-            {
-                "french": "un homme heureux",
-                "english": "a happy man"
-            },
-            {
-                "french": "une vie heureuse",
-                "english": "a happy life"
-            }
+            { "french": "un homme heureux", "english": "a happy man" },
+            { "french": "une vie heureuse", "english": "a happy life" },
+            { "french": "un foyer heureux", "english": "a happy home" },
+            { "french": "des souvenirs heureux", "english": "happy memories" },
+            { "french": "une relation heureuse", "english": "a happy relationship" },
+            { "french": "un sourire heureux", "english": "a happy smile" },
+            { "french": "une enfance heureuse", "english": "a happy childhood" },
+            { "french": "une journée heureuse", "english": "a happy day" },
+            { "french": "être heureux ensemble", "english": "to be happy together" },
+            { "french": "un mariage heureux", "english": "a happy marriage" }
         ],
         "image": null
     },
@@ -705,6 +789,7 @@
         "masculinPlural": "nerveux",
         "femininPlural": "nerveuses",
         "english": "nervous",
+        "cefr": "A2",
         "position": "après",
         "irregular": true,
         "formChanges": {
@@ -713,14 +798,16 @@
             "femPlur": "-eux → -euses"
         },
         "examples": [
-            {
-                "french": "un élève nerveux",
-                "english": "a nervous student"
-            },
-            {
-                "french": "une personne nerveuse",
-                "english": "a nervous person"
-            }
+            { "french": "un élève nerveux", "english": "a nervous student" },
+            { "french": "une personne nerveuse", "english": "a nervous person" },
+            { "french": "un public nerveux", "english": "a nervous audience" },
+            { "french": "une main nerveuse", "english": "a shaky hand" },
+            { "french": "une attente nerveuse", "english": "a nervous wait" },
+            { "french": "une voix nerveuse", "english": "a nervous voice" },
+            { "french": "être nerveux avant un examen", "english": "to be nervous before an exam" },
+            { "french": "un tic nerveux", "english": "a nervous tic" },
+            { "french": "un rire nerveux", "english": "a nervous laugh" },
+            { "french": "un regard nerveux", "english": "a nervous look" }
         ],
         "image": null
     },
@@ -730,6 +817,7 @@
         "masculinPlural": "attentifs",
         "femininPlural": "attentives",
         "english": "attentive, careful",
+        "cefr": "B1",
         "position": "après",
         "irregular": true,
         "formChanges": {
@@ -738,14 +826,16 @@
             "femPlur": "-if → -ives"
         },
         "examples": [
-            {
-                "french": "un étudiant attentif",
-                "english": "an attentive student"
-            },
-            {
-                "french": "une écoute attentive",
-                "english": "careful listening"
-            }
+            { "french": "un étudiant attentif", "english": "an attentive student" },
+            { "french": "une écoute attentive", "english": "careful listening" },
+            { "french": "un conducteur attentif", "english": "an attentive driver" },
+            { "french": "un parent attentif", "english": "an attentive parent" },
+            { "french": "une attention attentive", "english": "attentive attention" },
+            { "french": "une lecture attentive", "english": "careful reading" },
+            { "french": "une observation attentive", "english": "careful observation" },
+            { "french": "une personne attentive", "english": "an attentive person" },
+            { "french": "un geste attentif", "english": "a considerate gesture" },
+            { "french": "une attitude attentive", "english": "an attentive attitude" }
         ],
         "image": null
     },
@@ -755,6 +845,7 @@
         "masculinPlural": "gentils",
         "femininPlural": "gentilles",
         "english": "kind, nice",
+        "cefr": "A1",
         "position": "après",
         "irregular": true,
         "formChanges": {
@@ -763,14 +854,16 @@
             "femPlur": "-il → -illes"
         },
         "examples": [
-            {
-                "french": "un garçon gentil",
-                "english": "a kind boy"
-            },
-            {
-                "french": "une fille gentille",
-                "english": "a nice girl"
-            }
+            { "french": "un garçon gentil", "english": "a kind boy" },
+            { "french": "une fille gentille", "english": "a nice girl" },
+            { "french": "un voisin gentil", "english": "a kind neighbor" },
+            { "french": "un geste gentil", "english": "a kind gesture" },
+            { "french": "des paroles gentilles", "english": "kind words" },
+            { "french": "une action gentille", "english": "a kind action" },
+            { "french": "un sourire gentil", "english": "a kind smile" },
+            { "french": "un ami gentil", "english": "a kind friend" },
+            { "french": "une attitude gentille", "english": "a kind attitude" },
+            { "french": "un professeur gentil", "english": "a kind teacher" }
         ],
         "image": null
     },
@@ -780,6 +873,7 @@
         "masculinPlural": "délicieux",
         "femininPlural": "délicieuses",
         "english": "delicious",
+        "cefr": "A2",
         "position": "après",
         "irregular": true,
         "formChanges": {
@@ -788,14 +882,16 @@
             "femPlur": "-eux → -euses"
         },
         "examples": [
-            {
-                "french": "un repas délicieux",
-                "english": "a delicious meal"
-            },
-            {
-                "french": "une tarte délicieuse",
-                "english": "a delicious pie"
-            }
+            { "french": "un repas délicieux", "english": "a delicious meal" },
+            { "french": "une tarte délicieuse", "english": "a delicious pie" },
+            { "french": "un plat délicieux", "english": "a tasty dish" },
+            { "french": "un dessert délicieux", "english": "a delicious dessert" },
+            { "french": "une cuisine délicieuse", "english": "delicious cooking" },
+            { "french": "un biscuit délicieux", "english": "a delicious cookie" },
+            { "french": "des fruits délicieux", "english": "delicious fruits" },
+            { "french": "une sauce délicieuse", "english": "a delicious sauce" },
+            { "french": "un gâteau délicieux", "english": "a delicious cake" },
+            { "french": "un parfum délicieux", "english": "a delightful scent" }
         ],
         "image": null
     }

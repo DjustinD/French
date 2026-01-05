@@ -1,6 +1,7 @@
 {
   "infinitive": "manger",
   "english": "to eat",
+  "cefr": "A1",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de manger",
+              "form": "mange",
               "english": "I am eating",
               "sentence": "Je suis en train de manger.",
               "sentenceEnglish": "I am eating."
             },
             "tu": {
-              "form": "es en train de manger",
+              "form": "manges",
               "english": "you are eating",
               "sentence": "Tu es en train de manger?",
               "sentenceEnglish": "Are you eating?"
             },
             "il/elle": {
-              "form": "est en train de manger",
+              "form": "mange",
               "english": "he/she is eating",
               "sentence": "Elle est en train de manger.",
               "sentenceEnglish": "She is eating."
             },
             "on": {
-              "form": "est en train de manger",
+              "form": "mange",
               "english": "we are eating",
               "sentence": "On est en train de manger.",
               "sentenceEnglish": "We are eating."
             },
             "nous": {
-              "form": "sommes en train de manger",
+              "form": "mangeons",
               "english": "we are eating",
               "sentence": "Nous sommes en train de manger.",
               "sentenceEnglish": "We are eating."
             },
             "vous": {
-              "form": "êtes en train de manger",
+              "form": "mangez",
               "english": "you are eating",
               "sentence": "Vous êtes en train de manger?",
               "sentenceEnglish": "Are you eating?"
             },
             "ils/elles": {
-              "form": "sont en train de manger",
+              "form": "mangent",
               "english": "they are eating",
               "sentence": "Ils sont en train de manger.",
               "sentenceEnglish": "They are eating."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais manger",
+              "form": "mangerai",
               "english": "I am going to eat",
               "sentence": "Je vais manger maintenant.",
               "sentenceEnglish": "I am going to eat now."
             },
             "tu": {
-              "form": "vas manger",
+              "form": "mangeras",
               "english": "you are going to eat",
               "sentence": "Tu vas manger?",
               "sentenceEnglish": "Are you going to eat?"
             },
             "il/elle": {
-              "form": "va manger",
+              "form": "mangera",
               "english": "he/she is going to eat",
               "sentence": "Elle va manger.",
               "sentenceEnglish": "She is going to eat."
             },
             "on": {
-              "form": "va manger",
+              "form": "mangera",
               "english": "we are going to eat",
               "sentence": "On va manger ensemble.",
               "sentenceEnglish": "We are going to eat together."
             },
             "nous": {
-              "form": "allons manger",
+              "form": "mangerons",
               "english": "we are going to eat",
               "sentence": "Nous allons manger.",
               "sentenceEnglish": "We are going to eat."
             },
             "vous": {
-              "form": "allez manger",
+              "form": "mangerez",
               "english": "you are going to eat",
               "sentence": "Vous allez manger?",
               "sentenceEnglish": "Are you going to eat?"
             },
             "ils/elles": {
-              "form": "vont manger",
+              "form": "mangeront",
               "english": "they are going to eat",
               "sentence": "Ils vont manger.",
               "sentenceEnglish": "They are going to eat."

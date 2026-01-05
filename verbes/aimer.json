@@ -1,6 +1,7 @@
 {
   "infinitive": "aimer",
   "english": "to love / to like",
+  "cefr": "A1",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -10,26 +11,96 @@
           "name": "Présent Simple",
           "description": "Simple present tense",
           "forms": {
-            "je": { "form": "aime", "english": "I love / I like", "sentence": "J'aime la musique.", "sentenceEnglish": "I love music." },
-            "tu": { "form": "aimes", "english": "you love / you like", "sentence": "Tu aimes le chocolat?", "sentenceEnglish": "Do you like chocolate?" },
-            "il/elle": { "form": "aime", "english": "he/she loves / likes", "sentence": "Elle aime danser.", "sentenceEnglish": "She loves to dance." },
-            "on": { "form": "aime", "english": "we love / we like", "sentence": "On aime voyager.", "sentenceEnglish": "We love to travel." },
-            "nous": { "form": "aimons", "english": "we love / we like", "sentence": "Nous aimons la nature.", "sentenceEnglish": "We love nature." },
-            "vous": { "form": "aimez", "english": "you love / you like", "sentence": "Vous aimez le café?", "sentenceEnglish": "Do you like coffee?" },
-            "ils/elles": { "form": "aiment", "english": "they love / they like", "sentence": "Ils aiment lire.", "sentenceEnglish": "They love to read." }
+            "je": {
+              "form": "aime",
+              "english": "I love / I like",
+              "sentence": "J'aime la musique.",
+              "sentenceEnglish": "I love music."
+            },
+            "tu": {
+              "form": "aimes",
+              "english": "you love / you like",
+              "sentence": "Tu aimes le chocolat?",
+              "sentenceEnglish": "Do you like chocolate?"
+            },
+            "il/elle": {
+              "form": "aime",
+              "english": "he/she loves / likes",
+              "sentence": "Elle aime danser.",
+              "sentenceEnglish": "She loves to dance."
+            },
+            "on": {
+              "form": "aime",
+              "english": "we love / we like",
+              "sentence": "On aime voyager.",
+              "sentenceEnglish": "We love to travel."
+            },
+            "nous": {
+              "form": "aimons",
+              "english": "we love / we like",
+              "sentence": "Nous aimons la nature.",
+              "sentenceEnglish": "We love nature."
+            },
+            "vous": {
+              "form": "aimez",
+              "english": "you love / you like",
+              "sentence": "Vous aimez le café?",
+              "sentenceEnglish": "Do you like coffee?"
+            },
+            "ils/elles": {
+              "form": "aiment",
+              "english": "they love / they like",
+              "sentence": "Ils aiment lire.",
+              "sentenceEnglish": "They love to read."
+            }
           }
         },
         "continu": {
           "name": "Présent Continu",
           "description": "Present continuous tense",
           "forms": {
-            "je": { "form": "suis en train d'aimer", "english": "I am loving / liking", "sentence": "Je suis en train d'aimer ce livre.", "sentenceEnglish": "I am loving this book." },
-            "tu": { "form": "es en train d'aimer", "english": "you are loving / liking", "sentence": "Tu es en train d'aimer ce film?", "sentenceEnglish": "Are you liking this movie?" },
-            "il/elle": { "form": "est en train d'aimer", "english": "he/she is loving / liking", "sentence": "Elle est en train d'aimer sa nouvelle vie.", "sentenceEnglish": "She is loving her new life." },
-            "on": { "form": "est en train d'aimer", "english": "we are loving / liking", "sentence": "On est en train d'aimer ce restaurant.", "sentenceEnglish": "We are loving this restaurant." },
-            "nous": { "form": "sommes en train d'aimer", "english": "we are loving / liking", "sentence": "Nous sommes en train d'aimer cette ville.", "sentenceEnglish": "We are loving this city." },
-            "vous": { "form": "êtes en train d'aimer", "english": "you are loving / liking", "sentence": "Vous êtes en train d'aimer votre travail?", "sentenceEnglish": "Are you liking your job?" },
-            "ils/elles": { "form": "sont en train d'aimer", "english": "they are loving / liking", "sentence": "Ils sont en train d'aimer leur voyage.", "sentenceEnglish": "They are loving their trip." }
+            "je": {
+              "form": "aime",
+              "english": "I am loving / liking",
+              "sentence": "Je suis en train d'aimer ce livre.",
+              "sentenceEnglish": "I am loving this book."
+            },
+            "tu": {
+              "form": "aimes",
+              "english": "you are loving / liking",
+              "sentence": "Tu es en train d'aimer ce film?",
+              "sentenceEnglish": "Are you liking this movie?"
+            },
+            "il/elle": {
+              "form": "aime",
+              "english": "he/she is loving / liking",
+              "sentence": "Elle est en train d'aimer sa nouvelle vie.",
+              "sentenceEnglish": "She is loving her new life."
+            },
+            "on": {
+              "form": "aime",
+              "english": "we are loving / liking",
+              "sentence": "On est en train d'aimer ce restaurant.",
+              "sentenceEnglish": "We are loving this restaurant."
+            },
+            "nous": {
+              "form": "aimons",
+              "english": "we are loving / liking",
+              "sentence": "Nous sommes en train d'aimer cette ville.",
+              "sentenceEnglish": "We are loving this city."
+            },
+            "vous": {
+              "form": "aimez",
+              "english": "you are loving / liking",
+              "sentence": "Vous êtes en train d'aimer votre travail?",
+              "sentenceEnglish": "Are you liking your job?"
+            },
+            "ils/elles": {
+              "form": "aiment",
+              "english": "they are loving / liking",
+              "sentence": "Ils sont en train d'aimer leur voyage.",
+              "sentenceEnglish": "They are loving their trip."
+            }
           }
         }
       },
@@ -43,26 +114,96 @@
           "description": "Completed action in the past",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "ai aimé", "english": "I loved / I liked / I have loved", "sentence": "J'ai aimé ce film.", "sentenceEnglish": "I loved that movie." },
-            "tu": { "form": "as aimé", "english": "you loved / you liked / you have loved", "sentence": "Tu as aimé le concert?", "sentenceEnglish": "Did you like the concert?" },
-            "il/elle": { "form": "a aimé", "english": "he/she loved / liked / has loved", "sentence": "Elle a aimé son cadeau.", "sentenceEnglish": "She loved her gift." },
-            "on": { "form": "a aimé", "english": "we loved / we liked / we have loved", "sentence": "On a aimé le restaurant.", "sentenceEnglish": "We liked the restaurant." },
-            "nous": { "form": "avons aimé", "english": "we loved / we liked / we have loved", "sentence": "Nous avons aimé ce voyage.", "sentenceEnglish": "We loved that trip." },
-            "vous": { "form": "avez aimé", "english": "you loved / you liked / you have loved", "sentence": "Vous avez aimé le spectacle?", "sentenceEnglish": "Did you like the show?" },
-            "ils/elles": { "form": "ont aimé", "english": "they loved / they liked / they have loved", "sentence": "Ils ont aimé la fête.", "sentenceEnglish": "They loved the party." }
+            "je": {
+              "form": "ai aimé",
+              "english": "I loved / I liked / I have loved",
+              "sentence": "J'ai aimé ce film.",
+              "sentenceEnglish": "I loved that movie."
+            },
+            "tu": {
+              "form": "as aimé",
+              "english": "you loved / you liked / you have loved",
+              "sentence": "Tu as aimé le concert?",
+              "sentenceEnglish": "Did you like the concert?"
+            },
+            "il/elle": {
+              "form": "a aimé",
+              "english": "he/she loved / liked / has loved",
+              "sentence": "Elle a aimé son cadeau.",
+              "sentenceEnglish": "She loved her gift."
+            },
+            "on": {
+              "form": "a aimé",
+              "english": "we loved / we liked / we have loved",
+              "sentence": "On a aimé le restaurant.",
+              "sentenceEnglish": "We liked the restaurant."
+            },
+            "nous": {
+              "form": "avons aimé",
+              "english": "we loved / we liked / we have loved",
+              "sentence": "Nous avons aimé ce voyage.",
+              "sentenceEnglish": "We loved that trip."
+            },
+            "vous": {
+              "form": "avez aimé",
+              "english": "you loved / you liked / you have loved",
+              "sentence": "Vous avez aimé le spectacle?",
+              "sentenceEnglish": "Did you like the show?"
+            },
+            "ils/elles": {
+              "form": "ont aimé",
+              "english": "they loved / they liked / they have loved",
+              "sentence": "Ils ont aimé la fête.",
+              "sentenceEnglish": "They loved the party."
+            }
           }
         },
         "imparfait": {
           "name": "Imparfait",
           "description": "Habitual or ongoing past action",
           "forms": {
-            "je": { "form": "aimais", "english": "I loved / I liked / I used to love", "sentence": "J'aimais jouer dehors.", "sentenceEnglish": "I used to love playing outside." },
-            "tu": { "form": "aimais", "english": "you loved / you liked / you used to love", "sentence": "Tu aimais cette chanson?", "sentenceEnglish": "Did you like that song?" },
-            "il/elle": { "form": "aimait", "english": "he/she loved / liked / used to love", "sentence": "Elle aimait lire.", "sentenceEnglish": "She loved to read." },
-            "on": { "form": "aimait", "english": "we loved / we liked / we used to love", "sentence": "On aimait aller à la plage.", "sentenceEnglish": "We used to love going to the beach." },
-            "nous": { "form": "aimions", "english": "we loved / we liked / we used to love", "sentence": "Nous aimions voyager.", "sentenceEnglish": "We used to love traveling." },
-            "vous": { "form": "aimiez", "english": "you loved / you liked / you used to love", "sentence": "Vous aimiez le sport?", "sentenceEnglish": "Did you like sports?" },
-            "ils/elles": { "form": "aimaient", "english": "they loved / they liked / they used to love", "sentence": "Ils aimaient danser.", "sentenceEnglish": "They loved to dance." }
+            "je": {
+              "form": "aimais",
+              "english": "I loved / I liked / I used to love",
+              "sentence": "J'aimais jouer dehors.",
+              "sentenceEnglish": "I used to love playing outside."
+            },
+            "tu": {
+              "form": "aimais",
+              "english": "you loved / you liked / you used to love",
+              "sentence": "Tu aimais cette chanson?",
+              "sentenceEnglish": "Did you like that song?"
+            },
+            "il/elle": {
+              "form": "aimait",
+              "english": "he/she loved / liked / used to love",
+              "sentence": "Elle aimait lire.",
+              "sentenceEnglish": "She loved to read."
+            },
+            "on": {
+              "form": "aimait",
+              "english": "we loved / we liked / we used to love",
+              "sentence": "On aimait aller à la plage.",
+              "sentenceEnglish": "We used to love going to the beach."
+            },
+            "nous": {
+              "form": "aimions",
+              "english": "we loved / we liked / we used to love",
+              "sentence": "Nous aimions voyager.",
+              "sentenceEnglish": "We used to love traveling."
+            },
+            "vous": {
+              "form": "aimiez",
+              "english": "you loved / you liked / you used to love",
+              "sentence": "Vous aimiez le sport?",
+              "sentenceEnglish": "Did you like sports?"
+            },
+            "ils/elles": {
+              "form": "aimaient",
+              "english": "they loved / they liked / they used to love",
+              "sentence": "Ils aimaient danser.",
+              "sentenceEnglish": "They loved to dance."
+            }
           }
         },
         "plus-que-parfait": {
@@ -70,26 +211,96 @@
           "description": "Past perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "avais aimé", "english": "I had loved / liked", "sentence": "J'avais aimé ce livre.", "sentenceEnglish": "I had loved that book." },
-            "tu": { "form": "avais aimé", "english": "you had loved / liked", "sentence": "Tu avais aimé ce restaurant?", "sentenceEnglish": "Had you liked that restaurant?" },
-            "il/elle": { "form": "avait aimé", "english": "he/she had loved / liked", "sentence": "Elle avait aimé son travail.", "sentenceEnglish": "She had loved her job." },
-            "on": { "form": "avait aimé", "english": "we had loved / liked", "sentence": "On avait aimé cette ville.", "sentenceEnglish": "We had loved that city." },
-            "nous": { "form": "avions aimé", "english": "we had loved / liked", "sentence": "Nous avions aimé ce voyage.", "sentenceEnglish": "We had loved that trip." },
-            "vous": { "form": "aviez aimé", "english": "you had loved / liked", "sentence": "Vous aviez aimé le spectacle?", "sentenceEnglish": "Had you liked the show?" },
-            "ils/elles": { "form": "avaient aimé", "english": "they had loved / liked", "sentence": "Ils avaient aimé la fête.", "sentenceEnglish": "They had loved the party." }
+            "je": {
+              "form": "avais aimé",
+              "english": "I had loved / liked",
+              "sentence": "J'avais aimé ce livre.",
+              "sentenceEnglish": "I had loved that book."
+            },
+            "tu": {
+              "form": "avais aimé",
+              "english": "you had loved / liked",
+              "sentence": "Tu avais aimé ce restaurant?",
+              "sentenceEnglish": "Had you liked that restaurant?"
+            },
+            "il/elle": {
+              "form": "avait aimé",
+              "english": "he/she had loved / liked",
+              "sentence": "Elle avait aimé son travail.",
+              "sentenceEnglish": "She had loved her job."
+            },
+            "on": {
+              "form": "avait aimé",
+              "english": "we had loved / liked",
+              "sentence": "On avait aimé cette ville.",
+              "sentenceEnglish": "We had loved that city."
+            },
+            "nous": {
+              "form": "avions aimé",
+              "english": "we had loved / liked",
+              "sentence": "Nous avions aimé ce voyage.",
+              "sentenceEnglish": "We had loved that trip."
+            },
+            "vous": {
+              "form": "aviez aimé",
+              "english": "you had loved / liked",
+              "sentence": "Vous aviez aimé le spectacle?",
+              "sentenceEnglish": "Had you liked the show?"
+            },
+            "ils/elles": {
+              "form": "avaient aimé",
+              "english": "they had loved / liked",
+              "sentence": "Ils avaient aimé la fête.",
+              "sentenceEnglish": "They had loved the party."
+            }
           }
         },
         "simple": {
           "name": "Passé Simple",
           "description": "Literary past tense",
           "forms": {
-            "je": { "form": "aimai", "english": "I loved / liked", "sentence": "J'aimai cette époque.", "sentenceEnglish": "I loved that time." },
-            "tu": { "form": "aimas", "english": "you loved / liked", "sentence": "Tu aimas ce moment.", "sentenceEnglish": "You loved that moment." },
-            "il/elle": { "form": "aima", "english": "he/she loved / liked", "sentence": "Il aima cette femme.", "sentenceEnglish": "He loved that woman." },
-            "on": { "form": "aima", "english": "we loved / liked", "sentence": "On aima cette aventure.", "sentenceEnglish": "We loved that adventure." },
-            "nous": { "form": "aimâmes", "english": "we loved / liked", "sentence": "Nous aimâmes ce pays.", "sentenceEnglish": "We loved that country." },
-            "vous": { "form": "aimâtes", "english": "you loved / liked", "sentence": "Vous aimâtes cette période.", "sentenceEnglish": "You loved that period." },
-            "ils/elles": { "form": "aimèrent", "english": "they loved / liked", "sentence": "Ils aimèrent cette terre.", "sentenceEnglish": "They loved that land." }
+            "je": {
+              "form": "aimai",
+              "english": "I loved / liked",
+              "sentence": "J'aimai cette époque.",
+              "sentenceEnglish": "I loved that time."
+            },
+            "tu": {
+              "form": "aimas",
+              "english": "you loved / liked",
+              "sentence": "Tu aimas ce moment.",
+              "sentenceEnglish": "You loved that moment."
+            },
+            "il/elle": {
+              "form": "aima",
+              "english": "he/she loved / liked",
+              "sentence": "Il aima cette femme.",
+              "sentenceEnglish": "He loved that woman."
+            },
+            "on": {
+              "form": "aima",
+              "english": "we loved / liked",
+              "sentence": "On aima cette aventure.",
+              "sentenceEnglish": "We loved that adventure."
+            },
+            "nous": {
+              "form": "aimâmes",
+              "english": "we loved / liked",
+              "sentence": "Nous aimâmes ce pays.",
+              "sentenceEnglish": "We loved that country."
+            },
+            "vous": {
+              "form": "aimâtes",
+              "english": "you loved / liked",
+              "sentence": "Vous aimâtes cette période.",
+              "sentenceEnglish": "You loved that period."
+            },
+            "ils/elles": {
+              "form": "aimèrent",
+              "english": "they loved / liked",
+              "sentence": "Ils aimèrent cette terre.",
+              "sentenceEnglish": "They loved that land."
+            }
           }
         }
       },
@@ -102,26 +313,96 @@
           "name": "Futur Simple",
           "description": "Simple future tense",
           "forms": {
-            "je": { "form": "aimerai", "english": "I will love / like", "sentence": "J'aimerai ce film.", "sentenceEnglish": "I will like that movie." },
-            "tu": { "form": "aimeras", "english": "you will love / like", "sentence": "Tu aimeras ce restaurant.", "sentenceEnglish": "You will like that restaurant." },
-            "il/elle": { "form": "aimera", "english": "he/she will love / like", "sentence": "Il aimera ce livre.", "sentenceEnglish": "He will love that book." },
-            "on": { "form": "aimera", "english": "we will love / like", "sentence": "On aimera cette ville.", "sentenceEnglish": "We will love that city." },
-            "nous": { "form": "aimerons", "english": "we will love / like", "sentence": "Nous aimerons ce voyage.", "sentenceEnglish": "We will love that trip." },
-            "vous": { "form": "aimerez", "english": "you will love / like", "sentence": "Vous aimerez le spectacle.", "sentenceEnglish": "You will like the show." },
-            "ils/elles": { "form": "aimeront", "english": "they will love / like", "sentence": "Elles aimeront la fête.", "sentenceEnglish": "They will love the party." }
+            "je": {
+              "form": "aimerai",
+              "english": "I will love / like",
+              "sentence": "J'aimerai ce film.",
+              "sentenceEnglish": "I will like that movie."
+            },
+            "tu": {
+              "form": "aimeras",
+              "english": "you will love / like",
+              "sentence": "Tu aimeras ce restaurant.",
+              "sentenceEnglish": "You will like that restaurant."
+            },
+            "il/elle": {
+              "form": "aimera",
+              "english": "he/she will love / like",
+              "sentence": "Il aimera ce livre.",
+              "sentenceEnglish": "He will love that book."
+            },
+            "on": {
+              "form": "aimera",
+              "english": "we will love / like",
+              "sentence": "On aimera cette ville.",
+              "sentenceEnglish": "We will love that city."
+            },
+            "nous": {
+              "form": "aimerons",
+              "english": "we will love / like",
+              "sentence": "Nous aimerons ce voyage.",
+              "sentenceEnglish": "We will love that trip."
+            },
+            "vous": {
+              "form": "aimerez",
+              "english": "you will love / like",
+              "sentence": "Vous aimerez le spectacle.",
+              "sentenceEnglish": "You will like the show."
+            },
+            "ils/elles": {
+              "form": "aimeront",
+              "english": "they will love / like",
+              "sentence": "Elles aimeront la fête.",
+              "sentenceEnglish": "They will love the party."
+            }
           }
         },
         "proche": {
           "name": "Futur Proche",
           "description": "Near future tense",
           "forms": {
-            "je": { "form": "vais aimer", "english": "I am going to love / like", "sentence": "Je vais aimer ce film.", "sentenceEnglish": "I am going to like that movie." },
-            "tu": { "form": "vas aimer", "english": "you are going to love / like", "sentence": "Tu vas aimer ce restaurant.", "sentenceEnglish": "You are going to like that restaurant." },
-            "il/elle": { "form": "va aimer", "english": "he/she is going to love / like", "sentence": "Elle va aimer son cadeau.", "sentenceEnglish": "She is going to love her gift." },
-            "on": { "form": "va aimer", "english": "we are going to love / like", "sentence": "On va aimer cette ville.", "sentenceEnglish": "We are going to love that city." },
-            "nous": { "form": "allons aimer", "english": "we are going to love / like", "sentence": "Nous allons aimer ce voyage.", "sentenceEnglish": "We are going to love that trip." },
-            "vous": { "form": "allez aimer", "english": "you are going to love / like", "sentence": "Vous allez aimer le spectacle.", "sentenceEnglish": "You are going to like the show." },
-            "ils/elles": { "form": "vont aimer", "english": "they are going to love / like", "sentence": "Ils vont aimer la fête.", "sentenceEnglish": "They are going to love the party." }
+            "je": {
+              "form": "aimerai",
+              "english": "I am going to love / like",
+              "sentence": "Je vais aimer ce film.",
+              "sentenceEnglish": "I am going to like that movie."
+            },
+            "tu": {
+              "form": "aimeras",
+              "english": "you are going to love / like",
+              "sentence": "Tu vas aimer ce restaurant.",
+              "sentenceEnglish": "You are going to like that restaurant."
+            },
+            "il/elle": {
+              "form": "aimera",
+              "english": "he/she is going to love / like",
+              "sentence": "Elle va aimer son cadeau.",
+              "sentenceEnglish": "She is going to love her gift."
+            },
+            "on": {
+              "form": "aimera",
+              "english": "we are going to love / like",
+              "sentence": "On va aimer cette ville.",
+              "sentenceEnglish": "We are going to love that city."
+            },
+            "nous": {
+              "form": "aimerons",
+              "english": "we are going to love / like",
+              "sentence": "Nous allons aimer ce voyage.",
+              "sentenceEnglish": "We are going to love that trip."
+            },
+            "vous": {
+              "form": "aimerez",
+              "english": "you are going to love / like",
+              "sentence": "Vous allez aimer le spectacle.",
+              "sentenceEnglish": "You are going to like the show."
+            },
+            "ils/elles": {
+              "form": "aimeront",
+              "english": "they are going to love / like",
+              "sentence": "Ils vont aimer la fête.",
+              "sentenceEnglish": "They are going to love the party."
+            }
           }
         },
         "antérieur": {
@@ -129,13 +410,48 @@
           "description": "Future perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "aurai aimé", "english": "I will have loved / liked", "sentence": "J'aurai aimé cette expérience.", "sentenceEnglish": "I will have loved that experience." },
-            "tu": { "form": "auras aimé", "english": "you will have loved / liked", "sentence": "Tu auras aimé ce moment.", "sentenceEnglish": "You will have loved that moment." },
-            "il/elle": { "form": "aura aimé", "english": "he/she will have loved / liked", "sentence": "Elle aura aimé son séjour.", "sentenceEnglish": "She will have loved her stay." },
-            "on": { "form": "aura aimé", "english": "we will have loved / liked", "sentence": "On aura aimé cette aventure.", "sentenceEnglish": "We will have loved that adventure." },
-            "nous": { "form": "aurons aimé", "english": "we will have loved / liked", "sentence": "Nous aurons aimé ce voyage.", "sentenceEnglish": "We will have loved that trip." },
-            "vous": { "form": "aurez aimé", "english": "you will have loved / liked", "sentence": "Vous aurez aimé le spectacle.", "sentenceEnglish": "You will have liked the show." },
-            "ils/elles": { "form": "auront aimé", "english": "they will have loved / liked", "sentence": "Ils auront aimé cette période.", "sentenceEnglish": "They will have loved that period." }
+            "je": {
+              "form": "aurai aimé",
+              "english": "I will have loved / liked",
+              "sentence": "J'aurai aimé cette expérience.",
+              "sentenceEnglish": "I will have loved that experience."
+            },
+            "tu": {
+              "form": "auras aimé",
+              "english": "you will have loved / liked",
+              "sentence": "Tu auras aimé ce moment.",
+              "sentenceEnglish": "You will have loved that moment."
+            },
+            "il/elle": {
+              "form": "aura aimé",
+              "english": "he/she will have loved / liked",
+              "sentence": "Elle aura aimé son séjour.",
+              "sentenceEnglish": "She will have loved her stay."
+            },
+            "on": {
+              "form": "aura aimé",
+              "english": "we will have loved / liked",
+              "sentence": "On aura aimé cette aventure.",
+              "sentenceEnglish": "We will have loved that adventure."
+            },
+            "nous": {
+              "form": "aurons aimé",
+              "english": "we will have loved / liked",
+              "sentence": "Nous aurons aimé ce voyage.",
+              "sentenceEnglish": "We will have loved that trip."
+            },
+            "vous": {
+              "form": "aurez aimé",
+              "english": "you will have loved / liked",
+              "sentence": "Vous aurez aimé le spectacle.",
+              "sentenceEnglish": "You will have liked the show."
+            },
+            "ils/elles": {
+              "form": "auront aimé",
+              "english": "they will have loved / liked",
+              "sentence": "Ils auront aimé cette période.",
+              "sentenceEnglish": "They will have loved that period."
+            }
           }
         }
       },

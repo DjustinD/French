@@ -1,6 +1,7 @@
 {
   "infinitive": "croire",
   "english": "to believe / to think",
+  "cefr": "A2",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -10,26 +11,96 @@
           "name": "Présent Simple",
           "description": "Simple present tense",
           "forms": {
-            "je": { "form": "crois", "english": "I believe / I think", "sentence": "Je crois que oui.", "sentenceEnglish": "I think so." },
-            "tu": { "form": "crois", "english": "you believe / you think", "sentence": "Tu crois en Dieu?", "sentenceEnglish": "Do you believe in God?" },
-            "il/elle": { "form": "croit", "english": "he/she believes / thinks", "sentence": "Elle croit tout ce qu'on lui dit.", "sentenceEnglish": "She believes everything she's told." },
-            "on": { "form": "croit", "english": "we believe / we think", "sentence": "On croit que c'est vrai.", "sentenceEnglish": "We think it's true." },
-            "nous": { "form": "croyons", "english": "we believe / we think", "sentence": "Nous croyons en toi.", "sentenceEnglish": "We believe in you." },
-            "vous": { "form": "croyez", "english": "you believe / you think", "sentence": "Vous croyez cette histoire?", "sentenceEnglish": "Do you believe that story?" },
-            "ils/elles": { "form": "croient", "english": "they believe / they think", "sentence": "Ils croient aux fantômes.", "sentenceEnglish": "They believe in ghosts." }
+            "je": {
+              "form": "crois",
+              "english": "I believe / I think",
+              "sentence": "Je crois que oui.",
+              "sentenceEnglish": "I think so."
+            },
+            "tu": {
+              "form": "crois",
+              "english": "you believe / you think",
+              "sentence": "Tu crois en Dieu?",
+              "sentenceEnglish": "Do you believe in God?"
+            },
+            "il/elle": {
+              "form": "croit",
+              "english": "he/she believes / thinks",
+              "sentence": "Elle croit tout ce qu'on lui dit.",
+              "sentenceEnglish": "She believes everything she's told."
+            },
+            "on": {
+              "form": "croit",
+              "english": "we believe / we think",
+              "sentence": "On croit que c'est vrai.",
+              "sentenceEnglish": "We think it's true."
+            },
+            "nous": {
+              "form": "croyons",
+              "english": "we believe / we think",
+              "sentence": "Nous croyons en toi.",
+              "sentenceEnglish": "We believe in you."
+            },
+            "vous": {
+              "form": "croyez",
+              "english": "you believe / you think",
+              "sentence": "Vous croyez cette histoire?",
+              "sentenceEnglish": "Do you believe that story?"
+            },
+            "ils/elles": {
+              "form": "croient",
+              "english": "they believe / they think",
+              "sentence": "Ils croient aux fantômes.",
+              "sentenceEnglish": "They believe in ghosts."
+            }
           }
         },
         "continu": {
           "name": "Présent Continu",
           "description": "Present continuous tense",
           "forms": {
-            "je": { "form": "suis en train de croire", "english": "I am believing", "sentence": "Je suis en train de croire en cette idée.", "sentenceEnglish": "I am coming to believe in this idea." },
-            "tu": { "form": "es en train de croire", "english": "you are believing", "sentence": "Tu es en train de croire n'importe quoi.", "sentenceEnglish": "You are believing anything." },
-            "il/elle": { "form": "est en train de croire", "english": "he/she is believing", "sentence": "Elle est en train de croire au père Noël.", "sentenceEnglish": "She is believing in Santa Claus." },
-            "on": { "form": "est en train de croire", "english": "we are believing", "sentence": "On est en train de croire cette rumeur.", "sentenceEnglish": "We are believing this rumor." },
-            "nous": { "form": "sommes en train de croire", "english": "we are believing", "sentence": "Nous sommes en train de croire ses mensonges.", "sentenceEnglish": "We are believing his lies." },
-            "vous": { "form": "êtes en train de croire", "english": "you are believing", "sentence": "Vous êtes en train de croire ça?", "sentenceEnglish": "Are you believing that?" },
-            "ils/elles": { "form": "sont en train de croire", "english": "they are believing", "sentence": "Ils sont en train de croire cette histoire.", "sentenceEnglish": "They are believing this story." }
+            "je": {
+              "form": "crois",
+              "english": "I am believing",
+              "sentence": "Je suis en train de croire en cette idée.",
+              "sentenceEnglish": "I am coming to believe in this idea."
+            },
+            "tu": {
+              "form": "crois",
+              "english": "you are believing",
+              "sentence": "Tu es en train de croire n'importe quoi.",
+              "sentenceEnglish": "You are believing anything."
+            },
+            "il/elle": {
+              "form": "croit",
+              "english": "he/she is believing",
+              "sentence": "Elle est en train de croire au père Noël.",
+              "sentenceEnglish": "She is believing in Santa Claus."
+            },
+            "on": {
+              "form": "croit",
+              "english": "we are believing",
+              "sentence": "On est en train de croire cette rumeur.",
+              "sentenceEnglish": "We are believing this rumor."
+            },
+            "nous": {
+              "form": "croyons",
+              "english": "we are believing",
+              "sentence": "Nous sommes en train de croire ses mensonges.",
+              "sentenceEnglish": "We are believing his lies."
+            },
+            "vous": {
+              "form": "croyez",
+              "english": "you are believing",
+              "sentence": "Vous êtes en train de croire ça?",
+              "sentenceEnglish": "Are you believing that?"
+            },
+            "ils/elles": {
+              "form": "croient",
+              "english": "they are believing",
+              "sentence": "Ils sont en train de croire cette histoire.",
+              "sentenceEnglish": "They are believing this story."
+            }
           }
         }
       },
@@ -43,26 +114,96 @@
           "description": "Completed action in the past",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "ai cru", "english": "I believed / I thought / I have believed", "sentence": "J'ai cru que tu étais parti.", "sentenceEnglish": "I thought you had left." },
-            "tu": { "form": "as cru", "english": "you believed / you thought / you have believed", "sentence": "Tu as cru cette histoire?", "sentenceEnglish": "Did you believe that story?" },
-            "il/elle": { "form": "a cru", "english": "he/she believed / thought / has believed", "sentence": "Elle a cru en lui.", "sentenceEnglish": "She believed in him." },
-            "on": { "form": "a cru", "english": "we believed / we thought / we have believed", "sentence": "On a cru que c'était fini.", "sentenceEnglish": "We thought it was over." },
-            "nous": { "form": "avons cru", "english": "we believed / we thought / we have believed", "sentence": "Nous avons cru ses promesses.", "sentenceEnglish": "We believed his promises." },
-            "vous": { "form": "avez cru", "english": "you believed / you thought / you have believed", "sentence": "Vous avez cru en nous?", "sentenceEnglish": "Did you believe in us?" },
-            "ils/elles": { "form": "ont cru", "english": "they believed / they thought / they have believed", "sentence": "Ils ont cru au miracle.", "sentenceEnglish": "They believed in the miracle." }
+            "je": {
+              "form": "ai cru",
+              "english": "I believed / I thought / I have believed",
+              "sentence": "J'ai cru que tu étais parti.",
+              "sentenceEnglish": "I thought you had left."
+            },
+            "tu": {
+              "form": "as cru",
+              "english": "you believed / you thought / you have believed",
+              "sentence": "Tu as cru cette histoire?",
+              "sentenceEnglish": "Did you believe that story?"
+            },
+            "il/elle": {
+              "form": "a cru",
+              "english": "he/she believed / thought / has believed",
+              "sentence": "Elle a cru en lui.",
+              "sentenceEnglish": "She believed in him."
+            },
+            "on": {
+              "form": "a cru",
+              "english": "we believed / we thought / we have believed",
+              "sentence": "On a cru que c'était fini.",
+              "sentenceEnglish": "We thought it was over."
+            },
+            "nous": {
+              "form": "avons cru",
+              "english": "we believed / we thought / we have believed",
+              "sentence": "Nous avons cru ses promesses.",
+              "sentenceEnglish": "We believed his promises."
+            },
+            "vous": {
+              "form": "avez cru",
+              "english": "you believed / you thought / you have believed",
+              "sentence": "Vous avez cru en nous?",
+              "sentenceEnglish": "Did you believe in us?"
+            },
+            "ils/elles": {
+              "form": "ont cru",
+              "english": "they believed / they thought / they have believed",
+              "sentence": "Ils ont cru au miracle.",
+              "sentenceEnglish": "They believed in the miracle."
+            }
           }
         },
         "imparfait": {
           "name": "Imparfait",
           "description": "Habitual or ongoing past action",
           "forms": {
-            "je": { "form": "croyais", "english": "I believed / I thought / I used to believe", "sentence": "Je croyais au père Noël.", "sentenceEnglish": "I used to believe in Santa Claus." },
-            "tu": { "form": "croyais", "english": "you believed / you thought / you used to believe", "sentence": "Tu croyais tout ce qu'il disait?", "sentenceEnglish": "Did you believe everything he said?" },
-            "il/elle": { "form": "croyait", "english": "he/she believed / thought / used to believe", "sentence": "Elle croyait aux fantômes.", "sentenceEnglish": "She used to believe in ghosts." },
-            "on": { "form": "croyait", "english": "we believed / we thought / we used to believe", "sentence": "On croyait que c'était possible.", "sentenceEnglish": "We thought it was possible." },
-            "nous": { "form": "croyions", "english": "we believed / we thought / we used to believe", "sentence": "Nous croyions en lui.", "sentenceEnglish": "We believed in him." },
-            "vous": { "form": "croyiez", "english": "you believed / you thought / you used to believe", "sentence": "Vous croyiez cette histoire?", "sentenceEnglish": "Did you believe that story?" },
-            "ils/elles": { "form": "croyaient", "english": "they believed / they thought / they used to believe", "sentence": "Ils croyaient en Dieu.", "sentenceEnglish": "They believed in God." }
+            "je": {
+              "form": "croyais",
+              "english": "I believed / I thought / I used to believe",
+              "sentence": "Je croyais au père Noël.",
+              "sentenceEnglish": "I used to believe in Santa Claus."
+            },
+            "tu": {
+              "form": "croyais",
+              "english": "you believed / you thought / you used to believe",
+              "sentence": "Tu croyais tout ce qu'il disait?",
+              "sentenceEnglish": "Did you believe everything he said?"
+            },
+            "il/elle": {
+              "form": "croyait",
+              "english": "he/she believed / thought / used to believe",
+              "sentence": "Elle croyait aux fantômes.",
+              "sentenceEnglish": "She used to believe in ghosts."
+            },
+            "on": {
+              "form": "croyait",
+              "english": "we believed / we thought / we used to believe",
+              "sentence": "On croyait que c'était possible.",
+              "sentenceEnglish": "We thought it was possible."
+            },
+            "nous": {
+              "form": "croyions",
+              "english": "we believed / we thought / we used to believe",
+              "sentence": "Nous croyions en lui.",
+              "sentenceEnglish": "We believed in him."
+            },
+            "vous": {
+              "form": "croyiez",
+              "english": "you believed / you thought / you used to believe",
+              "sentence": "Vous croyiez cette histoire?",
+              "sentenceEnglish": "Did you believe that story?"
+            },
+            "ils/elles": {
+              "form": "croyaient",
+              "english": "they believed / they thought / they used to believe",
+              "sentence": "Ils croyaient en Dieu.",
+              "sentenceEnglish": "They believed in God."
+            }
           }
         },
         "plus-que-parfait": {
@@ -70,26 +211,96 @@
           "description": "Past perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "avais cru", "english": "I had believed / thought", "sentence": "J'avais cru que tu viendrais.", "sentenceEnglish": "I had thought you would come." },
-            "tu": { "form": "avais cru", "english": "you had believed / thought", "sentence": "Tu avais cru cette rumeur?", "sentenceEnglish": "Had you believed that rumor?" },
-            "il/elle": { "form": "avait cru", "english": "he/she had believed / thought", "sentence": "Elle avait cru en lui.", "sentenceEnglish": "She had believed in him." },
-            "on": { "form": "avait cru", "english": "we had believed / thought", "sentence": "On avait cru que c'était fini.", "sentenceEnglish": "We had thought it was over." },
-            "nous": { "form": "avions cru", "english": "we had believed / thought", "sentence": "Nous avions cru ses promesses.", "sentenceEnglish": "We had believed his promises." },
-            "vous": { "form": "aviez cru", "english": "you had believed / thought", "sentence": "Vous aviez cru en nous?", "sentenceEnglish": "Had you believed in us?" },
-            "ils/elles": { "form": "avaient cru", "english": "they had believed / thought", "sentence": "Ils avaient cru au miracle.", "sentenceEnglish": "They had believed in the miracle." }
+            "je": {
+              "form": "avais cru",
+              "english": "I had believed / thought",
+              "sentence": "J'avais cru que tu viendrais.",
+              "sentenceEnglish": "I had thought you would come."
+            },
+            "tu": {
+              "form": "avais cru",
+              "english": "you had believed / thought",
+              "sentence": "Tu avais cru cette rumeur?",
+              "sentenceEnglish": "Had you believed that rumor?"
+            },
+            "il/elle": {
+              "form": "avait cru",
+              "english": "he/she had believed / thought",
+              "sentence": "Elle avait cru en lui.",
+              "sentenceEnglish": "She had believed in him."
+            },
+            "on": {
+              "form": "avait cru",
+              "english": "we had believed / thought",
+              "sentence": "On avait cru que c'était fini.",
+              "sentenceEnglish": "We had thought it was over."
+            },
+            "nous": {
+              "form": "avions cru",
+              "english": "we had believed / thought",
+              "sentence": "Nous avions cru ses promesses.",
+              "sentenceEnglish": "We had believed his promises."
+            },
+            "vous": {
+              "form": "aviez cru",
+              "english": "you had believed / thought",
+              "sentence": "Vous aviez cru en nous?",
+              "sentenceEnglish": "Had you believed in us?"
+            },
+            "ils/elles": {
+              "form": "avaient cru",
+              "english": "they had believed / thought",
+              "sentence": "Ils avaient cru au miracle.",
+              "sentenceEnglish": "They had believed in the miracle."
+            }
           }
         },
         "simple": {
           "name": "Passé Simple",
           "description": "Literary past tense",
           "forms": {
-            "je": { "form": "crus", "english": "I believed / thought", "sentence": "Je crus que tout était perdu.", "sentenceEnglish": "I thought all was lost." },
-            "tu": { "form": "crus", "english": "you believed / thought", "sentence": "Tu crus cette histoire.", "sentenceEnglish": "You believed that story." },
-            "il/elle": { "form": "crut", "english": "he/she believed / thought", "sentence": "Il crut en Dieu.", "sentenceEnglish": "He believed in God." },
-            "on": { "form": "crut", "english": "we believed / thought", "sentence": "On crut au miracle.", "sentenceEnglish": "We believed in the miracle." },
-            "nous": { "form": "crûmes", "english": "we believed / thought", "sentence": "Nous crûmes ses promesses.", "sentenceEnglish": "We believed his promises." },
-            "vous": { "form": "crûtes", "english": "you believed / thought", "sentence": "Vous crûtes en nous.", "sentenceEnglish": "You believed in us." },
-            "ils/elles": { "form": "crurent", "english": "they believed / thought", "sentence": "Ils crurent aux fantômes.", "sentenceEnglish": "They believed in ghosts." }
+            "je": {
+              "form": "crus",
+              "english": "I believed / thought",
+              "sentence": "Je crus que tout était perdu.",
+              "sentenceEnglish": "I thought all was lost."
+            },
+            "tu": {
+              "form": "crus",
+              "english": "you believed / thought",
+              "sentence": "Tu crus cette histoire.",
+              "sentenceEnglish": "You believed that story."
+            },
+            "il/elle": {
+              "form": "crut",
+              "english": "he/she believed / thought",
+              "sentence": "Il crut en Dieu.",
+              "sentenceEnglish": "He believed in God."
+            },
+            "on": {
+              "form": "crut",
+              "english": "we believed / thought",
+              "sentence": "On crut au miracle.",
+              "sentenceEnglish": "We believed in the miracle."
+            },
+            "nous": {
+              "form": "crûmes",
+              "english": "we believed / thought",
+              "sentence": "Nous crûmes ses promesses.",
+              "sentenceEnglish": "We believed his promises."
+            },
+            "vous": {
+              "form": "crûtes",
+              "english": "you believed / thought",
+              "sentence": "Vous crûtes en nous.",
+              "sentenceEnglish": "You believed in us."
+            },
+            "ils/elles": {
+              "form": "crurent",
+              "english": "they believed / thought",
+              "sentence": "Ils crurent aux fantômes.",
+              "sentenceEnglish": "They believed in ghosts."
+            }
           }
         }
       },
@@ -102,26 +313,96 @@
           "name": "Futur Simple",
           "description": "Simple future tense",
           "forms": {
-            "je": { "form": "croirai", "english": "I will believe / think", "sentence": "Je croirai quand je le verrai.", "sentenceEnglish": "I will believe it when I see it." },
-            "tu": { "form": "croiras", "english": "you will believe / think", "sentence": "Tu croiras cette histoire?", "sentenceEnglish": "Will you believe that story?" },
-            "il/elle": { "form": "croira", "english": "he/she will believe / think", "sentence": "Il croira en toi.", "sentenceEnglish": "He will believe in you." },
-            "on": { "form": "croira", "english": "we will believe / think", "sentence": "On croira au miracle.", "sentenceEnglish": "We will believe in the miracle." },
-            "nous": { "form": "croirons", "english": "we will believe / think", "sentence": "Nous croirons en lui.", "sentenceEnglish": "We will believe in him." },
-            "vous": { "form": "croirez", "english": "you will believe / think", "sentence": "Vous croirez ses promesses?", "sentenceEnglish": "Will you believe his promises?" },
-            "ils/elles": { "form": "croiront", "english": "they will believe / think", "sentence": "Elles croiront aux fantômes.", "sentenceEnglish": "They will believe in ghosts." }
+            "je": {
+              "form": "croirai",
+              "english": "I will believe / think",
+              "sentence": "Je croirai quand je le verrai.",
+              "sentenceEnglish": "I will believe it when I see it."
+            },
+            "tu": {
+              "form": "croiras",
+              "english": "you will believe / think",
+              "sentence": "Tu croiras cette histoire?",
+              "sentenceEnglish": "Will you believe that story?"
+            },
+            "il/elle": {
+              "form": "croira",
+              "english": "he/she will believe / think",
+              "sentence": "Il croira en toi.",
+              "sentenceEnglish": "He will believe in you."
+            },
+            "on": {
+              "form": "croira",
+              "english": "we will believe / think",
+              "sentence": "On croira au miracle.",
+              "sentenceEnglish": "We will believe in the miracle."
+            },
+            "nous": {
+              "form": "croirons",
+              "english": "we will believe / think",
+              "sentence": "Nous croirons en lui.",
+              "sentenceEnglish": "We will believe in him."
+            },
+            "vous": {
+              "form": "croirez",
+              "english": "you will believe / think",
+              "sentence": "Vous croirez ses promesses?",
+              "sentenceEnglish": "Will you believe his promises?"
+            },
+            "ils/elles": {
+              "form": "croiront",
+              "english": "they will believe / think",
+              "sentence": "Elles croiront aux fantômes.",
+              "sentenceEnglish": "They will believe in ghosts."
+            }
           }
         },
         "proche": {
           "name": "Futur Proche",
           "description": "Near future tense",
           "forms": {
-            "je": { "form": "vais croire", "english": "I am going to believe / think", "sentence": "Je vais croire cette histoire.", "sentenceEnglish": "I am going to believe that story." },
-            "tu": { "form": "vas croire", "english": "you are going to believe / think", "sentence": "Tu vas croire ça?", "sentenceEnglish": "Are you going to believe that?" },
-            "il/elle": { "form": "va croire", "english": "he/she is going to believe / think", "sentence": "Elle va croire au père Noël.", "sentenceEnglish": "She is going to believe in Santa Claus." },
-            "on": { "form": "va croire", "english": "we are going to believe / think", "sentence": "On va croire en nous.", "sentenceEnglish": "We are going to believe in ourselves." },
-            "nous": { "form": "allons croire", "english": "we are going to believe / think", "sentence": "Nous allons croire ses promesses.", "sentenceEnglish": "We are going to believe his promises." },
-            "vous": { "form": "allez croire", "english": "you are going to believe / think", "sentence": "Vous allez croire cette rumeur?", "sentenceEnglish": "Are you going to believe that rumor?" },
-            "ils/elles": { "form": "vont croire", "english": "they are going to believe / think", "sentence": "Ils vont croire au miracle.", "sentenceEnglish": "They are going to believe in the miracle." }
+            "je": {
+              "form": "croirai",
+              "english": "I am going to believe / think",
+              "sentence": "Je vais croire cette histoire.",
+              "sentenceEnglish": "I am going to believe that story."
+            },
+            "tu": {
+              "form": "croiras",
+              "english": "you are going to believe / think",
+              "sentence": "Tu vas croire ça?",
+              "sentenceEnglish": "Are you going to believe that?"
+            },
+            "il/elle": {
+              "form": "croira",
+              "english": "he/she is going to believe / think",
+              "sentence": "Elle va croire au père Noël.",
+              "sentenceEnglish": "She is going to believe in Santa Claus."
+            },
+            "on": {
+              "form": "croira",
+              "english": "we are going to believe / think",
+              "sentence": "On va croire en nous.",
+              "sentenceEnglish": "We are going to believe in ourselves."
+            },
+            "nous": {
+              "form": "croirons",
+              "english": "we are going to believe / think",
+              "sentence": "Nous allons croire ses promesses.",
+              "sentenceEnglish": "We are going to believe his promises."
+            },
+            "vous": {
+              "form": "croirez",
+              "english": "you are going to believe / think",
+              "sentence": "Vous allez croire cette rumeur?",
+              "sentenceEnglish": "Are you going to believe that rumor?"
+            },
+            "ils/elles": {
+              "form": "croiront",
+              "english": "they are going to believe / think",
+              "sentence": "Ils vont croire au miracle.",
+              "sentenceEnglish": "They are going to believe in the miracle."
+            }
           }
         },
         "antérieur": {
@@ -129,13 +410,48 @@
           "description": "Future perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "aurai cru", "english": "I will have believed / thought", "sentence": "J'aurai cru n'importe quoi.", "sentenceEnglish": "I will have believed anything." },
-            "tu": { "form": "auras cru", "english": "you will have believed / thought", "sentence": "Tu auras cru ses mensonges?", "sentenceEnglish": "Will you have believed his lies?" },
-            "il/elle": { "form": "aura cru", "english": "he/she will have believed / thought", "sentence": "Elle aura cru en lui.", "sentenceEnglish": "She will have believed in him." },
-            "on": { "form": "aura cru", "english": "we will have believed / thought", "sentence": "On aura cru au miracle.", "sentenceEnglish": "We will have believed in the miracle." },
-            "nous": { "form": "aurons cru", "english": "we will have believed / thought", "sentence": "Nous aurons cru ses promesses.", "sentenceEnglish": "We will have believed his promises." },
-            "vous": { "form": "aurez cru", "english": "you will have believed / thought", "sentence": "Vous aurez cru cette histoire?", "sentenceEnglish": "Will you have believed that story?" },
-            "ils/elles": { "form": "auront cru", "english": "they will have believed / thought", "sentence": "Ils auront cru aux fantômes.", "sentenceEnglish": "They will have believed in ghosts." }
+            "je": {
+              "form": "aurai cru",
+              "english": "I will have believed / thought",
+              "sentence": "J'aurai cru n'importe quoi.",
+              "sentenceEnglish": "I will have believed anything."
+            },
+            "tu": {
+              "form": "auras cru",
+              "english": "you will have believed / thought",
+              "sentence": "Tu auras cru ses mensonges?",
+              "sentenceEnglish": "Will you have believed his lies?"
+            },
+            "il/elle": {
+              "form": "aura cru",
+              "english": "he/she will have believed / thought",
+              "sentence": "Elle aura cru en lui.",
+              "sentenceEnglish": "She will have believed in him."
+            },
+            "on": {
+              "form": "aura cru",
+              "english": "we will have believed / thought",
+              "sentence": "On aura cru au miracle.",
+              "sentenceEnglish": "We will have believed in the miracle."
+            },
+            "nous": {
+              "form": "aurons cru",
+              "english": "we will have believed / thought",
+              "sentence": "Nous aurons cru ses promesses.",
+              "sentenceEnglish": "We will have believed his promises."
+            },
+            "vous": {
+              "form": "aurez cru",
+              "english": "you will have believed / thought",
+              "sentence": "Vous aurez cru cette histoire?",
+              "sentenceEnglish": "Will you have believed that story?"
+            },
+            "ils/elles": {
+              "form": "auront cru",
+              "english": "they will have believed / thought",
+              "sentence": "Ils auront cru aux fantômes.",
+              "sentenceEnglish": "They will have believed in ghosts."
+            }
           }
         }
       },

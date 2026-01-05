@@ -394,6 +394,18 @@ select:focus,
     vertical-align: middle;
 }
 
+.cefr-badge {
+    display: inline-block;
+    background: #ffd43b;
+    color: #333;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.5em;
+    margin-left: 10px;
+    font-weight: 600;
+    vertical-align: middle;
+}
+
 .auxiliary-badge {
     display: inline-block;
     background: #4dabf7;

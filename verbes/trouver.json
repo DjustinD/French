@@ -1,6 +1,7 @@
 {
   "infinitive": "trouver",
   "english": "to find",
+  "cefr": "A1",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -10,26 +11,96 @@
           "name": "Présent Simple",
           "description": "Simple present tense",
           "forms": {
-            "je": { "form": "trouve", "english": "I find", "sentence": "Je trouve la solution.", "sentenceEnglish": "I find the solution." },
-            "tu": { "form": "trouves", "english": "you find", "sentence": "Tu trouves ça bizarre?", "sentenceEnglish": "Do you find that strange?" },
-            "il/elle": { "form": "trouve", "english": "he/she finds", "sentence": "Elle trouve toujours ses clés.", "sentenceEnglish": "She always finds her keys." },
-            "on": { "form": "trouve", "english": "we find", "sentence": "On trouve ça intéressant.", "sentenceEnglish": "We find that interesting." },
-            "nous": { "form": "trouvons", "english": "we find", "sentence": "Nous trouvons le chemin.", "sentenceEnglish": "We find the way." },
-            "vous": { "form": "trouvez", "english": "you find", "sentence": "Vous trouvez votre hôtel?", "sentenceEnglish": "Do you find your hotel?" },
-            "ils/elles": { "form": "trouvent", "english": "they find", "sentence": "Ils trouvent des réponses.", "sentenceEnglish": "They find answers." }
+            "je": {
+              "form": "trouve",
+              "english": "I find",
+              "sentence": "Je trouve la solution.",
+              "sentenceEnglish": "I find the solution."
+            },
+            "tu": {
+              "form": "trouves",
+              "english": "you find",
+              "sentence": "Tu trouves ça bizarre?",
+              "sentenceEnglish": "Do you find that strange?"
+            },
+            "il/elle": {
+              "form": "trouve",
+              "english": "he/she finds",
+              "sentence": "Elle trouve toujours ses clés.",
+              "sentenceEnglish": "She always finds her keys."
+            },
+            "on": {
+              "form": "trouve",
+              "english": "we find",
+              "sentence": "On trouve ça intéressant.",
+              "sentenceEnglish": "We find that interesting."
+            },
+            "nous": {
+              "form": "trouvons",
+              "english": "we find",
+              "sentence": "Nous trouvons le chemin.",
+              "sentenceEnglish": "We find the way."
+            },
+            "vous": {
+              "form": "trouvez",
+              "english": "you find",
+              "sentence": "Vous trouvez votre hôtel?",
+              "sentenceEnglish": "Do you find your hotel?"
+            },
+            "ils/elles": {
+              "form": "trouvent",
+              "english": "they find",
+              "sentence": "Ils trouvent des réponses.",
+              "sentenceEnglish": "They find answers."
+            }
           }
         },
         "continu": {
           "name": "Présent Continu",
           "description": "Present continuous tense",
           "forms": {
-            "je": { "form": "suis en train de trouver", "english": "I am finding", "sentence": "Je suis en train de trouver la solution.", "sentenceEnglish": "I am finding the solution." },
-            "tu": { "form": "es en train de trouver", "english": "you are finding", "sentence": "Tu es en train de trouver quelque chose?", "sentenceEnglish": "Are you finding something?" },
-            "il/elle": { "form": "est en train de trouver", "english": "he/she is finding", "sentence": "Elle est en train de trouver ses clés.", "sentenceEnglish": "She is finding her keys." },
-            "on": { "form": "est en train de trouver", "english": "we are finding", "sentence": "On est en train de trouver une idée.", "sentenceEnglish": "We are finding an idea." },
-            "nous": { "form": "sommes en train de trouver", "english": "we are finding", "sentence": "Nous sommes en train de trouver le chemin.", "sentenceEnglish": "We are finding the way." },
-            "vous": { "form": "êtes en train de trouver", "english": "you are finding", "sentence": "Vous êtes en train de trouver votre hôtel?", "sentenceEnglish": "Are you finding your hotel?" },
-            "ils/elles": { "form": "sont en train de trouver", "english": "they are finding", "sentence": "Ils sont en train de trouver des réponses.", "sentenceEnglish": "They are finding answers." }
+            "je": {
+              "form": "trouve",
+              "english": "I am finding",
+              "sentence": "Je suis en train de trouver la solution.",
+              "sentenceEnglish": "I am finding the solution."
+            },
+            "tu": {
+              "form": "trouves",
+              "english": "you are finding",
+              "sentence": "Tu es en train de trouver quelque chose?",
+              "sentenceEnglish": "Are you finding something?"
+            },
+            "il/elle": {
+              "form": "trouve",
+              "english": "he/she is finding",
+              "sentence": "Elle est en train de trouver ses clés.",
+              "sentenceEnglish": "She is finding her keys."
+            },
+            "on": {
+              "form": "trouve",
+              "english": "we are finding",
+              "sentence": "On est en train de trouver une idée.",
+              "sentenceEnglish": "We are finding an idea."
+            },
+            "nous": {
+              "form": "trouvons",
+              "english": "we are finding",
+              "sentence": "Nous sommes en train de trouver le chemin.",
+              "sentenceEnglish": "We are finding the way."
+            },
+            "vous": {
+              "form": "trouvez",
+              "english": "you are finding",
+              "sentence": "Vous êtes en train de trouver votre hôtel?",
+              "sentenceEnglish": "Are you finding your hotel?"
+            },
+            "ils/elles": {
+              "form": "trouvent",
+              "english": "they are finding",
+              "sentence": "Ils sont en train de trouver des réponses.",
+              "sentenceEnglish": "They are finding answers."
+            }
           }
         }
       },
@@ -43,26 +114,96 @@
           "description": "Completed action in the past",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "ai trouvé", "english": "I found / I have found", "sentence": "J'ai trouvé mes clés.", "sentenceEnglish": "I found my keys." },
-            "tu": { "form": "as trouvé", "english": "you found / you have found", "sentence": "Tu as trouvé la réponse?", "sentenceEnglish": "Did you find the answer?" },
-            "il/elle": { "form": "a trouvé", "english": "he/she found / has found", "sentence": "Elle a trouvé un appartement.", "sentenceEnglish": "She found an apartment." },
-            "on": { "form": "a trouvé", "english": "we found / we have found", "sentence": "On a trouvé une solution.", "sentenceEnglish": "We found a solution." },
-            "nous": { "form": "avons trouvé", "english": "we found / we have found", "sentence": "Nous avons trouvé le chemin.", "sentenceEnglish": "We found the way." },
-            "vous": { "form": "avez trouvé", "english": "you found / you have found", "sentence": "Vous avez trouvé votre hôtel?", "sentenceEnglish": "Did you find your hotel?" },
-            "ils/elles": { "form": "ont trouvé", "english": "they found / they have found", "sentence": "Ils ont trouvé un restaurant.", "sentenceEnglish": "They found a restaurant." }
+            "je": {
+              "form": "ai trouvé",
+              "english": "I found / I have found",
+              "sentence": "J'ai trouvé mes clés.",
+              "sentenceEnglish": "I found my keys."
+            },
+            "tu": {
+              "form": "as trouvé",
+              "english": "you found / you have found",
+              "sentence": "Tu as trouvé la réponse?",
+              "sentenceEnglish": "Did you find the answer?"
+            },
+            "il/elle": {
+              "form": "a trouvé",
+              "english": "he/she found / has found",
+              "sentence": "Elle a trouvé un appartement.",
+              "sentenceEnglish": "She found an apartment."
+            },
+            "on": {
+              "form": "a trouvé",
+              "english": "we found / we have found",
+              "sentence": "On a trouvé une solution.",
+              "sentenceEnglish": "We found a solution."
+            },
+            "nous": {
+              "form": "avons trouvé",
+              "english": "we found / we have found",
+              "sentence": "Nous avons trouvé le chemin.",
+              "sentenceEnglish": "We found the way."
+            },
+            "vous": {
+              "form": "avez trouvé",
+              "english": "you found / you have found",
+              "sentence": "Vous avez trouvé votre hôtel?",
+              "sentenceEnglish": "Did you find your hotel?"
+            },
+            "ils/elles": {
+              "form": "ont trouvé",
+              "english": "they found / they have found",
+              "sentence": "Ils ont trouvé un restaurant.",
+              "sentenceEnglish": "They found a restaurant."
+            }
           }
         },
         "imparfait": {
           "name": "Imparfait",
           "description": "Habitual or ongoing past action",
           "forms": {
-            "je": { "form": "trouvais", "english": "I found / I used to find / I was finding", "sentence": "Je trouvais ça difficile.", "sentenceEnglish": "I found that difficult." },
-            "tu": { "form": "trouvais", "english": "you found / you used to find / you were finding", "sentence": "Tu trouvais toujours des excuses.", "sentenceEnglish": "You always used to find excuses." },
-            "il/elle": { "form": "trouvait", "english": "he/she found / used to find / was finding", "sentence": "Elle trouvait ça amusant.", "sentenceEnglish": "She found that amusing." },
-            "on": { "form": "trouvait", "english": "we found / we used to find / we were finding", "sentence": "On trouvait le temps long.", "sentenceEnglish": "We found the time long." },
-            "nous": { "form": "trouvions", "english": "we found / we used to find / we were finding", "sentence": "Nous trouvions ça intéressant.", "sentenceEnglish": "We found that interesting." },
-            "vous": { "form": "trouviez", "english": "you found / you used to find / you were finding", "sentence": "Vous trouviez le chemin facilement?", "sentenceEnglish": "Did you find the way easily?" },
-            "ils/elles": { "form": "trouvaient", "english": "they found / they used to find / they were finding", "sentence": "Ils trouvaient toujours une solution.", "sentenceEnglish": "They always used to find a solution." }
+            "je": {
+              "form": "trouvais",
+              "english": "I found / I used to find / I was finding",
+              "sentence": "Je trouvais ça difficile.",
+              "sentenceEnglish": "I found that difficult."
+            },
+            "tu": {
+              "form": "trouvais",
+              "english": "you found / you used to find / you were finding",
+              "sentence": "Tu trouvais toujours des excuses.",
+              "sentenceEnglish": "You always used to find excuses."
+            },
+            "il/elle": {
+              "form": "trouvait",
+              "english": "he/she found / used to find / was finding",
+              "sentence": "Elle trouvait ça amusant.",
+              "sentenceEnglish": "She found that amusing."
+            },
+            "on": {
+              "form": "trouvait",
+              "english": "we found / we used to find / we were finding",
+              "sentence": "On trouvait le temps long.",
+              "sentenceEnglish": "We found the time long."
+            },
+            "nous": {
+              "form": "trouvions",
+              "english": "we found / we used to find / we were finding",
+              "sentence": "Nous trouvions ça intéressant.",
+              "sentenceEnglish": "We found that interesting."
+            },
+            "vous": {
+              "form": "trouviez",
+              "english": "you found / you used to find / you were finding",
+              "sentence": "Vous trouviez le chemin facilement?",
+              "sentenceEnglish": "Did you find the way easily?"
+            },
+            "ils/elles": {
+              "form": "trouvaient",
+              "english": "they found / they used to find / they were finding",
+              "sentence": "Ils trouvaient toujours une solution.",
+              "sentenceEnglish": "They always used to find a solution."
+            }
           }
         },
         "plus-que-parfait": {
@@ -70,26 +211,96 @@
           "description": "Past perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "avais trouvé", "english": "I had found", "sentence": "J'avais trouvé la réponse.", "sentenceEnglish": "I had found the answer." },
-            "tu": { "form": "avais trouvé", "english": "you had found", "sentence": "Tu avais trouvé tes clés?", "sentenceEnglish": "Had you found your keys?" },
-            "il/elle": { "form": "avait trouvé", "english": "he/she had found", "sentence": "Elle avait trouvé un appartement.", "sentenceEnglish": "She had found an apartment." },
-            "on": { "form": "avait trouvé", "english": "we had found", "sentence": "On avait trouvé une solution.", "sentenceEnglish": "We had found a solution." },
-            "nous": { "form": "avions trouvé", "english": "we had found", "sentence": "Nous avions trouvé le chemin.", "sentenceEnglish": "We had found the way." },
-            "vous": { "form": "aviez trouvé", "english": "you had found", "sentence": "Vous aviez trouvé votre hôtel?", "sentenceEnglish": "Had you found your hotel?" },
-            "ils/elles": { "form": "avaient trouvé", "english": "they had found", "sentence": "Ils avaient trouvé un restaurant.", "sentenceEnglish": "They had found a restaurant." }
+            "je": {
+              "form": "avais trouvé",
+              "english": "I had found",
+              "sentence": "J'avais trouvé la réponse.",
+              "sentenceEnglish": "I had found the answer."
+            },
+            "tu": {
+              "form": "avais trouvé",
+              "english": "you had found",
+              "sentence": "Tu avais trouvé tes clés?",
+              "sentenceEnglish": "Had you found your keys?"
+            },
+            "il/elle": {
+              "form": "avait trouvé",
+              "english": "he/she had found",
+              "sentence": "Elle avait trouvé un appartement.",
+              "sentenceEnglish": "She had found an apartment."
+            },
+            "on": {
+              "form": "avait trouvé",
+              "english": "we had found",
+              "sentence": "On avait trouvé une solution.",
+              "sentenceEnglish": "We had found a solution."
+            },
+            "nous": {
+              "form": "avions trouvé",
+              "english": "we had found",
+              "sentence": "Nous avions trouvé le chemin.",
+              "sentenceEnglish": "We had found the way."
+            },
+            "vous": {
+              "form": "aviez trouvé",
+              "english": "you had found",
+              "sentence": "Vous aviez trouvé votre hôtel?",
+              "sentenceEnglish": "Had you found your hotel?"
+            },
+            "ils/elles": {
+              "form": "avaient trouvé",
+              "english": "they had found",
+              "sentence": "Ils avaient trouvé un restaurant.",
+              "sentenceEnglish": "They had found a restaurant."
+            }
           }
         },
         "simple": {
           "name": "Passé Simple",
           "description": "Literary past tense",
           "forms": {
-            "je": { "form": "trouvai", "english": "I found", "sentence": "Je trouvai la solution.", "sentenceEnglish": "I found the solution." },
-            "tu": { "form": "trouvas", "english": "you found", "sentence": "Tu trouvas la réponse.", "sentenceEnglish": "You found the answer." },
-            "il/elle": { "form": "trouva", "english": "he/she found", "sentence": "Il trouva ses clés.", "sentenceEnglish": "He found his keys." },
-            "on": { "form": "trouva", "english": "we found", "sentence": "On trouva le chemin.", "sentenceEnglish": "We found the way." },
-            "nous": { "form": "trouvâmes", "english": "we found", "sentence": "Nous trouvâmes un abri.", "sentenceEnglish": "We found shelter." },
-            "vous": { "form": "trouvâtes", "english": "you found", "sentence": "Vous trouvâtes la sortie.", "sentenceEnglish": "You found the exit." },
-            "ils/elles": { "form": "trouvèrent", "english": "they found", "sentence": "Ils trouvèrent un trésor.", "sentenceEnglish": "They found a treasure." }
+            "je": {
+              "form": "trouvai",
+              "english": "I found",
+              "sentence": "Je trouvai la solution.",
+              "sentenceEnglish": "I found the solution."
+            },
+            "tu": {
+              "form": "trouvas",
+              "english": "you found",
+              "sentence": "Tu trouvas la réponse.",
+              "sentenceEnglish": "You found the answer."
+            },
+            "il/elle": {
+              "form": "trouva",
+              "english": "he/she found",
+              "sentence": "Il trouva ses clés.",
+              "sentenceEnglish": "He found his keys."
+            },
+            "on": {
+              "form": "trouva",
+              "english": "we found",
+              "sentence": "On trouva le chemin.",
+              "sentenceEnglish": "We found the way."
+            },
+            "nous": {
+              "form": "trouvâmes",
+              "english": "we found",
+              "sentence": "Nous trouvâmes un abri.",
+              "sentenceEnglish": "We found shelter."
+            },
+            "vous": {
+              "form": "trouvâtes",
+              "english": "you found",
+              "sentence": "Vous trouvâtes la sortie.",
+              "sentenceEnglish": "You found the exit."
+            },
+            "ils/elles": {
+              "form": "trouvèrent",
+              "english": "they found",
+              "sentence": "Ils trouvèrent un trésor.",
+              "sentenceEnglish": "They found a treasure."
+            }
           }
         }
       },
@@ -102,26 +313,96 @@
           "name": "Futur Simple",
           "description": "Simple future tense",
           "forms": {
-            "je": { "form": "trouverai", "english": "I will find", "sentence": "Je trouverai la solution.", "sentenceEnglish": "I will find the solution." },
-            "tu": { "form": "trouveras", "english": "you will find", "sentence": "Tu trouveras la réponse.", "sentenceEnglish": "You will find the answer." },
-            "il/elle": { "form": "trouvera", "english": "he/she will find", "sentence": "Il trouvera ses clés.", "sentenceEnglish": "He will find his keys." },
-            "on": { "form": "trouvera", "english": "we will find", "sentence": "On trouvera le chemin.", "sentenceEnglish": "We will find the way." },
-            "nous": { "form": "trouverons", "english": "we will find", "sentence": "Nous trouverons une solution.", "sentenceEnglish": "We will find a solution." },
-            "vous": { "form": "trouverez", "english": "you will find", "sentence": "Vous trouverez votre hôtel facilement.", "sentenceEnglish": "You will find your hotel easily." },
-            "ils/elles": { "form": "trouveront", "english": "they will find", "sentence": "Elles trouveront un appartement.", "sentenceEnglish": "They will find an apartment." }
+            "je": {
+              "form": "trouverai",
+              "english": "I will find",
+              "sentence": "Je trouverai la solution.",
+              "sentenceEnglish": "I will find the solution."
+            },
+            "tu": {
+              "form": "trouveras",
+              "english": "you will find",
+              "sentence": "Tu trouveras la réponse.",
+              "sentenceEnglish": "You will find the answer."
+            },
+            "il/elle": {
+              "form": "trouvera",
+              "english": "he/she will find",
+              "sentence": "Il trouvera ses clés.",
+              "sentenceEnglish": "He will find his keys."
+            },
+            "on": {
+              "form": "trouvera",
+              "english": "we will find",
+              "sentence": "On trouvera le chemin.",
+              "sentenceEnglish": "We will find the way."
+            },
+            "nous": {
+              "form": "trouverons",
+              "english": "we will find",
+              "sentence": "Nous trouverons une solution.",
+              "sentenceEnglish": "We will find a solution."
+            },
+            "vous": {
+              "form": "trouverez",
+              "english": "you will find",
+              "sentence": "Vous trouverez votre hôtel facilement.",
+              "sentenceEnglish": "You will find your hotel easily."
+            },
+            "ils/elles": {
+              "form": "trouveront",
+              "english": "they will find",
+              "sentence": "Elles trouveront un appartement.",
+              "sentenceEnglish": "They will find an apartment."
+            }
           }
         },
         "proche": {
           "name": "Futur Proche",
           "description": "Near future tense",
           "forms": {
-            "je": { "form": "vais trouver", "english": "I am going to find", "sentence": "Je vais trouver une solution.", "sentenceEnglish": "I am going to find a solution." },
-            "tu": { "form": "vas trouver", "english": "you are going to find", "sentence": "Tu vas trouver la réponse?", "sentenceEnglish": "Are you going to find the answer?" },
-            "il/elle": { "form": "va trouver", "english": "he/she is going to find", "sentence": "Elle va trouver ses clés.", "sentenceEnglish": "She is going to find her keys." },
-            "on": { "form": "va trouver", "english": "we are going to find", "sentence": "On va trouver le chemin.", "sentenceEnglish": "We are going to find the way." },
-            "nous": { "form": "allons trouver", "english": "we are going to find", "sentence": "Nous allons trouver un restaurant.", "sentenceEnglish": "We are going to find a restaurant." },
-            "vous": { "form": "allez trouver", "english": "you are going to find", "sentence": "Vous allez trouver votre hôtel?", "sentenceEnglish": "Are you going to find your hotel?" },
-            "ils/elles": { "form": "vont trouver", "english": "they are going to find", "sentence": "Ils vont trouver un appartement.", "sentenceEnglish": "They are going to find an apartment." }
+            "je": {
+              "form": "trouverai",
+              "english": "I am going to find",
+              "sentence": "Je vais trouver une solution.",
+              "sentenceEnglish": "I am going to find a solution."
+            },
+            "tu": {
+              "form": "trouveras",
+              "english": "you are going to find",
+              "sentence": "Tu vas trouver la réponse?",
+              "sentenceEnglish": "Are you going to find the answer?"
+            },
+            "il/elle": {
+              "form": "trouvera",
+              "english": "he/she is going to find",
+              "sentence": "Elle va trouver ses clés.",
+              "sentenceEnglish": "She is going to find her keys."
+            },
+            "on": {
+              "form": "trouvera",
+              "english": "we are going to find",
+              "sentence": "On va trouver le chemin.",
+              "sentenceEnglish": "We are going to find the way."
+            },
+            "nous": {
+              "form": "trouverons",
+              "english": "we are going to find",
+              "sentence": "Nous allons trouver un restaurant.",
+              "sentenceEnglish": "We are going to find a restaurant."
+            },
+            "vous": {
+              "form": "trouverez",
+              "english": "you are going to find",
+              "sentence": "Vous allez trouver votre hôtel?",
+              "sentenceEnglish": "Are you going to find your hotel?"
+            },
+            "ils/elles": {
+              "form": "trouveront",
+              "english": "they are going to find",
+              "sentence": "Ils vont trouver un appartement.",
+              "sentenceEnglish": "They are going to find an apartment."
+            }
           }
         },
         "antérieur": {
@@ -129,13 +410,48 @@
           "description": "Future perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "aurai trouvé", "english": "I will have found", "sentence": "J'aurai trouvé la réponse avant toi.", "sentenceEnglish": "I will have found the answer before you." },
-            "tu": { "form": "auras trouvé", "english": "you will have found", "sentence": "Tu auras trouvé tes clés?", "sentenceEnglish": "Will you have found your keys?" },
-            "il/elle": { "form": "aura trouvé", "english": "he/she will have found", "sentence": "Elle aura trouvé un appartement.", "sentenceEnglish": "She will have found an apartment." },
-            "on": { "form": "aura trouvé", "english": "we will have found", "sentence": "On aura trouvé une solution.", "sentenceEnglish": "We will have found a solution." },
-            "nous": { "form": "aurons trouvé", "english": "we will have found", "sentence": "Nous aurons trouvé le chemin.", "sentenceEnglish": "We will have found the way." },
-            "vous": { "form": "aurez trouvé", "english": "you will have found", "sentence": "Vous aurez trouvé votre hôtel?", "sentenceEnglish": "Will you have found your hotel?" },
-            "ils/elles": { "form": "auront trouvé", "english": "they will have found", "sentence": "Ils auront trouvé un restaurant.", "sentenceEnglish": "They will have found a restaurant." }
+            "je": {
+              "form": "aurai trouvé",
+              "english": "I will have found",
+              "sentence": "J'aurai trouvé la réponse avant toi.",
+              "sentenceEnglish": "I will have found the answer before you."
+            },
+            "tu": {
+              "form": "auras trouvé",
+              "english": "you will have found",
+              "sentence": "Tu auras trouvé tes clés?",
+              "sentenceEnglish": "Will you have found your keys?"
+            },
+            "il/elle": {
+              "form": "aura trouvé",
+              "english": "he/she will have found",
+              "sentence": "Elle aura trouvé un appartement.",
+              "sentenceEnglish": "She will have found an apartment."
+            },
+            "on": {
+              "form": "aura trouvé",
+              "english": "we will have found",
+              "sentence": "On aura trouvé une solution.",
+              "sentenceEnglish": "We will have found a solution."
+            },
+            "nous": {
+              "form": "aurons trouvé",
+              "english": "we will have found",
+              "sentence": "Nous aurons trouvé le chemin.",
+              "sentenceEnglish": "We will have found the way."
+            },
+            "vous": {
+              "form": "aurez trouvé",
+              "english": "you will have found",
+              "sentence": "Vous aurez trouvé votre hôtel?",
+              "sentenceEnglish": "Will you have found your hotel?"
+            },
+            "ils/elles": {
+              "form": "auront trouvé",
+              "english": "they will have found",
+              "sentence": "Ils auront trouvé un restaurant.",
+              "sentenceEnglish": "They will have found a restaurant."
+            }
           }
         }
       },

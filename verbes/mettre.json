@@ -1,6 +1,7 @@
 {
   "infinitive": "mettre",
   "english": "to put / to place / to put on",
+  "cefr": "A1",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -10,26 +11,96 @@
           "name": "Présent Simple",
           "description": "Simple present tense",
           "forms": {
-            "je": { "form": "mets", "english": "I put / I place", "sentence": "Je mets mon manteau.", "sentenceEnglish": "I put on my coat." },
-            "tu": { "form": "mets", "english": "you put / you place", "sentence": "Tu mets du sucre?", "sentenceEnglish": "Do you put sugar in?" },
-            "il/elle": { "form": "met", "english": "he/she puts / places", "sentence": "Elle met la table.", "sentenceEnglish": "She sets the table." },
-            "on": { "form": "met", "english": "we put / we place", "sentence": "On met les clés ici.", "sentenceEnglish": "We put the keys here." },
-            "nous": { "form": "mettons", "english": "we put / we place", "sentence": "Nous mettons nos chaussures.", "sentenceEnglish": "We put on our shoes." },
-            "vous": { "form": "mettez", "english": "you put / you place", "sentence": "Vous mettez combien de temps?", "sentenceEnglish": "How long do you take?" },
-            "ils/elles": { "form": "mettent", "english": "they put / they place", "sentence": "Ils mettent leurs affaires là.", "sentenceEnglish": "They put their things there." }
+            "je": {
+              "form": "mets",
+              "english": "I put / I place",
+              "sentence": "Je mets mon manteau.",
+              "sentenceEnglish": "I put on my coat."
+            },
+            "tu": {
+              "form": "mets",
+              "english": "you put / you place",
+              "sentence": "Tu mets du sucre?",
+              "sentenceEnglish": "Do you put sugar in?"
+            },
+            "il/elle": {
+              "form": "met",
+              "english": "he/she puts / places",
+              "sentence": "Elle met la table.",
+              "sentenceEnglish": "She sets the table."
+            },
+            "on": {
+              "form": "met",
+              "english": "we put / we place",
+              "sentence": "On met les clés ici.",
+              "sentenceEnglish": "We put the keys here."
+            },
+            "nous": {
+              "form": "mettons",
+              "english": "we put / we place",
+              "sentence": "Nous mettons nos chaussures.",
+              "sentenceEnglish": "We put on our shoes."
+            },
+            "vous": {
+              "form": "mettez",
+              "english": "you put / you place",
+              "sentence": "Vous mettez combien de temps?",
+              "sentenceEnglish": "How long do you take?"
+            },
+            "ils/elles": {
+              "form": "mettent",
+              "english": "they put / they place",
+              "sentence": "Ils mettent leurs affaires là.",
+              "sentenceEnglish": "They put their things there."
+            }
           }
         },
         "continu": {
           "name": "Présent Continu",
           "description": "Present continuous tense",
           "forms": {
-            "je": { "form": "suis en train de mettre", "english": "I am putting / placing", "sentence": "Je suis en train de mettre la table.", "sentenceEnglish": "I am setting the table." },
-            "tu": { "form": "es en train de mettre", "english": "you are putting / placing", "sentence": "Tu es en train de mettre quoi?", "sentenceEnglish": "What are you putting on?" },
-            "il/elle": { "form": "est en train de mettre", "english": "he/she is putting / placing", "sentence": "Elle est en train de mettre ses chaussures.", "sentenceEnglish": "She is putting on her shoes." },
-            "on": { "form": "est en train de mettre", "english": "we are putting / placing", "sentence": "On est en train de mettre de l'ordre.", "sentenceEnglish": "We are tidying up." },
-            "nous": { "form": "sommes en train de mettre", "english": "we are putting / placing", "sentence": "Nous sommes en train de mettre nos affaires.", "sentenceEnglish": "We are putting our things away." },
-            "vous": { "form": "êtes en train de mettre", "english": "you are putting / placing", "sentence": "Vous êtes en train de mettre la table?", "sentenceEnglish": "Are you setting the table?" },
-            "ils/elles": { "form": "sont en train de mettre", "english": "they are putting / placing", "sentence": "Ils sont en train de mettre leurs manteaux.", "sentenceEnglish": "They are putting on their coats." }
+            "je": {
+              "form": "mets",
+              "english": "I am putting / placing",
+              "sentence": "Je suis en train de mettre la table.",
+              "sentenceEnglish": "I am setting the table."
+            },
+            "tu": {
+              "form": "mets",
+              "english": "you are putting / placing",
+              "sentence": "Tu es en train de mettre quoi?",
+              "sentenceEnglish": "What are you putting on?"
+            },
+            "il/elle": {
+              "form": "met",
+              "english": "he/she is putting / placing",
+              "sentence": "Elle est en train de mettre ses chaussures.",
+              "sentenceEnglish": "She is putting on her shoes."
+            },
+            "on": {
+              "form": "met",
+              "english": "we are putting / placing",
+              "sentence": "On est en train de mettre de l'ordre.",
+              "sentenceEnglish": "We are tidying up."
+            },
+            "nous": {
+              "form": "mettons",
+              "english": "we are putting / placing",
+              "sentence": "Nous sommes en train de mettre nos affaires.",
+              "sentenceEnglish": "We are putting our things away."
+            },
+            "vous": {
+              "form": "mettez",
+              "english": "you are putting / placing",
+              "sentence": "Vous êtes en train de mettre la table?",
+              "sentenceEnglish": "Are you setting the table?"
+            },
+            "ils/elles": {
+              "form": "mettent",
+              "english": "they are putting / placing",
+              "sentence": "Ils sont en train de mettre leurs manteaux.",
+              "sentenceEnglish": "They are putting on their coats."
+            }
           }
         }
       },
@@ -43,26 +114,96 @@
           "description": "Completed action in the past",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "ai mis", "english": "I put / I placed / I have put", "sentence": "J'ai mis mon manteau.", "sentenceEnglish": "I put on my coat." },
-            "tu": { "form": "as mis", "english": "you put / you placed / you have put", "sentence": "Tu as mis du sel?", "sentenceEnglish": "Did you put salt in?" },
-            "il/elle": { "form": "a mis", "english": "he/she put / placed / has put", "sentence": "Elle a mis la table.", "sentenceEnglish": "She set the table." },
-            "on": { "form": "a mis", "english": "we put / we placed / we have put", "sentence": "On a mis deux heures.", "sentenceEnglish": "We took two hours." },
-            "nous": { "form": "avons mis", "english": "we put / we placed / we have put", "sentence": "Nous avons mis nos affaires là.", "sentenceEnglish": "We put our things there." },
-            "vous": { "form": "avez mis", "english": "you put / you placed / you have put", "sentence": "Vous avez mis combien de temps?", "sentenceEnglish": "How long did you take?" },
-            "ils/elles": { "form": "ont mis", "english": "they put / they placed / they have put", "sentence": "Ils ont mis leurs chaussures.", "sentenceEnglish": "They put on their shoes." }
+            "je": {
+              "form": "ai mis",
+              "english": "I put / I placed / I have put",
+              "sentence": "J'ai mis mon manteau.",
+              "sentenceEnglish": "I put on my coat."
+            },
+            "tu": {
+              "form": "as mis",
+              "english": "you put / you placed / you have put",
+              "sentence": "Tu as mis du sel?",
+              "sentenceEnglish": "Did you put salt in?"
+            },
+            "il/elle": {
+              "form": "a mis",
+              "english": "he/she put / placed / has put",
+              "sentence": "Elle a mis la table.",
+              "sentenceEnglish": "She set the table."
+            },
+            "on": {
+              "form": "a mis",
+              "english": "we put / we placed / we have put",
+              "sentence": "On a mis deux heures.",
+              "sentenceEnglish": "We took two hours."
+            },
+            "nous": {
+              "form": "avons mis",
+              "english": "we put / we placed / we have put",
+              "sentence": "Nous avons mis nos affaires là.",
+              "sentenceEnglish": "We put our things there."
+            },
+            "vous": {
+              "form": "avez mis",
+              "english": "you put / you placed / you have put",
+              "sentence": "Vous avez mis combien de temps?",
+              "sentenceEnglish": "How long did you take?"
+            },
+            "ils/elles": {
+              "form": "ont mis",
+              "english": "they put / they placed / they have put",
+              "sentence": "Ils ont mis leurs chaussures.",
+              "sentenceEnglish": "They put on their shoes."
+            }
           }
         },
         "imparfait": {
           "name": "Imparfait",
           "description": "Habitual or ongoing past action",
           "forms": {
-            "je": { "form": "mettais", "english": "I put / I placed / I used to put", "sentence": "Je mettais toujours un chapeau.", "sentenceEnglish": "I always used to wear a hat." },
-            "tu": { "form": "mettais", "english": "you put / you placed / you used to put", "sentence": "Tu mettais du sucre avant?", "sentenceEnglish": "Did you used to put sugar in?" },
-            "il/elle": { "form": "mettait", "english": "he/she put / placed / used to put", "sentence": "Elle mettait la table tous les soirs.", "sentenceEnglish": "She used to set the table every evening." },
-            "on": { "form": "mettait", "english": "we put / we placed / we used to put", "sentence": "On mettait du temps à arriver.", "sentenceEnglish": "We used to take time to arrive." },
-            "nous": { "form": "mettions", "english": "we put / we placed / we used to put", "sentence": "Nous mettions nos affaires ici.", "sentenceEnglish": "We used to put our things here." },
-            "vous": { "form": "mettiez", "english": "you put / you placed / you used to put", "sentence": "Vous mettiez quoi?", "sentenceEnglish": "What did you use to wear?" },
-            "ils/elles": { "form": "mettaient", "english": "they put / they placed / they used to put", "sentence": "Ils mettaient leurs manteaux là.", "sentenceEnglish": "They used to put their coats there." }
+            "je": {
+              "form": "mettais",
+              "english": "I put / I placed / I used to put",
+              "sentence": "Je mettais toujours un chapeau.",
+              "sentenceEnglish": "I always used to wear a hat."
+            },
+            "tu": {
+              "form": "mettais",
+              "english": "you put / you placed / you used to put",
+              "sentence": "Tu mettais du sucre avant?",
+              "sentenceEnglish": "Did you used to put sugar in?"
+            },
+            "il/elle": {
+              "form": "mettait",
+              "english": "he/she put / placed / used to put",
+              "sentence": "Elle mettait la table tous les soirs.",
+              "sentenceEnglish": "She used to set the table every evening."
+            },
+            "on": {
+              "form": "mettait",
+              "english": "we put / we placed / we used to put",
+              "sentence": "On mettait du temps à arriver.",
+              "sentenceEnglish": "We used to take time to arrive."
+            },
+            "nous": {
+              "form": "mettions",
+              "english": "we put / we placed / we used to put",
+              "sentence": "Nous mettions nos affaires ici.",
+              "sentenceEnglish": "We used to put our things here."
+            },
+            "vous": {
+              "form": "mettiez",
+              "english": "you put / you placed / you used to put",
+              "sentence": "Vous mettiez quoi?",
+              "sentenceEnglish": "What did you use to wear?"
+            },
+            "ils/elles": {
+              "form": "mettaient",
+              "english": "they put / they placed / they used to put",
+              "sentence": "Ils mettaient leurs manteaux là.",
+              "sentenceEnglish": "They used to put their coats there."
+            }
           }
         },
         "plus-que-parfait": {
@@ -70,26 +211,96 @@
           "description": "Past perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "avais mis", "english": "I had put / placed", "sentence": "J'avais mis mon manteau.", "sentenceEnglish": "I had put on my coat." },
-            "tu": { "form": "avais mis", "english": "you had put / placed", "sentence": "Tu avais mis tes clés où?", "sentenceEnglish": "Where had you put your keys?" },
-            "il/elle": { "form": "avait mis", "english": "he/she had put / placed", "sentence": "Elle avait mis la table.", "sentenceEnglish": "She had set the table." },
-            "on": { "form": "avait mis", "english": "we had put / placed", "sentence": "On avait mis longtemps.", "sentenceEnglish": "We had taken a long time." },
-            "nous": { "form": "avions mis", "english": "we had put / placed", "sentence": "Nous avions mis nos affaires là.", "sentenceEnglish": "We had put our things there." },
-            "vous": { "form": "aviez mis", "english": "you had put / placed", "sentence": "Vous aviez mis combien de temps?", "sentenceEnglish": "How long had you taken?" },
-            "ils/elles": { "form": "avaient mis", "english": "they had put / placed", "sentence": "Ils avaient mis leurs chaussures.", "sentenceEnglish": "They had put on their shoes." }
+            "je": {
+              "form": "avais mis",
+              "english": "I had put / placed",
+              "sentence": "J'avais mis mon manteau.",
+              "sentenceEnglish": "I had put on my coat."
+            },
+            "tu": {
+              "form": "avais mis",
+              "english": "you had put / placed",
+              "sentence": "Tu avais mis tes clés où?",
+              "sentenceEnglish": "Where had you put your keys?"
+            },
+            "il/elle": {
+              "form": "avait mis",
+              "english": "he/she had put / placed",
+              "sentence": "Elle avait mis la table.",
+              "sentenceEnglish": "She had set the table."
+            },
+            "on": {
+              "form": "avait mis",
+              "english": "we had put / placed",
+              "sentence": "On avait mis longtemps.",
+              "sentenceEnglish": "We had taken a long time."
+            },
+            "nous": {
+              "form": "avions mis",
+              "english": "we had put / placed",
+              "sentence": "Nous avions mis nos affaires là.",
+              "sentenceEnglish": "We had put our things there."
+            },
+            "vous": {
+              "form": "aviez mis",
+              "english": "you had put / placed",
+              "sentence": "Vous aviez mis combien de temps?",
+              "sentenceEnglish": "How long had you taken?"
+            },
+            "ils/elles": {
+              "form": "avaient mis",
+              "english": "they had put / placed",
+              "sentence": "Ils avaient mis leurs chaussures.",
+              "sentenceEnglish": "They had put on their shoes."
+            }
           }
         },
         "simple": {
           "name": "Passé Simple",
           "description": "Literary past tense",
           "forms": {
-            "je": { "form": "mis", "english": "I put / placed", "sentence": "Je mis mon manteau.", "sentenceEnglish": "I put on my coat." },
-            "tu": { "form": "mis", "english": "you put / placed", "sentence": "Tu mis tes affaires là.", "sentenceEnglish": "You put your things there." },
-            "il/elle": { "form": "mit", "english": "he/she put / placed", "sentence": "Il mit la table.", "sentenceEnglish": "He set the table." },
-            "on": { "form": "mit", "english": "we put / placed", "sentence": "On mit du temps.", "sentenceEnglish": "We took time." },
-            "nous": { "form": "mîmes", "english": "we put / placed", "sentence": "Nous mîmes nos manteaux.", "sentenceEnglish": "We put on our coats." },
-            "vous": { "form": "mîtes", "english": "you put / placed", "sentence": "Vous mîtes vos chaussures.", "sentenceEnglish": "You put on your shoes." },
-            "ils/elles": { "form": "mirent", "english": "they put / placed", "sentence": "Ils mirent leurs affaires là.", "sentenceEnglish": "They put their things there." }
+            "je": {
+              "form": "mis",
+              "english": "I put / placed",
+              "sentence": "Je mis mon manteau.",
+              "sentenceEnglish": "I put on my coat."
+            },
+            "tu": {
+              "form": "mis",
+              "english": "you put / placed",
+              "sentence": "Tu mis tes affaires là.",
+              "sentenceEnglish": "You put your things there."
+            },
+            "il/elle": {
+              "form": "mit",
+              "english": "he/she put / placed",
+              "sentence": "Il mit la table.",
+              "sentenceEnglish": "He set the table."
+            },
+            "on": {
+              "form": "mit",
+              "english": "we put / placed",
+              "sentence": "On mit du temps.",
+              "sentenceEnglish": "We took time."
+            },
+            "nous": {
+              "form": "mîmes",
+              "english": "we put / placed",
+              "sentence": "Nous mîmes nos manteaux.",
+              "sentenceEnglish": "We put on our coats."
+            },
+            "vous": {
+              "form": "mîtes",
+              "english": "you put / placed",
+              "sentence": "Vous mîtes vos chaussures.",
+              "sentenceEnglish": "You put on your shoes."
+            },
+            "ils/elles": {
+              "form": "mirent",
+              "english": "they put / placed",
+              "sentence": "Ils mirent leurs affaires là.",
+              "sentenceEnglish": "They put their things there."
+            }
           }
         }
       },
@@ -102,26 +313,96 @@
           "name": "Futur Simple",
           "description": "Simple future tense",
           "forms": {
-            "je": { "form": "mettrai", "english": "I will put / place", "sentence": "Je mettrai mon manteau.", "sentenceEnglish": "I will put on my coat." },
-            "tu": { "form": "mettras", "english": "you will put / place", "sentence": "Tu mettras la table?", "sentenceEnglish": "Will you set the table?" },
-            "il/elle": { "form": "mettra", "english": "he/she will put / place", "sentence": "Il mettra ses chaussures.", "sentenceEnglish": "He will put on his shoes." },
-            "on": { "form": "mettra", "english": "we will put / place", "sentence": "On mettra du temps.", "sentenceEnglish": "We will take time." },
-            "nous": { "form": "mettrons", "english": "we will put / place", "sentence": "Nous mettrons nos affaires là.", "sentenceEnglish": "We will put our things there." },
-            "vous": { "form": "mettrez", "english": "you will put / place", "sentence": "Vous mettrez combien de temps?", "sentenceEnglish": "How long will you take?" },
-            "ils/elles": { "form": "mettront", "english": "they will put / place", "sentence": "Elles mettront leurs manteaux.", "sentenceEnglish": "They will put on their coats." }
+            "je": {
+              "form": "mettrai",
+              "english": "I will put / place",
+              "sentence": "Je mettrai mon manteau.",
+              "sentenceEnglish": "I will put on my coat."
+            },
+            "tu": {
+              "form": "mettras",
+              "english": "you will put / place",
+              "sentence": "Tu mettras la table?",
+              "sentenceEnglish": "Will you set the table?"
+            },
+            "il/elle": {
+              "form": "mettra",
+              "english": "he/she will put / place",
+              "sentence": "Il mettra ses chaussures.",
+              "sentenceEnglish": "He will put on his shoes."
+            },
+            "on": {
+              "form": "mettra",
+              "english": "we will put / place",
+              "sentence": "On mettra du temps.",
+              "sentenceEnglish": "We will take time."
+            },
+            "nous": {
+              "form": "mettrons",
+              "english": "we will put / place",
+              "sentence": "Nous mettrons nos affaires là.",
+              "sentenceEnglish": "We will put our things there."
+            },
+            "vous": {
+              "form": "mettrez",
+              "english": "you will put / place",
+              "sentence": "Vous mettrez combien de temps?",
+              "sentenceEnglish": "How long will you take?"
+            },
+            "ils/elles": {
+              "form": "mettront",
+              "english": "they will put / place",
+              "sentence": "Elles mettront leurs manteaux.",
+              "sentenceEnglish": "They will put on their coats."
+            }
           }
         },
         "proche": {
           "name": "Futur Proche",
           "description": "Near future tense",
           "forms": {
-            "je": { "form": "vais mettre", "english": "I am going to put / place", "sentence": "Je vais mettre mon manteau.", "sentenceEnglish": "I am going to put on my coat." },
-            "tu": { "form": "vas mettre", "english": "you are going to put / place", "sentence": "Tu vas mettre quoi?", "sentenceEnglish": "What are you going to wear?" },
-            "il/elle": { "form": "va mettre", "english": "he/she is going to put / place", "sentence": "Elle va mettre la table.", "sentenceEnglish": "She is going to set the table." },
-            "on": { "form": "va mettre", "english": "we are going to put / place", "sentence": "On va mettre nos affaires là.", "sentenceEnglish": "We are going to put our things there." },
-            "nous": { "form": "allons mettre", "english": "we are going to put / place", "sentence": "Nous allons mettre nos chaussures.", "sentenceEnglish": "We are going to put on our shoes." },
-            "vous": { "form": "allez mettre", "english": "you are going to put / place", "sentence": "Vous allez mettre combien de temps?", "sentenceEnglish": "How long are you going to take?" },
-            "ils/elles": { "form": "vont mettre", "english": "they are going to put / place", "sentence": "Ils vont mettre leurs manteaux.", "sentenceEnglish": "They are going to put on their coats." }
+            "je": {
+              "form": "mettrai",
+              "english": "I am going to put / place",
+              "sentence": "Je vais mettre mon manteau.",
+              "sentenceEnglish": "I am going to put on my coat."
+            },
+            "tu": {
+              "form": "mettras",
+              "english": "you are going to put / place",
+              "sentence": "Tu vas mettre quoi?",
+              "sentenceEnglish": "What are you going to wear?"
+            },
+            "il/elle": {
+              "form": "mettra",
+              "english": "he/she is going to put / place",
+              "sentence": "Elle va mettre la table.",
+              "sentenceEnglish": "She is going to set the table."
+            },
+            "on": {
+              "form": "mettra",
+              "english": "we are going to put / place",
+              "sentence": "On va mettre nos affaires là.",
+              "sentenceEnglish": "We are going to put our things there."
+            },
+            "nous": {
+              "form": "mettrons",
+              "english": "we are going to put / place",
+              "sentence": "Nous allons mettre nos chaussures.",
+              "sentenceEnglish": "We are going to put on our shoes."
+            },
+            "vous": {
+              "form": "mettrez",
+              "english": "you are going to put / place",
+              "sentence": "Vous allez mettre combien de temps?",
+              "sentenceEnglish": "How long are you going to take?"
+            },
+            "ils/elles": {
+              "form": "mettront",
+              "english": "they are going to put / place",
+              "sentence": "Ils vont mettre leurs manteaux.",
+              "sentenceEnglish": "They are going to put on their coats."
+            }
           }
         },
         "antérieur": {
@@ -129,13 +410,48 @@
           "description": "Future perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "aurai mis", "english": "I will have put / placed", "sentence": "J'aurai mis la table avant ton arrivée.", "sentenceEnglish": "I will have set the table before you arrive." },
-            "tu": { "form": "auras mis", "english": "you will have put / placed", "sentence": "Tu auras mis tes affaires?", "sentenceEnglish": "Will you have put your things away?" },
-            "il/elle": { "form": "aura mis", "english": "he/she will have put / placed", "sentence": "Elle aura mis ses chaussures.", "sentenceEnglish": "She will have put on her shoes." },
-            "on": { "form": "aura mis", "english": "we will have put / placed", "sentence": "On aura mis du temps.", "sentenceEnglish": "We will have taken time." },
-            "nous": { "form": "aurons mis", "english": "we will have put / placed", "sentence": "Nous aurons mis nos manteaux.", "sentenceEnglish": "We will have put on our coats." },
-            "vous": { "form": "aurez mis", "english": "you will have put / placed", "sentence": "Vous aurez mis la table?", "sentenceEnglish": "Will you have set the table?" },
-            "ils/elles": { "form": "auront mis", "english": "they will have put / placed", "sentence": "Ils auront mis leurs affaires là.", "sentenceEnglish": "They will have put their things there." }
+            "je": {
+              "form": "aurai mis",
+              "english": "I will have put / placed",
+              "sentence": "J'aurai mis la table avant ton arrivée.",
+              "sentenceEnglish": "I will have set the table before you arrive."
+            },
+            "tu": {
+              "form": "auras mis",
+              "english": "you will have put / placed",
+              "sentence": "Tu auras mis tes affaires?",
+              "sentenceEnglish": "Will you have put your things away?"
+            },
+            "il/elle": {
+              "form": "aura mis",
+              "english": "he/she will have put / placed",
+              "sentence": "Elle aura mis ses chaussures.",
+              "sentenceEnglish": "She will have put on her shoes."
+            },
+            "on": {
+              "form": "aura mis",
+              "english": "we will have put / placed",
+              "sentence": "On aura mis du temps.",
+              "sentenceEnglish": "We will have taken time."
+            },
+            "nous": {
+              "form": "aurons mis",
+              "english": "we will have put / placed",
+              "sentence": "Nous aurons mis nos manteaux.",
+              "sentenceEnglish": "We will have put on our coats."
+            },
+            "vous": {
+              "form": "aurez mis",
+              "english": "you will have put / placed",
+              "sentence": "Vous aurez mis la table?",
+              "sentenceEnglish": "Will you have set the table?"
+            },
+            "ils/elles": {
+              "form": "auront mis",
+              "english": "they will have put / placed",
+              "sentence": "Ils auront mis leurs affaires là.",
+              "sentenceEnglish": "They will have put their things there."
+            }
           }
         }
       },

@@ -1,6 +1,7 @@
 {
   "infinitive": "penser",
   "english": "to think / to believe",
+  "cefr": "A2",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -10,26 +11,96 @@
           "name": "Présent Simple",
           "description": "Simple present tense",
           "forms": {
-            "je": { "form": "pense", "english": "I think", "sentence": "Je pense que oui.", "sentenceEnglish": "I think so." },
-            "tu": { "form": "penses", "english": "you think", "sentence": "Tu penses à quoi?", "sentenceEnglish": "What are you thinking about?" },
-            "il/elle": { "form": "pense", "english": "he/she thinks", "sentence": "Elle pense souvent à toi.", "sentenceEnglish": "She often thinks about you." },
-            "on": { "form": "pense", "english": "we think", "sentence": "On pense la même chose.", "sentenceEnglish": "We think the same thing." },
-            "nous": { "form": "pensons", "english": "we think", "sentence": "Nous pensons partir demain.", "sentenceEnglish": "We're thinking of leaving tomorrow." },
-            "vous": { "form": "pensez", "english": "you think", "sentence": "Vous pensez qu'il viendra?", "sentenceEnglish": "Do you think he'll come?" },
-            "ils/elles": { "form": "pensent", "english": "they think", "sentence": "Ils pensent à leur avenir.", "sentenceEnglish": "They're thinking about their future." }
+            "je": {
+              "form": "pense",
+              "english": "I think",
+              "sentence": "Je pense que oui.",
+              "sentenceEnglish": "I think so."
+            },
+            "tu": {
+              "form": "penses",
+              "english": "you think",
+              "sentence": "Tu penses à quoi?",
+              "sentenceEnglish": "What are you thinking about?"
+            },
+            "il/elle": {
+              "form": "pense",
+              "english": "he/she thinks",
+              "sentence": "Elle pense souvent à toi.",
+              "sentenceEnglish": "She often thinks about you."
+            },
+            "on": {
+              "form": "pense",
+              "english": "we think",
+              "sentence": "On pense la même chose.",
+              "sentenceEnglish": "We think the same thing."
+            },
+            "nous": {
+              "form": "pensons",
+              "english": "we think",
+              "sentence": "Nous pensons partir demain.",
+              "sentenceEnglish": "We're thinking of leaving tomorrow."
+            },
+            "vous": {
+              "form": "pensez",
+              "english": "you think",
+              "sentence": "Vous pensez qu'il viendra?",
+              "sentenceEnglish": "Do you think he'll come?"
+            },
+            "ils/elles": {
+              "form": "pensent",
+              "english": "they think",
+              "sentence": "Ils pensent à leur avenir.",
+              "sentenceEnglish": "They're thinking about their future."
+            }
           }
         },
         "continu": {
           "name": "Présent Continu",
           "description": "Present continuous tense",
           "forms": {
-            "je": { "form": "suis en train de penser", "english": "I am thinking", "sentence": "Je suis en train de penser à une solution.", "sentenceEnglish": "I am thinking about a solution." },
-            "tu": { "form": "es en train de penser", "english": "you are thinking", "sentence": "Tu es en train de penser à quoi?", "sentenceEnglish": "What are you thinking about?" },
-            "il/elle": { "form": "est en train de penser", "english": "he/she is thinking", "sentence": "Elle est en train de penser à son voyage.", "sentenceEnglish": "She is thinking about her trip." },
-            "on": { "form": "est en train de penser", "english": "we are thinking", "sentence": "On est en train de penser à déménager.", "sentenceEnglish": "We are thinking about moving." },
-            "nous": { "form": "sommes en train de penser", "english": "we are thinking", "sentence": "Nous sommes en train de penser à un plan.", "sentenceEnglish": "We are thinking about a plan." },
-            "vous": { "form": "êtes en train de penser", "english": "you are thinking", "sentence": "Vous êtes en train de penser à quelque chose?", "sentenceEnglish": "Are you thinking about something?" },
-            "ils/elles": { "form": "sont en train de penser", "english": "they are thinking", "sentence": "Ils sont en train de penser à leurs vacances.", "sentenceEnglish": "They are thinking about their vacation." }
+            "je": {
+              "form": "pense",
+              "english": "I am thinking",
+              "sentence": "Je suis en train de penser à une solution.",
+              "sentenceEnglish": "I am thinking about a solution."
+            },
+            "tu": {
+              "form": "penses",
+              "english": "you are thinking",
+              "sentence": "Tu es en train de penser à quoi?",
+              "sentenceEnglish": "What are you thinking about?"
+            },
+            "il/elle": {
+              "form": "pense",
+              "english": "he/she is thinking",
+              "sentence": "Elle est en train de penser à son voyage.",
+              "sentenceEnglish": "She is thinking about her trip."
+            },
+            "on": {
+              "form": "pense",
+              "english": "we are thinking",
+              "sentence": "On est en train de penser à déménager.",
+              "sentenceEnglish": "We are thinking about moving."
+            },
+            "nous": {
+              "form": "pensons",
+              "english": "we are thinking",
+              "sentence": "Nous sommes en train de penser à un plan.",
+              "sentenceEnglish": "We are thinking about a plan."
+            },
+            "vous": {
+              "form": "pensez",
+              "english": "you are thinking",
+              "sentence": "Vous êtes en train de penser à quelque chose?",
+              "sentenceEnglish": "Are you thinking about something?"
+            },
+            "ils/elles": {
+              "form": "pensent",
+              "english": "they are thinking",
+              "sentence": "Ils sont en train de penser à leurs vacances.",
+              "sentenceEnglish": "They are thinking about their vacation."
+            }
           }
         }
       },
@@ -43,26 +114,96 @@
           "description": "Completed action in the past",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "ai pensé", "english": "I thought / I have thought", "sentence": "J'ai pensé à toi.", "sentenceEnglish": "I thought about you." },
-            "tu": { "form": "as pensé", "english": "you thought / you have thought", "sentence": "Tu as pensé à tout?", "sentenceEnglish": "Did you think of everything?" },
-            "il/elle": { "form": "a pensé", "english": "he/she thought / has thought", "sentence": "Elle a pensé que c'était fini.", "sentenceEnglish": "She thought it was over." },
-            "on": { "form": "a pensé", "english": "we thought / we have thought", "sentence": "On a pensé à toi.", "sentenceEnglish": "We thought about you." },
-            "nous": { "form": "avons pensé", "english": "we thought / we have thought", "sentence": "Nous avons pensé la même chose.", "sentenceEnglish": "We thought the same thing." },
-            "vous": { "form": "avez pensé", "english": "you thought / you have thought", "sentence": "Vous avez pensé à apporter le pain?", "sentenceEnglish": "Did you remember to bring the bread?" },
-            "ils/elles": { "form": "ont pensé", "english": "they thought / they have thought", "sentence": "Ils ont pensé qu'il pleuvrait.", "sentenceEnglish": "They thought it would rain." }
+            "je": {
+              "form": "ai pensé",
+              "english": "I thought / I have thought",
+              "sentence": "J'ai pensé à toi.",
+              "sentenceEnglish": "I thought about you."
+            },
+            "tu": {
+              "form": "as pensé",
+              "english": "you thought / you have thought",
+              "sentence": "Tu as pensé à tout?",
+              "sentenceEnglish": "Did you think of everything?"
+            },
+            "il/elle": {
+              "form": "a pensé",
+              "english": "he/she thought / has thought",
+              "sentence": "Elle a pensé que c'était fini.",
+              "sentenceEnglish": "She thought it was over."
+            },
+            "on": {
+              "form": "a pensé",
+              "english": "we thought / we have thought",
+              "sentence": "On a pensé à toi.",
+              "sentenceEnglish": "We thought about you."
+            },
+            "nous": {
+              "form": "avons pensé",
+              "english": "we thought / we have thought",
+              "sentence": "Nous avons pensé la même chose.",
+              "sentenceEnglish": "We thought the same thing."
+            },
+            "vous": {
+              "form": "avez pensé",
+              "english": "you thought / you have thought",
+              "sentence": "Vous avez pensé à apporter le pain?",
+              "sentenceEnglish": "Did you remember to bring the bread?"
+            },
+            "ils/elles": {
+              "form": "ont pensé",
+              "english": "they thought / they have thought",
+              "sentence": "Ils ont pensé qu'il pleuvrait.",
+              "sentenceEnglish": "They thought it would rain."
+            }
           }
         },
         "imparfait": {
           "name": "Imparfait",
           "description": "Habitual or ongoing past action",
           "forms": {
-            "je": { "form": "pensais", "english": "I thought / I was thinking / I used to think", "sentence": "Je pensais à toi.", "sentenceEnglish": "I was thinking about you." },
-            "tu": { "form": "pensais", "english": "you thought / you were thinking / you used to think", "sentence": "Tu pensais quoi?", "sentenceEnglish": "What were you thinking?" },
-            "il/elle": { "form": "pensait", "english": "he/she thought / was thinking / used to think", "sentence": "Elle pensait souvent à lui.", "sentenceEnglish": "She often used to think about him." },
-            "on": { "form": "pensait", "english": "we thought / we were thinking / we used to think", "sentence": "On pensait que c'était vrai.", "sentenceEnglish": "We thought it was true." },
-            "nous": { "form": "pensions", "english": "we thought / we were thinking / we used to think", "sentence": "Nous pensions partir tôt.", "sentenceEnglish": "We were thinking of leaving early." },
-            "vous": { "form": "pensiez", "english": "you thought / you were thinking / you used to think", "sentence": "Vous pensiez à quoi?", "sentenceEnglish": "What were you thinking about?" },
-            "ils/elles": { "form": "pensaient", "english": "they thought / they were thinking / they used to think", "sentence": "Ils pensaient la même chose.", "sentenceEnglish": "They thought the same thing." }
+            "je": {
+              "form": "pensais",
+              "english": "I thought / I was thinking / I used to think",
+              "sentence": "Je pensais à toi.",
+              "sentenceEnglish": "I was thinking about you."
+            },
+            "tu": {
+              "form": "pensais",
+              "english": "you thought / you were thinking / you used to think",
+              "sentence": "Tu pensais quoi?",
+              "sentenceEnglish": "What were you thinking?"
+            },
+            "il/elle": {
+              "form": "pensait",
+              "english": "he/she thought / was thinking / used to think",
+              "sentence": "Elle pensait souvent à lui.",
+              "sentenceEnglish": "She often used to think about him."
+            },
+            "on": {
+              "form": "pensait",
+              "english": "we thought / we were thinking / we used to think",
+              "sentence": "On pensait que c'était vrai.",
+              "sentenceEnglish": "We thought it was true."
+            },
+            "nous": {
+              "form": "pensions",
+              "english": "we thought / we were thinking / we used to think",
+              "sentence": "Nous pensions partir tôt.",
+              "sentenceEnglish": "We were thinking of leaving early."
+            },
+            "vous": {
+              "form": "pensiez",
+              "english": "you thought / you were thinking / you used to think",
+              "sentence": "Vous pensiez à quoi?",
+              "sentenceEnglish": "What were you thinking about?"
+            },
+            "ils/elles": {
+              "form": "pensaient",
+              "english": "they thought / they were thinking / they used to think",
+              "sentence": "Ils pensaient la même chose.",
+              "sentenceEnglish": "They thought the same thing."
+            }
           }
         },
         "plus-que-parfait": {
@@ -70,26 +211,96 @@
           "description": "Past perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "avais pensé", "english": "I had thought", "sentence": "J'avais pensé à tout.", "sentenceEnglish": "I had thought of everything." },
-            "tu": { "form": "avais pensé", "english": "you had thought", "sentence": "Tu avais pensé à quoi?", "sentenceEnglish": "What had you thought about?" },
-            "il/elle": { "form": "avait pensé", "english": "he/she had thought", "sentence": "Elle avait pensé que c'était fini.", "sentenceEnglish": "She had thought it was over." },
-            "on": { "form": "avait pensé", "english": "we had thought", "sentence": "On avait pensé à toi.", "sentenceEnglish": "We had thought about you." },
-            "nous": { "form": "avions pensé", "english": "we had thought", "sentence": "Nous avions pensé la même chose.", "sentenceEnglish": "We had thought the same thing." },
-            "vous": { "form": "aviez pensé", "english": "you had thought", "sentence": "Vous aviez pensé à apporter le pain?", "sentenceEnglish": "Had you remembered to bring the bread?" },
-            "ils/elles": { "form": "avaient pensé", "english": "they had thought", "sentence": "Ils avaient pensé qu'il pleuvrait.", "sentenceEnglish": "They had thought it would rain." }
+            "je": {
+              "form": "avais pensé",
+              "english": "I had thought",
+              "sentence": "J'avais pensé à tout.",
+              "sentenceEnglish": "I had thought of everything."
+            },
+            "tu": {
+              "form": "avais pensé",
+              "english": "you had thought",
+              "sentence": "Tu avais pensé à quoi?",
+              "sentenceEnglish": "What had you thought about?"
+            },
+            "il/elle": {
+              "form": "avait pensé",
+              "english": "he/she had thought",
+              "sentence": "Elle avait pensé que c'était fini.",
+              "sentenceEnglish": "She had thought it was over."
+            },
+            "on": {
+              "form": "avait pensé",
+              "english": "we had thought",
+              "sentence": "On avait pensé à toi.",
+              "sentenceEnglish": "We had thought about you."
+            },
+            "nous": {
+              "form": "avions pensé",
+              "english": "we had thought",
+              "sentence": "Nous avions pensé la même chose.",
+              "sentenceEnglish": "We had thought the same thing."
+            },
+            "vous": {
+              "form": "aviez pensé",
+              "english": "you had thought",
+              "sentence": "Vous aviez pensé à apporter le pain?",
+              "sentenceEnglish": "Had you remembered to bring the bread?"
+            },
+            "ils/elles": {
+              "form": "avaient pensé",
+              "english": "they had thought",
+              "sentence": "Ils avaient pensé qu'il pleuvrait.",
+              "sentenceEnglish": "They had thought it would rain."
+            }
           }
         },
         "simple": {
           "name": "Passé Simple",
           "description": "Literary past tense",
           "forms": {
-            "je": { "form": "pensai", "english": "I thought", "sentence": "Je pensai à lui.", "sentenceEnglish": "I thought about him." },
-            "tu": { "form": "pensas", "english": "you thought", "sentence": "Tu pensas qu'il viendrait.", "sentenceEnglish": "You thought he would come." },
-            "il/elle": { "form": "pensa", "english": "he/she thought", "sentence": "Il pensa à son avenir.", "sentenceEnglish": "He thought about his future." },
-            "on": { "form": "pensa", "english": "we thought", "sentence": "On pensa que c'était vrai.", "sentenceEnglish": "We thought it was true." },
-            "nous": { "form": "pensâmes", "english": "we thought", "sentence": "Nous pensâmes la même chose.", "sentenceEnglish": "We thought the same thing." },
-            "vous": { "form": "pensâtes", "english": "you thought", "sentence": "Vous pensâtes à tout.", "sentenceEnglish": "You thought of everything." },
-            "ils/elles": { "form": "pensèrent", "english": "they thought", "sentence": "Ils pensèrent qu'il pleuvrait.", "sentenceEnglish": "They thought it would rain." }
+            "je": {
+              "form": "pensai",
+              "english": "I thought",
+              "sentence": "Je pensai à lui.",
+              "sentenceEnglish": "I thought about him."
+            },
+            "tu": {
+              "form": "pensas",
+              "english": "you thought",
+              "sentence": "Tu pensas qu'il viendrait.",
+              "sentenceEnglish": "You thought he would come."
+            },
+            "il/elle": {
+              "form": "pensa",
+              "english": "he/she thought",
+              "sentence": "Il pensa à son avenir.",
+              "sentenceEnglish": "He thought about his future."
+            },
+            "on": {
+              "form": "pensa",
+              "english": "we thought",
+              "sentence": "On pensa que c'était vrai.",
+              "sentenceEnglish": "We thought it was true."
+            },
+            "nous": {
+              "form": "pensâmes",
+              "english": "we thought",
+              "sentence": "Nous pensâmes la même chose.",
+              "sentenceEnglish": "We thought the same thing."
+            },
+            "vous": {
+              "form": "pensâtes",
+              "english": "you thought",
+              "sentence": "Vous pensâtes à tout.",
+              "sentenceEnglish": "You thought of everything."
+            },
+            "ils/elles": {
+              "form": "pensèrent",
+              "english": "they thought",
+              "sentence": "Ils pensèrent qu'il pleuvrait.",
+              "sentenceEnglish": "They thought it would rain."
+            }
           }
         }
       },
@@ -102,26 +313,96 @@
           "name": "Futur Simple",
           "description": "Simple future tense",
           "forms": {
-            "je": { "form": "penserai", "english": "I will think", "sentence": "Je penserai à toi.", "sentenceEnglish": "I will think about you." },
-            "tu": { "form": "penseras", "english": "you will think", "sentence": "Tu penseras à moi?", "sentenceEnglish": "Will you think about me?" },
-            "il/elle": { "form": "pensera", "english": "he/she will think", "sentence": "Il pensera que c'est fini.", "sentenceEnglish": "He will think it's over." },
-            "on": { "form": "pensera", "english": "we will think", "sentence": "On pensera à une solution.", "sentenceEnglish": "We will think about a solution." },
-            "nous": { "form": "penserons", "english": "we will think", "sentence": "Nous penserons à toi.", "sentenceEnglish": "We will think about you." },
-            "vous": { "form": "penserez", "english": "you will think", "sentence": "Vous penserez à tout?", "sentenceEnglish": "Will you think of everything?" },
-            "ils/elles": { "form": "penseront", "english": "they will think", "sentence": "Elles penseront à leur avenir.", "sentenceEnglish": "They will think about their future." }
+            "je": {
+              "form": "penserai",
+              "english": "I will think",
+              "sentence": "Je penserai à toi.",
+              "sentenceEnglish": "I will think about you."
+            },
+            "tu": {
+              "form": "penseras",
+              "english": "you will think",
+              "sentence": "Tu penseras à moi?",
+              "sentenceEnglish": "Will you think about me?"
+            },
+            "il/elle": {
+              "form": "pensera",
+              "english": "he/she will think",
+              "sentence": "Il pensera que c'est fini.",
+              "sentenceEnglish": "He will think it's over."
+            },
+            "on": {
+              "form": "pensera",
+              "english": "we will think",
+              "sentence": "On pensera à une solution.",
+              "sentenceEnglish": "We will think about a solution."
+            },
+            "nous": {
+              "form": "penserons",
+              "english": "we will think",
+              "sentence": "Nous penserons à toi.",
+              "sentenceEnglish": "We will think about you."
+            },
+            "vous": {
+              "form": "penserez",
+              "english": "you will think",
+              "sentence": "Vous penserez à tout?",
+              "sentenceEnglish": "Will you think of everything?"
+            },
+            "ils/elles": {
+              "form": "penseront",
+              "english": "they will think",
+              "sentence": "Elles penseront à leur avenir.",
+              "sentenceEnglish": "They will think about their future."
+            }
           }
         },
         "proche": {
           "name": "Futur Proche",
           "description": "Near future tense",
           "forms": {
-            "je": { "form": "vais penser", "english": "I am going to think", "sentence": "Je vais penser à une solution.", "sentenceEnglish": "I am going to think about a solution." },
-            "tu": { "form": "vas penser", "english": "you are going to think", "sentence": "Tu vas penser à quoi?", "sentenceEnglish": "What are you going to think about?" },
-            "il/elle": { "form": "va penser", "english": "he/she is going to think", "sentence": "Elle va penser à toi.", "sentenceEnglish": "She is going to think about you." },
-            "on": { "form": "va penser", "english": "we are going to think", "sentence": "On va penser à tout.", "sentenceEnglish": "We are going to think of everything." },
-            "nous": { "form": "allons penser", "english": "we are going to think", "sentence": "Nous allons penser à un plan.", "sentenceEnglish": "We are going to think about a plan." },
-            "vous": { "form": "allez penser", "english": "you are going to think", "sentence": "Vous allez penser que je suis fou.", "sentenceEnglish": "You are going to think I'm crazy." },
-            "ils/elles": { "form": "vont penser", "english": "they are going to think", "sentence": "Ils vont penser qu'il pleut.", "sentenceEnglish": "They are going to think it's raining." }
+            "je": {
+              "form": "penserai",
+              "english": "I am going to think",
+              "sentence": "Je vais penser à une solution.",
+              "sentenceEnglish": "I am going to think about a solution."
+            },
+            "tu": {
+              "form": "penseras",
+              "english": "you are going to think",
+              "sentence": "Tu vas penser à quoi?",
+              "sentenceEnglish": "What are you going to think about?"
+            },
+            "il/elle": {
+              "form": "pensera",
+              "english": "he/she is going to think",
+              "sentence": "Elle va penser à toi.",
+              "sentenceEnglish": "She is going to think about you."
+            },
+            "on": {
+              "form": "pensera",
+              "english": "we are going to think",
+              "sentence": "On va penser à tout.",
+              "sentenceEnglish": "We are going to think of everything."
+            },
+            "nous": {
+              "form": "penserons",
+              "english": "we are going to think",
+              "sentence": "Nous allons penser à un plan.",
+              "sentenceEnglish": "We are going to think about a plan."
+            },
+            "vous": {
+              "form": "penserez",
+              "english": "you are going to think",
+              "sentence": "Vous allez penser que je suis fou.",
+              "sentenceEnglish": "You are going to think I'm crazy."
+            },
+            "ils/elles": {
+              "form": "penseront",
+              "english": "they are going to think",
+              "sentence": "Ils vont penser qu'il pleut.",
+              "sentenceEnglish": "They are going to think it's raining."
+            }
           }
         },
         "antérieur": {
@@ -129,13 +410,48 @@
           "description": "Future perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "aurai pensé", "english": "I will have thought", "sentence": "J'aurai pensé à tout.", "sentenceEnglish": "I will have thought of everything." },
-            "tu": { "form": "auras pensé", "english": "you will have thought", "sentence": "Tu auras pensé à moi?", "sentenceEnglish": "Will you have thought about me?" },
-            "il/elle": { "form": "aura pensé", "english": "he/she will have thought", "sentence": "Elle aura pensé à toi.", "sentenceEnglish": "She will have thought about you." },
-            "on": { "form": "aura pensé", "english": "we will have thought", "sentence": "On aura pensé la même chose.", "sentenceEnglish": "We will have thought the same thing." },
-            "nous": { "form": "aurons pensé", "english": "we will have thought", "sentence": "Nous aurons pensé à une solution.", "sentenceEnglish": "We will have thought about a solution." },
-            "vous": { "form": "aurez pensé", "english": "you will have thought", "sentence": "Vous aurez pensé à tout?", "sentenceEnglish": "Will you have thought of everything?" },
-            "ils/elles": { "form": "auront pensé", "english": "they will have thought", "sentence": "Ils auront pensé qu'il pleuvrait.", "sentenceEnglish": "They will have thought it would rain." }
+            "je": {
+              "form": "aurai pensé",
+              "english": "I will have thought",
+              "sentence": "J'aurai pensé à tout.",
+              "sentenceEnglish": "I will have thought of everything."
+            },
+            "tu": {
+              "form": "auras pensé",
+              "english": "you will have thought",
+              "sentence": "Tu auras pensé à moi?",
+              "sentenceEnglish": "Will you have thought about me?"
+            },
+            "il/elle": {
+              "form": "aura pensé",
+              "english": "he/she will have thought",
+              "sentence": "Elle aura pensé à toi.",
+              "sentenceEnglish": "She will have thought about you."
+            },
+            "on": {
+              "form": "aura pensé",
+              "english": "we will have thought",
+              "sentence": "On aura pensé la même chose.",
+              "sentenceEnglish": "We will have thought the same thing."
+            },
+            "nous": {
+              "form": "aurons pensé",
+              "english": "we will have thought",
+              "sentence": "Nous aurons pensé à une solution.",
+              "sentenceEnglish": "We will have thought about a solution."
+            },
+            "vous": {
+              "form": "aurez pensé",
+              "english": "you will have thought",
+              "sentence": "Vous aurez pensé à tout?",
+              "sentenceEnglish": "Will you have thought of everything?"
+            },
+            "ils/elles": {
+              "form": "auront pensé",
+              "english": "they will have thought",
+              "sentence": "Ils auront pensé qu'il pleuvrait.",
+              "sentenceEnglish": "They will have thought it would rain."
+            }
           }
         }
       },

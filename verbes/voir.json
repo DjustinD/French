@@ -1,6 +1,7 @@
 {
   "infinitive": "voir",
   "english": "to see",
+  "cefr": "A1",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -10,26 +11,96 @@
           "name": "Présent Simple",
           "description": "Simple present tense",
           "forms": {
-            "je": { "form": "vois", "english": "I see", "sentence": "Je vois la mer.", "sentenceEnglish": "I see the sea." },
-            "tu": { "form": "vois", "english": "you see", "sentence": "Tu vois le problème?", "sentenceEnglish": "Do you see the problem?" },
-            "il/elle": { "form": "voit", "english": "he/she sees", "sentence": "Elle voit un oiseau.", "sentenceEnglish": "She sees a bird." },
-            "on": { "form": "voit", "english": "we see", "sentence": "On voit bien d'ici.", "sentenceEnglish": "We can see well from here." },
-            "nous": { "form": "voyons", "english": "we see", "sentence": "Nous voyons la différence.", "sentenceEnglish": "We see the difference." },
-            "vous": { "form": "voyez", "english": "you see", "sentence": "Vous voyez ce que je veux dire?", "sentenceEnglish": "Do you see what I mean?" },
-            "ils/elles": { "form": "voient", "english": "they see", "sentence": "Ils voient leurs amis.", "sentenceEnglish": "They see their friends." }
+            "je": {
+              "form": "vois",
+              "english": "I see",
+              "sentence": "Je vois la mer.",
+              "sentenceEnglish": "I see the sea."
+            },
+            "tu": {
+              "form": "vois",
+              "english": "you see",
+              "sentence": "Tu vois le problème?",
+              "sentenceEnglish": "Do you see the problem?"
+            },
+            "il/elle": {
+              "form": "voit",
+              "english": "he/she sees",
+              "sentence": "Elle voit un oiseau.",
+              "sentenceEnglish": "She sees a bird."
+            },
+            "on": {
+              "form": "voit",
+              "english": "we see",
+              "sentence": "On voit bien d'ici.",
+              "sentenceEnglish": "We can see well from here."
+            },
+            "nous": {
+              "form": "voyons",
+              "english": "we see",
+              "sentence": "Nous voyons la différence.",
+              "sentenceEnglish": "We see the difference."
+            },
+            "vous": {
+              "form": "voyez",
+              "english": "you see",
+              "sentence": "Vous voyez ce que je veux dire?",
+              "sentenceEnglish": "Do you see what I mean?"
+            },
+            "ils/elles": {
+              "form": "voient",
+              "english": "they see",
+              "sentence": "Ils voient leurs amis.",
+              "sentenceEnglish": "They see their friends."
+            }
           }
         },
         "continu": {
           "name": "Présent Continu",
           "description": "Present continuous tense",
           "forms": {
-            "je": { "form": "suis en train de voir", "english": "I am seeing", "sentence": "Je suis en train de voir un film.", "sentenceEnglish": "I am watching a movie." },
-            "tu": { "form": "es en train de voir", "english": "you are seeing", "sentence": "Tu es en train de voir le médecin?", "sentenceEnglish": "Are you seeing the doctor?" },
-            "il/elle": { "form": "est en train de voir", "english": "he/she is seeing", "sentence": "Elle est en train de voir ses options.", "sentenceEnglish": "She is considering her options." },
-            "on": { "form": "est en train de voir", "english": "we are seeing", "sentence": "On est en train de voir ce qui se passe.", "sentenceEnglish": "We are seeing what's happening." },
-            "nous": { "form": "sommes en train de voir", "english": "we are seeing", "sentence": "Nous sommes en train de voir un spectacle.", "sentenceEnglish": "We are watching a show." },
-            "vous": { "form": "êtes en train de voir", "english": "you are seeing", "sentence": "Vous êtes en train de voir la situation?", "sentenceEnglish": "Are you seeing the situation?" },
-            "ils/elles": { "form": "sont en train de voir", "english": "they are seeing", "sentence": "Ils sont en train de voir leurs parents.", "sentenceEnglish": "They are seeing their parents." }
+            "je": {
+              "form": "vois",
+              "english": "I am seeing",
+              "sentence": "Je suis en train de voir un film.",
+              "sentenceEnglish": "I am watching a movie."
+            },
+            "tu": {
+              "form": "vois",
+              "english": "you are seeing",
+              "sentence": "Tu es en train de voir le médecin?",
+              "sentenceEnglish": "Are you seeing the doctor?"
+            },
+            "il/elle": {
+              "form": "voit",
+              "english": "he/she is seeing",
+              "sentence": "Elle est en train de voir ses options.",
+              "sentenceEnglish": "She is considering her options."
+            },
+            "on": {
+              "form": "voit",
+              "english": "we are seeing",
+              "sentence": "On est en train de voir ce qui se passe.",
+              "sentenceEnglish": "We are seeing what's happening."
+            },
+            "nous": {
+              "form": "voyons",
+              "english": "we are seeing",
+              "sentence": "Nous sommes en train de voir un spectacle.",
+              "sentenceEnglish": "We are watching a show."
+            },
+            "vous": {
+              "form": "voyez",
+              "english": "you are seeing",
+              "sentence": "Vous êtes en train de voir la situation?",
+              "sentenceEnglish": "Are you seeing the situation?"
+            },
+            "ils/elles": {
+              "form": "voient",
+              "english": "they are seeing",
+              "sentence": "Ils sont en train de voir leurs parents.",
+              "sentenceEnglish": "They are seeing their parents."
+            }
           }
         }
       },
@@ -43,26 +114,96 @@
           "description": "Completed action in the past",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "ai vu", "english": "I saw / I have seen", "sentence": "J'ai vu ce film.", "sentenceEnglish": "I saw that movie." },
-            "tu": { "form": "as vu", "english": "you saw / you have seen", "sentence": "Tu as vu Marie?", "sentenceEnglish": "Did you see Marie?" },
-            "il/elle": { "form": "a vu", "english": "he/she saw / has seen", "sentence": "Elle a vu l'accident.", "sentenceEnglish": "She saw the accident." },
-            "on": { "form": "a vu", "english": "we saw / we have seen", "sentence": "On a vu le spectacle.", "sentenceEnglish": "We saw the show." },
-            "nous": { "form": "avons vu", "english": "we saw / we have seen", "sentence": "Nous avons vu la différence.", "sentenceEnglish": "We saw the difference." },
-            "vous": { "form": "avez vu", "english": "you saw / you have seen", "sentence": "Vous avez vu le problème?", "sentenceEnglish": "Did you see the problem?" },
-            "ils/elles": { "form": "ont vu", "english": "they saw / they have seen", "sentence": "Ils ont vu leurs amis.", "sentenceEnglish": "They saw their friends." }
+            "je": {
+              "form": "ai vu",
+              "english": "I saw / I have seen",
+              "sentence": "J'ai vu ce film.",
+              "sentenceEnglish": "I saw that movie."
+            },
+            "tu": {
+              "form": "as vu",
+              "english": "you saw / you have seen",
+              "sentence": "Tu as vu Marie?",
+              "sentenceEnglish": "Did you see Marie?"
+            },
+            "il/elle": {
+              "form": "a vu",
+              "english": "he/she saw / has seen",
+              "sentence": "Elle a vu l'accident.",
+              "sentenceEnglish": "She saw the accident."
+            },
+            "on": {
+              "form": "a vu",
+              "english": "we saw / we have seen",
+              "sentence": "On a vu le spectacle.",
+              "sentenceEnglish": "We saw the show."
+            },
+            "nous": {
+              "form": "avons vu",
+              "english": "we saw / we have seen",
+              "sentence": "Nous avons vu la différence.",
+              "sentenceEnglish": "We saw the difference."
+            },
+            "vous": {
+              "form": "avez vu",
+              "english": "you saw / you have seen",
+              "sentence": "Vous avez vu le problème?",
+              "sentenceEnglish": "Did you see the problem?"
+            },
+            "ils/elles": {
+              "form": "ont vu",
+              "english": "they saw / they have seen",
+              "sentence": "Ils ont vu leurs amis.",
+              "sentenceEnglish": "They saw their friends."
+            }
           }
         },
         "imparfait": {
           "name": "Imparfait",
           "description": "Habitual or ongoing past action",
           "forms": {
-            "je": { "form": "voyais", "english": "I saw / I used to see / I was seeing", "sentence": "Je voyais mes amis souvent.", "sentenceEnglish": "I used to see my friends often." },
-            "tu": { "form": "voyais", "english": "you saw / you used to see / you were seeing", "sentence": "Tu voyais la mer de ta fenêtre?", "sentenceEnglish": "Could you see the sea from your window?" },
-            "il/elle": { "form": "voyait", "english": "he/she saw / used to see / was seeing", "sentence": "Elle voyait bien sans lunettes.", "sentenceEnglish": "She could see well without glasses." },
-            "on": { "form": "voyait", "english": "we saw / we used to see / we were seeing", "sentence": "On voyait tout d'en haut.", "sentenceEnglish": "We could see everything from above." },
-            "nous": { "form": "voyions", "english": "we saw / we used to see / we were seeing", "sentence": "Nous voyions nos parents chaque semaine.", "sentenceEnglish": "We used to see our parents every week." },
-            "vous": { "form": "voyiez", "english": "you saw / you used to see / you were seeing", "sentence": "Vous voyiez la différence?", "sentenceEnglish": "Could you see the difference?" },
-            "ils/elles": { "form": "voyaient", "english": "they saw / they used to see / they were seeing", "sentence": "Ils voyaient leurs amis régulièrement.", "sentenceEnglish": "They used to see their friends regularly." }
+            "je": {
+              "form": "voyais",
+              "english": "I saw / I used to see / I was seeing",
+              "sentence": "Je voyais mes amis souvent.",
+              "sentenceEnglish": "I used to see my friends often."
+            },
+            "tu": {
+              "form": "voyais",
+              "english": "you saw / you used to see / you were seeing",
+              "sentence": "Tu voyais la mer de ta fenêtre?",
+              "sentenceEnglish": "Could you see the sea from your window?"
+            },
+            "il/elle": {
+              "form": "voyait",
+              "english": "he/she saw / used to see / was seeing",
+              "sentence": "Elle voyait bien sans lunettes.",
+              "sentenceEnglish": "She could see well without glasses."
+            },
+            "on": {
+              "form": "voyait",
+              "english": "we saw / we used to see / we were seeing",
+              "sentence": "On voyait tout d'en haut.",
+              "sentenceEnglish": "We could see everything from above."
+            },
+            "nous": {
+              "form": "voyions",
+              "english": "we saw / we used to see / we were seeing",
+              "sentence": "Nous voyions nos parents chaque semaine.",
+              "sentenceEnglish": "We used to see our parents every week."
+            },
+            "vous": {
+              "form": "voyiez",
+              "english": "you saw / you used to see / you were seeing",
+              "sentence": "Vous voyiez la différence?",
+              "sentenceEnglish": "Could you see the difference?"
+            },
+            "ils/elles": {
+              "form": "voyaient",
+              "english": "they saw / they used to see / they were seeing",
+              "sentence": "Ils voyaient leurs amis régulièrement.",
+              "sentenceEnglish": "They used to see their friends regularly."
+            }
           }
         },
         "plus-que-parfait": {
@@ -70,26 +211,96 @@
           "description": "Past perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "avais vu", "english": "I had seen", "sentence": "J'avais vu ce film avant.", "sentenceEnglish": "I had seen that movie before." },
-            "tu": { "form": "avais vu", "english": "you had seen", "sentence": "Tu avais vu le problème?", "sentenceEnglish": "Had you seen the problem?" },
-            "il/elle": { "form": "avait vu", "english": "he/she had seen", "sentence": "Elle avait vu la solution.", "sentenceEnglish": "She had seen the solution." },
-            "on": { "form": "avait vu", "english": "we had seen", "sentence": "On avait vu ce spectacle.", "sentenceEnglish": "We had seen that show." },
-            "nous": { "form": "avions vu", "english": "we had seen", "sentence": "Nous avions vu nos amis.", "sentenceEnglish": "We had seen our friends." },
-            "vous": { "form": "aviez vu", "english": "you had seen", "sentence": "Vous aviez vu l'accident?", "sentenceEnglish": "Had you seen the accident?" },
-            "ils/elles": { "form": "avaient vu", "english": "they had seen", "sentence": "Ils avaient vu la mer.", "sentenceEnglish": "They had seen the sea." }
+            "je": {
+              "form": "avais vu",
+              "english": "I had seen",
+              "sentence": "J'avais vu ce film avant.",
+              "sentenceEnglish": "I had seen that movie before."
+            },
+            "tu": {
+              "form": "avais vu",
+              "english": "you had seen",
+              "sentence": "Tu avais vu le problème?",
+              "sentenceEnglish": "Had you seen the problem?"
+            },
+            "il/elle": {
+              "form": "avait vu",
+              "english": "he/she had seen",
+              "sentence": "Elle avait vu la solution.",
+              "sentenceEnglish": "She had seen the solution."
+            },
+            "on": {
+              "form": "avait vu",
+              "english": "we had seen",
+              "sentence": "On avait vu ce spectacle.",
+              "sentenceEnglish": "We had seen that show."
+            },
+            "nous": {
+              "form": "avions vu",
+              "english": "we had seen",
+              "sentence": "Nous avions vu nos amis.",
+              "sentenceEnglish": "We had seen our friends."
+            },
+            "vous": {
+              "form": "aviez vu",
+              "english": "you had seen",
+              "sentence": "Vous aviez vu l'accident?",
+              "sentenceEnglish": "Had you seen the accident?"
+            },
+            "ils/elles": {
+              "form": "avaient vu",
+              "english": "they had seen",
+              "sentence": "Ils avaient vu la mer.",
+              "sentenceEnglish": "They had seen the sea."
+            }
           }
         },
         "simple": {
           "name": "Passé Simple",
           "description": "Literary past tense",
           "forms": {
-            "je": { "form": "vis", "english": "I saw", "sentence": "Je vis la lumière.", "sentenceEnglish": "I saw the light." },
-            "tu": { "form": "vis", "english": "you saw", "sentence": "Tu vis l'accident.", "sentenceEnglish": "You saw the accident." },
-            "il/elle": { "form": "vit", "english": "he/she saw", "sentence": "Il vit la vérité.", "sentenceEnglish": "He saw the truth." },
-            "on": { "form": "vit", "english": "we saw", "sentence": "On vit la mer.", "sentenceEnglish": "We saw the sea." },
-            "nous": { "form": "vîmes", "english": "we saw", "sentence": "Nous vîmes le spectacle.", "sentenceEnglish": "We saw the show." },
-            "vous": { "form": "vîtes", "english": "you saw", "sentence": "Vous vîtes le problème.", "sentenceEnglish": "You saw the problem." },
-            "ils/elles": { "form": "virent", "english": "they saw", "sentence": "Ils virent leurs amis.", "sentenceEnglish": "They saw their friends." }
+            "je": {
+              "form": "vis",
+              "english": "I saw",
+              "sentence": "Je vis la lumière.",
+              "sentenceEnglish": "I saw the light."
+            },
+            "tu": {
+              "form": "vis",
+              "english": "you saw",
+              "sentence": "Tu vis l'accident.",
+              "sentenceEnglish": "You saw the accident."
+            },
+            "il/elle": {
+              "form": "vit",
+              "english": "he/she saw",
+              "sentence": "Il vit la vérité.",
+              "sentenceEnglish": "He saw the truth."
+            },
+            "on": {
+              "form": "vit",
+              "english": "we saw",
+              "sentence": "On vit la mer.",
+              "sentenceEnglish": "We saw the sea."
+            },
+            "nous": {
+              "form": "vîmes",
+              "english": "we saw",
+              "sentence": "Nous vîmes le spectacle.",
+              "sentenceEnglish": "We saw the show."
+            },
+            "vous": {
+              "form": "vîtes",
+              "english": "you saw",
+              "sentence": "Vous vîtes le problème.",
+              "sentenceEnglish": "You saw the problem."
+            },
+            "ils/elles": {
+              "form": "virent",
+              "english": "they saw",
+              "sentence": "Ils virent leurs amis.",
+              "sentenceEnglish": "They saw their friends."
+            }
           }
         }
       },
@@ -102,26 +313,96 @@
           "name": "Futur Simple",
           "description": "Simple future tense",
           "forms": {
-            "je": { "form": "verrai", "english": "I will see", "sentence": "Je verrai mes amis demain.", "sentenceEnglish": "I will see my friends tomorrow." },
-            "tu": { "form": "verras", "english": "you will see", "sentence": "Tu verras la différence.", "sentenceEnglish": "You will see the difference." },
-            "il/elle": { "form": "verra", "english": "he/she will see", "sentence": "Il verra le médecin lundi.", "sentenceEnglish": "He will see the doctor on Monday." },
-            "on": { "form": "verra", "english": "we will see", "sentence": "On verra bien.", "sentenceEnglish": "We'll see." },
-            "nous": { "form": "verrons", "english": "we will see", "sentence": "Nous verrons ce qui se passe.", "sentenceEnglish": "We will see what happens." },
-            "vous": { "form": "verrez", "english": "you will see", "sentence": "Vous verrez le résultat bientôt.", "sentenceEnglish": "You will see the result soon." },
-            "ils/elles": { "form": "verront", "english": "they will see", "sentence": "Elles verront leurs parents.", "sentenceEnglish": "They will see their parents." }
+            "je": {
+              "form": "verrai",
+              "english": "I will see",
+              "sentence": "Je verrai mes amis demain.",
+              "sentenceEnglish": "I will see my friends tomorrow."
+            },
+            "tu": {
+              "form": "verras",
+              "english": "you will see",
+              "sentence": "Tu verras la différence.",
+              "sentenceEnglish": "You will see the difference."
+            },
+            "il/elle": {
+              "form": "verra",
+              "english": "he/she will see",
+              "sentence": "Il verra le médecin lundi.",
+              "sentenceEnglish": "He will see the doctor on Monday."
+            },
+            "on": {
+              "form": "verra",
+              "english": "we will see",
+              "sentence": "On verra bien.",
+              "sentenceEnglish": "We'll see."
+            },
+            "nous": {
+              "form": "verrons",
+              "english": "we will see",
+              "sentence": "Nous verrons ce qui se passe.",
+              "sentenceEnglish": "We will see what happens."
+            },
+            "vous": {
+              "form": "verrez",
+              "english": "you will see",
+              "sentence": "Vous verrez le résultat bientôt.",
+              "sentenceEnglish": "You will see the result soon."
+            },
+            "ils/elles": {
+              "form": "verront",
+              "english": "they will see",
+              "sentence": "Elles verront leurs parents.",
+              "sentenceEnglish": "They will see their parents."
+            }
           }
         },
         "proche": {
           "name": "Futur Proche",
           "description": "Near future tense",
           "forms": {
-            "je": { "form": "vais voir", "english": "I am going to see", "sentence": "Je vais voir un film ce soir.", "sentenceEnglish": "I am going to see a movie tonight." },
-            "tu": { "form": "vas voir", "english": "you are going to see", "sentence": "Tu vas voir le médecin?", "sentenceEnglish": "Are you going to see the doctor?" },
-            "il/elle": { "form": "va voir", "english": "he/she is going to see", "sentence": "Elle va voir ses amis.", "sentenceEnglish": "She is going to see her friends." },
-            "on": { "form": "va voir", "english": "we are going to see", "sentence": "On va voir ce qui se passe.", "sentenceEnglish": "We are going to see what happens." },
-            "nous": { "form": "allons voir", "english": "we are going to see", "sentence": "Nous allons voir un spectacle.", "sentenceEnglish": "We are going to see a show." },
-            "vous": { "form": "allez voir", "english": "you are going to see", "sentence": "Vous allez voir la différence?", "sentenceEnglish": "Are you going to see the difference?" },
-            "ils/elles": { "form": "vont voir", "english": "they are going to see", "sentence": "Ils vont voir leurs parents.", "sentenceEnglish": "They are going to see their parents." }
+            "je": {
+              "form": "verrai",
+              "english": "I am going to see",
+              "sentence": "Je vais voir un film ce soir.",
+              "sentenceEnglish": "I am going to see a movie tonight."
+            },
+            "tu": {
+              "form": "verras",
+              "english": "you are going to see",
+              "sentence": "Tu vas voir le médecin?",
+              "sentenceEnglish": "Are you going to see the doctor?"
+            },
+            "il/elle": {
+              "form": "verra",
+              "english": "he/she is going to see",
+              "sentence": "Elle va voir ses amis.",
+              "sentenceEnglish": "She is going to see her friends."
+            },
+            "on": {
+              "form": "verra",
+              "english": "we are going to see",
+              "sentence": "On va voir ce qui se passe.",
+              "sentenceEnglish": "We are going to see what happens."
+            },
+            "nous": {
+              "form": "verrons",
+              "english": "we are going to see",
+              "sentence": "Nous allons voir un spectacle.",
+              "sentenceEnglish": "We are going to see a show."
+            },
+            "vous": {
+              "form": "verrez",
+              "english": "you are going to see",
+              "sentence": "Vous allez voir la différence?",
+              "sentenceEnglish": "Are you going to see the difference?"
+            },
+            "ils/elles": {
+              "form": "verront",
+              "english": "they are going to see",
+              "sentence": "Ils vont voir leurs parents.",
+              "sentenceEnglish": "They are going to see their parents."
+            }
           }
         },
         "antérieur": {
@@ -129,13 +410,48 @@
           "description": "Future perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "aurai vu", "english": "I will have seen", "sentence": "J'aurai vu ce film avant toi.", "sentenceEnglish": "I will have seen that movie before you." },
-            "tu": { "form": "auras vu", "english": "you will have seen", "sentence": "Tu auras vu le résultat?", "sentenceEnglish": "Will you have seen the result?" },
-            "il/elle": { "form": "aura vu", "english": "he/she will have seen", "sentence": "Elle aura vu le médecin.", "sentenceEnglish": "She will have seen the doctor." },
-            "on": { "form": "aura vu", "english": "we will have seen", "sentence": "On aura vu le spectacle.", "sentenceEnglish": "We will have seen the show." },
-            "nous": { "form": "aurons vu", "english": "we will have seen", "sentence": "Nous aurons vu nos amis.", "sentenceEnglish": "We will have seen our friends." },
-            "vous": { "form": "aurez vu", "english": "you will have seen", "sentence": "Vous aurez vu la différence?", "sentenceEnglish": "Will you have seen the difference?" },
-            "ils/elles": { "form": "auront vu", "english": "they will have seen", "sentence": "Ils auront vu le problème.", "sentenceEnglish": "They will have seen the problem." }
+            "je": {
+              "form": "aurai vu",
+              "english": "I will have seen",
+              "sentence": "J'aurai vu ce film avant toi.",
+              "sentenceEnglish": "I will have seen that movie before you."
+            },
+            "tu": {
+              "form": "auras vu",
+              "english": "you will have seen",
+              "sentence": "Tu auras vu le résultat?",
+              "sentenceEnglish": "Will you have seen the result?"
+            },
+            "il/elle": {
+              "form": "aura vu",
+              "english": "he/she will have seen",
+              "sentence": "Elle aura vu le médecin.",
+              "sentenceEnglish": "She will have seen the doctor."
+            },
+            "on": {
+              "form": "aura vu",
+              "english": "we will have seen",
+              "sentence": "On aura vu le spectacle.",
+              "sentenceEnglish": "We will have seen the show."
+            },
+            "nous": {
+              "form": "aurons vu",
+              "english": "we will have seen",
+              "sentence": "Nous aurons vu nos amis.",
+              "sentenceEnglish": "We will have seen our friends."
+            },
+            "vous": {
+              "form": "aurez vu",
+              "english": "you will have seen",
+              "sentence": "Vous aurez vu la différence?",
+              "sentenceEnglish": "Will you have seen the difference?"
+            },
+            "ils/elles": {
+              "form": "auront vu",
+              "english": "they will have seen",
+              "sentence": "Ils auront vu le problème.",
+              "sentenceEnglish": "They will have seen the problem."
+            }
           }
         }
       },

@@ -1,6 +1,7 @@
 {
   "infinitive": "apprendre",
   "english": "to learn / to teach",
+  "cefr": "A2",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train d'apprendre",
+              "form": "apprends",
               "english": "I am learning",
               "sentence": "Je suis en train d'apprendre le français.",
               "sentenceEnglish": "I am learning French."
             },
             "tu": {
-              "form": "es en train d'apprendre",
+              "form": "apprends",
               "english": "you are learning",
               "sentence": "Tu es en train d'apprendre quoi?",
               "sentenceEnglish": "What are you learning?"
             },
             "il/elle": {
-              "form": "est en train d'apprendre",
+              "form": "apprend",
               "english": "he/she is learning",
               "sentence": "Elle est en train d'apprendre à nager.",
               "sentenceEnglish": "She is learning to swim."
             },
             "on": {
-              "form": "est en train d'apprendre",
+              "form": "apprend",
               "english": "we are learning",
               "sentence": "On est en train d'apprendre ensemble.",
               "sentenceEnglish": "We are learning together."
             },
             "nous": {
-              "form": "sommes en train d'apprendre",
+              "form": "apprenons",
               "english": "we are learning",
               "sentence": "Nous sommes en train d'apprendre l'anglais.",
               "sentenceEnglish": "We are learning English."
             },
             "vous": {
-              "form": "êtes en train d'apprendre",
+              "form": "apprenez",
               "english": "you are learning",
               "sentence": "Vous êtes en train d'apprendre?",
               "sentenceEnglish": "Are you learning?"
             },
             "ils/elles": {
-              "form": "sont en train d'apprendre",
+              "form": "apprennent",
               "english": "they are learning",
               "sentence": "Ils sont en train d'apprendre la leçon.",
               "sentenceEnglish": "They are learning the lesson."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais apprendre",
+              "form": "apprendrai",
               "english": "I am going to learn",
               "sentence": "Je vais apprendre le français.",
               "sentenceEnglish": "I am going to learn French."
             },
             "tu": {
-              "form": "vas apprendre",
+              "form": "apprendras",
               "english": "you are going to learn",
               "sentence": "Tu vas apprendre quoi?",
               "sentenceEnglish": "What are you going to learn?"
             },
             "il/elle": {
-              "form": "va apprendre",
+              "form": "apprendra",
               "english": "he/she is going to learn",
               "sentence": "Elle va apprendre à nager.",
               "sentenceEnglish": "She is going to learn to swim."
             },
             "on": {
-              "form": "va apprendre",
+              "form": "apprendra",
               "english": "we are going to learn",
               "sentence": "On va apprendre ensemble.",
               "sentenceEnglish": "We are going to learn together."
             },
             "nous": {
-              "form": "allons apprendre",
+              "form": "apprendrons",
               "english": "we are going to learn",
               "sentence": "Nous allons apprendre l'anglais.",
               "sentenceEnglish": "We are going to learn English."
             },
             "vous": {
-              "form": "allez apprendre",
+              "form": "apprendrez",
               "english": "you are going to learn",
               "sentence": "Vous allez apprendre?",
               "sentenceEnglish": "Are you going to learn?"
             },
             "ils/elles": {
-              "form": "vont apprendre",
+              "form": "apprendront",
               "english": "they are going to learn",
               "sentence": "Ils vont apprendre beaucoup.",
               "sentenceEnglish": "They are going to learn a lot."

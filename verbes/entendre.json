@@ -1,6 +1,7 @@
 {
   "infinitive": "entendre",
   "english": "to hear",
+  "cefr": "A1",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de entendre",
+              "form": "entends",
               "english": "I hearing",
               "sentence": "Je suis en train de entendre.",
               "sentenceEnglish": "I hearing."
             },
             "tu": {
-              "form": "es en train de entendre",
+              "form": "entends",
               "english": "you hearing",
               "sentence": "Tu es en train de entendre.",
               "sentenceEnglish": "you hearing."
             },
             "il/elle": {
-              "form": "est en train de entendre",
+              "form": "entend",
               "english": "he/she hearsing",
               "sentence": "Elle est en train de entendre.",
               "sentenceEnglish": "he/she hearsing."
             },
             "on": {
-              "form": "est en train de entendre",
+              "form": "entend",
               "english": "we hearing",
               "sentence": "On est en train de entendre.",
               "sentenceEnglish": "we hearing."
             },
             "nous": {
-              "form": "sommes en train de entendre",
+              "form": "entendons",
               "english": "we hearing",
               "sentence": "Nous sommes en train de entendre.",
               "sentenceEnglish": "we hearing."
             },
             "vous": {
-              "form": "êtes en train de entendre",
+              "form": "entendez",
               "english": "you hearing",
               "sentence": "Vous êtes en train de entendre.",
               "sentenceEnglish": "you hearing."
             },
             "ils/elles": {
-              "form": "sont en train de entendre",
+              "form": "entendent",
               "english": "they hearing",
               "sentence": "Ils sont en train de entendre.",
               "sentenceEnglish": "they hearing."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais entendre",
+              "form": "entendrai",
               "english": "going to I hear",
               "sentence": "Je vais entendre.",
               "sentenceEnglish": "I am going to I hear."
             },
             "tu": {
-              "form": "vas entendre",
+              "form": "entendras",
               "english": "going to you hear",
               "sentence": "Tu vas entendre.",
               "sentenceEnglish": "You are going to you hear."
             },
             "il/elle": {
-              "form": "va entendre",
+              "form": "entendra",
               "english": "going to he/she hears",
               "sentence": "Elle va entendre.",
               "sentenceEnglish": "She is going to he/she hears."
             },
             "on": {
-              "form": "va entendre",
+              "form": "entendra",
               "english": "going to we hear",
               "sentence": "On va entendre.",
               "sentenceEnglish": "We are going to we hear."
             },
             "nous": {
-              "form": "allons entendre",
+              "form": "entendrons",
               "english": "going to we hear",
               "sentence": "Nous allons entendre.",
               "sentenceEnglish": "We are going to we hear."
             },
             "vous": {
-              "form": "allez entendre",
+              "form": "entendrez",
               "english": "going to you hear",
               "sentence": "Vous allez entendre.",
               "sentenceEnglish": "You are going to you hear."
             },
             "ils/elles": {
-              "form": "vont entendre",
+              "form": "entendront",
               "english": "going to they hear",
               "sentence": "Ils vont entendre.",
               "sentenceEnglish": "They are going to they hear."

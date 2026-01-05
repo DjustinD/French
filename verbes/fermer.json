@@ -1,6 +1,7 @@
 {
   "infinitive": "fermer",
   "english": "to close / to shut",
+  "cefr": "A1",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de fermer",
+              "form": "ferme",
               "english": "I am closeing",
               "sentence": "Je suis en train de fermer.",
               "sentenceEnglish": "I am closeing."
             },
             "tu": {
-              "form": "es en train de fermer",
+              "form": "fermes",
               "english": "you are closeing",
               "sentence": "Tu es en train de fermer.",
               "sentenceEnglish": "You are closeing."
             },
             "il/elle": {
-              "form": "est en train de fermer",
+              "form": "ferme",
               "english": "he/she is closesing",
               "sentence": "Elle est en train de fermer.",
               "sentenceEnglish": "She is closesing."
             },
             "on": {
-              "form": "est en train de fermer",
+              "form": "ferme",
               "english": "we are closeing",
               "sentence": "On est en train de fermer.",
               "sentenceEnglish": "We are closeing."
             },
             "nous": {
-              "form": "sommes en train de fermer",
+              "form": "fermons",
               "english": "we are closeing",
               "sentence": "Nous sommes en train de fermer.",
               "sentenceEnglish": "We are closeing."
             },
             "vous": {
-              "form": "êtes en train de fermer",
+              "form": "fermez",
               "english": "you are closeing",
               "sentence": "Vous êtes en train de fermer.",
               "sentenceEnglish": "You are closeing."
             },
             "ils/elles": {
-              "form": "sont en train de fermer",
+              "form": "ferment",
               "english": "they are closeing",
               "sentence": "Ils sont en train de fermer.",
               "sentenceEnglish": "They are closeing."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais fermer",
+              "form": "fermerai",
               "english": "I am going to close",
               "sentence": "Je vais fermer.",
               "sentenceEnglish": "I am going to close."
             },
             "tu": {
-              "form": "vas fermer",
+              "form": "fermeras",
               "english": "you are going to close",
               "sentence": "Tu vas fermer.",
               "sentenceEnglish": "You are going to close."
             },
             "il/elle": {
-              "form": "va fermer",
+              "form": "fermera",
               "english": "he/she is going to closes",
               "sentence": "Elle va fermer.",
               "sentenceEnglish": "She is going to closes."
             },
             "on": {
-              "form": "va fermer",
+              "form": "fermera",
               "english": "we are going to close",
               "sentence": "On va fermer.",
               "sentenceEnglish": "We are going to close."
             },
             "nous": {
-              "form": "allons fermer",
+              "form": "fermerons",
               "english": "we are going to close",
               "sentence": "Nous allons fermer.",
               "sentenceEnglish": "We are going to close."
             },
             "vous": {
-              "form": "allez fermer",
+              "form": "fermerez",
               "english": "you are going to close",
               "sentence": "Vous allez fermer.",
               "sentenceEnglish": "You are going to close."
             },
             "ils/elles": {
-              "form": "vont fermer",
+              "form": "fermeront",
               "english": "they are going to close",
               "sentence": "Ils vont fermer.",
               "sentenceEnglish": "They are going to close."

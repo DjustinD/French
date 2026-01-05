@@ -2,176 +2,281 @@
   {
     "singular": "la famille",
     "plural": "les familles",
+    "french": "famille",
+    "english": "family",
+    "cefr": "A1",
     "image": "images/famille.jpg"
   },
   {
     "singular": "le père",
     "plural": "les pères",
+    "french": "père",
+    "english": "father",
+    "cefr": "A1",
     "image": "images/pere.jpg"
   },
   {
     "singular": "la mère",
     "plural": "les mères",
+    "french": "mère",
+    "english": "mother",
+    "cefr": "A1",
     "image": "images/mere.jpg"
   },
   {
     "singular": "les parents",
     "plural": "les parents",
+    "french": "parents",
+    "english": "parents",
+    "cefr": "A1",
     "image": "images/parents.jpg"
   },
   {
     "singular": "le fils",
     "plural": "les fils",
+    "french": "fils",
+    "english": "son",
+    "cefr": "A1",
     "image": "images/fils.jpg"
   },
   {
     "singular": "la fille",
     "plural": "les filles",
+    "french": "fille",
+    "english": "daughter",
+    "cefr": "A1",
     "image": "images/fille.jpg"
   },
   {
     "singular": "le frère",
     "plural": "les frères",
+    "french": "frère",
+    "english": "brother",
+    "cefr": "A1",
     "image": "images/frere.jpg"
   },
   {
     "singular": "la sœur",
     "plural": "les sœurs",
+    "french": "sœur",
+    "english": "sister",
+    "cefr": "A1",
     "image": "images/soeur.jpg"
   },
   {
     "singular": "le grand-père",
     "plural": "les grands-pères",
+    "french": "grand-père",
+    "english": "grandfather",
+    "cefr": "A1",
     "image": "images/grand_pere.jpg"
   },
   {
     "singular": "la grand-mère",
     "plural": "les grands-mères",
+    "french": "grand-mère",
+    "english": "grandmother",
+    "cefr": "A1",
     "image": "images/grand_mere.jpg"
   },
   {
     "singular": "les grands-parents",
     "plural": "les grands-parents",
+    "french": "grands-parents",
+    "english": "grandparents",
+    "cefr": "A1",
     "image": "images/grands_parents.jpg"
   },
   {
     "singular": "le petit-fils",
     "plural": "les petits-fils",
+    "french": "petit-fils",
+    "english": "grandson",
+    "cefr": "A2",
     "image": "images/petit_fils.jpg"
   },
   {
     "singular": "la petite-fille",
     "plural": "les petites-filles",
+    "french": "petite-fille",
+    "english": "granddaughter",
+    "cefr": "A2",
     "image": "images/petite_fille.jpg"
   },
   {
     "singular": "l'oncle",
     "plural": "les oncles",
+    "french": "oncle",
+    "english": "uncle",
+    "cefr": "A1",
     "image": "images/oncle.jpg"
   },
   {
     "singular": "la tante",
     "plural": "les tantes",
+    "french": "tante",
+    "english": "aunt",
+    "cefr": "A1",
     "image": "images/tante.jpg"
   },
   {
     "singular": "le cousin",
     "plural": "les cousins",
+    "french": "cousin",
+    "english": "cousin",
+    "cefr": "A1",
     "image": "images/cousin.jpg"
   },
   {
     "singular": "la cousine",
     "plural": "les cousines",
+    "french": "cousine",
+    "english": "cousin (female)",
+    "cefr": "A1",
     "image": "images/cousine.jpg"
   },
   {
     "singular": "le neveu",
     "plural": "les neveux",
+    "french": "neveu",
+    "english": "nephew",
+    "cefr": "A2",
     "image": "images/neveu.jpg"
   },
   {
     "singular": "la nièce",
     "plural": "les nièces",
+    "french": "nièce",
+    "english": "niece",
+    "cefr": "A2",
     "image": "images/niece.jpg"
   },
   {
     "singular": "le mari",
     "plural": "les maris",
+    "french": "mari",
+    "english": "husband",
+    "cefr": "A1",
     "image": "images/mari.jpg"
   },
   {
     "singular": "la femme",
     "plural": "les femmes",
+    "french": "femme",
+    "english": "wife",
+    "cefr": "A1",
     "image": "images/femme_epouse.jpg"
   },
   {
     "singular": "l'époux",
     "plural": "les époux",
+    "french": "époux",
+    "english": "spouse (male)",
+    "cefr": "A2",
     "image": "images/epoux.jpg"
   },
   {
     "singular": "l'épouse",
     "plural": "les épouses",
+    "french": "épouse",
+    "english": "spouse (female)",
+    "cefr": "A2",
     "image": "images/epouse.jpg"
   },
   {
     "singular": "le beau-père",
     "plural": "les beaux-pères",
+    "french": "beau-père",
+    "english": "father-in-law",
+    "cefr": "A2",
     "image": "images/beau_pere.jpg"
   },
   {
     "singular": "la belle-mère",
     "plural": "les belles-mères",
+    "french": "belle-mère",
+    "english": "mother-in-law",
+    "cefr": "A2",
     "image": "images/belle_mere.jpg"
   },
   {
     "singular": "le beau-frère",
     "plural": "les beaux-frères",
+    "french": "beau-frère",
+    "english": "brother-in-law",
+    "cefr": "A2",
     "image": "images/beau_frere.jpg"
   },
   {
     "singular": "la belle-sœur",
     "plural": "les belles-sœurs",
+    "french": "belle-sœur",
+    "english": "sister-in-law",
+    "cefr": "A2",
     "image": "images/belle_soeur.jpg"
   },
   {
     "singular": "le gendre",
     "plural": "les gendres",
+    "french": "gendre",
+    "english": "son-in-law",
+    "cefr": "A2",
     "image": "images/gendre.jpg"
   },
   {
     "singular": "la belle-fille",
     "plural": "les belles-filles",
+    "french": "belle-fille",
+    "english": "daughter-in-law",
+    "cefr": "A2",
     "image": "images/belle_fille.jpg"
   },
   {
     "singular": "le bébé",
     "plural": "les bébés",
+    "french": "bébé",
+    "english": "baby",
+    "cefr": "A1",
     "image": "images/bebe.jpg"
   },
   {
     "singular": "l'enfant",
     "plural": "les enfants",
+    "french": "enfant",
+    "english": "child",
+    "cefr": "A1",
     "image": "images/enfant.jpg"
   },
   {
     "singular": "l'adulte",
     "plural": "les adultes",
+    "french": "adulte",
+    "english": "adult",
+    "cefr": "A1",
     "image": "images/adulte.jpg"
   },
   {
     "singular": "le jumeau",
     "plural": "les jumeaux",
+    "french": "jumeau",
+    "english": "twin (male)",
+    "cefr": "A2",
     "image": "images/jumeau.jpg"
   },
   {
     "singular": "la jumelle",
     "plural": "les jumelles",
+    "french": "jumelle",
+    "english": "twin (female)",
+    "cefr": "A2",
     "image": "images/jumelle.jpg"
   },
   {
     "singular": "l'ami",
     "plural": "les amis",
+    "french": "ami",
+    "english": "friend",
+    "cefr": "A1",
     "image": "images/ami.jpg"
   }
 ]

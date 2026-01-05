@@ -3,6 +3,7 @@
     "level": "Niveau 2-3",
     "cefr": "A1.2-A2.1",
     "description": "Un chien joyeux découvre le parc et fait de nouveaux amis",
+    "image": "le_chien_au_parc_cover.jpg",
     "vocabulary_used": {
         "verbes": ["être", "avoir", "courir", "jouer", "sauter", "aimer", "regarder", "trouver", "rencontrer"],
         "noms": ["chien", "parc", "arbre", "fleur", "oiseau", "ami", "balle", "herbe", "soleil"],

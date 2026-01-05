@@ -1,6 +1,7 @@
 {
   "infinitive": "laisser",
   "english": "to leave / to let / to allow",
+  "cefr": "A2",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de laisser",
+              "form": "laisse",
               "english": "I am leaveing",
               "sentence": "Je suis en train de laisser.",
               "sentenceEnglish": "I am leaveing."
             },
             "tu": {
-              "form": "es en train de laisser",
+              "form": "laisses",
               "english": "you are leaveing",
               "sentence": "Tu es en train de laisser.",
               "sentenceEnglish": "You are leaveing."
             },
             "il/elle": {
-              "form": "est en train de laisser",
+              "form": "laisse",
               "english": "he/she is leavesing",
               "sentence": "Elle est en train de laisser.",
               "sentenceEnglish": "She is leavesing."
             },
             "on": {
-              "form": "est en train de laisser",
+              "form": "laisse",
               "english": "we are leting",
               "sentence": "On est en train de laisser.",
               "sentenceEnglish": "We are leting."
             },
             "nous": {
-              "form": "sommes en train de laisser",
+              "form": "laissons",
               "english": "we are leaveing",
               "sentence": "Nous sommes en train de laisser.",
               "sentenceEnglish": "We are leaveing."
             },
             "vous": {
-              "form": "êtes en train de laisser",
+              "form": "laissez",
               "english": "you are leting",
               "sentence": "Vous êtes en train de laisser.",
               "sentenceEnglish": "You are leting."
             },
             "ils/elles": {
-              "form": "sont en train de laisser",
+              "form": "laissent",
               "english": "they are leaveing",
               "sentence": "Ils sont en train de laisser.",
               "sentenceEnglish": "They are leaveing."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais laisser",
+              "form": "laisserai",
               "english": "I am going to leave",
               "sentence": "Je vais laisser.",
               "sentenceEnglish": "I am going to leave."
             },
             "tu": {
-              "form": "vas laisser",
+              "form": "laisseras",
               "english": "you are going to leave",
               "sentence": "Tu vas laisser.",
               "sentenceEnglish": "You are going to leave."
             },
             "il/elle": {
-              "form": "va laisser",
+              "form": "laissera",
               "english": "he/she is going to leaves",
               "sentence": "Elle va laisser.",
               "sentenceEnglish": "She is going to leaves."
             },
             "on": {
-              "form": "va laisser",
+              "form": "laissera",
               "english": "we are going to let",
               "sentence": "On va laisser.",
               "sentenceEnglish": "We are going to let."
             },
             "nous": {
-              "form": "allons laisser",
+              "form": "laisserons",
               "english": "we are going to leave",
               "sentence": "Nous allons laisser.",
               "sentenceEnglish": "We are going to leave."
             },
             "vous": {
-              "form": "allez laisser",
+              "form": "laisserez",
               "english": "you are going to let",
               "sentence": "Vous allez laisser.",
               "sentenceEnglish": "You are going to let."
             },
             "ils/elles": {
-              "form": "vont laisser",
+              "form": "laisseront",
               "english": "they are going to leave",
               "sentence": "Ils vont laisser.",
               "sentenceEnglish": "They are going to leave."

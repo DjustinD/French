@@ -1,6 +1,7 @@
 {
   "infinitive": "commencer",
   "english": "to begin / to start",
+  "cefr": "A1",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de commencer",
+              "form": "commence",
               "english": "I am beginning",
               "sentence": "Je suis en train de commencer.",
               "sentenceEnglish": "I am beginning."
             },
             "tu": {
-              "form": "es en train de commencer",
+              "form": "commences",
               "english": "you are beginning",
               "sentence": "Tu es en train de commencer?",
               "sentenceEnglish": "Are you beginning?"
             },
             "il/elle": {
-              "form": "est en train de commencer",
+              "form": "commence",
               "english": "he/she is beginning",
               "sentence": "Elle est en train de commencer.",
               "sentenceEnglish": "She is beginning."
             },
             "on": {
-              "form": "est en train de commencer",
+              "form": "commence",
               "english": "we are beginning",
               "sentence": "On est en train de commencer.",
               "sentenceEnglish": "We are beginning."
             },
             "nous": {
-              "form": "sommes en train de commencer",
+              "form": "commençons",
               "english": "we are beginning",
               "sentence": "Nous sommes en train de commencer.",
               "sentenceEnglish": "We are beginning."
             },
             "vous": {
-              "form": "êtes en train de commencer",
+              "form": "commencez",
               "english": "you are beginning",
               "sentence": "Vous êtes en train de commencer?",
               "sentenceEnglish": "Are you beginning?"
             },
             "ils/elles": {
-              "form": "sont en train de commencer",
+              "form": "commencent",
               "english": "they are beginning",
               "sentence": "Ils sont en train de commencer.",
               "sentenceEnglish": "They are beginning."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais commencer",
+              "form": "commencerai",
               "english": "I am going to begin",
               "sentence": "Je vais commencer maintenant.",
               "sentenceEnglish": "I am going to start now."
             },
             "tu": {
-              "form": "vas commencer",
+              "form": "commenceras",
               "english": "you are going to begin",
               "sentence": "Tu vas commencer?",
               "sentenceEnglish": "Are you going to start?"
             },
             "il/elle": {
-              "form": "va commencer",
+              "form": "commencera",
               "english": "he/she is going to begin",
               "sentence": "Elle va commencer bientôt.",
               "sentenceEnglish": "She is going to start soon."
             },
             "on": {
-              "form": "va commencer",
+              "form": "commencera",
               "english": "we are going to begin",
               "sentence": "On va commencer.",
               "sentenceEnglish": "We are going to start."
             },
             "nous": {
-              "form": "allons commencer",
+              "form": "commencerons",
               "english": "we are going to begin",
               "sentence": "Nous allons commencer.",
               "sentenceEnglish": "We are going to start."
             },
             "vous": {
-              "form": "allez commencer",
+              "form": "commencerez",
               "english": "you are going to begin",
               "sentence": "Vous allez commencer?",
               "sentenceEnglish": "Are you going to start?"
             },
             "ils/elles": {
-              "form": "vont commencer",
+              "form": "commenceront",
               "english": "they are going to begin",
               "sentence": "Ils vont commencer le projet.",
               "sentenceEnglish": "They are going to start the project."

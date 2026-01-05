@@ -1,6 +1,7 @@
 {
   "infinitive": "choisir",
   "english": "to choose",
+  "cefr": "A2",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de choisir",
+              "form": "choisis",
               "english": "I am choosing",
               "sentence": "Je suis en train de choisir.",
               "sentenceEnglish": "I am choosing."
             },
             "tu": {
-              "form": "es en train de choisir",
+              "form": "choisis",
               "english": "you are choosing",
               "sentence": "Tu es en train de choisir?",
               "sentenceEnglish": "Are you choosing?"
             },
             "il/elle": {
-              "form": "est en train de choisir",
+              "form": "choisit",
               "english": "he/she is choosing",
               "sentence": "Elle est en train de choisir.",
               "sentenceEnglish": "She is choosing."
             },
             "on": {
-              "form": "est en train de choisir",
+              "form": "choisit",
               "english": "we are choosing",
               "sentence": "On est en train de choisir.",
               "sentenceEnglish": "We are choosing."
             },
             "nous": {
-              "form": "sommes en train de choisir",
+              "form": "choisissons",
               "english": "we are choosing",
               "sentence": "Nous sommes en train de choisir.",
               "sentenceEnglish": "We are choosing."
             },
             "vous": {
-              "form": "êtes en train de choisir",
+              "form": "choisissez",
               "english": "you are choosing",
               "sentence": "Vous êtes en train de choisir?",
               "sentenceEnglish": "Are you choosing?"
             },
             "ils/elles": {
-              "form": "sont en train de choisir",
+              "form": "choisissent",
               "english": "they are choosing",
               "sentence": "Ils sont en train de choisir.",
               "sentenceEnglish": "They are choosing."
@@ -295,7 +296,7 @@
               "sentenceEnglish": "You chose."
             },
             "ils/elles": {
-              "form": "choisirent",
+              "form": "choisiront",
               "english": "they chose",
               "sentence": "Ils choisirent.",
               "sentenceEnglish": "They chose."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais choisir",
+              "form": "choisirai",
               "english": "I am going to choose",
               "sentence": "Je vais choisir.",
               "sentenceEnglish": "I am going to choose."
             },
             "tu": {
-              "form": "vas choisir",
+              "form": "choisiras",
               "english": "you are going to choose",
               "sentence": "Tu vas choisir?",
               "sentenceEnglish": "Are you going to choose?"
             },
             "il/elle": {
-              "form": "va choisir",
+              "form": "choisira",
               "english": "he/she is going to choose",
               "sentence": "Elle va choisir.",
               "sentenceEnglish": "She is going to choose."
             },
             "on": {
-              "form": "va choisir",
+              "form": "choisira",
               "english": "we are going to choose",
               "sentence": "On va choisir.",
               "sentenceEnglish": "We are going to choose."
             },
             "nous": {
-              "form": "allons choisir",
+              "form": "choisirons",
               "english": "we are going to choose",
               "sentence": "Nous allons choisir.",
               "sentenceEnglish": "We are going to choose."
             },
             "vous": {
-              "form": "allez choisir",
+              "form": "choisirez",
               "english": "you are going to choose",
               "sentence": "Vous allez choisir?",
               "sentenceEnglish": "Are you going to choose?"
             },
             "ils/elles": {
-              "form": "vont choisir",
+              "form": "choisiront",
               "english": "they are going to choose",
               "sentence": "Ils vont choisir.",
               "sentenceEnglish": "They are going to choose."

@@ -5,6 +5,7 @@
         "masculinPlural": "rouges",
         "femininPlural": "rouges",
         "english": "red",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -13,14 +14,12 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "une voiture rouge",
-                "english": "a red car"
-            },
-            {
-                "french": "des pommes rouges",
-                "english": "red apples"
-            }
+            { "french": "une voiture rouge", "english": "a red car" },
+            { "french": "des pommes rouges", "english": "red apples" },
+            { "french": "le drapeau est rouge", "english": "the flag is red" },
+            { "french": "une robe rouge", "english": "a red dress" },
+            { "french": "un coeur rouge", "english": "a red heart" },
+            { "french": "le ciel devient rouge au coucher du soleil", "english": "the sky turns red at sunset" }
         ],
         "image": null
     },
@@ -30,6 +29,7 @@
         "masculinPlural": "bleus",
         "femininPlural": "bleues",
         "english": "blue",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -38,14 +38,12 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un ciel bleu",
-                "english": "a blue sky"
-            },
-            {
-                "french": "une mer bleue",
-                "english": "a blue sea"
-            }
+            { "french": "un ciel bleu", "english": "a blue sky" },
+            { "french": "une mer bleue", "english": "a blue sea" },
+            { "french": "une chemise bleue", "english": "a blue shirt" },
+            { "french": "des yeux bleus", "english": "blue eyes" },
+            { "french": "un bleu profond", "english": "a deep blue" },
+            { "french": "elle porte une robe bleue", "english": "she is wearing a blue dress" }
         ],
         "image": null
     },
@@ -55,6 +53,7 @@
         "masculinPlural": "verts",
         "femininPlural": "vertes",
         "english": "green",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -63,14 +62,12 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un arbre vert",
-                "english": "a green tree"
-            },
-            {
-                "french": "une pomme verte",
-                "english": "a green apple"
-            }
+            { "french": "un arbre vert", "english": "a green tree" },
+            { "french": "une pomme verte", "english": "a green apple" },
+            { "french": "l'herbe est verte", "english": "the grass is green" },
+            { "french": "un t-shirt vert", "english": "a green t-shirt" },
+            { "french": "un feu vert signifie 'avancer'", "english": "a green light means 'go'" },
+            { "french": "un jardin vert", "english": "a green garden" }
         ],
         "image": null
     },
@@ -80,6 +77,7 @@
         "masculinPlural": "jaunes",
         "femininPlural": "jaunes",
         "english": "yellow",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -88,14 +86,12 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un citron jaune",
-                "english": "a yellow lemon"
-            },
-            {
-                "french": "des fleurs jaunes",
-                "english": "yellow flowers"
-            }
+            { "french": "un citron jaune", "english": "a yellow lemon" },
+            { "french": "des fleurs jaunes", "english": "yellow flowers" },
+            { "french": "un canari jaune", "english": "a yellow canary" },
+            { "french": "un taxi jaune", "english": "a yellow taxi" },
+            { "french": "une robe jaune", "english": "a yellow dress" },
+            { "french": "le soleil est jaune", "english": "the sun is yellow" }
         ],
         "image": null
     },
@@ -105,6 +101,7 @@
         "masculinPlural": "noirs",
         "femininPlural": "noires",
         "english": "black",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -113,14 +110,12 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un chat noir",
-                "english": "a black cat"
-            },
-            {
-                "french": "une robe noire",
-                "english": "a black dress"
-            }
+            { "french": "un chat noir", "english": "a black cat" },
+            { "french": "une robe noire", "english": "a black dress" },
+            { "french": "des chaussures noires", "english": "black shoes" },
+            { "french": "un sac noir", "english": "a black bag" },
+            { "french": "le ciel est noir la nuit", "english": "the sky is black at night" },
+            { "french": "une montre noire", "english": "a black watch" }
         ],
         "image": null
     },
@@ -130,6 +125,7 @@
         "masculinPlural": "blancs",
         "femininPlural": "blanches",
         "english": "white",
+        "cefr": "A1",
         "position": "après",
         "irregular": true,
         "formChanges": {
@@ -138,14 +134,12 @@
             "femPlur": "blanches"
         },
         "examples": [
-            {
-                "french": "un cheval blanc",
-                "english": "a white horse"
-            },
-            {
-                "french": "une chemise blanche",
-                "english": "a white shirt"
-            }
+            { "french": "un cheval blanc", "english": "a white horse" },
+            { "french": "une chemise blanche", "english": "a white shirt" },
+            { "french": "la neige est blanche", "english": "the snow is white" },
+            { "french": "un mur blanc", "english": "a white wall" },
+            { "french": "des fleurs blanches", "english": "white flowers" },
+            { "french": "un nuage blanc", "english": "a white cloud" }
         ],
         "image": null
     },
@@ -155,6 +149,7 @@
         "masculinPlural": "gris",
         "femininPlural": "grises",
         "english": "gray",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -163,14 +158,12 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un nuage gris",
-                "english": "a gray cloud"
-            },
-            {
-                "french": "une souris grise",
-                "english": "a gray mouse"
-            }
+            { "french": "un nuage gris", "english": "a gray cloud" },
+            { "french": "une souris grise", "english": "a gray mouse" },
+            { "french": "une voiture grise", "english": "a gray car" },
+            { "french": "le ciel est gris", "english": "the sky is gray" },
+            { "french": "une tenue grise", "english": "a gray outfit" },
+            { "french": "des cheveux gris", "english": "gray hair" }
         ],
         "image": null
     },
@@ -180,6 +173,7 @@
         "masculinPlural": "roses",
         "femininPlural": "roses",
         "english": "pink",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -188,14 +182,12 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un bonbon rose",
-                "english": "a pink candy"
-            },
-            {
-                "french": "des roses roses",
-                "english": "pink roses"
-            }
+            { "french": "un bonbon rose", "english": "a pink candy" },
+            { "french": "des roses roses", "english": "pink roses" },
+            { "french": "une robe rose", "english": "a pink dress" },
+            { "french": "une chambre rose", "english": "a pink room" },
+            { "french": "les nuages sont roses au coucher du soleil", "english": "the clouds are pink at sunset" },
+            { "french": "un chapeau rose", "english": "a pink hat" }
         ],
         "image": null
     },
@@ -205,6 +197,7 @@
         "masculinPlural": "orange",
         "femininPlural": "orange",
         "english": "orange",
+        "cefr": "A1",
         "position": "après",
         "irregular": true,
         "formChanges": {
@@ -213,14 +206,12 @@
             "femPlur": "invariable"
         },
         "examples": [
-            {
-                "french": "un fruit orange",
-                "english": "an orange fruit"
-            },
-            {
-                "french": "des fleurs orange",
-                "english": "orange flowers"
-            }
+            { "french": "un fruit orange", "english": "an orange fruit" },
+            { "french": "des fleurs orange", "english": "orange flowers" },
+            { "french": "une voiture orange", "english": "an orange car" },
+            { "french": "une robe orange", "english": "an orange dress" },
+            { "french": "un mur orange", "english": "an orange wall" },
+            { "french": "une citrouille orange", "english": "an orange pumpkin" }
         ],
         "image": null
     },
@@ -230,6 +221,7 @@
         "masculinPlural": "marron",
         "femininPlural": "marron",
         "english": "brown",
+        "cefr": "A1",
         "position": "après",
         "irregular": true,
         "formChanges": {
@@ -238,14 +230,12 @@
             "femPlur": "invariable"
         },
         "examples": [
-            {
-                "french": "un ours marron",
-                "english": "a brown bear"
-            },
-            {
-                "french": "des chaussures marron",
-                "english": "brown shoes"
-            }
+            { "french": "un ours marron", "english": "a brown bear" },
+            { "french": "des chaussures marron", "english": "brown shoes" },
+            { "french": "une table marron", "english": "a brown table" },
+            { "french": "des cheveux marron", "english": "brown hair" },
+            { "french": "une écharpe marron", "english": "a brown scarf" },
+            { "french": "un sac marron", "english": "a brown bag" }
         ],
         "image": null
     },
@@ -255,6 +245,7 @@
         "masculinPlural": "violets",
         "femininPlural": "violettes",
         "english": "purple/violet",
+        "cefr": "A2",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -263,14 +254,12 @@
             "femPlur": "violettes"
         },
         "examples": [
-            {
-                "french": "un crayon violet",
-                "english": "a purple pencil"
-            },
-            {
-                "french": "une fleur violette",
-                "english": "a purple flower"
-            }
+            { "french": "un crayon violet", "english": "a purple pencil" },
+            { "french": "une fleur violette", "english": "a purple flower" },
+            { "french": "une robe violette", "english": "a purple dress" },
+            { "french": "le ciel devient violet au coucher du soleil", "english": "the sky becomes purple at sunset" },
+            { "french": "des nuances de violet apparaissent", "english": "shades of purple appear" },
+            { "french": "un fauteuil violet dans le salon", "english": "a purple armchair in the living room" }
         ],
         "image": null
     },
@@ -280,6 +269,7 @@
         "masculinPlural": "beiges",
         "femininPlural": "beiges",
         "english": "beige",
+        "cefr": "A2",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -288,14 +278,12 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un manteau beige",
-                "english": "a beige coat"
-            },
-            {
-                "french": "des murs beiges",
-                "english": "beige walls"
-            }
+            { "french": "un manteau beige", "english": "a beige coat" },
+            { "french": "des murs beiges", "english": "beige walls" },
+            { "french": "un sac beige", "english": "a beige bag" },
+            { "french": "une paire de chaussures beiges", "english": "a pair of beige shoes" },
+            { "french": "une robe beige", "english": "a beige dress" },
+            { "french": "une enveloppe beige", "english": "a beige envelope" }
         ],
         "image": null
     }

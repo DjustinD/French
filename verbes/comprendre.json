@@ -1,6 +1,7 @@
 {
   "infinitive": "comprendre",
   "english": "to understand",
+  "cefr": "A2",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de comprendre",
+              "form": "comprends",
               "english": "I am understanding",
               "sentence": "Je suis en train de comprendre.",
               "sentenceEnglish": "I am understanding."
             },
             "tu": {
-              "form": "es en train de comprendre",
+              "form": "comprends",
               "english": "you are understanding",
               "sentence": "Tu es en train de comprendre?",
               "sentenceEnglish": "Are you understanding?"
             },
             "il/elle": {
-              "form": "est en train de comprendre",
+              "form": "comprend",
               "english": "he/she is understanding",
               "sentence": "Elle est en train de comprendre la leçon.",
               "sentenceEnglish": "She is understanding the lesson."
             },
             "on": {
-              "form": "est en train de comprendre",
+              "form": "comprend",
               "english": "we are understanding",
               "sentence": "On est en train de comprendre.",
               "sentenceEnglish": "We are understanding."
             },
             "nous": {
-              "form": "sommes en train de comprendre",
+              "form": "comprenons",
               "english": "we are understanding",
               "sentence": "Nous sommes en train de comprendre le problème.",
               "sentenceEnglish": "We are understanding the problem."
             },
             "vous": {
-              "form": "êtes en train de comprendre",
+              "form": "comprenez",
               "english": "you are understanding",
               "sentence": "Vous êtes en train de comprendre?",
               "sentenceEnglish": "Are you understanding?"
             },
             "ils/elles": {
-              "form": "sont en train de comprendre",
+              "form": "comprennent",
               "english": "they are understanding",
               "sentence": "Ils sont en train de comprendre.",
               "sentenceEnglish": "They are understanding."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais comprendre",
+              "form": "comprendrai",
               "english": "I am going to understand",
               "sentence": "Je vais comprendre maintenant.",
               "sentenceEnglish": "I am going to understand now."
             },
             "tu": {
-              "form": "vas comprendre",
+              "form": "comprendras",
               "english": "you are going to understand",
               "sentence": "Tu vas comprendre?",
               "sentenceEnglish": "Are you going to understand?"
             },
             "il/elle": {
-              "form": "va comprendre",
+              "form": "comprendra",
               "english": "he/she is going to understand",
               "sentence": "Elle va comprendre la leçon.",
               "sentenceEnglish": "She is going to understand the lesson."
             },
             "on": {
-              "form": "va comprendre",
+              "form": "comprendra",
               "english": "we are going to understand",
               "sentence": "On va comprendre bientôt.",
               "sentenceEnglish": "We are going to understand soon."
             },
             "nous": {
-              "form": "allons comprendre",
+              "form": "comprendrons",
               "english": "we are going to understand",
               "sentence": "Nous allons comprendre le problème.",
               "sentenceEnglish": "We are going to understand the problem."
             },
             "vous": {
-              "form": "allez comprendre",
+              "form": "comprendrez",
               "english": "you are going to understand",
               "sentence": "Vous allez comprendre?",
               "sentenceEnglish": "Are you going to understand?"
             },
             "ils/elles": {
-              "form": "vont comprendre",
+              "form": "comprendront",
               "english": "they are going to understand",
               "sentence": "Ils vont comprendre tout.",
               "sentenceEnglish": "They are going to understand everything."

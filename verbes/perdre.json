@@ -1,6 +1,7 @@
 {
   "infinitive": "perdre",
   "english": "to lose",
+  "cefr": "A2",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de perdre",
+              "form": "perds",
               "english": "I loseing",
               "sentence": "Je suis en train de perdre.",
               "sentenceEnglish": "I loseing."
             },
             "tu": {
-              "form": "es en train de perdre",
+              "form": "perds",
               "english": "you loseing",
               "sentence": "Tu es en train de perdre.",
               "sentenceEnglish": "you loseing."
             },
             "il/elle": {
-              "form": "est en train de perdre",
+              "form": "perd",
               "english": "he/she losesing",
               "sentence": "Elle est en train de perdre.",
               "sentenceEnglish": "he/she losesing."
             },
             "on": {
-              "form": "est en train de perdre",
+              "form": "perd",
               "english": "we loseing",
               "sentence": "On est en train de perdre.",
               "sentenceEnglish": "we loseing."
             },
             "nous": {
-              "form": "sommes en train de perdre",
+              "form": "perdons",
               "english": "we loseing",
               "sentence": "Nous sommes en train de perdre.",
               "sentenceEnglish": "we loseing."
             },
             "vous": {
-              "form": "êtes en train de perdre",
+              "form": "perdez",
               "english": "you loseing",
               "sentence": "Vous êtes en train de perdre.",
               "sentenceEnglish": "you loseing."
             },
             "ils/elles": {
-              "form": "sont en train de perdre",
+              "form": "perdent",
               "english": "they loseing",
               "sentence": "Ils sont en train de perdre.",
               "sentenceEnglish": "they loseing."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais perdre",
+              "form": "perdrai",
               "english": "going to I lose",
               "sentence": "Je vais perdre.",
               "sentenceEnglish": "I am going to I lose."
             },
             "tu": {
-              "form": "vas perdre",
+              "form": "perdras",
               "english": "going to you lose",
               "sentence": "Tu vas perdre.",
               "sentenceEnglish": "You are going to you lose."
             },
             "il/elle": {
-              "form": "va perdre",
+              "form": "perdra",
               "english": "going to he/she loses",
               "sentence": "Elle va perdre.",
               "sentenceEnglish": "She is going to he/she loses."
             },
             "on": {
-              "form": "va perdre",
+              "form": "perdra",
               "english": "going to we lose",
               "sentence": "On va perdre.",
               "sentenceEnglish": "We are going to we lose."
             },
             "nous": {
-              "form": "allons perdre",
+              "form": "perdrons",
               "english": "going to we lose",
               "sentence": "Nous allons perdre.",
               "sentenceEnglish": "We are going to we lose."
             },
             "vous": {
-              "form": "allez perdre",
+              "form": "perdrez",
               "english": "going to you lose",
               "sentence": "Vous allez perdre.",
               "sentenceEnglish": "You are going to you lose."
             },
             "ils/elles": {
-              "form": "vont perdre",
+              "form": "perdront",
               "english": "going to they lose",
               "sentence": "Ils vont perdre.",
               "sentenceEnglish": "They are going to they lose."

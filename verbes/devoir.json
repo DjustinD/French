@@ -1,6 +1,7 @@
 {
   "infinitive": "devoir",
   "english": "to have to / must / to owe",
+  "cefr": "A2",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -10,26 +11,96 @@
           "name": "Présent Simple",
           "description": "Simple present tense",
           "forms": {
-            "je": { "form": "dois", "english": "I must / I have to", "sentence": "Je dois partir.", "sentenceEnglish": "I have to leave." },
-            "tu": { "form": "dois", "english": "you must / you have to", "sentence": "Tu dois étudier?", "sentenceEnglish": "Do you have to study?" },
-            "il/elle": { "form": "doit", "english": "he/she must / has to", "sentence": "Elle doit travailler.", "sentenceEnglish": "She has to work." },
-            "on": { "form": "doit", "english": "we must / we have to", "sentence": "On doit y aller.", "sentenceEnglish": "We have to go." },
-            "nous": { "form": "devons", "english": "we must / we have to", "sentence": "Nous devons réussir.", "sentenceEnglish": "We must succeed." },
-            "vous": { "form": "devez", "english": "you must / you have to", "sentence": "Vous devez faire attention.", "sentenceEnglish": "You must pay attention." },
-            "ils/elles": { "form": "doivent", "english": "they must / they have to", "sentence": "Ils doivent attendre.", "sentenceEnglish": "They have to wait." }
+            "je": {
+              "form": "dois",
+              "english": "I must / I have to",
+              "sentence": "Je dois partir.",
+              "sentenceEnglish": "I have to leave."
+            },
+            "tu": {
+              "form": "dois",
+              "english": "you must / you have to",
+              "sentence": "Tu dois étudier?",
+              "sentenceEnglish": "Do you have to study?"
+            },
+            "il/elle": {
+              "form": "doit",
+              "english": "he/she must / has to",
+              "sentence": "Elle doit travailler.",
+              "sentenceEnglish": "She has to work."
+            },
+            "on": {
+              "form": "doit",
+              "english": "we must / we have to",
+              "sentence": "On doit y aller.",
+              "sentenceEnglish": "We have to go."
+            },
+            "nous": {
+              "form": "devons",
+              "english": "we must / we have to",
+              "sentence": "Nous devons réussir.",
+              "sentenceEnglish": "We must succeed."
+            },
+            "vous": {
+              "form": "devez",
+              "english": "you must / you have to",
+              "sentence": "Vous devez faire attention.",
+              "sentenceEnglish": "You must pay attention."
+            },
+            "ils/elles": {
+              "form": "doivent",
+              "english": "they must / they have to",
+              "sentence": "Ils doivent attendre.",
+              "sentenceEnglish": "They have to wait."
+            }
           }
         },
         "continu": {
           "name": "Présent Continu",
           "description": "Present continuous tense",
           "forms": {
-            "je": { "form": "suis en train de devoir", "english": "I am having to", "sentence": "Je suis en train de devoir partir.", "sentenceEnglish": "I am having to leave." },
-            "tu": { "form": "es en train de devoir", "english": "you are having to", "sentence": "Tu es en train de devoir choisir.", "sentenceEnglish": "You are having to choose." },
-            "il/elle": { "form": "est en train de devoir", "english": "he/she is having to", "sentence": "Elle est en train de devoir décider.", "sentenceEnglish": "She is having to decide." },
-            "on": { "form": "est en train de devoir", "english": "we are having to", "sentence": "On est en train de devoir attendre.", "sentenceEnglish": "We are having to wait." },
-            "nous": { "form": "sommes en train de devoir", "english": "we are having to", "sentence": "Nous sommes en train de devoir changer.", "sentenceEnglish": "We are having to change." },
-            "vous": { "form": "êtes en train de devoir", "english": "you are having to", "sentence": "Vous êtes en train de devoir partir?", "sentenceEnglish": "Are you having to leave?" },
-            "ils/elles": { "form": "sont en train de devoir", "english": "they are having to", "sentence": "Ils sont en train de devoir recommencer.", "sentenceEnglish": "They are having to start over." }
+            "je": {
+              "form": "dois",
+              "english": "I am having to",
+              "sentence": "Je suis en train de devoir partir.",
+              "sentenceEnglish": "I am having to leave."
+            },
+            "tu": {
+              "form": "dois",
+              "english": "you are having to",
+              "sentence": "Tu es en train de devoir choisir.",
+              "sentenceEnglish": "You are having to choose."
+            },
+            "il/elle": {
+              "form": "doit",
+              "english": "he/she is having to",
+              "sentence": "Elle est en train de devoir décider.",
+              "sentenceEnglish": "She is having to decide."
+            },
+            "on": {
+              "form": "doit",
+              "english": "we are having to",
+              "sentence": "On est en train de devoir attendre.",
+              "sentenceEnglish": "We are having to wait."
+            },
+            "nous": {
+              "form": "devons",
+              "english": "we are having to",
+              "sentence": "Nous sommes en train de devoir changer.",
+              "sentenceEnglish": "We are having to change."
+            },
+            "vous": {
+              "form": "devez",
+              "english": "you are having to",
+              "sentence": "Vous êtes en train de devoir partir?",
+              "sentenceEnglish": "Are you having to leave?"
+            },
+            "ils/elles": {
+              "form": "doivent",
+              "english": "they are having to",
+              "sentence": "Ils sont en train de devoir recommencer.",
+              "sentenceEnglish": "They are having to start over."
+            }
           }
         }
       },
@@ -43,26 +114,96 @@
           "description": "Completed action in the past",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "ai dû", "english": "I had to / I must have", "sentence": "J'ai dû partir tôt.", "sentenceEnglish": "I had to leave early." },
-            "tu": { "form": "as dû", "english": "you had to / you must have", "sentence": "Tu as dû travailler?", "sentenceEnglish": "Did you have to work?" },
-            "il/elle": { "form": "a dû", "english": "he/she had to / must have", "sentence": "Elle a dû oublier.", "sentenceEnglish": "She must have forgotten." },
-            "on": { "form": "a dû", "english": "we had to / we must have", "sentence": "On a dû attendre.", "sentenceEnglish": "We had to wait." },
-            "nous": { "form": "avons dû", "english": "we had to / we must have", "sentence": "Nous avons dû partir.", "sentenceEnglish": "We had to leave." },
-            "vous": { "form": "avez dû", "english": "you had to / you must have", "sentence": "Vous avez dû vous tromper.", "sentenceEnglish": "You must have made a mistake." },
-            "ils/elles": { "form": "ont dû", "english": "they had to / they must have", "sentence": "Ils ont dû rentrer.", "sentenceEnglish": "They had to go home." }
+            "je": {
+              "form": "ai dû",
+              "english": "I had to / I must have",
+              "sentence": "J'ai dû partir tôt.",
+              "sentenceEnglish": "I had to leave early."
+            },
+            "tu": {
+              "form": "as dû",
+              "english": "you had to / you must have",
+              "sentence": "Tu as dû travailler?",
+              "sentenceEnglish": "Did you have to work?"
+            },
+            "il/elle": {
+              "form": "a dû",
+              "english": "he/she had to / must have",
+              "sentence": "Elle a dû oublier.",
+              "sentenceEnglish": "She must have forgotten."
+            },
+            "on": {
+              "form": "a dû",
+              "english": "we had to / we must have",
+              "sentence": "On a dû attendre.",
+              "sentenceEnglish": "We had to wait."
+            },
+            "nous": {
+              "form": "avons dû",
+              "english": "we had to / we must have",
+              "sentence": "Nous avons dû partir.",
+              "sentenceEnglish": "We had to leave."
+            },
+            "vous": {
+              "form": "avez dû",
+              "english": "you had to / you must have",
+              "sentence": "Vous avez dû vous tromper.",
+              "sentenceEnglish": "You must have made a mistake."
+            },
+            "ils/elles": {
+              "form": "ont dû",
+              "english": "they had to / they must have",
+              "sentence": "Ils ont dû rentrer.",
+              "sentenceEnglish": "They had to go home."
+            }
           }
         },
         "imparfait": {
           "name": "Imparfait",
           "description": "Habitual or ongoing past action",
           "forms": {
-            "je": { "form": "devais", "english": "I had to / I used to have to", "sentence": "Je devais étudier.", "sentenceEnglish": "I had to study." },
-            "tu": { "form": "devais", "english": "you had to / you used to have to", "sentence": "Tu devais partir?", "sentenceEnglish": "Did you have to leave?" },
-            "il/elle": { "form": "devait", "english": "he/she had to / used to have to", "sentence": "Elle devait travailler.", "sentenceEnglish": "She had to work." },
-            "on": { "form": "devait", "english": "we had to / we used to have to", "sentence": "On devait attendre.", "sentenceEnglish": "We had to wait." },
-            "nous": { "form": "devions", "english": "we had to / we used to have to", "sentence": "Nous devions réussir.", "sentenceEnglish": "We had to succeed." },
-            "vous": { "form": "deviez", "english": "you had to / you used to have to", "sentence": "Vous deviez faire attention.", "sentenceEnglish": "You had to pay attention." },
-            "ils/elles": { "form": "devaient", "english": "they had to / they used to have to", "sentence": "Ils devaient rentrer tôt.", "sentenceEnglish": "They had to come home early." }
+            "je": {
+              "form": "devais",
+              "english": "I had to / I used to have to",
+              "sentence": "Je devais étudier.",
+              "sentenceEnglish": "I had to study."
+            },
+            "tu": {
+              "form": "devais",
+              "english": "you had to / you used to have to",
+              "sentence": "Tu devais partir?",
+              "sentenceEnglish": "Did you have to leave?"
+            },
+            "il/elle": {
+              "form": "devait",
+              "english": "he/she had to / used to have to",
+              "sentence": "Elle devait travailler.",
+              "sentenceEnglish": "She had to work."
+            },
+            "on": {
+              "form": "devait",
+              "english": "we had to / we used to have to",
+              "sentence": "On devait attendre.",
+              "sentenceEnglish": "We had to wait."
+            },
+            "nous": {
+              "form": "devions",
+              "english": "we had to / we used to have to",
+              "sentence": "Nous devions réussir.",
+              "sentenceEnglish": "We had to succeed."
+            },
+            "vous": {
+              "form": "deviez",
+              "english": "you had to / you used to have to",
+              "sentence": "Vous deviez faire attention.",
+              "sentenceEnglish": "You had to pay attention."
+            },
+            "ils/elles": {
+              "form": "devaient",
+              "english": "they had to / they used to have to",
+              "sentence": "Ils devaient rentrer tôt.",
+              "sentenceEnglish": "They had to come home early."
+            }
           }
         },
         "plus-que-parfait": {
@@ -70,26 +211,96 @@
           "description": "Past perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "avais dû", "english": "I had had to", "sentence": "J'avais dû partir tôt.", "sentenceEnglish": "I had had to leave early." },
-            "tu": { "form": "avais dû", "english": "you had had to", "sentence": "Tu avais dû travailler?", "sentenceEnglish": "Had you had to work?" },
-            "il/elle": { "form": "avait dû", "english": "he/she had had to", "sentence": "Elle avait dû oublier.", "sentenceEnglish": "She must have forgotten." },
-            "on": { "form": "avait dû", "english": "we had had to", "sentence": "On avait dû attendre.", "sentenceEnglish": "We had had to wait." },
-            "nous": { "form": "avions dû", "english": "we had had to", "sentence": "Nous avions dû partir.", "sentenceEnglish": "We had had to leave." },
-            "vous": { "form": "aviez dû", "english": "you had had to", "sentence": "Vous aviez dû rentrer?", "sentenceEnglish": "Had you had to go home?" },
-            "ils/elles": { "form": "avaient dû", "english": "they had had to", "sentence": "Ils avaient dû partir.", "sentenceEnglish": "They had had to leave." }
+            "je": {
+              "form": "avais dû",
+              "english": "I had had to",
+              "sentence": "J'avais dû partir tôt.",
+              "sentenceEnglish": "I had had to leave early."
+            },
+            "tu": {
+              "form": "avais dû",
+              "english": "you had had to",
+              "sentence": "Tu avais dû travailler?",
+              "sentenceEnglish": "Had you had to work?"
+            },
+            "il/elle": {
+              "form": "avait dû",
+              "english": "he/she had had to",
+              "sentence": "Elle avait dû oublier.",
+              "sentenceEnglish": "She must have forgotten."
+            },
+            "on": {
+              "form": "avait dû",
+              "english": "we had had to",
+              "sentence": "On avait dû attendre.",
+              "sentenceEnglish": "We had had to wait."
+            },
+            "nous": {
+              "form": "avions dû",
+              "english": "we had had to",
+              "sentence": "Nous avions dû partir.",
+              "sentenceEnglish": "We had had to leave."
+            },
+            "vous": {
+              "form": "aviez dû",
+              "english": "you had had to",
+              "sentence": "Vous aviez dû rentrer?",
+              "sentenceEnglish": "Had you had to go home?"
+            },
+            "ils/elles": {
+              "form": "avaient dû",
+              "english": "they had had to",
+              "sentence": "Ils avaient dû partir.",
+              "sentenceEnglish": "They had had to leave."
+            }
           }
         },
         "simple": {
           "name": "Passé Simple",
           "description": "Literary past tense",
           "forms": {
-            "je": { "form": "dus", "english": "I had to", "sentence": "Je dus partir.", "sentenceEnglish": "I had to leave." },
-            "tu": { "form": "dus", "english": "you had to", "sentence": "Tu dus étudier.", "sentenceEnglish": "You had to study." },
-            "il/elle": { "form": "dut", "english": "he/she had to", "sentence": "Il dut travailler.", "sentenceEnglish": "He had to work." },
-            "on": { "form": "dut", "english": "we had to", "sentence": "On dut attendre.", "sentenceEnglish": "We had to wait." },
-            "nous": { "form": "dûmes", "english": "we had to", "sentence": "Nous dûmes réussir.", "sentenceEnglish": "We had to succeed." },
-            "vous": { "form": "dûtes", "english": "you had to", "sentence": "Vous dûtes partir.", "sentenceEnglish": "You had to leave." },
-            "ils/elles": { "form": "durent", "english": "they had to", "sentence": "Ils durent rentrer tôt.", "sentenceEnglish": "They had to come home early." }
+            "je": {
+              "form": "dus",
+              "english": "I had to",
+              "sentence": "Je dus partir.",
+              "sentenceEnglish": "I had to leave."
+            },
+            "tu": {
+              "form": "dus",
+              "english": "you had to",
+              "sentence": "Tu dus étudier.",
+              "sentenceEnglish": "You had to study."
+            },
+            "il/elle": {
+              "form": "dut",
+              "english": "he/she had to",
+              "sentence": "Il dut travailler.",
+              "sentenceEnglish": "He had to work."
+            },
+            "on": {
+              "form": "dut",
+              "english": "we had to",
+              "sentence": "On dut attendre.",
+              "sentenceEnglish": "We had to wait."
+            },
+            "nous": {
+              "form": "dûmes",
+              "english": "we had to",
+              "sentence": "Nous dûmes réussir.",
+              "sentenceEnglish": "We had to succeed."
+            },
+            "vous": {
+              "form": "dûtes",
+              "english": "you had to",
+              "sentence": "Vous dûtes partir.",
+              "sentenceEnglish": "You had to leave."
+            },
+            "ils/elles": {
+              "form": "durent",
+              "english": "they had to",
+              "sentence": "Ils durent rentrer tôt.",
+              "sentenceEnglish": "They had to come home early."
+            }
           }
         }
       },
@@ -102,26 +313,96 @@
           "name": "Futur Simple",
           "description": "Simple future tense",
           "forms": {
-            "je": { "form": "devrai", "english": "I will have to", "sentence": "Je devrai partir.", "sentenceEnglish": "I will have to leave." },
-            "tu": { "form": "devras", "english": "you will have to", "sentence": "Tu devras étudier.", "sentenceEnglish": "You will have to study." },
-            "il/elle": { "form": "devra", "english": "he/she will have to", "sentence": "Il devra travailler.", "sentenceEnglish": "He will have to work." },
-            "on": { "form": "devra", "english": "we will have to", "sentence": "On devra attendre.", "sentenceEnglish": "We will have to wait." },
-            "nous": { "form": "devrons", "english": "we will have to", "sentence": "Nous devrons réussir.", "sentenceEnglish": "We will have to succeed." },
-            "vous": { "form": "devrez", "english": "you will have to", "sentence": "Vous devrez faire attention.", "sentenceEnglish": "You will have to pay attention." },
-            "ils/elles": { "form": "devront", "english": "they will have to", "sentence": "Elles devront rentrer tôt.", "sentenceEnglish": "They will have to come home early." }
+            "je": {
+              "form": "devrai",
+              "english": "I will have to",
+              "sentence": "Je devrai partir.",
+              "sentenceEnglish": "I will have to leave."
+            },
+            "tu": {
+              "form": "devras",
+              "english": "you will have to",
+              "sentence": "Tu devras étudier.",
+              "sentenceEnglish": "You will have to study."
+            },
+            "il/elle": {
+              "form": "devra",
+              "english": "he/she will have to",
+              "sentence": "Il devra travailler.",
+              "sentenceEnglish": "He will have to work."
+            },
+            "on": {
+              "form": "devra",
+              "english": "we will have to",
+              "sentence": "On devra attendre.",
+              "sentenceEnglish": "We will have to wait."
+            },
+            "nous": {
+              "form": "devrons",
+              "english": "we will have to",
+              "sentence": "Nous devrons réussir.",
+              "sentenceEnglish": "We will have to succeed."
+            },
+            "vous": {
+              "form": "devrez",
+              "english": "you will have to",
+              "sentence": "Vous devrez faire attention.",
+              "sentenceEnglish": "You will have to pay attention."
+            },
+            "ils/elles": {
+              "form": "devront",
+              "english": "they will have to",
+              "sentence": "Elles devront rentrer tôt.",
+              "sentenceEnglish": "They will have to come home early."
+            }
           }
         },
         "proche": {
           "name": "Futur Proche",
           "description": "Near future tense",
           "forms": {
-            "je": { "form": "vais devoir", "english": "I am going to have to", "sentence": "Je vais devoir partir.", "sentenceEnglish": "I am going to have to leave." },
-            "tu": { "form": "vas devoir", "english": "you are going to have to", "sentence": "Tu vas devoir choisir.", "sentenceEnglish": "You are going to have to choose." },
-            "il/elle": { "form": "va devoir", "english": "he/she is going to have to", "sentence": "Elle va devoir décider.", "sentenceEnglish": "She is going to have to decide." },
-            "on": { "form": "va devoir", "english": "we are going to have to", "sentence": "On va devoir attendre.", "sentenceEnglish": "We are going to have to wait." },
-            "nous": { "form": "allons devoir", "english": "we are going to have to", "sentence": "Nous allons devoir changer.", "sentenceEnglish": "We are going to have to change." },
-            "vous": { "form": "allez devoir", "english": "you are going to have to", "sentence": "Vous allez devoir partir?", "sentenceEnglish": "Are you going to have to leave?" },
-            "ils/elles": { "form": "vont devoir", "english": "they are going to have to", "sentence": "Ils vont devoir recommencer.", "sentenceEnglish": "They are going to have to start over." }
+            "je": {
+              "form": "devrai",
+              "english": "I am going to have to",
+              "sentence": "Je vais devoir partir.",
+              "sentenceEnglish": "I am going to have to leave."
+            },
+            "tu": {
+              "form": "devras",
+              "english": "you are going to have to",
+              "sentence": "Tu vas devoir choisir.",
+              "sentenceEnglish": "You are going to have to choose."
+            },
+            "il/elle": {
+              "form": "devra",
+              "english": "he/she is going to have to",
+              "sentence": "Elle va devoir décider.",
+              "sentenceEnglish": "She is going to have to decide."
+            },
+            "on": {
+              "form": "devra",
+              "english": "we are going to have to",
+              "sentence": "On va devoir attendre.",
+              "sentenceEnglish": "We are going to have to wait."
+            },
+            "nous": {
+              "form": "devrons",
+              "english": "we are going to have to",
+              "sentence": "Nous allons devoir changer.",
+              "sentenceEnglish": "We are going to have to change."
+            },
+            "vous": {
+              "form": "devrez",
+              "english": "you are going to have to",
+              "sentence": "Vous allez devoir partir?",
+              "sentenceEnglish": "Are you going to have to leave?"
+            },
+            "ils/elles": {
+              "form": "devront",
+              "english": "they are going to have to",
+              "sentence": "Ils vont devoir recommencer.",
+              "sentenceEnglish": "They are going to have to start over."
+            }
           }
         },
         "antérieur": {
@@ -129,13 +410,48 @@
           "description": "Future perfect tense",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "aurai dû", "english": "I will have had to", "sentence": "J'aurai dû partir tôt.", "sentenceEnglish": "I will have had to leave early." },
-            "tu": { "form": "auras dû", "english": "you will have had to", "sentence": "Tu auras dû travailler.", "sentenceEnglish": "You will have had to work." },
-            "il/elle": { "form": "aura dû", "english": "he/she will have had to", "sentence": "Elle aura dû oublier.", "sentenceEnglish": "She will have had to forget." },
-            "on": { "form": "aura dû", "english": "we will have had to", "sentence": "On aura dû attendre.", "sentenceEnglish": "We will have had to wait." },
-            "nous": { "form": "aurons dû", "english": "we will have had to", "sentence": "Nous aurons dû partir.", "sentenceEnglish": "We will have had to leave." },
-            "vous": { "form": "aurez dû", "english": "you will have had to", "sentence": "Vous aurez dû rentrer?", "sentenceEnglish": "Will you have had to go home?" },
-            "ils/elles": { "form": "auront dû", "english": "they will have had to", "sentence": "Ils auront dû partir.", "sentenceEnglish": "They will have had to leave." }
+            "je": {
+              "form": "aurai dû",
+              "english": "I will have had to",
+              "sentence": "J'aurai dû partir tôt.",
+              "sentenceEnglish": "I will have had to leave early."
+            },
+            "tu": {
+              "form": "auras dû",
+              "english": "you will have had to",
+              "sentence": "Tu auras dû travailler.",
+              "sentenceEnglish": "You will have had to work."
+            },
+            "il/elle": {
+              "form": "aura dû",
+              "english": "he/she will have had to",
+              "sentence": "Elle aura dû oublier.",
+              "sentenceEnglish": "She will have had to forget."
+            },
+            "on": {
+              "form": "aura dû",
+              "english": "we will have had to",
+              "sentence": "On aura dû attendre.",
+              "sentenceEnglish": "We will have had to wait."
+            },
+            "nous": {
+              "form": "aurons dû",
+              "english": "we will have had to",
+              "sentence": "Nous aurons dû partir.",
+              "sentenceEnglish": "We will have had to leave."
+            },
+            "vous": {
+              "form": "aurez dû",
+              "english": "you will have had to",
+              "sentence": "Vous aurez dû rentrer?",
+              "sentenceEnglish": "Will you have had to go home?"
+            },
+            "ils/elles": {
+              "form": "auront dû",
+              "english": "they will have had to",
+              "sentence": "Ils auront dû partir.",
+              "sentenceEnglish": "They will have had to leave."
+            }
           }
         }
       },

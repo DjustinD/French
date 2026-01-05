@@ -1,6 +1,7 @@
 {
   "infinitive": "tenir",
   "english": "to hold / to keep",
+  "cefr": "B1",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de tenir",
+              "form": "tiens",
               "english": "I am holding",
               "sentence": "Je suis en train de tenir le bébé.",
               "sentenceEnglish": "I am holding the baby."
             },
             "tu": {
-              "form": "es en train de tenir",
+              "form": "tiens",
               "english": "you are holding",
               "sentence": "Tu es en train de tenir quoi?",
               "sentenceEnglish": "What are you holding?"
             },
             "il/elle": {
-              "form": "est en train de tenir",
+              "form": "tient",
               "english": "he/she is holding",
               "sentence": "Elle est en train de tenir le chien.",
               "sentenceEnglish": "She is holding the dog."
             },
             "on": {
-              "form": "est en train de tenir",
+              "form": "tient",
               "english": "we are holding",
               "sentence": "On est en train de tenir bon.",
               "sentenceEnglish": "We are holding on."
             },
             "nous": {
-              "form": "sommes en train de tenir",
+              "form": "tenons",
               "english": "we are holding",
               "sentence": "Nous sommes en train de tenir une réunion.",
               "sentenceEnglish": "We are holding a meeting."
             },
             "vous": {
-              "form": "êtes en train de tenir",
+              "form": "tenez",
               "english": "you are holding",
               "sentence": "Vous êtes en train de tenir le bébé?",
               "sentenceEnglish": "Are you holding the baby?"
             },
             "ils/elles": {
-              "form": "sont en train de tenir",
+              "form": "tiennent",
               "english": "they are holding",
               "sentence": "Ils sont en train de tenir conseil.",
               "sentenceEnglish": "They are holding counsel."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais tenir",
+              "form": "tiendrai",
               "english": "I am going to hold",
               "sentence": "Je vais tenir le bébé.",
               "sentenceEnglish": "I am going to hold the baby."
             },
             "tu": {
-              "form": "vas tenir",
+              "form": "tiendras",
               "english": "you are going to hold",
               "sentence": "Tu vas tenir la porte?",
               "sentenceEnglish": "Are you going to hold the door?"
             },
             "il/elle": {
-              "form": "va tenir",
+              "form": "tiendra",
               "english": "he/she is going to hold",
               "sentence": "Elle va tenir bon.",
               "sentenceEnglish": "She is going to hold on."
             },
             "on": {
-              "form": "va tenir",
+              "form": "tiendra",
               "english": "we are going to hold",
               "sentence": "On va tenir ensemble.",
               "sentenceEnglish": "We are going to hold together."
             },
             "nous": {
-              "form": "allons tenir",
+              "form": "tiendrons",
               "english": "we are going to hold",
               "sentence": "Nous allons tenir parole.",
               "sentenceEnglish": "We are going to keep our word."
             },
             "vous": {
-              "form": "allez tenir",
+              "form": "tiendrez",
               "english": "you are going to hold",
               "sentence": "Vous allez tenir le sac?",
               "sentenceEnglish": "Are you going to hold the bag?"
             },
             "ils/elles": {
-              "form": "vont tenir",
+              "form": "tiendront",
               "english": "they are going to hold",
               "sentence": "Ils vont tenir la réunion.",
               "sentenceEnglish": "They are going to hold the meeting."

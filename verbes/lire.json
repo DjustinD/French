@@ -1,6 +1,7 @@
 {
   "infinitive": "lire",
   "english": "to read",
+  "cefr": "A1",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de lire",
+              "form": "lis",
               "english": "I am reading",
               "sentence": "Je suis en train de lire un livre.",
               "sentenceEnglish": "I am reading a book."
             },
             "tu": {
-              "form": "es en train de lire",
+              "form": "lis",
               "english": "you are reading",
               "sentence": "Tu es en train de lire quoi?",
               "sentenceEnglish": "What are you reading?"
             },
             "il/elle": {
-              "form": "est en train de lire",
+              "form": "lit",
               "english": "he/she is reading",
               "sentence": "Elle est en train de lire le journal.",
               "sentenceEnglish": "She is reading the newspaper."
             },
             "on": {
-              "form": "est en train de lire",
+              "form": "lit",
               "english": "we are reading",
               "sentence": "On est en train de lire ensemble.",
               "sentenceEnglish": "We are reading together."
             },
             "nous": {
-              "form": "sommes en train de lire",
+              "form": "lisons",
               "english": "we are reading",
               "sentence": "Nous sommes en train de lire un roman.",
               "sentenceEnglish": "We are reading a novel."
             },
             "vous": {
-              "form": "êtes en train de lire",
+              "form": "lisez",
               "english": "you are reading",
               "sentence": "Vous êtes en train de lire?",
               "sentenceEnglish": "Are you reading?"
             },
             "ils/elles": {
-              "form": "sont en train de lire",
+              "form": "lisent",
               "english": "they are reading",
               "sentence": "Ils sont en train de lire des poèmes.",
               "sentenceEnglish": "They are reading poems."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais lire",
+              "form": "lirai",
               "english": "I am going to read",
               "sentence": "Je vais lire un livre.",
               "sentenceEnglish": "I am going to read a book."
             },
             "tu": {
-              "form": "vas lire",
+              "form": "liras",
               "english": "you are going to read",
               "sentence": "Tu vas lire le journal?",
               "sentenceEnglish": "Are you going to read the newspaper?"
             },
             "il/elle": {
-              "form": "va lire",
+              "form": "lira",
               "english": "he/she is going to read",
               "sentence": "Elle va lire un roman.",
               "sentenceEnglish": "She is going to read a novel."
             },
             "on": {
-              "form": "va lire",
+              "form": "lira",
               "english": "we are going to read",
               "sentence": "On va lire ensemble.",
               "sentenceEnglish": "We are going to read together."
             },
             "nous": {
-              "form": "allons lire",
+              "form": "lirons",
               "english": "we are going to read",
               "sentence": "Nous allons lire des poèmes.",
               "sentenceEnglish": "We are going to read poems."
             },
             "vous": {
-              "form": "allez lire",
+              "form": "lirez",
               "english": "you are going to read",
               "sentence": "Vous allez lire?",
               "sentenceEnglish": "Are you going to read?"
             },
             "ils/elles": {
-              "form": "vont lire",
+              "form": "liront",
               "english": "they are going to read",
               "sentence": "Ils vont lire des histoires.",
               "sentenceEnglish": "They are going to read stories."

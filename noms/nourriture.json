@@ -2,196 +2,313 @@
   {
     "singular": "le pain",
     "plural": "les pains",
+    "french": "pain",
+    "english": "bread",
+    "cefr": "A1",
     "image": "images/pain.jpg"
   },
   {
     "singular": "le fromage",
     "plural": "les fromages",
+    "french": "fromage",
+    "english": "cheese",
+    "cefr": "A1",
     "image": "images/fromage.jpg"
   },
   {
     "singular": "le lait",
     "plural": "les laits",
+    "french": "lait",
+    "english": "milk",
+    "cefr": "A1",
     "image": "images/lait.jpg"
   },
   {
     "singular": "le beurre",
     "plural": "les beurres",
+    "french": "beurre",
+    "english": "butter",
+    "cefr": "A1",
     "image": "images/beurre.jpg"
   },
   {
     "singular": "l'œuf",
     "plural": "les œufs",
+    "french": "œuf",
+    "english": "egg",
+    "cefr": "A1",
     "image": "images/oeuf.jpg"
   },
   {
     "singular": "la viande",
     "plural": "les viandes",
+    "french": "viande",
+    "english": "meat",
+    "cefr": "A1",
     "image": "images/viande.jpg"
   },
   {
     "singular": "le poulet",
     "plural": "les poulets",
+    "french": "poulet",
+    "english": "chicken",
+    "cefr": "A1",
     "image": "images/poulet.jpg"
   },
   {
     "singular": "le poisson",
     "plural": "les poissons",
+    "french": "poisson",
+    "english": "fish",
+    "cefr": "A1",
     "image": "images/poisson_nourriture.jpg"
   },
   {
     "singular": "la pomme",
     "plural": "les pommes",
+    "french": "pomme",
+    "english": "apple",
+    "cefr": "A1",
     "image": "images/pomme.jpg"
   },
   {
     "singular": "la banane",
     "plural": "les bananes",
+    "french": "banane",
+    "english": "banana",
+    "cefr": "A1",
     "image": "images/banane.jpg"
   },
   {
     "singular": "l'orange",
     "plural": "les oranges",
+    "french": "orange",
+    "english": "orange",
+    "cefr": "A1",
     "image": "images/orange.jpg"
   },
   {
     "singular": "la fraise",
     "plural": "les fraises",
+    "french": "fraise",
+    "english": "strawberry",
+    "cefr": "A1",
     "image": "images/fraise.jpg"
   },
   {
     "singular": "le raisin",
     "plural": "les raisins",
+    "french": "raisin",
+    "english": "grape",
+    "cefr": "A1",
     "image": "images/raisin.jpg"
   },
   {
     "singular": "la poire",
     "plural": "les poires",
+    "french": "poire",
+    "english": "pear",
+    "cefr": "A1",
     "image": "images/poire.jpg"
   },
   {
     "singular": "la pêche",
     "plural": "les pêches",
+    "french": "pêche",
+    "english": "peach",
+    "cefr": "A1",
     "image": "images/peche.jpg"
   },
   {
     "singular": "la tomate",
     "plural": "les tomates",
+    "french": "tomate",
+    "english": "tomato",
+    "cefr": "A1",
     "image": "images/tomate.jpg"
   },
   {
     "singular": "la carotte",
     "plural": "les carottes",
+    "french": "carotte",
+    "english": "carrot",
+    "cefr": "A1",
     "image": "images/carotte.jpg"
   },
   {
     "singular": "la pomme de terre",
     "plural": "les pommes de terre",
+    "french": "pomme de terre",
+    "english": "potato",
+    "cefr": "A1",
     "image": "images/pomme_de_terre.jpg"
   },
   {
     "singular": "la salade",
     "plural": "les salades",
+    "french": "salade",
+    "english": "salad",
+    "cefr": "A1",
     "image": "images/salade.jpg"
   },
   {
     "singular": "l'oignon",
     "plural": "les oignons",
+    "french": "oignon",
+    "english": "onion",
+    "cefr": "A1",
     "image": "images/oignon.jpg"
   },
   {
     "singular": "le riz",
     "plural": "les riz",
+    "french": "riz",
+    "english": "rice",
+    "cefr": "A1",
     "image": "images/riz.jpg"
   },
   {
     "singular": "les pâtes",
     "plural": "les pâtes",
+    "french": "pâtes",
+    "english": "pasta",
+    "cefr": "A1",
     "image": "images/pates.jpg"
   },
   {
     "singular": "le sucre",
     "plural": "les sucres",
+    "french": "sucre",
+    "english": "sugar",
+    "cefr": "A1",
     "image": "images/sucre.jpg"
   },
   {
     "singular": "le sel",
     "plural": "les sels",
+    "french": "sel",
+    "english": "salt",
+    "cefr": "A1",
     "image": "images/sel.jpg"
   },
   {
     "singular": "le gâteau",
     "plural": "les gâteaux",
+    "french": "gâteau",
+    "english": "cake",
+    "cefr": "A1",
     "image": "images/gateau.jpg"
   },
   {
     "singular": "le chocolat",
     "plural": "les chocolats",
+    "french": "chocolat",
+    "english": "chocolate",
+    "cefr": "A1",
     "image": "images/chocolat.jpg"
   },
   {
     "singular": "la glace",
     "plural": "les glaces",
+    "french": "glace",
+    "english": "ice cream",
+    "cefr": "A1",
     "image": "images/glace.jpg"
   },
   {
     "singular": "le biscuit",
     "plural": "les biscuits",
+    "french": "biscuit",
+    "english": "cookie",
+    "cefr": "A1",
     "image": "images/biscuit.jpg"
   },
   {
     "singular": "l'eau",
     "plural": "les eaux",
+    "french": "eau",
+    "english": "water",
+    "cefr": "A1",
     "image": "images/eau.jpg"
   },
   {
     "singular": "le jus",
     "plural": "les jus",
+    "french": "jus",
+    "english": "juice",
+    "cefr": "A1",
     "image": "images/jus.jpg"
   },
   {
     "singular": "le café",
     "plural": "les cafés",
+    "french": "café",
+    "english": "coffee",
+    "cefr": "A1",
     "image": "images/cafe.jpg"
   },
   {
     "singular": "le thé",
     "plural": "les thés",
+    "french": "thé",
+    "english": "tea",
+    "cefr": "A1",
     "image": "images/the.jpg"
   },
   {
     "singular": "le vin",
     "plural": "les vins",
+    "french": "vin",
+    "english": "wine",
+    "cefr": "A2",
     "image": "images/vin.jpg"
   },
   {
     "singular": "la bière",
     "plural": "les bières",
+    "french": "bière",
+    "english": "beer",
+    "cefr": "A2",
     "image": "images/biere.jpg"
   },
   {
     "singular": "la soupe",
     "plural": "les soupes",
+    "french": "soupe",
+    "english": "soup",
+    "cefr": "A1",
     "image": "images/soupe.jpg"
   },
   {
     "singular": "le concombre",
     "plural": "les concombres",
+    "french": "concombre",
+    "english": "cucumber",
+    "cefr": "A1",
     "image": "images/concombre.jpg"
   },
   {
     "singular": "la baguette",
     "plural": "les baguettes",
+    "french": "baguette",
+    "english": "baguette",
+    "cefr": "A1",
     "image": "images/baguette.jpg"
   },
   {
     "singular": "le légume",
     "plural": "les légumes",
+    "french": "légume",
+    "english": "vegetable",
+    "cefr": "A1",
     "image": "images/legume.jpg"
   },
   {
     "singular": "le fruit",
     "plural": "les fruits",
+    "french": "fruit",
+    "english": "fruit",
+    "cefr": "A1",
     "image": "images/fruit.jpg"
   }
 ]

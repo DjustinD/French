@@ -5,6 +5,7 @@
         "masculinPlural": "beaux",
         "femininPlural": "belles",
         "english": "beautiful, handsome",
+        "cefr": "A1",
         "position": "avant",
         "irregular": true,
         "formChanges": {
@@ -13,20 +14,18 @@
             "femPlur": "belles"
         },
         "examples": [
-            {
-                "french": "un beau garçon",
-                "english": "a handsome boy"
-            },
-            {
-                "french": "une belle femme",
-                "english": "a beautiful woman"
-            },
-            {
-                "french": "Note: bel before vowel (un bel homme)",
-                "english": "Note: bel before vowel (a handsome man)"
-            }
+            { "french": "un beau garçon", "english": "a handsome boy" },
+            { "french": "une belle femme", "english": "a beautiful woman" },
+            { "french": "un beau jardin", "english": "a beautiful garden" },
+            { "french": "une belle peinture", "english": "a beautiful painting" },
+            { "french": "C'est très beau.", "english": "It's very beautiful." },
+            { "french": "un bel arbre", "english": "a handsome (beautiful) tree" }
         ],
-        "image": null
+        "image": null,
+        "note": {
+            "french": "La forme masculine singulière 'bel' est utilisée avant un son vocalique. (un bel homme)",
+            "english": "The masculine singular form 'bel' is used before a vowel sound. (a handsome man)"
+        }
     },
     {
         "masculinSingular": "joli",
@@ -34,6 +33,7 @@
         "masculinPlural": "jolis",
         "femininPlural": "jolies",
         "english": "pretty",
+        "cefr": "A1",
         "position": "avant",
         "irregular": false,
         "formChanges": {
@@ -42,16 +42,18 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un joli dessin",
-                "english": "a pretty drawing"
-            },
-            {
-                "french": "une jolie robe",
-                "english": "a pretty dress"
-            }
+            { "french": "un joli dessin", "english": "a pretty drawing" },
+            { "french": "une jolie robe", "english": "a pretty dress" },
+            { "french": "une jolie fleur", "english": "a pretty flower" },
+            { "french": "un joli cadeau", "english": "a nice gift" },
+            { "french": "Elle a un joli sourire.", "english": "She has a pretty smile." },
+            { "french": "Quel joli tableau!", "english": "What a pretty painting!" }
         ],
-        "image": null
+        "image": null,
+        "note": {
+            "french": "S'utilise pour décrire l'apparence agréable; souvent placé avant le nom.",
+            "english": "Used to describe a pleasant appearance; often placed before the noun."
+        }
     },
     {
         "masculinSingular": "jeune",
@@ -59,6 +61,7 @@
         "masculinPlural": "jeunes",
         "femininPlural": "jeunes",
         "english": "young",
+        "cefr": "A1",
         "position": "avant",
         "irregular": false,
         "formChanges": {
@@ -67,16 +70,18 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un jeune homme",
-                "english": "a young man"
-            },
-            {
-                "french": "une jeune fille",
-                "english": "a young girl"
-            }
+            { "french": "un jeune homme", "english": "a young man" },
+            { "french": "une jeune fille", "english": "a young girl" },
+            { "french": "les jeunes enfants", "english": "the young children" },
+            { "french": "un jeune arbre", "english": "a young tree" },
+            { "french": "Elle est encore jeune.", "english": "She is still young." },
+            { "french": "Une jeune étudiant travaille.", "english": "A young student is working." }
         ],
-        "image": null
+        "image": null,
+        "note": {
+            "french": "Même forme au masculin et au féminin au singulier; prend -s au pluriel.",
+            "english": "Same form for masculine and feminine in singular; adds -s in plural."
+        }
     },
     {
         "masculinSingular": "vieux",
@@ -84,6 +89,7 @@
         "masculinPlural": "vieux",
         "femininPlural": "vieilles",
         "english": "old",
+        "cefr": "A1",
         "position": "avant",
         "irregular": true,
         "formChanges": {
@@ -92,20 +98,18 @@
             "femPlur": "vieilles"
         },
         "examples": [
-            {
-                "french": "un vieux livre",
-                "english": "an old book"
-            },
-            {
-                "french": "une vieille maison",
-                "english": "an old house"
-            },
-            {
-                "french": "Note: vieil before vowel (un vieil homme)",
-                "english": "Note: vieil before vowel (an old man)"
-            }
+            { "french": "un vieux livre", "english": "an old book" },
+            { "french": "une vieille maison", "english": "an old house" },
+            { "french": "un vieil ami", "english": "an old (longtime) friend" },
+            { "french": "une vieille voiture", "english": "an old car" },
+            { "french": "Cet objet est très vieux.", "english": "This object is very old." },
+            { "french": "Il habite dans un vieil immeuble.", "english": "He lives in an old building." }
         ],
-        "image": null
+        "image": null,
+        "note": {
+            "french": "La forme masculine singulière 'vieil' est utilisée avant un son vocalique. (un vieil homme)",
+            "english": "The masculine singular form 'vieil' is used before a vowel sound. (an old man)"
+        }
     },
     {
         "masculinSingular": "nouveau",
@@ -113,6 +117,7 @@
         "masculinPlural": "nouveaux",
         "femininPlural": "nouvelles",
         "english": "new",
+        "cefr": "A1",
         "position": "avant",
         "irregular": true,
         "formChanges": {
@@ -121,20 +126,18 @@
             "femPlur": "nouvelles"
         },
         "examples": [
-            {
-                "french": "un nouveau film",
-                "english": "a new film"
-            },
-            {
-                "french": "une nouvelle voiture",
-                "english": "a new car"
-            },
-            {
-                "french": "Note: nouvel before vowel (un nouvel appartement)",
-                "english": "Note: nouvel before vowel (a new apartment)"
-            }
+            { "french": "un nouveau film", "english": "a new film" },
+            { "french": "une nouvelle voiture", "english": "a new car" },
+            { "french": "un nouvel ami", "english": "a new friend" },
+            { "french": "une nouvelle idée", "english": "a new idea" },
+            { "french": "C'est tout nouveau.", "english": "It's brand new." },
+            { "french": "J'ai acheté une nouvelle montre.", "english": "I bought a new watch." }
         ],
-        "image": null
+        "image": null,
+        "note": {
+            "french": "La forme masculine singulière 'nouvel' est utilisée avant un son vocalique. (un nouvel appartement)",
+            "english": "The masculine singular form 'nouvel' is used before a vowel sound. (a new apartment)"
+        }
     },
     {
         "masculinSingular": "ancien",
@@ -142,6 +145,7 @@
         "masculinPlural": "anciens",
         "femininPlural": "anciennes",
         "english": "old, former, ancient",
+        "cefr": "B1",
         "position": "both",
         "irregular": true,
         "formChanges": {
@@ -150,16 +154,18 @@
             "femPlur": "anciennes"
         },
         "examples": [
-            {
-                "french": "mon ancien professeur (former)",
-                "english": "my former teacher"
-            },
-            {
-                "french": "un monument ancien (ancient)",
-                "english": "an ancient monument"
-            }
+            { "french": "mon ancien professeur", "english": "my former teacher" },
+            { "french": "un monument ancien", "english": "an ancient monument" },
+            { "french": "son ancien emploi était intéressant.", "english": "his former job was interesting." },
+            { "french": "une tradition ancienne perdure.", "english": "an ancient tradition endures." },
+            { "french": "ils habitent dans une ancienne ferme.", "english": "they live in an old (former) farm" },
+            { "french": "les anciens utilisateurs ont commenté.", "english": "the former users commented." }
         ],
-        "image": null
+        "image": null,
+        "note": {
+            "french": "'Ancien' change de sens selon la position: avant le nom = 'ancien', après = 'vieux/ancien'.",
+            "english": "'Ancien' changes meaning with position: before the noun = 'former', after = 'old/ancient'."
+        }
     },
     {
         "masculinSingular": "bon",
@@ -167,6 +173,7 @@
         "masculinPlural": "bons",
         "femininPlural": "bonnes",
         "english": "good",
+        "cefr": "A1",
         "position": "avant",
         "irregular": true,
         "formChanges": {
@@ -175,16 +182,18 @@
             "femPlur": "bonnes"
         },
         "examples": [
-            {
-                "french": "un bon restaurant",
-                "english": "a good restaurant"
-            },
-            {
-                "french": "une bonne idée",
-                "english": "a good idea"
-            }
+            { "french": "un bon restaurant", "english": "a good restaurant" },
+            { "french": "une bonne idée", "english": "a good idea" },
+            { "french": "C'est une bonne solution.", "english": "That's a good solution." },
+            { "french": "Il a de bonnes notes.", "english": "He has good grades." },
+            { "french": "Un bon repas est prêt.", "english": "A good meal is ready." },
+            { "french": "Tu as fait un bon travail.", "english": "You did a good job." }
         ],
-        "image": null
+        "image": null,
+        "note": {
+            "french": "'Bon' décrit la qualité; peut aussi signifier 'savoureux' selon le contexte.",
+            "english": "'Bon' describes quality; can also mean 'tasty' depending on context."
+        }
     },
     {
         "masculinSingular": "mauvais",
@@ -192,6 +201,7 @@
         "masculinPlural": "mauvais",
         "femininPlural": "mauvaises",
         "english": "bad",
+        "cefr": "A1",
         "position": "avant",
         "irregular": false,
         "formChanges": {
@@ -200,16 +210,18 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un mauvais résultat",
-                "english": "a bad result"
-            },
-            {
-                "french": "une mauvaise note",
-                "english": "a bad grade"
-            }
+            { "french": "un mauvais résultat", "english": "a bad result" },
+            { "french": "une mauvaise note", "english": "a bad grade" },
+            { "french": "Il a eu une mauvaise idée.", "english": "He had a bad idea." },
+            { "french": "C'est une mauvaise décision.", "english": "It's a bad decision." },
+            { "french": "Le temps est mauvais aujourd'hui.", "english": "The weather is bad today." },
+            { "french": "Elle a une mauvaise habitude.", "english": "She has a bad habit." }
         ],
-        "image": null
+        "image": null,
+        "note": {
+            "french": "'Mauvais' indique une qualité faible ou un résultat négatif.",
+            "english": "'Mauvais' indicates poor quality or a negative result."
+        }
     },
     {
         "masculinSingular": "gentil",
@@ -217,6 +229,7 @@
         "masculinPlural": "gentils",
         "femininPlural": "gentilles",
         "english": "kind, nice",
+        "cefr": "A1",
         "position": "avant",
         "irregular": true,
         "formChanges": {
@@ -225,16 +238,18 @@
             "femPlur": "gentilles"
         },
         "examples": [
-            {
-                "french": "un gentil garçon",
-                "english": "a nice boy"
-            },
-            {
-                "french": "une gentille personne",
-                "english": "a kind person"
-            }
+            { "french": "un gentil garçon", "english": "a nice boy" },
+            { "french": "une gentille personne", "english": "a kind person" },
+            { "french": "Il est toujours gentil avec moi.", "english": "He is always kind to me." },
+            { "french": "Merci, tu es très gentil.", "english": "Thanks, you are very kind." },
+            { "french": "Une gentille action peut changer la journée.", "english": "A kind act can change the day." },
+            { "french": "Elle est gentille avec les animaux.", "english": "She is kind to animals." }
         ],
-        "image": null
+        "image": null,
+        "note": {
+            "french": "'Gentil' signifie aimable; la forme féminine est 'gentille'.",
+            "english": "'Gentil' means 'kind'; the feminine form is 'gentille'."
+        }
     },
     {
         "masculinSingular": "méchant",
@@ -242,6 +257,7 @@
         "masculinPlural": "méchants",
         "femininPlural": "méchantes",
         "english": "mean, nasty",
+        "cefr": "A2",
         "position": "avant",
         "irregular": false,
         "formChanges": {
@@ -250,15 +266,17 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un méchant chien",
-                "english": "a mean dog"
-            },
-            {
-                "french": "une méchante sorcière",
-                "english": "a wicked witch"
-            }
+            { "french": "un méchant chien", "english": "a mean dog" },
+            { "french": "une méchante sorcière", "english": "a wicked witch" },
+            { "french": "Il a été méchant avec son frère.", "english": "He was mean to his brother." },
+            { "french": "Ne sois pas méchant.", "english": "Don't be mean." },
+            { "french": "Un enfant méchant peut changer.", "english": "A naughty child can change." },
+            { "french": "Son commentaire était méchant.", "english": "His comment was nasty." }
         ],
-        "image": null
+        "image": null,
+        "note": {
+            "french": "'Méchant' peut signifier méchant/naïf selon le contexte; attention au registre.",
+            "english": "'Méchant' can mean mean or nasty depending on context; watch the register."
+        }
     }
 ]

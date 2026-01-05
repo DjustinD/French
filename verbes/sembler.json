@@ -1,6 +1,7 @@
 {
   "infinitive": "sembler",
   "english": "to seem / to appear",
+  "cefr": "A2",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de sembler",
+              "form": "semble",
               "english": "I am seeming",
               "sentence": "Je suis en train de sembler.",
               "sentenceEnglish": "I am seeming."
             },
             "tu": {
-              "form": "es en train de sembler",
+              "form": "sembles",
               "english": "you are seeming",
               "sentence": "Tu es en train de sembler.",
               "sentenceEnglish": "You are seeming."
             },
             "il/elle": {
-              "form": "est en train de sembler",
+              "form": "semble",
               "english": "he/she is seemsing",
               "sentence": "Elle est en train de sembler.",
               "sentenceEnglish": "She is seemsing."
             },
             "on": {
-              "form": "est en train de sembler",
+              "form": "semble",
               "english": "we are seeming",
               "sentence": "On est en train de sembler.",
               "sentenceEnglish": "We are seeming."
             },
             "nous": {
-              "form": "sommes en train de sembler",
+              "form": "semblons",
               "english": "we are seeming",
               "sentence": "Nous sommes en train de sembler.",
               "sentenceEnglish": "We are seeming."
             },
             "vous": {
-              "form": "êtes en train de sembler",
+              "form": "semblez",
               "english": "you are seeming",
               "sentence": "Vous êtes en train de sembler.",
               "sentenceEnglish": "You are seeming."
             },
             "ils/elles": {
-              "form": "sont en train de sembler",
+              "form": "semblent",
               "english": "they are seeming",
               "sentence": "Ils sont en train de sembler.",
               "sentenceEnglish": "They are seeming."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais sembler",
+              "form": "semblerai",
               "english": "I am going to seem",
               "sentence": "Je vais sembler.",
               "sentenceEnglish": "I am going to seem."
             },
             "tu": {
-              "form": "vas sembler",
+              "form": "sembleras",
               "english": "you are going to seem",
               "sentence": "Tu vas sembler.",
               "sentenceEnglish": "You are going to seem."
             },
             "il/elle": {
-              "form": "va sembler",
+              "form": "semblera",
               "english": "he/she is going to seems",
               "sentence": "Elle va sembler.",
               "sentenceEnglish": "She is going to seems."
             },
             "on": {
-              "form": "va sembler",
+              "form": "semblera",
               "english": "we are going to seem",
               "sentence": "On va sembler.",
               "sentenceEnglish": "We are going to seem."
             },
             "nous": {
-              "form": "allons sembler",
+              "form": "semblerons",
               "english": "we are going to seem",
               "sentence": "Nous allons sembler.",
               "sentenceEnglish": "We are going to seem."
             },
             "vous": {
-              "form": "allez sembler",
+              "form": "semblerez",
               "english": "you are going to seem",
               "sentence": "Vous allez sembler.",
               "sentenceEnglish": "You are going to seem."
             },
             "ils/elles": {
-              "form": "vont sembler",
+              "form": "sembleront",
               "english": "they are going to seem",
               "sentence": "Ils vont sembler.",
               "sentenceEnglish": "They are going to seem."

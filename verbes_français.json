@@ -1,354 +1,452 @@
 {
   "verbs": [
     {
-      "order": 1,
-      "infinitive": "être",
-      "english": "to be",
-      "irregular": true,
-      "file": "être.json"
+      "infinitive": "aimer",
+      "english": "to love / to like",
+      "irregular": false,
+      "cefr": "A1",
+      "file": "aimer.json",
+      "order": 1
     },
     {
-      "order": 2,
-      "infinitive": "avoir",
-      "english": "to have",
-      "irregular": true,
-      "file": "avoir.json"
-    },
-    {
-      "order": 3,
-      "infinitive": "faire",
-      "english": "to do / to make",
-      "irregular": true,
-      "file": "faire.json"
-    },
-    {
-      "order": 4,
       "infinitive": "aller",
       "english": "to go",
       "irregular": true,
-      "file": "aller.json"
+      "cefr": "A1",
+      "file": "aller.json",
+      "order": 2
     },
     {
-      "order": 5,
-      "infinitive": "dire",
-      "english": "to say / to tell",
-      "irregular": true,
-      "file": "dire.json"
-    },
-    {
-      "order": 6,
-      "infinitive": "pouvoir",
-      "english": "to be able to / can",
-      "irregular": true,
-      "file": "pouvoir.json"
-    },
-    {
-      "order": 7,
-      "infinitive": "vouloir",
-      "english": "to want",
-      "irregular": true,
-      "file": "vouloir.json"
-    },
-    {
-      "order": 8,
-      "infinitive": "savoir",
-      "english": "to know / to know how to",
-      "irregular": true,
-      "file": "savoir.json"
-    },
-    {
-      "order": 9,
-      "infinitive": "devoir",
-      "english": "to have to / must",
-      "irregular": true,
-      "file": "devoir.json"
-    },
-    {
-      "order": 10,
-      "infinitive": "prendre",
-      "english": "to take",
-      "irregular": true,
-      "file": "prendre.json"
-    },
-    {
-      "order": 11,
-      "infinitive": "donner",
-      "english": "to give",
-      "irregular": false,
-      "file": "donner.json"
-    },
-    {
-      "order": 12,
-      "infinitive": "voir",
-      "english": "to see",
-      "irregular": true,
-      "file": "voir.json"
-    },
-    {
-      "order": 13,
-      "infinitive": "venir",
-      "english": "to come",
-      "irregular": true,
-      "file": "venir.json"
-    },
-    {
-      "order": 14,
-      "infinitive": "trouver",
-      "english": "to find",
-      "irregular": false,
-      "file": "trouver.json"
-    },
-    {
-      "order": 15,
-      "infinitive": "aimer",
-      "english": "to like / to love",
-      "irregular": false,
-      "file": "aimer.json"
-    },
-    {
-      "order": 16,
-      "infinitive": "parler",
-      "english": "to speak / to talk",
-      "irregular": false,
-      "file": "parler.json"
-    },
-    {
-      "order": 17,
-      "infinitive": "mettre",
-      "english": "to put",
-      "irregular": true,
-      "file": "mettre.json"
-    },
-    {
-      "order": 18,
-      "infinitive": "partir",
-      "english": "to leave",
-      "irregular": true,
-      "file": "partir.json"
-    },
-    {
-      "order": 19,
-      "infinitive": "connaître",
-      "english": "to know / to be familiar with",
-      "irregular": true,
-      "file": "connaître.json"
-    },
-    {
-      "order": 20,
-      "infinitive": "vivre",
-      "english": "to live",
-      "irregular": true,
-      "file": "vivre.json"
-    },
-    {
-      "order": 21,
-      "infinitive": "croire",
-      "english": "to believe",
-      "irregular": true,
-      "file": "croire.json"
-    },
-    {
-      "order": 22,
-      "infinitive": "attendre",
-      "english": "to wait",
-      "irregular": false,
-      "file": "attendre.json"
-    },
-    {
-      "order": 23,
-      "infinitive": "regarder",
-      "english": "to watch / to look at",
-      "irregular": false,
-      "file": "regarder.json"
-    },
-    {
-      "order": 24,
-      "infinitive": "travailler",
-      "english": "to work",
-      "irregular": false,
-      "file": "travailler.json"
-    },
-    {
-      "order": 25,
-      "infinitive": "demander",
-      "english": "to ask",
-      "irregular": false,
-      "file": "demander.json"
-    },
-    {
-      "order": 26,
-      "infinitive": "penser",
-      "english": "to think",
-      "irregular": false,
-      "file": "penser.json"
-    },
-    {
-      "order": 27,
       "infinitive": "arriver",
-      "english": "to arrive",
+      "english": "to arrive / to happen",
       "irregular": false,
-      "file": "arriver.json"
+      "cefr": "A1",
+      "file": "arriver.json",
+      "order": 3
     },
     {
-      "order": 28,
-      "infinitive": "entendre",
-      "english": "to hear",
-      "irregular": false,
-      "file": "entendre.json"
-    },
-    {
-      "order": 29,
-      "infinitive": "rester",
-      "english": "to stay",
-      "irregular": false,
-      "file": "rester.json"
-    },
-    {
-      "order": 30,
-      "infinitive": "passer",
-      "english": "to pass / to spend time",
-      "irregular": false,
-      "file": "passer.json"
-    },
-    {
-      "order": 31,
-      "infinitive": "tenir",
-      "english": "to hold",
+      "infinitive": "attendre",
+      "english": "to wait / to wait for / to expect",
       "irregular": true,
-      "file": "tenir.json"
+      "cefr": "A1",
+      "file": "attendre.json",
+      "order": 4
     },
     {
-      "order": 32,
-      "infinitive": "laisser",
-      "english": "to leave / to let",
-      "irregular": false,
-      "file": "laisser.json"
-    },
-    {
-      "order": 33,
-      "infinitive": "commencer",
-      "english": "to begin",
-      "irregular": false,
-      "file": "commencer.json"
-    },
-    {
-      "order": 34,
-      "infinitive": "sembler",
-      "english": "to seem",
-      "irregular": false,
-      "file": "sembler.json"
-    },
-    {
-      "order": 35,
-      "infinitive": "suivre",
-      "english": "to follow",
+      "infinitive": "avoir",
+      "english": "to have",
       "irregular": true,
-      "file": "suivre.json"
+      "cefr": "A1",
+      "file": "avoir.json",
+      "order": 5
     },
     {
-      "order": 36,
-      "infinitive": "rendre",
-      "english": "to give back / to return",
-      "irregular": false,
-      "file": "rendre.json"
-    },
-    {
-      "order": 37,
-      "infinitive": "sortir",
-      "english": "to go out",
-      "irregular": true,
-      "file": "sortir.json"
-    },
-    {
-      "order": 38,
-      "infinitive": "ouvrir",
-      "english": "to open",
-      "irregular": true,
-      "file": "ouvrir.json"
-    },
-    {
-      "order": 39,
-      "infinitive": "fermer",
-      "english": "to close",
-      "irregular": false,
-      "file": "fermer.json"
-    },
-    {
-      "order": 40,
-      "infinitive": "perdre",
-      "english": "to lose",
-      "irregular": false,
-      "file": "perdre.json"
-    },
-    {
-      "order": 41,
-      "infinitive": "choisir",
-      "english": "to choose",
-      "irregular": false,
-      "file": "choisir.json"
-    },
-    {
-      "order": 42,
-      "infinitive": "tomber",
-      "english": "to fall",
-      "irregular": false,
-      "file": "tomber.json"
-    },
-    {
-      "order": 43,
-      "infinitive": "offrir",
-      "english": "to offer",
-      "irregular": true,
-      "file": "offrir.json"
-    },
-    {
-      "order": 44,
-      "infinitive": "apprendre",
-      "english": "to learn",
-      "irregular": true,
-      "file": "apprendre.json"
-    },
-    {
-      "order": 45,
-      "infinitive": "comprendre",
-      "english": "to understand",
-      "irregular": true,
-      "file": "comprendre.json"
-    },
-    {
-      "order": 46,
-      "infinitive": "répondre",
-      "english": "to answer",
-      "irregular": false,
-      "file": "répondre.json"
-    },
-    {
-      "order": 47,
-      "infinitive": "écrire",
-      "english": "to write",
-      "irregular": true,
-      "file": "écrire.json"
-    },
-    {
-      "order": 48,
-      "infinitive": "lire",
-      "english": "to read",
-      "irregular": true,
-      "file": "lire.json"
-    },
-    {
-      "order": 49,
       "infinitive": "boire",
       "english": "to drink",
       "irregular": true,
-      "file": "boire.json"
+      "cefr": "A1",
+      "file": "boire.json",
+      "order": 6
     },
     {
-      "order": 50,
+      "infinitive": "chercher",
+      "english": "to look for / to search",
+      "irregular": false,
+      "cefr": "A1",
+      "file": "chercher.json",
+      "order": 7
+    },
+    {
+      "infinitive": "commencer",
+      "english": "to begin / to start",
+      "irregular": false,
+      "cefr": "A1",
+      "file": "commencer.json",
+      "order": 8
+    },
+    {
+      "infinitive": "demander",
+      "english": "to ask / to ask for / to request",
+      "irregular": false,
+      "cefr": "A1",
+      "file": "demander.json",
+      "order": 9
+    },
+    {
+      "infinitive": "dire",
+      "english": "to say / to tell",
+      "irregular": true,
+      "cefr": "A1",
+      "file": "dire.json",
+      "order": 10
+    },
+    {
+      "infinitive": "donner",
+      "english": "to give",
+      "irregular": false,
+      "cefr": "A1",
+      "file": "donner.json",
+      "order": 11
+    },
+    {
+      "infinitive": "entendre",
+      "english": "to hear",
+      "irregular": false,
+      "cefr": "A1",
+      "file": "entendre.json",
+      "order": 12
+    },
+    {
+      "infinitive": "faire",
+      "english": "to do / to make",
+      "irregular": true,
+      "cefr": "A1",
+      "file": "faire.json",
+      "order": 13
+    },
+    {
+      "infinitive": "fermer",
+      "english": "to close / to shut",
+      "irregular": false,
+      "cefr": "A1",
+      "file": "fermer.json",
+      "order": 14
+    },
+    {
+      "infinitive": "lire",
+      "english": "to read",
+      "irregular": true,
+      "cefr": "A1",
+      "file": "lire.json",
+      "order": 15
+    },
+    {
       "infinitive": "manger",
       "english": "to eat",
       "irregular": false,
-      "file": "manger.json"
+      "cefr": "A1",
+      "file": "manger.json",
+      "order": 16
+    },
+    {
+      "infinitive": "mettre",
+      "english": "to put / to place / to put on",
+      "irregular": true,
+      "cefr": "A1",
+      "file": "mettre.json",
+      "order": 17
+    },
+    {
+      "infinitive": "ouvrir",
+      "english": "to open",
+      "irregular": true,
+      "cefr": "A1",
+      "file": "ouvrir.json",
+      "order": 18
+    },
+    {
+      "infinitive": "parler",
+      "english": "to speak / to talk",
+      "irregular": false,
+      "cefr": "A1",
+      "file": "parler.json",
+      "order": 19
+    },
+    {
+      "infinitive": "partir",
+      "english": "to leave / to go / to depart",
+      "irregular": true,
+      "cefr": "A1",
+      "file": "partir.json",
+      "order": 20
+    },
+    {
+      "infinitive": "passer",
+      "english": "to pass / to spend time",
+      "irregular": false,
+      "cefr": "A1",
+      "file": "passer.json",
+      "order": 21
+    },
+    {
+      "infinitive": "pouvoir",
+      "english": "to be able to / can",
+      "irregular": true,
+      "cefr": "A1",
+      "file": "pouvoir.json",
+      "order": 22
+    },
+    {
+      "infinitive": "prendre",
+      "english": "to take / to have (food/drink)",
+      "irregular": true,
+      "cefr": "A1",
+      "file": "prendre.json",
+      "order": 23
+    },
+    {
+      "infinitive": "regarder",
+      "english": "to watch / to look at",
+      "irregular": false,
+      "cefr": "A1",
+      "file": "regarder.json",
+      "order": 24
+    },
+    {
+      "infinitive": "rester",
+      "english": "to stay / to remain",
+      "irregular": false,
+      "cefr": "A1",
+      "file": "rester.json",
+      "order": 25
+    },
+    {
+      "infinitive": "sortir",
+      "english": "to go out / to exit / to leave",
+      "irregular": true,
+      "cefr": "A1",
+      "file": "sortir.json",
+      "order": 26
+    },
+    {
+      "infinitive": "tomber",
+      "english": "to fall",
+      "irregular": false,
+      "cefr": "A1",
+      "file": "tomber.json",
+      "order": 27
+    },
+    {
+      "infinitive": "trouver",
+      "english": "to find",
+      "irregular": false,
+      "cefr": "A1",
+      "file": "trouver.json",
+      "order": 28
+    },
+    {
+      "infinitive": "venir",
+      "english": "to come",
+      "irregular": true,
+      "cefr": "A1",
+      "file": "venir.json",
+      "order": 29
+    },
+    {
+      "infinitive": "voir",
+      "english": "to see",
+      "irregular": true,
+      "cefr": "A1",
+      "file": "voir.json",
+      "order": 30
+    },
+    {
+      "infinitive": "vouloir",
+      "english": "to want",
+      "irregular": true,
+      "cefr": "A1",
+      "file": "vouloir.json",
+      "order": 31
+    },
+    {
+      "infinitive": "écouter",
+      "english": "to listen / to listen to",
+      "irregular": false,
+      "cefr": "A1",
+      "file": "écouter.json",
+      "order": 32
+    },
+    {
+      "infinitive": "être",
+      "english": "to be",
+      "irregular": true,
+      "cefr": "A1",
+      "file": "être.json",
+      "order": 33
+    },
+    {
+      "infinitive": "apprendre",
+      "english": "to learn / to teach",
+      "irregular": true,
+      "cefr": "A2",
+      "file": "apprendre.json",
+      "order": 34
+    },
+    {
+      "infinitive": "choisir",
+      "english": "to choose",
+      "irregular": false,
+      "cefr": "A2",
+      "file": "choisir.json",
+      "order": 35
+    },
+    {
+      "infinitive": "comprendre",
+      "english": "to understand",
+      "irregular": true,
+      "cefr": "A2",
+      "file": "comprendre.json",
+      "order": 36
+    },
+    {
+      "infinitive": "connaître",
+      "english": "to know / to be acquainted with",
+      "irregular": true,
+      "cefr": "A2",
+      "file": "connaître.json",
+      "order": 37
+    },
+    {
+      "infinitive": "courir",
+      "english": "to run",
+      "irregular": false,
+      "cefr": "A2",
+      "file": "courir.json",
+      "order": 38
+    },
+    {
+      "infinitive": "croire",
+      "english": "to believe / to think",
+      "irregular": true,
+      "cefr": "A2",
+      "file": "croire.json",
+      "order": 39
+    },
+    {
+      "infinitive": "dessiner",
+      "english": "to draw",
+      "irregular": false,
+      "cefr": "A2",
+      "file": "dessiner.json",
+      "order": 40
+    },
+    {
+      "infinitive": "devoir",
+      "english": "to have to / must / to owe",
+      "irregular": true,
+      "cefr": "A2",
+      "file": "devoir.json",
+      "order": 41
+    },
+    {
+      "infinitive": "essayer",
+      "english": "to try / to attempt",
+      "irregular": false,
+      "cefr": "A2",
+      "file": "essayer.json",
+      "order": 42
+    },
+    {
+      "infinitive": "laisser",
+      "english": "to leave / to let / to allow",
+      "irregular": false,
+      "cefr": "A2",
+      "file": "laisser.json",
+      "order": 43
+    },
+    {
+      "infinitive": "offrir",
+      "english": "to offer / to give (as a gift)",
+      "irregular": true,
+      "cefr": "A2",
+      "file": "offrir.json",
+      "order": 44
+    },
+    {
+      "infinitive": "penser",
+      "english": "to think / to believe",
+      "irregular": false,
+      "cefr": "A2",
+      "file": "penser.json",
+      "order": 45
+    },
+    {
+      "infinitive": "perdre",
+      "english": "to lose",
+      "irregular": false,
+      "cefr": "A2",
+      "file": "perdre.json",
+      "order": 46
+    },
+    {
+      "infinitive": "rencontrer",
+      "english": "to meet",
+      "irregular": false,
+      "cefr": "A2",
+      "file": "rencontrer.json",
+      "order": 47
+    },
+    {
+      "infinitive": "rendre",
+      "english": "to return / to give back",
+      "irregular": false,
+      "cefr": "A2",
+      "file": "rendre.json",
+      "order": 48
+    },
+    {
+      "infinitive": "répondre",
+      "english": "to answer / to reply",
+      "irregular": false,
+      "cefr": "A2",
+      "file": "répondre.json",
+      "order": 49
+    },
+    {
+      "infinitive": "savoir",
+      "english": "to know / to know how to",
+      "irregular": true,
+      "cefr": "A2",
+      "file": "savoir.json",
+      "order": 50
+    },
+    {
+      "infinitive": "sembler",
+      "english": "to seem / to appear",
+      "irregular": false,
+      "cefr": "A2",
+      "file": "sembler.json",
+      "order": 51
+    },
+    {
+      "infinitive": "travailler",
+      "english": "to work",
+      "irregular": false,
+      "cefr": "A2",
+      "file": "travailler.json",
+      "order": 52
+    },
+    {
+      "infinitive": "écrire",
+      "english": "to write",
+      "irregular": true,
+      "cefr": "A2",
+      "file": "écrire.json",
+      "order": 53
+    },
+    {
+      "infinitive": "suivre",
+      "english": "to follow",
+      "irregular": true,
+      "cefr": "B1",
+      "file": "suivre.json",
+      "order": 54
+    },
+    {
+      "infinitive": "tenir",
+      "english": "to hold / to keep",
+      "irregular": true,
+      "cefr": "B1",
+      "file": "tenir.json",
+      "order": 55
+    },
+    {
+      "infinitive": "vivre",
+      "english": "to live",
+      "irregular": true,
+      "cefr": "B1",
+      "file": "vivre.json",
+      "order": 56
     }
   ]
 }

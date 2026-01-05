@@ -2,176 +2,281 @@
   {
     "singular": "la maison",
     "plural": "les maisons",
+    "french": "maison",
+    "english": "house",
+    "cefr": "A1",
     "image": "images/maison.jpg"
   },
   {
     "singular": "l'appartement",
     "plural": "les appartements",
+    "french": "appartement",
+    "english": "apartment",
+    "cefr": "A1",
     "image": "images/appartement.jpg"
   },
   {
     "singular": "la porte",
     "plural": "les portes",
+    "french": "porte",
+    "english": "door",
+    "cefr": "A1",
     "image": "images/porte.jpg"
   },
   {
     "singular": "la fenêtre",
     "plural": "les fenêtres",
+    "french": "fenêtre",
+    "english": "window",
+    "cefr": "A1",
     "image": "images/fenetre.jpg"
   },
   {
     "singular": "le mur",
     "plural": "les murs",
+    "french": "mur",
+    "english": "wall",
+    "cefr": "A1",
     "image": "images/mur.jpg"
   },
   {
     "singular": "le plafond",
     "plural": "les plafonds",
+    "french": "plafond",
+    "english": "ceiling",
+    "cefr": "A2",
     "image": "images/plafond.jpg"
   },
   {
     "singular": "le sol",
     "plural": "les sols",
+    "french": "sol",
+    "english": "floor",
+    "cefr": "A1",
     "image": "images/sol.jpg"
   },
   {
     "singular": "le toit",
     "plural": "les toits",
+    "french": "toit",
+    "english": "roof",
+    "cefr": "A2",
     "image": "images/toit.jpg"
   },
   {
     "singular": "l'escalier",
     "plural": "les escaliers",
+    "french": "escalier",
+    "english": "staircase",
+    "cefr": "A2",
     "image": "images/escalier.jpg"
   },
   {
     "singular": "la chambre",
     "plural": "les chambres",
+    "french": "chambre",
+    "english": "bedroom",
+    "cefr": "A1",
     "image": "images/chambre.jpg"
   },
   {
     "singular": "le salon",
     "plural": "les salons",
+    "french": "salon",
+    "english": "living room",
+    "cefr": "A1",
     "image": "images/salon.jpg"
   },
   {
     "singular": "la cuisine",
     "plural": "les cuisines",
+    "french": "cuisine",
+    "english": "kitchen",
+    "cefr": "A1",
     "image": "images/cuisine.jpg"
   },
   {
     "singular": "la salle de bain",
     "plural": "les salles de bain",
+    "french": "salle de bain",
+    "english": "bathroom",
+    "cefr": "A1",
     "image": "images/salle_de_bain.jpg"
   },
   {
     "singular": "le jardin",
     "plural": "les jardins",
+    "french": "jardin",
+    "english": "garden",
+    "cefr": "A1",
     "image": "images/jardin.jpg"
   },
   {
     "singular": "le garage",
     "plural": "les garages",
+    "french": "garage",
+    "english": "garage",
+    "cefr": "A1",
     "image": "images/garage.jpg"
   },
   {
     "singular": "le lit",
     "plural": "les lits",
+    "french": "lit",
+    "english": "bed",
+    "cefr": "A1",
     "image": "images/lit.jpg"
   },
   {
     "singular": "la table",
     "plural": "les tables",
+    "french": "table",
+    "english": "table",
+    "cefr": "A1",
     "image": "images/table.jpg"
   },
   {
     "singular": "la chaise",
     "plural": "les chaises",
+    "french": "chaise",
+    "english": "chair",
+    "cefr": "A1",
     "image": "images/chaise.jpg"
   },
   {
     "singular": "le fauteuil",
     "plural": "les fauteuils",
+    "french": "fauteuil",
+    "english": "armchair",
+    "cefr": "A2",
     "image": "images/fauteuil.jpg"
   },
   {
     "singular": "le canapé",
     "plural": "les canapés",
+    "french": "canapé",
+    "english": "sofa",
+    "cefr": "A1",
     "image": "images/canape.jpg"
   },
   {
     "singular": "l'armoire",
     "plural": "les armoires",
+    "french": "armoire",
+    "english": "wardrobe",
+    "cefr": "A2",
     "image": "images/armoire.jpg"
   },
   {
     "singular": "le bureau",
     "plural": "les bureaux",
+    "french": "bureau",
+    "english": "desk",
+    "cefr": "A1",
     "image": "images/bureau.jpg"
   },
   {
     "singular": "l'étagère",
     "plural": "les étagères",
+    "french": "étagère",
+    "english": "shelf",
+    "cefr": "A2",
     "image": "images/etagere.jpg"
   },
   {
     "singular": "le tapis",
     "plural": "les tapis",
+    "french": "tapis",
+    "english": "carpet",
+    "cefr": "A2",
     "image": "images/tapis.jpg"
   },
   {
     "singular": "le rideau",
     "plural": "les rideaux",
+    "french": "rideau",
+    "english": "curtain",
+    "cefr": "A2",
     "image": "images/rideau.jpg"
   },
   {
     "singular": "la lampe",
     "plural": "les lampes",
+    "french": "lampe",
+    "english": "lamp",
+    "cefr": "A1",
     "image": "images/lampe.jpg"
   },
   {
     "singular": "le miroir",
     "plural": "les miroirs",
+    "french": "miroir",
+    "english": "mirror",
+    "cefr": "A1",
     "image": "images/miroir.jpg"
   },
   {
     "singular": "l'horloge",
     "plural": "les horloges",
+    "french": "horloge",
+    "english": "clock",
+    "cefr": "A1",
     "image": "images/horloge.jpg"
   },
   {
     "singular": "le réfrigérateur",
     "plural": "les réfrigérateurs",
+    "french": "réfrigérateur",
+    "english": "refrigerator",
+    "cefr": "A2",
     "image": "images/refrigerateur.jpg"
   },
   {
     "singular": "le four",
     "plural": "les fours",
+    "french": "four",
+    "english": "oven",
+    "cefr": "A1",
     "image": "images/four.jpg"
   },
   {
     "singular": "le lave-vaisselle",
     "plural": "les lave-vaisselle",
+    "french": "lave-vaisselle",
+    "english": "dishwasher",
+    "cefr": "A2",
     "image": "images/lave_vaisselle.jpg"
   },
   {
     "singular": "la machine à laver",
     "plural": "les machines à laver",
+    "french": "machine à laver",
+    "english": "washing machine",
+    "cefr": "A2",
     "image": "images/machine_a_laver.jpg"
   },
   {
     "singular": "le lavabo",
     "plural": "les lavabos",
+    "french": "lavabo",
+    "english": "sink",
+    "cefr": "A1",
     "image": "images/lavabo.jpg"
   },
   {
     "singular": "la douche",
     "plural": "les douches",
+    "french": "douche",
+    "english": "shower",
+    "cefr": "A1",
     "image": "images/douche.jpg"
   },
   {
     "singular": "la baignoire",
     "plural": "les baignoires",
+    "french": "baignoire",
+    "english": "bathtub",
+    "cefr": "A1",
     "image": "images/baignoire.jpg"
   }
 ]

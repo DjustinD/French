@@ -2,251 +2,401 @@
   {
     "singular": "le soleil",
     "plural": "les soleils",
+    "french": "soleil",
+    "english": "sun",
+    "cefr": "A1",
     "image": "images/soleil.jpg"
   },
   {
     "singular": "la lune",
     "plural": "les lunes",
+    "french": "lune",
+    "english": "moon",
+    "cefr": "A1",
     "image": "images/lune.jpg"
   },
   {
     "singular": "l'étoile",
     "plural": "les étoiles",
+    "french": "étoile",
+    "english": "star",
+    "cefr": "A1",
     "image": "images/etoile.jpg"
   },
   {
     "singular": "le ciel",
     "plural": "les cieux",
+    "french": "ciel",
+    "english": "sky",
+    "cefr": "A1",
     "image": "images/ciel.jpg"
   },
   {
     "singular": "le nuage",
     "plural": "les nuages",
+    "french": "nuage",
+    "english": "cloud",
+    "cefr": "A1",
     "image": "images/nuage.jpg"
   },
   {
     "singular": "la pluie",
     "plural": "les pluies",
+    "french": "pluie",
+    "english": "rain",
+    "cefr": "A1",
     "image": "images/pluie.jpg"
   },
   {
     "singular": "la neige",
     "plural": "les neiges",
+    "french": "neige",
+    "english": "snow",
+    "cefr": "A1",
     "image": "images/neige.jpg"
   },
   {
     "singular": "le vent",
     "plural": "les vents",
+    "french": "vent",
+    "english": "wind",
+    "cefr": "A1",
     "image": "images/vent.jpg"
   },
   {
     "singular": "l'orage",
     "plural": "les orages",
+    "french": "orage",
+    "english": "storm",
+    "cefr": "A2",
     "image": "images/orage.jpg"
   },
   {
     "singular": "l'éclair",
     "plural": "les éclairs",
+    "french": "éclair",
+    "english": "lightning",
+    "cefr": "A2",
     "image": "images/eclair.jpg"
   },
   {
     "singular": "le tonnerre",
     "plural": "les tonnerres",
+    "french": "tonnerre",
+    "english": "thunder",
+    "cefr": "A2",
     "image": "images/tonnerre.jpg"
   },
   {
     "singular": "l'arc-en-ciel",
     "plural": "les arcs-en-ciel",
+    "french": "arc-en-ciel",
+    "english": "rainbow",
+    "cefr": "A2",
     "image": "images/arc_en_ciel.jpg"
   },
   {
     "singular": "le brouillard",
     "plural": "les brouillards",
+    "french": "brouillard",
+    "english": "fog",
+    "cefr": "A2",
     "image": "images/brouillard.jpg"
   },
   {
     "singular": "la tempête",
     "plural": "les tempêtes",
+    "french": "tempête",
+    "english": "storm",
+    "cefr": "A2",
     "image": "images/tempete.jpg"
   },
   {
     "singular": "la montagne",
     "plural": "les montagnes",
+    "french": "montagne",
+    "english": "mountain",
+    "cefr": "A1",
     "image": "images/montagne.jpg"
   },
   {
     "singular": "la colline",
     "plural": "les collines",
+    "french": "colline",
+    "english": "hill",
+    "cefr": "A2",
     "image": "images/colline.jpg"
   },
   {
     "singular": "la vallée",
     "plural": "les vallées",
+    "french": "vallée",
+    "english": "valley",
+    "cefr": "A2",
     "image": "images/vallee.jpg"
   },
   {
     "singular": "la forêt",
     "plural": "les forêts",
+    "french": "forêt",
+    "english": "forest",
+    "cefr": "A1",
     "image": "images/foret.jpg"
   },
   {
     "singular": "le bois",
     "plural": "les bois",
+    "french": "bois",
+    "english": "wood",
+    "cefr": "A2",
     "image": "images/bois.jpg"
   },
   {
     "singular": "la jungle",
     "plural": "les jungles",
+    "french": "jungle",
+    "english": "jungle",
+    "cefr": "A2",
     "image": "images/jungle.jpg"
   },
   {
     "singular": "le désert",
     "plural": "les déserts",
+    "french": "désert",
+    "english": "desert",
+    "cefr": "A2",
     "image": "images/desert.jpg"
   },
   {
     "singular": "la plage",
     "plural": "les plages",
+    "french": "plage",
+    "english": "beach",
+    "cefr": "A1",
     "image": "images/plage.jpg"
   },
   {
     "singular": "la mer",
     "plural": "les mers",
+    "french": "mer",
+    "english": "sea",
+    "cefr": "A1",
     "image": "images/mer.jpg"
   },
   {
     "singular": "l'océan",
     "plural": "les océans",
+    "french": "océan",
+    "english": "ocean",
+    "cefr": "A2",
     "image": "images/ocean.jpg"
   },
   {
     "singular": "la rivière",
     "plural": "les rivières",
+    "french": "rivière",
+    "english": "river",
+    "cefr": "A2",
     "image": "images/riviere.jpg"
   },
   {
     "singular": "le fleuve",
     "plural": "les fleuves",
+    "french": "fleuve",
+    "english": "big river",
+    "cefr": "A2",
     "image": "images/fleuve.jpg"
   },
   {
     "singular": "le lac",
     "plural": "les lacs",
+    "french": "lac",
+    "english": "lake",
+    "cefr": "A1",
     "image": "images/lac.jpg"
   },
   {
     "singular": "l'étang",
     "plural": "les étangs",
+    "french": "étang",
+    "english": "pond",
+    "cefr": "A2",
     "image": "images/etang.jpg"
   },
   {
     "singular": "la cascade",
     "plural": "les cascades",
+    "french": "cascade",
+    "english": "waterfall",
+    "cefr": "A2",
     "image": "images/cascade.jpg"
   },
   {
     "singular": "la chute d'eau",
     "plural": "les chutes d'eau",
+    "french": "chute d'eau",
+    "english": "waterfall",
+    "cefr": "A2",
     "image": "images/chute_eau.jpg"
   },
   {
     "singular": "l'île",
     "plural": "les îles",
+    "french": "île",
+    "english": "island",
+    "cefr": "A2",
     "image": "images/ile.jpg"
   },
   {
     "singular": "la péninsule",
     "plural": "les péninsules",
+    "french": "péninsule",
+    "english": "peninsula",
+    "cefr": "B1",
     "image": "images/peninsule.jpg"
   },
   {
     "singular": "le volcan",
     "plural": "les volcans",
+    "french": "volcan",
+    "english": "volcano",
+    "cefr": "A2",
     "image": "images/volcan.jpg"
   },
   {
     "singular": "le rocher",
     "plural": "les rochers",
+    "french": "rocher",
+    "english": "rock",
+    "cefr": "A2",
     "image": "images/rocher.jpg"
   },
   {
     "singular": "la pierre",
     "plural": "les pierres",
+    "french": "pierre",
+    "english": "stone",
+    "cefr": "A2",
     "image": "images/pierre.jpg"
   },
   {
     "singular": "le sable",
     "plural": "les sables",
+    "french": "sable",
+    "english": "sand",
+    "cefr": "A1",
     "image": "images/sable.jpg"
   },
   {
     "singular": "la terre",
     "plural": "les terres",
+    "french": "terre",
+    "english": "earth",
+    "cefr": "A2",
     "image": "images/terre.jpg"
   },
   {
     "singular": "la boue",
     "plural": "les boues",
+    "french": "boue",
+    "english": "mud",
+    "cefr": "A2",
     "image": "images/boue.jpg"
   },
   {
     "singular": "la glace",
     "plural": "les glaces",
+    "french": "glace",
+    "english": "ice",
+    "cefr": "A1",
     "image": "images/glace_nature.jpg"
   },
   {
     "singular": "l'iceberg",
     "plural": "les icebergs",
+    "french": "iceberg",
+    "english": "iceberg",
+    "cefr": "B1",
     "image": "images/iceberg.jpg"
   },
   {
     "singular": "le glacier",
     "plural": "les glaciers",
+    "french": "glacier",
+    "english": "glacier",
+    "cefr": "B1",
     "image": "images/glacier.jpg"
   },
   {
     "singular": "la grotte",
     "plural": "les grottes",
+    "french": "grotte",
+    "english": "cave",
+    "cefr": "A2",
     "image": "images/grotte.jpg"
   },
   {
     "singular": "la caverne",
     "plural": "les cavernes",
+    "french": "caverne",
+    "english": "cavern",
+    "cefr": "B1",
     "image": "images/caverne.jpg"
   },
   {
     "singular": "le champ",
     "plural": "les champs",
+    "french": "champ",
+    "english": "field",
+    "cefr": "A1",
     "image": "images/champ.jpg"
   },
   {
     "singular": "le pré",
     "plural": "les prés",
+    "french": "pré",
+    "english": "meadow",
+    "cefr": "A2",
     "image": "images/pre.jpg"
   },
   {
     "singular": "la prairie",
     "plural": "les prairies",
+    "french": "prairie",
+    "english": "prairie",
+    "cefr": "A2",
     "image": "images/prairie.jpg"
   },
   {
     "singular": "la vague",
     "plural": "les vagues",
+    "french": "vague",
+    "english": "wave",
+    "cefr": "A2",
     "image": "images/vague.jpg"
   },
   {
     "singular": "la marée",
     "plural": "les marées",
+    "french": "marée",
+    "english": "tide",
+    "cefr": "B1",
     "image": "images/maree.jpg"
   },
   {
     "singular": "le courant",
     "plural": "les courants",
+    "french": "courant",
+    "english": "current",
+    "cefr": "B1",
     "image": "images/courant.jpg"
   },
   {
     "singular": "la planète",
     "plural": "les planètes",
+    "french": "planète",
+    "english": "planet",
+    "cefr": "A2",
     "image": "images/planete.jpg"
   }
 ]

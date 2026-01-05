@@ -1,0 +1,461 @@
+{
+  "infinitive": "écouter",
+  "english": "to listen / to listen to",
+  "cefr": "A1",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "écoute",
+              "english": "I listen",
+              "sentence": "J'écoute de la musique.",
+              "sentenceEnglish": "I listen to music."
+            },
+            "tu": {
+              "form": "écoutes",
+              "english": "you listen",
+              "sentence": "Tu écoutes la radio?",
+              "sentenceEnglish": "Do you listen to the radio?"
+            },
+            "il/elle": {
+              "form": "écoute",
+              "english": "he/she listens",
+              "sentence": "Elle écoute attentivement.",
+              "sentenceEnglish": "She listens carefully."
+            },
+            "on": {
+              "form": "écoute",
+              "english": "we listen",
+              "sentence": "On écoute le professeur.",
+              "sentenceEnglish": "We listen to the teacher."
+            },
+            "nous": {
+              "form": "écoutons",
+              "english": "we listen",
+              "sentence": "Nous écoutons un podcast.",
+              "sentenceEnglish": "We listen to a podcast."
+            },
+            "vous": {
+              "form": "écoutez",
+              "english": "you listen",
+              "sentence": "Vous écoutez bien?",
+              "sentenceEnglish": "Are you listening well?"
+            },
+            "ils/elles": {
+              "form": "écoutent",
+              "english": "they listen",
+              "sentence": "Ils écoutent les oiseaux.",
+              "sentenceEnglish": "They listen to the birds."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "écoute",
+              "english": "I am listening",
+              "sentence": "Je suis en train d'écouter.",
+              "sentenceEnglish": "I am listening."
+            },
+            "tu": {
+              "form": "écoutes",
+              "english": "you are listening",
+              "sentence": "Tu es en train d'écouter?",
+              "sentenceEnglish": "Are you listening?"
+            },
+            "il/elle": {
+              "form": "écoute",
+              "english": "he/she is listening",
+              "sentence": "Elle est en train d'écouter.",
+              "sentenceEnglish": "She is listening."
+            },
+            "on": {
+              "form": "écoute",
+              "english": "we are listening",
+              "sentence": "On est en train d'écouter.",
+              "sentenceEnglish": "We are listening."
+            },
+            "nous": {
+              "form": "écoutons",
+              "english": "we are listening",
+              "sentence": "Nous sommes en train d'écouter.",
+              "sentenceEnglish": "We are listening."
+            },
+            "vous": {
+              "form": "écoutez",
+              "english": "you are listening",
+              "sentence": "Vous êtes en train d'écouter?",
+              "sentenceEnglish": "Are you listening?"
+            },
+            "ils/elles": {
+              "form": "écoutent",
+              "english": "they are listening",
+              "sentence": "Ils sont en train d'écouter.",
+              "sentenceEnglish": "They are listening."
+            }
+          }
+        }
+      },
+      "note": "Regular -er verb. Pattern: j'écoute, tu écoutes, il/elle écoute, nous écoutons, vous écoutez, ils/elles écoutent"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai écouté",
+              "english": "I listened",
+              "sentence": "J'ai écouté ce disque.",
+              "sentenceEnglish": "I listened to that record."
+            },
+            "tu": {
+              "form": "as écouté",
+              "english": "you listened",
+              "sentence": "Tu as écouté mes conseils?",
+              "sentenceEnglish": "Did you listen to my advice?"
+            },
+            "il/elle": {
+              "form": "a écouté",
+              "english": "he/she listened",
+              "sentence": "Elle a écouté la chanson.",
+              "sentenceEnglish": "She listened to the song."
+            },
+            "on": {
+              "form": "a écouté",
+              "english": "we listened",
+              "sentence": "On a écouté ensemble.",
+              "sentenceEnglish": "We listened together."
+            },
+            "nous": {
+              "form": "avons écouté",
+              "english": "we listened",
+              "sentence": "Nous avons écouté le concert.",
+              "sentenceEnglish": "We listened to the concert."
+            },
+            "vous": {
+              "form": "avez écouté",
+              "english": "you listened",
+              "sentence": "Vous avez écouté quoi?",
+              "sentenceEnglish": "What did you listen to?"
+            },
+            "ils/elles": {
+              "form": "ont écouté",
+              "english": "they listened",
+              "sentence": "Ils ont écouté attentivement.",
+              "sentenceEnglish": "They listened carefully."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "écoutais",
+              "english": "I was listening / I used to listen",
+              "sentence": "J'écoutais la radio.",
+              "sentenceEnglish": "I was listening to the radio."
+            },
+            "tu": {
+              "form": "écoutais",
+              "english": "you were listening / you used to listen",
+              "sentence": "Tu écoutais cette station?",
+              "sentenceEnglish": "Did you use to listen to that station?"
+            },
+            "il/elle": {
+              "form": "écoutait",
+              "english": "he/she was listening / used to listen",
+              "sentence": "Elle écoutait souvent de la musique.",
+              "sentenceEnglish": "She often used to listen to music."
+            },
+            "on": {
+              "form": "écoutait",
+              "english": "we were listening / we used to listen",
+              "sentence": "On écoutait ensemble.",
+              "sentenceEnglish": "We were listening together."
+            },
+            "nous": {
+              "form": "écoutions",
+              "english": "we were listening / we used to listen",
+              "sentence": "Nous écoutions le professeur.",
+              "sentenceEnglish": "We were listening to the teacher."
+            },
+            "vous": {
+              "form": "écoutiez",
+              "english": "you were listening / you used to listen",
+              "sentence": "Vous écoutiez quoi?",
+              "sentenceEnglish": "What were you listening to?"
+            },
+            "ils/elles": {
+              "form": "écoutaient",
+              "english": "they were listening / they used to listen",
+              "sentence": "Ils écoutaient attentivement.",
+              "sentenceEnglish": "They were listening carefully."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais écouté",
+              "english": "I had listened",
+              "sentence": "J'avais écouté ses conseils.",
+              "sentenceEnglish": "I had listened to his advice."
+            },
+            "tu": {
+              "form": "avais écouté",
+              "english": "you had listened",
+              "sentence": "Tu avais écouté cette chanson?",
+              "sentenceEnglish": "Had you listened to that song?"
+            },
+            "il/elle": {
+              "form": "avait écouté",
+              "english": "he/she had listened",
+              "sentence": "Elle avait écouté l'album.",
+              "sentenceEnglish": "She had listened to the album."
+            },
+            "on": {
+              "form": "avait écouté",
+              "english": "we had listened",
+              "sentence": "On avait écouté ensemble.",
+              "sentenceEnglish": "We had listened together."
+            },
+            "nous": {
+              "form": "avions écouté",
+              "english": "we had listened",
+              "sentence": "Nous avions écouté le concert.",
+              "sentenceEnglish": "We had listened to the concert."
+            },
+            "vous": {
+              "form": "aviez écouté",
+              "english": "you had listened",
+              "sentence": "Vous aviez écouté quoi?",
+              "sentenceEnglish": "What had you listened to?"
+            },
+            "ils/elles": {
+              "form": "avaient écouté",
+              "english": "they had listened",
+              "sentence": "Ils avaient écouté attentivement.",
+              "sentenceEnglish": "They had listened carefully."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "écoutai",
+              "english": "I listened",
+              "sentence": "J'écoutai ses paroles.",
+              "sentenceEnglish": "I listened to his words."
+            },
+            "tu": {
+              "form": "écoutas",
+              "english": "you listened",
+              "sentence": "Tu écoutas attentivement.",
+              "sentenceEnglish": "You listened carefully."
+            },
+            "il/elle": {
+              "form": "écouta",
+              "english": "he/she listened",
+              "sentence": "Il écouta le conte.",
+              "sentenceEnglish": "He listened to the tale."
+            },
+            "on": {
+              "form": "écouta",
+              "english": "we listened",
+              "sentence": "On écouta ensemble.",
+              "sentenceEnglish": "We listened together."
+            },
+            "nous": {
+              "form": "écoutâmes",
+              "english": "we listened",
+              "sentence": "Nous écoutâmes le récit.",
+              "sentenceEnglish": "We listened to the story."
+            },
+            "vous": {
+              "form": "écoutâtes",
+              "english": "you listened",
+              "sentence": "Vous écoutâtes en silence.",
+              "sentenceEnglish": "You listened in silence."
+            },
+            "ils/elles": {
+              "form": "écoutèrent",
+              "english": "they listened",
+              "sentence": "Ils écoutèrent la légende.",
+              "sentenceEnglish": "They listened to the legend."
+            }
+          }
+        }
+      },
+      "note": "Regular imparfait stem 'écout-' (from infinitive): j'écoutais, tu écoutais, il/elle écoutait, nous écoutions, vous écoutiez, ils/elles écoutaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "écouterai",
+              "english": "I will listen",
+              "sentence": "J'écouterai ton conseil.",
+              "sentenceEnglish": "I will listen to your advice."
+            },
+            "tu": {
+              "form": "écouteras",
+              "english": "you will listen",
+              "sentence": "Tu écouteras cette chanson?",
+              "sentenceEnglish": "Will you listen to this song?"
+            },
+            "il/elle": {
+              "form": "écoutera",
+              "english": "he/she will listen",
+              "sentence": "Il écoutera attentivement.",
+              "sentenceEnglish": "He will listen carefully."
+            },
+            "on": {
+              "form": "écoutera",
+              "english": "we will listen",
+              "sentence": "On écoutera ensemble.",
+              "sentenceEnglish": "We will listen together."
+            },
+            "nous": {
+              "form": "écouterons",
+              "english": "we will listen",
+              "sentence": "Nous écouterons le concert.",
+              "sentenceEnglish": "We will listen to the concert."
+            },
+            "vous": {
+              "form": "écouterez",
+              "english": "you will listen",
+              "sentence": "Vous écouterez mes conseils?",
+              "sentenceEnglish": "Will you listen to my advice?"
+            },
+            "ils/elles": {
+              "form": "écouteront",
+              "english": "they will listen",
+              "sentence": "Elles écouteront la radio.",
+              "sentenceEnglish": "They will listen to the radio."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "écouterai",
+              "english": "I am going to listen",
+              "sentence": "Je vais écouter cet album.",
+              "sentenceEnglish": "I am going to listen to this album."
+            },
+            "tu": {
+              "form": "écouteras",
+              "english": "you are going to listen",
+              "sentence": "Tu vas écouter quoi?",
+              "sentenceEnglish": "What are you going to listen to?"
+            },
+            "il/elle": {
+              "form": "écoutera",
+              "english": "he/she is going to listen",
+              "sentence": "Elle va écouter la radio.",
+              "sentenceEnglish": "She is going to listen to the radio."
+            },
+            "on": {
+              "form": "écoutera",
+              "english": "we are going to listen",
+              "sentence": "On va écouter ensemble.",
+              "sentenceEnglish": "We are going to listen together."
+            },
+            "nous": {
+              "form": "écouterons",
+              "english": "we are going to listen",
+              "sentence": "Nous allons écouter le concert.",
+              "sentenceEnglish": "We are going to listen to the concert."
+            },
+            "vous": {
+              "form": "écouterez",
+              "english": "you are going to listen",
+              "sentence": "Vous allez écouter mes conseils?",
+              "sentenceEnglish": "Are you going to listen to my advice?"
+            },
+            "ils/elles": {
+              "form": "écouteront",
+              "english": "they are going to listen",
+              "sentence": "Ils vont écouter de la musique.",
+              "sentenceEnglish": "They are going to listen to music."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai écouté",
+              "english": "I will have listened",
+              "sentence": "J'aurai écouté tout l'album.",
+              "sentenceEnglish": "I will have listened to the whole album."
+            },
+            "tu": {
+              "form": "auras écouté",
+              "english": "you will have listened",
+              "sentence": "Tu auras écouté mes conseils?",
+              "sentenceEnglish": "Will you have listened to my advice?"
+            },
+            "il/elle": {
+              "form": "aura écouté",
+              "english": "he/she will have listened",
+              "sentence": "Elle aura écouté la chanson.",
+              "sentenceEnglish": "She will have listened to the song."
+            },
+            "on": {
+              "form": "aura écouté",
+              "english": "we will have listened",
+              "sentence": "On aura écouté ensemble.",
+              "sentenceEnglish": "We will have listened together."
+            },
+            "nous": {
+              "form": "aurons écouté",
+              "english": "we will have listened",
+              "sentence": "Nous aurons écouté le concert.",
+              "sentenceEnglish": "We will have listened to the concert."
+            },
+            "vous": {
+              "form": "aurez écouté",
+              "english": "you will have listened",
+              "sentence": "Vous aurez écouté quoi?",
+              "sentenceEnglish": "What will you have listened to?"
+            },
+            "ils/elles": {
+              "form": "auront écouté",
+              "english": "they will have listened",
+              "sentence": "Ils auront écouté attentivement.",
+              "sentenceEnglish": "They will have listened carefully."
+            }
+          }
+        }
+      },
+      "note": "Regular future stem 'écouter-': j'écouterai, tu écouteras, il/elle écoutera, nous écouterons, vous écouterez, ils/elles écouteront"
+    }
+  }
+}

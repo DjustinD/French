@@ -2,226 +2,361 @@
   {
     "singular": "la voiture",
     "plural": "les voitures",
+    "french": "voiture",
+    "english": "car",
+    "cefr": "A1",
     "image": "images/voiture.jpg"
   },
   {
     "singular": "l'auto",
     "plural": "les autos",
+    "french": "auto",
+    "english": "car",
+    "cefr": "A1",
     "image": "images/auto.jpg"
   },
   {
     "singular": "le bus",
     "plural": "les bus",
+    "french": "bus",
+    "english": "bus",
+    "cefr": "A1",
     "image": "images/bus.jpg"
   },
   {
     "singular": "l'autobus",
     "plural": "les autobus",
+    "french": "autobus",
+    "english": "bus",
+    "cefr": "A1",
     "image": "images/autobus.jpg"
   },
   {
     "singular": "le train",
     "plural": "les trains",
+    "french": "train",
+    "english": "train",
+    "cefr": "A1",
     "image": "images/train.jpg"
   },
   {
     "singular": "le métro",
     "plural": "les métros",
+    "french": "métro",
+    "english": "metro",
+    "cefr": "A1",
     "image": "images/metro.jpg"
   },
   {
     "singular": "le tramway",
     "plural": "les tramways",
+    "french": "tramway",
+    "english": "tram",
+    "cefr": "A1",
     "image": "images/tramway.jpg"
   },
   {
     "singular": "l'avion",
     "plural": "les avions",
+    "french": "avion",
+    "english": "plane",
+    "cefr": "A1",
     "image": "images/avion.jpg"
   },
   {
     "singular": "l'hélicoptère",
     "plural": "les hélicoptères",
+    "french": "hélicoptère",
+    "english": "helicopter",
+    "cefr": "A2",
     "image": "images/helicoptere.jpg"
   },
   {
     "singular": "le bateau",
     "plural": "les bateaux",
+    "french": "bateau",
+    "english": "boat",
+    "cefr": "A1",
     "image": "images/bateau.jpg"
   },
   {
     "singular": "le navire",
     "plural": "les navires",
+    "french": "navire",
+    "english": "ship",
+    "cefr": "A2",
     "image": "images/navire.jpg"
   },
   {
     "singular": "le ferry",
     "plural": "les ferries",
+    "french": "ferry",
+    "english": "ferry",
+    "cefr": "A2",
     "image": "images/ferry.jpg"
   },
   {
     "singular": "le vélo",
     "plural": "les vélos",
+    "french": "vélo",
+    "english": "bicycle",
+    "cefr": "A1",
     "image": "images/velo.jpg"
   },
   {
     "singular": "la bicyclette",
     "plural": "les bicyclettes",
+    "french": "bicyclette",
+    "english": "bicycle",
+    "cefr": "A1",
     "image": "images/bicyclette.jpg"
   },
   {
     "singular": "la moto",
     "plural": "les motos",
+    "french": "moto",
+    "english": "motorbike",
+    "cefr": "A1",
     "image": "images/moto.jpg"
   },
   {
     "singular": "la motocyclette",
     "plural": "les motocyclettes",
+    "french": "motocyclette",
+    "english": "motorcycle",
+    "cefr": "A2",
     "image": "images/motocyclette.jpg"
   },
   {
     "singular": "le scooter",
     "plural": "les scooters",
+    "french": "scooter",
+    "english": "scooter",
+    "cefr": "A2",
     "image": "images/scooter.jpg"
   },
   {
     "singular": "le camion",
     "plural": "les camions",
+    "french": "camion",
+    "english": "truck",
+    "cefr": "A1",
     "image": "images/camion.jpg"
   },
   {
     "singular": "le taxi",
     "plural": "les taxis",
+    "french": "taxi",
+    "english": "taxi",
+    "cefr": "A1",
     "image": "images/taxi.jpg"
   },
   {
     "singular": "l'ambulance",
     "plural": "les ambulances",
+    "french": "ambulance",
+    "english": "ambulance",
+    "cefr": "A1",
     "image": "images/ambulance.jpg"
   },
   {
     "singular": "le camion de pompiers",
     "plural": "les camions de pompiers",
+    "french": "camion de pompiers",
+    "english": "fire truck",
+    "cefr": "A1",
     "image": "images/camion_pompiers.jpg"
   },
   {
     "singular": "la voiture de police",
     "plural": "les voitures de police",
+    "french": "voiture de police",
+    "english": "police car",
+    "cefr": "A1",
     "image": "images/voiture_police.jpg"
   },
   {
     "singular": "la trottinette",
     "plural": "les trottinettes",
+    "french": "trottinette",
+    "english": "scooter",
+    "cefr": "A1",
     "image": "images/trottinette.jpg"
   },
   {
     "singular": "le skateboard",
     "plural": "les skateboards",
+    "french": "skateboard",
+    "english": "skateboard",
+    "cefr": "A2",
     "image": "images/skateboard.jpg"
   },
   {
     "singular": "les rollers",
     "plural": "les rollers",
+    "french": "rollers",
+    "english": "rollerblades",
+    "cefr": "A2",
     "image": "images/rollers.jpg"
   },
   {
     "singular": "la fusée",
     "plural": "les fusées",
+    "french": "fusée",
+    "english": "rocket",
+    "cefr": "A2",
     "image": "images/fusee.jpg"
   },
   {
     "singular": "le tracteur",
     "plural": "les tracteurs",
+    "french": "tracteur",
+    "english": "tractor",
+    "cefr": "A1",
     "image": "images/tracteur.jpg"
   },
   {
     "singular": "l'autocar",
     "plural": "les autocars",
+    "french": "autocar",
+    "english": "coach",
+    "cefr": "A2",
     "image": "images/autocar.jpg"
   },
   {
     "singular": "la gare",
     "plural": "les gares",
+    "french": "gare",
+    "english": "station",
+    "cefr": "A1",
     "image": "images/gare.jpg"
   },
   {
     "singular": "l'aéroport",
     "plural": "les aéroports",
+    "french": "aéroport",
+    "english": "airport",
+    "cefr": "A1",
     "image": "images/aeroport.jpg"
   },
   {
     "singular": "le port",
     "plural": "les ports",
+    "french": "port",
+    "english": "port",
+    "cefr": "A2",
     "image": "images/port.jpg"
   },
   {
     "singular": "l'arrêt de bus",
     "plural": "les arrêts de bus",
+    "french": "arrêt de bus",
+    "english": "bus stop",
+    "cefr": "A1",
     "image": "images/arret_bus.jpg"
   },
   {
     "singular": "le quai",
     "plural": "les quais",
+    "french": "quai",
+    "english": "platform",
+    "cefr": "A2",
     "image": "images/quai.jpg"
   },
   {
     "singular": "le parking",
     "plural": "les parkings",
+    "french": "parking",
+    "english": "parking lot",
+    "cefr": "A2",
     "image": "images/parking.jpg"
   },
   {
     "singular": "la route",
     "plural": "les routes",
+    "french": "route",
+    "english": "road",
+    "cefr": "A1",
     "image": "images/route.jpg"
   },
   {
     "singular": "la rue",
     "plural": "les rues",
+    "french": "rue",
+    "english": "street",
+    "cefr": "A1",
     "image": "images/rue.jpg"
   },
   {
     "singular": "l'autoroute",
     "plural": "les autoroutes",
+    "french": "autoroute",
+    "english": "highway",
+    "cefr": "A2",
     "image": "images/autoroute.jpg"
   },
   {
     "singular": "le pont",
     "plural": "les ponts",
+    "french": "pont",
+    "english": "bridge",
+    "cefr": "A1",
     "image": "images/pont.jpg"
   },
   {
     "singular": "le tunnel",
     "plural": "les tunnels",
+    "french": "tunnel",
+    "english": "tunnel",
+    "cefr": "A2",
     "image": "images/tunnel.jpg"
   },
   {
     "singular": "le feu rouge",
     "plural": "les feux rouges",
+    "french": "feu rouge",
+    "english": "traffic light",
+    "cefr": "A2",
     "image": "images/feu_rouge.jpg"
   },
   {
     "singular": "le panneau",
     "plural": "les panneaux",
+    "french": "panneau",
+    "english": "sign",
+    "cefr": "A2",
     "image": "images/panneau.jpg"
   },
   {
     "singular": "le billet",
     "plural": "les billets",
+    "french": "billet",
+    "english": "ticket",
+    "cefr": "A1",
     "image": "images/billet.jpg"
   },
   {
     "singular": "le passeport",
     "plural": "les passeports",
+    "french": "passeport",
+    "english": "passport",
+    "cefr": "A1",
     "image": "images/passeport.jpg"
   },
   {
     "singular": "la valise",
     "plural": "les valises",
+    "french": "valise",
+    "english": "suitcase",
+    "cefr": "A1",
     "image": "images/valise.jpg"
   },
   {
     "singular": "le bagage",
     "plural": "les bagages",
+    "french": "bagage",
+    "english": "luggage",
+    "cefr": "A1",
     "image": "images/bagage.jpg"
   }
 ]

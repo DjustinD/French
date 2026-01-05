@@ -2,151 +2,241 @@
   {
     "singular": "la tête",
     "plural": "les têtes",
+    "french": "tête",
+    "english": "head",
+    "cefr": "A1",
     "image": "images/tete.jpg"
   },
   {
     "singular": "le visage",
     "plural": "les visages",
+    "french": "visage",
+    "english": "face",
+    "cefr": "A1",
     "image": "images/visage.jpg"
   },
   {
     "singular": "les cheveux",
     "plural": "les cheveux",
+    "french": "cheveux",
+    "english": "hair",
+    "cefr": "A1",
     "image": "images/cheveux.jpg"
   },
   {
     "singular": "l'œil",
     "plural": "les yeux",
+    "french": "œil",
+    "english": "eye",
+    "cefr": "A1",
     "image": "images/oeil.jpg"
   },
   {
     "singular": "le nez",
     "plural": "les nez",
+    "french": "nez",
+    "english": "nose",
+    "cefr": "A1",
     "image": "images/nez.jpg"
   },
   {
     "singular": "la bouche",
     "plural": "les bouches",
+    "french": "bouche",
+    "english": "mouth",
+    "cefr": "A1",
     "image": "images/bouche.jpg"
   },
   {
     "singular": "la dent",
     "plural": "les dents",
+    "french": "dent",
+    "english": "tooth",
+    "cefr": "A1",
     "image": "images/dent.jpg"
   },
   {
     "singular": "la langue",
     "plural": "les langues",
+    "french": "langue",
+    "english": "tongue",
+    "cefr": "A2",
     "image": "images/langue.jpg"
   },
   {
     "singular": "l'oreille",
     "plural": "les oreilles",
+    "french": "oreille",
+    "english": "ear",
+    "cefr": "A1",
     "image": "images/oreille.jpg"
   },
   {
     "singular": "le cou",
     "plural": "les cous",
+    "french": "cou",
+    "english": "neck",
+    "cefr": "A1",
     "image": "images/cou.jpg"
   },
   {
     "singular": "l'épaule",
     "plural": "les épaules",
+    "french": "épaule",
+    "english": "shoulder",
+    "cefr": "A1",
     "image": "images/epaule.jpg"
   },
   {
     "singular": "le bras",
     "plural": "les bras",
+    "french": "bras",
+    "english": "arm",
+    "cefr": "A1",
     "image": "images/bras.jpg"
   },
   {
     "singular": "le coude",
     "plural": "les coudes",
+    "french": "coude",
+    "english": "elbow",
+    "cefr": "A1",
     "image": "images/coude.jpg"
   },
   {
     "singular": "la main",
     "plural": "les mains",
+    "french": "main",
+    "english": "hand",
+    "cefr": "A1",
     "image": "images/main.jpg"
   },
   {
     "singular": "le doigt",
     "plural": "les doigts",
+    "french": "doigt",
+    "english": "finger",
+    "cefr": "A1",
     "image": "images/doigt.jpg"
   },
   {
     "singular": "le pouce",
     "plural": "les pouces",
+    "french": "pouce",
+    "english": "thumb",
+    "cefr": "A1",
     "image": "images/pouce.jpg"
   },
   {
     "singular": "l'ongle",
     "plural": "les ongles",
+    "french": "ongle",
+    "english": "nail",
+    "cefr": "A2",
     "image": "images/ongle.jpg"
   },
   {
     "singular": "la poitrine",
     "plural": "les poitrines",
+    "french": "poitrine",
+    "english": "chest",
+    "cefr": "A2",
     "image": "images/poitrine.jpg"
   },
   {
     "singular": "le dos",
     "plural": "les dos",
+    "french": "dos",
+    "english": "back",
+    "cefr": "A1",
     "image": "images/dos.jpg"
   },
   {
     "singular": "le ventre",
     "plural": "les ventres",
+    "french": "ventre",
+    "english": "stomach",
+    "cefr": "A1",
     "image": "images/ventre.jpg"
   },
   {
     "singular": "la jambe",
     "plural": "les jambes",
+    "french": "jambe",
+    "english": "leg",
+    "cefr": "A1",
     "image": "images/jambe.jpg"
   },
   {
     "singular": "le genou",
     "plural": "les genoux",
+    "french": "genou",
+    "english": "knee",
+    "cefr": "A1",
     "image": "images/genou.jpg"
   },
   {
     "singular": "le pied",
     "plural": "les pieds",
+    "french": "pied",
+    "english": "foot",
+    "cefr": "A1",
     "image": "images/pied.jpg"
   },
   {
     "singular": "l'orteil",
     "plural": "les orteils",
+    "french": "orteil",
+    "english": "toe",
+    "cefr": "A1",
     "image": "images/orteil.jpg"
   },
   {
     "singular": "le cœur",
     "plural": "les cœurs",
+    "french": "cœur",
+    "english": "heart",
+    "cefr": "A2",
     "image": "images/coeur.jpg"
   },
   {
     "singular": "le cerveau",
     "plural": "les cerveaux",
+    "french": "cerveau",
+    "english": "brain",
+    "cefr": "A2",
     "image": "images/cerveau.jpg"
   },
   {
     "singular": "l'estomac",
     "plural": "les estomacs",
+    "french": "estomac",
+    "english": "stomach (organ)",
+    "cefr": "A2",
     "image": "images/estomac.jpg"
   },
   {
     "singular": "le sang",
     "plural": "le sang",
+    "french": "sang",
+    "english": "blood",
+    "cefr": "A2",
     "image": "images/sang.jpg"
   },
   {
     "singular": "l'os",
     "plural": "les os",
+    "french": "os",
+    "english": "bone",
+    "cefr": "A2",
     "image": "images/os.jpg"
   },
   {
     "singular": "la peau",
     "plural": "les peaux",
+    "french": "peau",
+    "english": "skin",
+    "cefr": "A2",
     "image": "images/peau.jpg"
   }
 ]

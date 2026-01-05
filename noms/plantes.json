@@ -2,151 +2,241 @@
   {
     "singular": "la rose",
     "plural": "les roses",
+    "french": "rose",
+    "english": "rose",
+    "cefr": "A1",
     "image": "images/rose.jpg"
   },
   {
     "singular": "la tulipe",
     "plural": "les tulipes",
+    "french": "tulipe",
+    "english": "tulip",
+    "cefr": "A1",
     "image": "images/tulipe.jpg"
   },
   {
     "singular": "le tournesol",
     "plural": "les tournesols",
+    "french": "tournesol",
+    "english": "sunflower",
+    "cefr": "A1",
     "image": "images/tournesol.jpg"
   },
   {
     "singular": "la marguerite",
     "plural": "les marguerites",
+    "french": "marguerite",
+    "english": "daisy",
+    "cefr": "A2",
     "image": "images/marguerite.jpg"
   },
   {
     "singular": "le lys",
     "plural": "les lys",
+    "french": "lys",
+    "english": "lily",
+    "cefr": "A2",
     "image": "images/lys.jpg"
   },
   {
     "singular": "l'orchidée",
     "plural": "les orchidées",
+    "french": "orchidée",
+    "english": "orchid",
+    "cefr": "A2",
     "image": "images/orchidee.jpg"
   },
   {
     "singular": "le coquelicot",
     "plural": "les coquelicots",
+    "french": "coquelicot",
+    "english": "poppy",
+    "cefr": "A2",
     "image": "images/coquelicot.jpg"
   },
   {
     "singular": "la violette",
     "plural": "les violettes",
+    "french": "violette",
+    "english": "violet (flower)",
+    "cefr": "A2",
     "image": "images/violette.jpg"
   },
   {
     "singular": "le chêne",
     "plural": "les chênes",
+    "french": "chêne",
+    "english": "oak",
+    "cefr": "A2",
     "image": "images/chene.jpg"
   },
   {
     "singular": "le sapin",
     "plural": "les sapins",
+    "french": "sapin",
+    "english": "fir tree",
+    "cefr": "A2",
     "image": "images/sapin.jpg"
   },
   {
     "singular": "le pin",
     "plural": "les pins",
+    "french": "pin",
+    "english": "pine",
+    "cefr": "A2",
     "image": "images/pin.jpg"
   },
   {
     "singular": "le bouleau",
     "plural": "les bouleaux",
+    "french": "bouleau",
+    "english": "birch",
+    "cefr": "A2",
     "image": "images/bouleau.jpg"
   },
   {
     "singular": "l'érable",
     "plural": "les érables",
+    "french": "érable",
+    "english": "maple",
+    "cefr": "A2",
     "image": "images/erable.jpg"
   },
   {
     "singular": "le palmier",
     "plural": "les palmiers",
+    "french": "palmier",
+    "english": "palm tree",
+    "cefr": "A2",
     "image": "images/palmier.jpg"
   },
   {
     "singular": "le cactus",
     "plural": "les cactus",
+    "french": "cactus",
+    "english": "cactus",
+    "cefr": "A2",
     "image": "images/cactus.jpg"
   },
   {
     "singular": "la fougère",
     "plural": "les fougères",
+    "french": "fougère",
+    "english": "fern",
+    "cefr": "A2",
     "image": "images/fougere.jpg"
   },
   {
     "singular": "le bambou",
     "plural": "les bambous",
+    "french": "bambou",
+    "english": "bamboo",
+    "cefr": "A2",
     "image": "images/bambou.jpg"
   },
   {
     "singular": "le lierre",
     "plural": "les lierres",
+    "french": "lierre",
+    "english": "ivy",
+    "cefr": "A2",
     "image": "images/lierre.jpg"
   },
   {
     "singular": "la mousse",
     "plural": "les mousses",
+    "french": "mousse",
+    "english": "moss",
+    "cefr": "A2",
     "image": "images/mousse.jpg"
   },
   {
     "singular": "l'herbe",
     "plural": "les herbes",
+    "french": "herbe",
+    "english": "grass",
+    "cefr": "A1",
     "image": "images/herbe.jpg"
   },
   {
     "singular": "le trèfle",
     "plural": "les trèfles",
+    "french": "trèfle",
+    "english": "clover",
+    "cefr": "A2",
     "image": "images/trefle.jpg"
   },
   {
     "singular": "la feuille",
     "plural": "les feuilles",
+    "french": "feuille",
+    "english": "leaf",
+    "cefr": "A1",
     "image": "images/feuille.jpg"
   },
   {
     "singular": "la branche",
     "plural": "les branches",
+    "french": "branche",
+    "english": "branch",
+    "cefr": "A1",
     "image": "images/branche.jpg"
   },
   {
     "singular": "la racine",
     "plural": "les racines",
+    "french": "racine",
+    "english": "root",
+    "cefr": "A2",
     "image": "images/racine.jpg"
   },
   {
     "singular": "la fleur",
     "plural": "les fleurs",
+    "french": "fleur",
+    "english": "flower",
+    "cefr": "A1",
     "image": "images/fleur.jpg"
   },
   {
     "singular": "le pommier",
     "plural": "les pommiers",
+    "french": "pommier",
+    "english": "apple tree",
+    "cefr": "A2",
     "image": "images/pommier.jpg"
   },
   {
     "singular": "le cerisier",
     "plural": "les cerisiers",
+    "french": "cerisier",
+    "english": "cherry tree",
+    "cefr": "A2",
     "image": "images/cerisier.jpg"
   },
   {
     "singular": "l'olivier",
     "plural": "les oliviers",
+    "french": "olivier",
+    "english": "olive tree",
+    "cefr": "A2",
     "image": "images/olivier.jpg"
   },
   {
     "singular": "le citronnier",
     "plural": "les citronniers",
+    "french": "citronnier",
+    "english": "lemon tree",
+    "cefr": "A2",
     "image": "images/citronnier.jpg"
   },
   {
     "singular": "la vigne",
     "plural": "les vignes",
+    "french": "vigne",
+    "english": "vine",
+    "cefr": "A2",
     "image": "images/vigne.jpg"
   }
 ]

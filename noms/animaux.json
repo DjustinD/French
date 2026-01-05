@@ -2,151 +2,241 @@
   {
     "singular": "le chat",
     "plural": "les chats",
+    "french": "chat",
+    "english": "cat",
+    "cefr": "A1",
     "image": "images/chat.jpg"
   },
   {
     "singular": "le chien",
     "plural": "les chiens",
+    "french": "chien",
+    "english": "dog",
+    "cefr": "A1",
     "image": "images/chien.jpg"
   },
   {
     "singular": "l'oiseau",
     "plural": "les oiseaux",
+    "french": "oiseau",
+    "english": "bird",
+    "cefr": "A1",
     "image": "images/oiseau.jpg"
   },
   {
     "singular": "le poisson",
     "plural": "les poissons",
+    "french": "poisson",
+    "english": "fish",
+    "cefr": "A1",
     "image": "images/poisson.jpg"
   },
   {
     "singular": "le cheval",
     "plural": "les chevaux",
+    "french": "cheval",
+    "english": "horse",
+    "cefr": "A1",
     "image": "images/cheval.jpg"
   },
   {
     "singular": "la vache",
     "plural": "les vaches",
+    "french": "vache",
+    "english": "cow",
+    "cefr": "A1",
     "image": "images/vache.jpg"
   },
   {
     "singular": "le mouton",
     "plural": "les moutons",
+    "french": "mouton",
+    "english": "sheep",
+    "cefr": "A1",
     "image": "images/mouton.jpg"
   },
   {
     "singular": "le cochon",
     "plural": "les cochons",
+    "french": "cochon",
+    "english": "pig",
+    "cefr": "A1",
     "image": "images/cochon.jpg"
   },
   {
     "singular": "la poule",
     "plural": "les poules",
+    "french": "poule",
+    "english": "chicken",
+    "cefr": "A1",
     "image": "images/poule.jpg"
   },
   {
     "singular": "le lapin",
     "plural": "les lapins",
+    "french": "lapin",
+    "english": "rabbit",
+    "cefr": "A1",
     "image": "images/lapin.jpg"
   },
   {
     "singular": "le lion",
     "plural": "les lions",
+    "french": "lion",
+    "english": "lion",
+    "cefr": "A1",
     "image": "images/lion.jpg"
   },
   {
     "singular": "le tigre",
     "plural": "les tigres",
+    "french": "tigre",
+    "english": "tiger",
+    "cefr": "A1",
     "image": "images/tigre.jpg"
   },
   {
     "singular": "l'éléphant",
     "plural": "les éléphants",
+    "french": "éléphant",
+    "english": "elephant",
+    "cefr": "A1",
     "image": "images/elephant.jpg"
   },
   {
     "singular": "la girafe",
     "plural": "les girafes",
+    "french": "girafe",
+    "english": "giraffe",
+    "cefr": "A1",
     "image": "images/girafe.jpg"
   },
   {
     "singular": "le singe",
     "plural": "les singes",
+    "french": "singe",
+    "english": "monkey",
+    "cefr": "A1",
     "image": "images/singe.jpg"
   },
   {
     "singular": "l'ours",
     "plural": "les ours",
+    "french": "ours",
+    "english": "bear",
+    "cefr": "A1",
     "image": "images/ours.jpg"
   },
   {
     "singular": "le renard",
     "plural": "les renards",
+    "french": "renard",
+    "english": "fox",
+    "cefr": "A1",
     "image": "images/renard.jpg"
   },
   {
     "singular": "le loup",
     "plural": "les loups",
+    "french": "loup",
+    "english": "wolf",
+    "cefr": "A1",
     "image": "images/loup.jpg"
   },
   {
     "singular": "la souris",
     "plural": "les souris",
+    "french": "souris",
+    "english": "mouse",
+    "cefr": "A1",
     "image": "images/souris.jpg"
   },
   {
     "singular": "le papillon",
     "plural": "les papillons",
+    "french": "papillon",
+    "english": "butterfly",
+    "cefr": "A1",
     "image": "images/papillon.jpg"
   },
   {
     "singular": "l'abeille",
     "plural": "les abeilles",
+    "french": "abeille",
+    "english": "bee",
+    "cefr": "A1",
     "image": "images/abeille.jpg"
   },
   {
     "singular": "la grenouille",
     "plural": "les grenouilles",
+    "french": "grenouille",
+    "english": "frog",
+    "cefr": "A1",
     "image": "images/grenouille.jpg"
   },
   {
     "singular": "le serpent",
     "plural": "les serpents",
+    "french": "serpent",
+    "english": "snake",
+    "cefr": "A1",
     "image": "images/serpent.jpg"
   },
   {
     "singular": "la tortue",
     "plural": "les tortues",
+    "french": "tortue",
+    "english": "turtle",
+    "cefr": "A1",
     "image": "images/tortue.jpg"
   },
   {
     "singular": "le canard",
     "plural": "les canards",
+    "french": "canard",
+    "english": "duck",
+    "cefr": "A1",
     "image": "images/canard.jpg"
   },
   {
     "singular": "le cygne",
     "plural": "les cygnes",
+    "french": "cygne",
+    "english": "swan",
+    "cefr": "A1",
     "image": "images/cygne.jpg"
   },
   {
     "singular": "le dauphin",
     "plural": "les dauphins",
+    "french": "dauphin",
+    "english": "dolphin",
+    "cefr": "A1",
     "image": "images/dauphin.jpg"
   },
   {
     "singular": "la baleine",
     "plural": "les baleines",
+    "french": "baleine",
+    "english": "whale",
+    "cefr": "A1",
     "image": "images/baleine.jpg"
   },
   {
     "singular": "le requin",
     "plural": "les requins",
+    "french": "requin",
+    "english": "shark",
+    "cefr": "A1",
     "image": "images/requin.jpg"
   },
   {
     "singular": "le crocodile",
     "plural": "les crocodiles",
+    "french": "crocodile",
+    "english": "crocodile",
+    "cefr": "A1",
     "image": "images/crocodile.jpg"
   }
 ]

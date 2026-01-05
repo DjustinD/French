@@ -1,6 +1,7 @@
 {
   "infinitive": "ouvrir",
   "english": "to open",
+  "cefr": "A1",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train d'ouvrir",
+              "form": "ouvre",
               "english": "I am opening",
               "sentence": "Je suis en train d'ouvrir la porte.",
               "sentenceEnglish": "I am opening the door."
             },
             "tu": {
-              "form": "es en train d'ouvrir",
+              "form": "ouvres",
               "english": "you are opening",
               "sentence": "Tu es en train d'ouvrir quoi?",
               "sentenceEnglish": "What are you opening?"
             },
             "il/elle": {
-              "form": "est en train d'ouvrir",
+              "form": "ouvre",
               "english": "he/she is opening",
               "sentence": "Elle est en train d'ouvrir le cadeau.",
               "sentenceEnglish": "She is opening the gift."
             },
             "on": {
-              "form": "est en train d'ouvrir",
+              "form": "ouvre",
               "english": "we are opening",
               "sentence": "On est en train d'ouvrir le magasin.",
               "sentenceEnglish": "We are opening the store."
             },
             "nous": {
-              "form": "sommes en train d'ouvrir",
+              "form": "ouvrons",
               "english": "we are opening",
               "sentence": "Nous sommes en train d'ouvrir les fenêtres.",
               "sentenceEnglish": "We are opening the windows."
             },
             "vous": {
-              "form": "êtes en train d'ouvrir",
+              "form": "ouvrez",
               "english": "you are opening",
               "sentence": "Vous êtes en train d'ouvrir le livre?",
               "sentenceEnglish": "Are you opening the book?"
             },
             "ils/elles": {
-              "form": "sont en train d'ouvrir",
+              "form": "ouvrent",
               "english": "they are opening",
               "sentence": "Ils sont en train d'ouvrir la boutique.",
               "sentenceEnglish": "They are opening the shop."
@@ -295,7 +296,7 @@
               "sentenceEnglish": "You opened the door."
             },
             "ils/elles": {
-              "form": "ouvrirent",
+              "form": "ouvriront",
               "english": "they opened",
               "sentence": "Ils ouvrirent le magasin.",
               "sentenceEnglish": "They opened the store."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais ouvrir",
+              "form": "ouvrirai",
               "english": "I am going to open",
               "sentence": "Je vais ouvrir la porte.",
               "sentenceEnglish": "I am going to open the door."
             },
             "tu": {
-              "form": "vas ouvrir",
+              "form": "ouvriras",
               "english": "you are going to open",
               "sentence": "Tu vas ouvrir la fenêtre?",
               "sentenceEnglish": "Are you going to open the window?"
             },
             "il/elle": {
-              "form": "va ouvrir",
+              "form": "ouvrira",
               "english": "he/she is going to open",
               "sentence": "Elle va ouvrir le magasin.",
               "sentenceEnglish": "She is going to open the store."
             },
             "on": {
-              "form": "va ouvrir",
+              "form": "ouvrira",
               "english": "we are going to open",
               "sentence": "On va ouvrir maintenant.",
               "sentenceEnglish": "We are going to open now."
             },
             "nous": {
-              "form": "allons ouvrir",
+              "form": "ouvrirons",
               "english": "we are going to open",
               "sentence": "Nous allons ouvrir les yeux.",
               "sentenceEnglish": "We are going to open our eyes."
             },
             "vous": {
-              "form": "allez ouvrir",
+              "form": "ouvrirez",
               "english": "you are going to open",
               "sentence": "Vous allez ouvrir le livre?",
               "sentenceEnglish": "Are you going to open the book?"
             },
             "ils/elles": {
-              "form": "vont ouvrir",
+              "form": "ouvriront",
               "english": "they are going to open",
               "sentence": "Ils vont ouvrir la boutique.",
               "sentenceEnglish": "They are going to open the shop."

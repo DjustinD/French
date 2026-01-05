@@ -1,6 +1,7 @@
 {
   "infinitive": "aller",
   "english": "to go",
+  "cefr": "A1",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -10,26 +11,96 @@
           "name": "Présent Simple",
           "description": "Simple present tense",
           "forms": {
-            "je": { "form": "vais", "english": "I go / I am going", "sentence": "Je vais à l'école.", "sentenceEnglish": "I go to school." },
-            "tu": { "form": "vas", "english": "you go / you are going", "sentence": "Tu vas au cinéma?", "sentenceEnglish": "Are you going to the cinema?" },
-            "il/elle": { "form": "va", "english": "he/she goes / is going", "sentence": "Elle va à Paris.", "sentenceEnglish": "She goes to Paris." },
-            "on": { "form": "va", "english": "we go / we are going", "sentence": "On va au parc.", "sentenceEnglish": "We're going to the park." },
-            "nous": { "form": "allons", "english": "we go / we are going", "sentence": "Nous allons au marché.", "sentenceEnglish": "We go to the market." },
-            "vous": { "form": "allez", "english": "you go / you are going", "sentence": "Vous allez bien?", "sentenceEnglish": "Are you doing well?" },
-            "ils/elles": { "form": "vont", "english": "they go / they are going", "sentence": "Ils vont à la plage.", "sentenceEnglish": "They go to the beach." }
+            "je": {
+              "form": "vais",
+              "english": "I go / I am going",
+              "sentence": "Je vais à l'école.",
+              "sentenceEnglish": "I go to school."
+            },
+            "tu": {
+              "form": "vas",
+              "english": "you go / you are going",
+              "sentence": "Tu vas au cinéma?",
+              "sentenceEnglish": "Are you going to the cinema?"
+            },
+            "il/elle": {
+              "form": "va",
+              "english": "he/she goes / is going",
+              "sentence": "Elle va à Paris.",
+              "sentenceEnglish": "She goes to Paris."
+            },
+            "on": {
+              "form": "va",
+              "english": "we go / we are going",
+              "sentence": "On va au parc.",
+              "sentenceEnglish": "We're going to the park."
+            },
+            "nous": {
+              "form": "allons",
+              "english": "we go / we are going",
+              "sentence": "Nous allons au marché.",
+              "sentenceEnglish": "We go to the market."
+            },
+            "vous": {
+              "form": "allez",
+              "english": "you go / you are going",
+              "sentence": "Vous allez bien?",
+              "sentenceEnglish": "Are you doing well?"
+            },
+            "ils/elles": {
+              "form": "vont",
+              "english": "they go / they are going",
+              "sentence": "Ils vont à la plage.",
+              "sentenceEnglish": "They go to the beach."
+            }
           }
         },
         "continu": {
           "name": "Présent Continu",
           "description": "Continuous present - action in progress right now",
           "forms": {
-            "je": { "form": "suis en train d'aller", "english": "I am going", "sentence": "Je suis en train d'aller au travail.", "sentenceEnglish": "I am going to work." },
-            "tu": { "form": "es en train d'aller", "english": "you are going", "sentence": "Tu es en train d'aller où?", "sentenceEnglish": "Where are you going?" },
-            "il/elle": { "form": "est en train d'aller", "english": "he/she is going", "sentence": "Elle est en train d'aller à la poste.", "sentenceEnglish": "She is going to the post office." },
-            "on": { "form": "est en train d'aller", "english": "we are going", "sentence": "On est en train d'aller au parc.", "sentenceEnglish": "We are going to the park." },
-            "nous": { "form": "sommes en train d'aller", "english": "we are going", "sentence": "Nous sommes en train d'aller au marché.", "sentenceEnglish": "We are going to the market." },
-            "vous": { "form": "êtes en train d'aller", "english": "you are going", "sentence": "Vous êtes en train d'aller là-bas?", "sentenceEnglish": "Are you going there?" },
-            "ils/elles": { "form": "sont en train d'aller", "english": "they are going", "sentence": "Ils sont en train d'aller à l'école.", "sentenceEnglish": "They are going to school." }
+            "je": {
+              "form": "vais",
+              "english": "I am going",
+              "sentence": "Je suis en train d'aller au travail.",
+              "sentenceEnglish": "I am going to work."
+            },
+            "tu": {
+              "form": "vas",
+              "english": "you are going",
+              "sentence": "Tu es en train d'aller où?",
+              "sentenceEnglish": "Where are you going?"
+            },
+            "il/elle": {
+              "form": "va",
+              "english": "he/she is going",
+              "sentence": "Elle est en train d'aller à la poste.",
+              "sentenceEnglish": "She is going to the post office."
+            },
+            "on": {
+              "form": "va",
+              "english": "we are going",
+              "sentence": "On est en train d'aller au parc.",
+              "sentenceEnglish": "We are going to the park."
+            },
+            "nous": {
+              "form": "allons",
+              "english": "we are going",
+              "sentence": "Nous sommes en train d'aller au marché.",
+              "sentenceEnglish": "We are going to the market."
+            },
+            "vous": {
+              "form": "allez",
+              "english": "you are going",
+              "sentence": "Vous êtes en train d'aller là-bas?",
+              "sentenceEnglish": "Are you going there?"
+            },
+            "ils/elles": {
+              "form": "vont",
+              "english": "they are going",
+              "sentence": "Ils sont en train d'aller à l'école.",
+              "sentenceEnglish": "They are going to school."
+            }
           }
         }
       },
@@ -43,26 +114,96 @@
           "description": "Perfect aspect - completed actions with present relevance",
           "auxiliary": "être",
           "forms": {
-            "je": { "form": "suis allé(e)", "english": "I went / I have gone", "sentence": "Je suis allé au magasin.", "sentenceEnglish": "I went to the store." },
-            "tu": { "form": "es allé(e)", "english": "you went / you have gone", "sentence": "Tu es allé à Paris?", "sentenceEnglish": "Did you go to Paris?" },
-            "il/elle": { "form": "est allé/allée", "english": "he/she went / has gone", "sentence": "Elle est allée à l'école.", "sentenceEnglish": "She went to school." },
-            "on": { "form": "est allé(s)", "english": "we went / we have gone", "sentence": "On est allés au cinéma.", "sentenceEnglish": "We went to the cinema." },
-            "nous": { "form": "sommes allé(e)s", "english": "we went / we have gone", "sentence": "Nous sommes allés au parc.", "sentenceEnglish": "We went to the park." },
-            "vous": { "form": "êtes allé(e)(s)", "english": "you went / you have gone", "sentence": "Vous êtes allés où?", "sentenceEnglish": "Where did you go?" },
-            "ils/elles": { "form": "sont allés/allées", "english": "they went / they have gone", "sentence": "Ils sont allés à la plage.", "sentenceEnglish": "They went to the beach." }
+            "je": {
+              "form": "suis allé",
+              "english": "I went / I have gone",
+              "sentence": "Je suis allé au magasin.",
+              "sentenceEnglish": "I went to the store."
+            },
+            "tu": {
+              "form": "es allé",
+              "english": "you went / you have gone",
+              "sentence": "Tu es allé à Paris?",
+              "sentenceEnglish": "Did you go to Paris?"
+            },
+            "il/elle": {
+              "form": "est allé",
+              "english": "he/she went / has gone",
+              "sentence": "Elle est allée à l'école.",
+              "sentenceEnglish": "She went to school."
+            },
+            "on": {
+              "form": "est allé",
+              "english": "we went / we have gone",
+              "sentence": "On est allés au cinéma.",
+              "sentenceEnglish": "We went to the cinema."
+            },
+            "nous": {
+              "form": "sommes allés",
+              "english": "we went / we have gone",
+              "sentence": "Nous sommes allés au parc.",
+              "sentenceEnglish": "We went to the park."
+            },
+            "vous": {
+              "form": "êtes allé",
+              "english": "you went / you have gone",
+              "sentence": "Vous êtes allés où?",
+              "sentenceEnglish": "Where did you go?"
+            },
+            "ils/elles": {
+              "form": "sont allés",
+              "english": "they went / they have gone",
+              "sentence": "Ils sont allés à la plage.",
+              "sentenceEnglish": "They went to the beach."
+            }
           }
         },
         "imparfait": {
           "name": "Imparfait",
           "description": "Imperfect aspect - ongoing or habitual actions in the past",
           "forms": {
-            "je": { "form": "allais", "english": "I was going / I used to go", "sentence": "J'allais à l'école tous les jours.", "sentenceEnglish": "I used to go to school every day." },
-            "tu": { "form": "allais", "english": "you were going / you used to go", "sentence": "Tu allais souvent au parc?", "sentenceEnglish": "Did you often go to the park?" },
-            "il/elle": { "form": "allait", "english": "he/she was going / used to go", "sentence": "Elle allait chez sa grand-mère.", "sentenceEnglish": "She used to go to her grandmother's." },
-            "on": { "form": "allait", "english": "we were going / we used to go", "sentence": "On allait au cinéma le samedi.", "sentenceEnglish": "We used to go to the movies on Saturdays." },
-            "nous": { "form": "allions", "english": "we were going / we used to go", "sentence": "Nous allions à la plage chaque été.", "sentenceEnglish": "We used to go to the beach every summer." },
-            "vous": { "form": "alliez", "english": "you were going / you used to go", "sentence": "Vous alliez où?", "sentenceEnglish": "Where were you going?" },
-            "ils/elles": { "form": "allaient", "english": "they were going / they used to go", "sentence": "Ils allaient à Paris souvent.", "sentenceEnglish": "They used to go to Paris often." }
+            "je": {
+              "form": "allais",
+              "english": "I was going / I used to go",
+              "sentence": "J'allais à l'école tous les jours.",
+              "sentenceEnglish": "I used to go to school every day."
+            },
+            "tu": {
+              "form": "allais",
+              "english": "you were going / you used to go",
+              "sentence": "Tu allais souvent au parc?",
+              "sentenceEnglish": "Did you often go to the park?"
+            },
+            "il/elle": {
+              "form": "allait",
+              "english": "he/she was going / used to go",
+              "sentence": "Elle allait chez sa grand-mère.",
+              "sentenceEnglish": "She used to go to her grandmother's."
+            },
+            "on": {
+              "form": "allait",
+              "english": "we were going / we used to go",
+              "sentence": "On allait au cinéma le samedi.",
+              "sentenceEnglish": "We used to go to the movies on Saturdays."
+            },
+            "nous": {
+              "form": "allions",
+              "english": "we were going / we used to go",
+              "sentence": "Nous allions à la plage chaque été.",
+              "sentenceEnglish": "We used to go to the beach every summer."
+            },
+            "vous": {
+              "form": "alliez",
+              "english": "you were going / you used to go",
+              "sentence": "Vous alliez où?",
+              "sentenceEnglish": "Where were you going?"
+            },
+            "ils/elles": {
+              "form": "allaient",
+              "english": "they were going / they used to go",
+              "sentence": "Ils allaient à Paris souvent.",
+              "sentenceEnglish": "They used to go to Paris often."
+            }
           }
         },
         "plus-que-parfait": {
@@ -70,26 +211,96 @@
           "description": "Pluperfect - actions completed before another past action",
           "auxiliary": "être",
           "forms": {
-            "je": { "form": "étais allé(e)", "english": "I had gone", "sentence": "J'étais allé au magasin avant.", "sentenceEnglish": "I had gone to the store before." },
-            "tu": { "form": "étais allé(e)", "english": "you had gone", "sentence": "Tu étais allé à Paris?", "sentenceEnglish": "Had you gone to Paris?" },
-            "il/elle": { "form": "était allé/allée", "english": "he/she had gone", "sentence": "Elle était allée chez le docteur.", "sentenceEnglish": "She had gone to the doctor." },
-            "on": { "form": "était allé(s)", "english": "we had gone", "sentence": "On était allés au cinéma.", "sentenceEnglish": "We had gone to the cinema." },
-            "nous": { "form": "étions allé(e)s", "english": "we had gone", "sentence": "Nous étions allés au parc.", "sentenceEnglish": "We had gone to the park." },
-            "vous": { "form": "étiez allé(e)(s)", "english": "you had gone", "sentence": "Vous étiez allés où?", "sentenceEnglish": "Where had you gone?" },
-            "ils/elles": { "form": "étaient allés/allées", "english": "they had gone", "sentence": "Ils étaient allés à la plage.", "sentenceEnglish": "They had gone to the beach." }
+            "je": {
+              "form": "étais allé",
+              "english": "I had gone",
+              "sentence": "J'étais allé au magasin avant.",
+              "sentenceEnglish": "I had gone to the store before."
+            },
+            "tu": {
+              "form": "étais allé",
+              "english": "you had gone",
+              "sentence": "Tu étais allé à Paris?",
+              "sentenceEnglish": "Had you gone to Paris?"
+            },
+            "il/elle": {
+              "form": "était allé",
+              "english": "he/she had gone",
+              "sentence": "Elle était allée chez le docteur.",
+              "sentenceEnglish": "She had gone to the doctor."
+            },
+            "on": {
+              "form": "était allé",
+              "english": "we had gone",
+              "sentence": "On était allés au cinéma.",
+              "sentenceEnglish": "We had gone to the cinema."
+            },
+            "nous": {
+              "form": "étions allés",
+              "english": "we had gone",
+              "sentence": "Nous étions allés au parc.",
+              "sentenceEnglish": "We had gone to the park."
+            },
+            "vous": {
+              "form": "étiez allé",
+              "english": "you had gone",
+              "sentence": "Vous étiez allés où?",
+              "sentenceEnglish": "Where had you gone?"
+            },
+            "ils/elles": {
+              "form": "étaient allés",
+              "english": "they had gone",
+              "sentence": "Ils étaient allés à la plage.",
+              "sentenceEnglish": "They had gone to the beach."
+            }
           }
         },
         "simple": {
           "name": "Passé Simple",
           "description": "Simple past (literary) - completed past actions",
           "forms": {
-            "je": { "form": "allai", "english": "I went", "sentence": "J'allai voir le roi.", "sentenceEnglish": "I went to see the king." },
-            "tu": { "form": "allas", "english": "you went", "sentence": "Tu allas à la guerre.", "sentenceEnglish": "You went to war." },
-            "il/elle": { "form": "alla", "english": "he/she went", "sentence": "Elle alla au château.", "sentenceEnglish": "She went to the castle." },
-            "on": { "form": "alla", "english": "we went", "sentence": "On alla ensemble.", "sentenceEnglish": "We went together." },
-            "nous": { "form": "allâmes", "english": "we went", "sentence": "Nous allâmes au combat.", "sentenceEnglish": "We went into battle." },
-            "vous": { "form": "allâtes", "english": "you went", "sentence": "Vous allâtes où?", "sentenceEnglish": "Where did you go?" },
-            "ils/elles": { "form": "allèrent", "english": "they went", "sentence": "Ils allèrent en quête.", "sentenceEnglish": "They went on a quest." }
+            "je": {
+              "form": "allai",
+              "english": "I went",
+              "sentence": "J'allai voir le roi.",
+              "sentenceEnglish": "I went to see the king."
+            },
+            "tu": {
+              "form": "allas",
+              "english": "you went",
+              "sentence": "Tu allas à la guerre.",
+              "sentenceEnglish": "You went to war."
+            },
+            "il/elle": {
+              "form": "alla",
+              "english": "he/she went",
+              "sentence": "Elle alla au château.",
+              "sentenceEnglish": "She went to the castle."
+            },
+            "on": {
+              "form": "alla",
+              "english": "we went",
+              "sentence": "On alla ensemble.",
+              "sentenceEnglish": "We went together."
+            },
+            "nous": {
+              "form": "allâmes",
+              "english": "we went",
+              "sentence": "Nous allâmes au combat.",
+              "sentenceEnglish": "We went into battle."
+            },
+            "vous": {
+              "form": "allâtes",
+              "english": "you went",
+              "sentence": "Vous allâtes où?",
+              "sentenceEnglish": "Where did you go?"
+            },
+            "ils/elles": {
+              "form": "allèrent",
+              "english": "they went",
+              "sentence": "Ils allèrent en quête.",
+              "sentenceEnglish": "They went on a quest."
+            }
           }
         }
       },
@@ -102,26 +313,96 @@
           "name": "Futur Simple",
           "description": "Simple future - actions that will happen",
           "forms": {
-            "je": { "form": "irai", "english": "I will go", "sentence": "J'irai en France.", "sentenceEnglish": "I will go to France." },
-            "tu": { "form": "iras", "english": "you will go", "sentence": "Tu iras au marché?", "sentenceEnglish": "Will you go to the market?" },
-            "il/elle": { "form": "ira", "english": "he/she will go", "sentence": "Il ira à l'université.", "sentenceEnglish": "He will go to university." },
-            "on": { "form": "ira", "english": "we will go", "sentence": "On ira ensemble.", "sentenceEnglish": "We will go together." },
-            "nous": { "form": "irons", "english": "we will go", "sentence": "Nous irons demain.", "sentenceEnglish": "We will go tomorrow." },
-            "vous": { "form": "irez", "english": "you will go", "sentence": "Vous irez quand?", "sentenceEnglish": "When will you go?" },
-            "ils/elles": { "form": "iront", "english": "they will go", "sentence": "Elles iront à Paris.", "sentenceEnglish": "They will go to Paris." }
+            "je": {
+              "form": "irai",
+              "english": "I will go",
+              "sentence": "J'irai en France.",
+              "sentenceEnglish": "I will go to France."
+            },
+            "tu": {
+              "form": "iras",
+              "english": "you will go",
+              "sentence": "Tu iras au marché?",
+              "sentenceEnglish": "Will you go to the market?"
+            },
+            "il/elle": {
+              "form": "ira",
+              "english": "he/she will go",
+              "sentence": "Il ira à l'université.",
+              "sentenceEnglish": "He will go to university."
+            },
+            "on": {
+              "form": "ira",
+              "english": "we will go",
+              "sentence": "On ira ensemble.",
+              "sentenceEnglish": "We will go together."
+            },
+            "nous": {
+              "form": "irons",
+              "english": "we will go",
+              "sentence": "Nous irons demain.",
+              "sentenceEnglish": "We will go tomorrow."
+            },
+            "vous": {
+              "form": "irez",
+              "english": "you will go",
+              "sentence": "Vous irez quand?",
+              "sentenceEnglish": "When will you go?"
+            },
+            "ils/elles": {
+              "form": "iront",
+              "english": "they will go",
+              "sentence": "Elles iront à Paris.",
+              "sentenceEnglish": "They will go to Paris."
+            }
           }
         },
         "proche": {
           "name": "Futur Proche",
           "description": "Near future - actions about to happen",
           "forms": {
-            "je": { "form": "vais aller", "english": "I am going to go", "sentence": "Je vais aller au cinéma.", "sentenceEnglish": "I am going to go to the cinema." },
-            "tu": { "form": "vas aller", "english": "you are going to go", "sentence": "Tu vas aller où?", "sentenceEnglish": "Where are you going to go?" },
-            "il/elle": { "form": "va aller", "english": "he/she is going to go", "sentence": "Elle va aller à Paris.", "sentenceEnglish": "She is going to go to Paris." },
-            "on": { "form": "va aller", "english": "we are going to go", "sentence": "On va aller ensemble.", "sentenceEnglish": "We are going to go together." },
-            "nous": { "form": "allons aller", "english": "we are going to go", "sentence": "Nous allons aller au parc.", "sentenceEnglish": "We are going to go to the park." },
-            "vous": { "form": "allez aller", "english": "you are going to go", "sentence": "Vous allez aller quand?", "sentenceEnglish": "When are you going to go?" },
-            "ils/elles": { "form": "vont aller", "english": "they are going to go", "sentence": "Ils vont aller à la plage.", "sentenceEnglish": "They are going to go to the beach." }
+            "je": {
+              "form": "irai",
+              "english": "I am going to go",
+              "sentence": "Je vais aller au cinéma.",
+              "sentenceEnglish": "I am going to go to the cinema."
+            },
+            "tu": {
+              "form": "iras",
+              "english": "you are going to go",
+              "sentence": "Tu vas aller où?",
+              "sentenceEnglish": "Where are you going to go?"
+            },
+            "il/elle": {
+              "form": "ira",
+              "english": "he/she is going to go",
+              "sentence": "Elle va aller à Paris.",
+              "sentenceEnglish": "She is going to go to Paris."
+            },
+            "on": {
+              "form": "ira",
+              "english": "we are going to go",
+              "sentence": "On va aller ensemble.",
+              "sentenceEnglish": "We are going to go together."
+            },
+            "nous": {
+              "form": "irons",
+              "english": "we are going to go",
+              "sentence": "Nous allons aller au parc.",
+              "sentenceEnglish": "We are going to go to the park."
+            },
+            "vous": {
+              "form": "irez",
+              "english": "you are going to go",
+              "sentence": "Vous allez aller quand?",
+              "sentenceEnglish": "When are you going to go?"
+            },
+            "ils/elles": {
+              "form": "iront",
+              "english": "they are going to go",
+              "sentence": "Ils vont aller à la plage.",
+              "sentenceEnglish": "They are going to go to the beach."
+            }
           }
         },
         "antérieur": {
@@ -129,13 +410,48 @@
           "description": "Future perfect - actions that will be completed by a future time",
           "auxiliary": "être",
           "forms": {
-            "je": { "form": "serai allé(e)", "english": "I will have gone", "sentence": "Je serai allé avant midi.", "sentenceEnglish": "I will have gone before noon." },
-            "tu": { "form": "seras allé(e)", "english": "you will have gone", "sentence": "Tu seras allé à Paris?", "sentenceEnglish": "Will you have gone to Paris?" },
-            "il/elle": { "form": "sera allé/allée", "english": "he/she will have gone", "sentence": "Elle sera allée chez le docteur.", "sentenceEnglish": "She will have gone to the doctor." },
-            "on": { "form": "sera allé(s)", "english": "we will have gone", "sentence": "On sera allés au cinéma.", "sentenceEnglish": "We will have gone to the cinema." },
-            "nous": { "form": "serons allé(e)s", "english": "we will have gone", "sentence": "Nous serons allés au parc.", "sentenceEnglish": "We will have gone to the park." },
-            "vous": { "form": "serez allé(e)(s)", "english": "you will have gone", "sentence": "Vous serez allés avant moi?", "sentenceEnglish": "Will you have gone before me?" },
-            "ils/elles": { "form": "seront allés/allées", "english": "they will have gone", "sentence": "Ils seront allés à la plage.", "sentenceEnglish": "They will have gone to the beach." }
+            "je": {
+              "form": "serai allé",
+              "english": "I will have gone",
+              "sentence": "Je serai allé avant midi.",
+              "sentenceEnglish": "I will have gone before noon."
+            },
+            "tu": {
+              "form": "seras allé",
+              "english": "you will have gone",
+              "sentence": "Tu seras allé à Paris?",
+              "sentenceEnglish": "Will you have gone to Paris?"
+            },
+            "il/elle": {
+              "form": "sera allé",
+              "english": "he/she will have gone",
+              "sentence": "Elle sera allée chez le docteur.",
+              "sentenceEnglish": "She will have gone to the doctor."
+            },
+            "on": {
+              "form": "sera allé",
+              "english": "we will have gone",
+              "sentence": "On sera allés au cinéma.",
+              "sentenceEnglish": "We will have gone to the cinema."
+            },
+            "nous": {
+              "form": "serons allés",
+              "english": "we will have gone",
+              "sentence": "Nous serons allés au parc.",
+              "sentenceEnglish": "We will have gone to the park."
+            },
+            "vous": {
+              "form": "serez allé",
+              "english": "you will have gone",
+              "sentence": "Vous serez allés avant moi?",
+              "sentenceEnglish": "Will you have gone before me?"
+            },
+            "ils/elles": {
+              "form": "seront allés",
+              "english": "they will have gone",
+              "sentence": "Ils seront allés à la plage.",
+              "sentenceEnglish": "They will have gone to the beach."
+            }
           }
         }
       },

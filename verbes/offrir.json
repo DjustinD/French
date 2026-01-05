@@ -1,6 +1,7 @@
 {
   "infinitive": "offrir",
   "english": "to offer / to give (as a gift)",
+  "cefr": "A2",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train d'offrir",
+              "form": "offre",
               "english": "I am offering",
               "sentence": "Je suis en train d'offrir un cadeau.",
               "sentenceEnglish": "I am offering a gift."
             },
             "tu": {
-              "form": "es en train d'offrir",
+              "form": "offres",
               "english": "you are offering",
               "sentence": "Tu es en train d'offrir ton aide?",
               "sentenceEnglish": "Are you offering your help?"
             },
             "il/elle": {
-              "form": "est en train d'offrir",
+              "form": "offre",
               "english": "he/she is offering",
               "sentence": "Elle est en train d'offrir des fleurs.",
               "sentenceEnglish": "She is offering flowers."
             },
             "on": {
-              "form": "est en train d'offrir",
+              "form": "offre",
               "english": "we are offering",
               "sentence": "On est en train d'offrir notre aide.",
               "sentenceEnglish": "We are offering our help."
             },
             "nous": {
-              "form": "sommes en train d'offrir",
+              "form": "offrons",
               "english": "we are offering",
               "sentence": "Nous sommes en train d'offrir un service.",
               "sentenceEnglish": "We are offering a service."
             },
             "vous": {
-              "form": "êtes en train d'offrir",
+              "form": "offrez",
               "english": "you are offering",
               "sentence": "Vous êtes en train d'offrir quoi?",
               "sentenceEnglish": "What are you offering?"
             },
             "ils/elles": {
-              "form": "sont en train d'offrir",
+              "form": "offrent",
               "english": "they are offering",
               "sentence": "Ils sont en train d'offrir leur temps.",
               "sentenceEnglish": "They are offering their time."
@@ -295,7 +296,7 @@
               "sentenceEnglish": "You offered a gift."
             },
             "ils/elles": {
-              "form": "offrirent",
+              "form": "offriront",
               "english": "they offered",
               "sentence": "Ils offrirent leur temps.",
               "sentenceEnglish": "They offered their time."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais offrir",
+              "form": "offrirai",
               "english": "I am going to offer",
               "sentence": "Je vais offrir un cadeau.",
               "sentenceEnglish": "I am going to offer a gift."
             },
             "tu": {
-              "form": "vas offrir",
+              "form": "offriras",
               "english": "you are going to offer",
               "sentence": "Tu vas offrir ton aide?",
               "sentenceEnglish": "Are you going to offer your help?"
             },
             "il/elle": {
-              "form": "va offrir",
+              "form": "offrira",
               "english": "he/she is going to offer",
               "sentence": "Elle va offrir des fleurs.",
               "sentenceEnglish": "She is going to offer flowers."
             },
             "on": {
-              "form": "va offrir",
+              "form": "offrira",
               "english": "we are going to offer",
               "sentence": "On va offrir notre aide.",
               "sentenceEnglish": "We are going to offer our help."
             },
             "nous": {
-              "form": "allons offrir",
+              "form": "offrirons",
               "english": "we are going to offer",
               "sentence": "Nous allons offrir un service.",
               "sentenceEnglish": "We are going to offer a service."
             },
             "vous": {
-              "form": "allez offrir",
+              "form": "offrirez",
               "english": "you are going to offer",
               "sentence": "Vous allez offrir quoi?",
               "sentenceEnglish": "What are you going to offer?"
             },
             "ils/elles": {
-              "form": "vont offrir",
+              "form": "offriront",
               "english": "they are going to offer",
               "sentence": "Ils vont offrir leur temps.",
               "sentenceEnglish": "They are going to offer their time."

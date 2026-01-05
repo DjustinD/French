@@ -1,0 +1,461 @@
+{
+  "infinitive": "essayer",
+  "english": "to try / to attempt",
+  "cefr": "A2",
+  "irregular": false,
+  "conjugations": {
+    "présent": {
+      "name": "Présent (Present)",
+      "aspects": {
+        "simple": {
+          "name": "Présent Simple",
+          "description": "Simple present tense",
+          "forms": {
+            "je": {
+              "form": "essaie",
+              "english": "I try",
+              "sentence": "J'essaie de comprendre.",
+              "sentenceEnglish": "I try to understand."
+            },
+            "tu": {
+              "form": "essaies",
+              "english": "you try",
+              "sentence": "Tu essaies encore?",
+              "sentenceEnglish": "Are you trying again?"
+            },
+            "il/elle": {
+              "form": "essaie",
+              "english": "he/she tries",
+              "sentence": "Elle essaie de parler français.",
+              "sentenceEnglish": "She tries to speak French."
+            },
+            "on": {
+              "form": "essaie",
+              "english": "we try",
+              "sentence": "On essaie ensemble.",
+              "sentenceEnglish": "We try together."
+            },
+            "nous": {
+              "form": "essayons",
+              "english": "we try",
+              "sentence": "Nous essayons de réussir.",
+              "sentenceEnglish": "We try to succeed."
+            },
+            "vous": {
+              "form": "essayez",
+              "english": "you try",
+              "sentence": "Vous essayez ce plat?",
+              "sentenceEnglish": "Are you trying this dish?"
+            },
+            "ils/elles": {
+              "form": "essaient",
+              "english": "they try",
+              "sentence": "Ils essaient de trouver la solution.",
+              "sentenceEnglish": "They try to find the solution."
+            }
+          }
+        },
+        "continu": {
+          "name": "Présent Continu",
+          "description": "Present continuous tense",
+          "forms": {
+            "je": {
+              "form": "essaie",
+              "english": "I am trying",
+              "sentence": "Je suis en train d'essayer.",
+              "sentenceEnglish": "I am trying."
+            },
+            "tu": {
+              "form": "essaies",
+              "english": "you are trying",
+              "sentence": "Tu es en train d'essayer?",
+              "sentenceEnglish": "Are you trying?"
+            },
+            "il/elle": {
+              "form": "essaie",
+              "english": "he/she is trying",
+              "sentence": "Elle est en train d'essayer.",
+              "sentenceEnglish": "She is trying."
+            },
+            "on": {
+              "form": "essaie",
+              "english": "we are trying",
+              "sentence": "On est en train d'essayer.",
+              "sentenceEnglish": "We are trying."
+            },
+            "nous": {
+              "form": "essayons",
+              "english": "we are trying",
+              "sentence": "Nous sommes en train d'essayer.",
+              "sentenceEnglish": "We are trying."
+            },
+            "vous": {
+              "form": "essayez",
+              "english": "you are trying",
+              "sentence": "Vous êtes en train d'essayer?",
+              "sentenceEnglish": "Are you trying?"
+            },
+            "ils/elles": {
+              "form": "essaient",
+              "english": "they are trying",
+              "sentence": "Ils sont en train d'essayer.",
+              "sentenceEnglish": "They are trying."
+            }
+          }
+        }
+      },
+      "note": "Stem-changing -yer verb. Y changes to I before silent e: j'essaie, tu essaies, il/elle essaie, nous essayons, vous essayez, ils/elles essaient"
+    },
+    "passé": {
+      "name": "Passé (Past)",
+      "aspects": {
+        "composé": {
+          "name": "Passé Composé",
+          "description": "Completed action in the past",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "ai essayé",
+              "english": "I tried",
+              "sentence": "J'ai essayé ce restaurant.",
+              "sentenceEnglish": "I tried that restaurant."
+            },
+            "tu": {
+              "form": "as essayé",
+              "english": "you tried",
+              "sentence": "Tu as essayé d'appeler?",
+              "sentenceEnglish": "Did you try to call?"
+            },
+            "il/elle": {
+              "form": "a essayé",
+              "english": "he/she tried",
+              "sentence": "Elle a essayé de comprendre.",
+              "sentenceEnglish": "She tried to understand."
+            },
+            "on": {
+              "form": "a essayé",
+              "english": "we tried",
+              "sentence": "On a essayé ensemble.",
+              "sentenceEnglish": "We tried together."
+            },
+            "nous": {
+              "form": "avons essayé",
+              "english": "we tried",
+              "sentence": "Nous avons essayé de trouver la solution.",
+              "sentenceEnglish": "We tried to find the solution."
+            },
+            "vous": {
+              "form": "avez essayé",
+              "english": "you tried",
+              "sentence": "Vous avez essayé ce plat?",
+              "sentenceEnglish": "Did you try this dish?"
+            },
+            "ils/elles": {
+              "form": "ont essayé",
+              "english": "they tried",
+              "sentence": "Ils ont essayé plusieurs fois.",
+              "sentenceEnglish": "They tried several times."
+            }
+          }
+        },
+        "imparfait": {
+          "name": "Imparfait",
+          "description": "Habitual or ongoing past action",
+          "forms": {
+            "je": {
+              "form": "essayais",
+              "english": "I was trying / I used to try",
+              "sentence": "J'essayais de t'appeler.",
+              "sentenceEnglish": "I was trying to call you."
+            },
+            "tu": {
+              "form": "essayais",
+              "english": "you were trying / you used to try",
+              "sentence": "Tu essayais de faire quoi?",
+              "sentenceEnglish": "What were you trying to do?"
+            },
+            "il/elle": {
+              "form": "essayait",
+              "english": "he/she was trying / used to try",
+              "sentence": "Elle essayait de comprendre.",
+              "sentenceEnglish": "She was trying to understand."
+            },
+            "on": {
+              "form": "essayait",
+              "english": "we were trying / we used to try",
+              "sentence": "On essayait ensemble.",
+              "sentenceEnglish": "We were trying together."
+            },
+            "nous": {
+              "form": "essayions",
+              "english": "we were trying / we used to try",
+              "sentence": "Nous essayions de trouver une solution.",
+              "sentenceEnglish": "We were trying to find a solution."
+            },
+            "vous": {
+              "form": "essayiez",
+              "english": "you were trying / you used to try",
+              "sentence": "Vous essayiez quoi?",
+              "sentenceEnglish": "What were you trying?"
+            },
+            "ils/elles": {
+              "form": "essayaient",
+              "english": "they were trying / they used to try",
+              "sentence": "Ils essayaient de réussir.",
+              "sentenceEnglish": "They were trying to succeed."
+            }
+          }
+        },
+        "plus-que-parfait": {
+          "name": "Plus-que-parfait",
+          "description": "Past perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "avais essayé",
+              "english": "I had tried",
+              "sentence": "J'avais essayé plusieurs fois.",
+              "sentenceEnglish": "I had tried several times."
+            },
+            "tu": {
+              "form": "avais essayé",
+              "english": "you had tried",
+              "sentence": "Tu avais essayé d'appeler?",
+              "sentenceEnglish": "Had you tried to call?"
+            },
+            "il/elle": {
+              "form": "avait essayé",
+              "english": "he/she had tried",
+              "sentence": "Elle avait essayé de comprendre.",
+              "sentenceEnglish": "She had tried to understand."
+            },
+            "on": {
+              "form": "avait essayé",
+              "english": "we had tried",
+              "sentence": "On avait essayé ensemble.",
+              "sentenceEnglish": "We had tried together."
+            },
+            "nous": {
+              "form": "avions essayé",
+              "english": "we had tried",
+              "sentence": "Nous avions essayé de trouver la solution.",
+              "sentenceEnglish": "We had tried to find the solution."
+            },
+            "vous": {
+              "form": "aviez essayé",
+              "english": "you had tried",
+              "sentence": "Vous aviez essayé ce plat?",
+              "sentenceEnglish": "Had you tried this dish?"
+            },
+            "ils/elles": {
+              "form": "avaient essayé",
+              "english": "they had tried",
+              "sentence": "Ils avaient essayé en vain.",
+              "sentenceEnglish": "They had tried in vain."
+            }
+          }
+        },
+        "simple": {
+          "name": "Passé Simple",
+          "description": "Literary past tense",
+          "forms": {
+            "je": {
+              "form": "essayai",
+              "english": "I tried",
+              "sentence": "J'essayai de le convaincre.",
+              "sentenceEnglish": "I tried to convince him."
+            },
+            "tu": {
+              "form": "essayas",
+              "english": "you tried",
+              "sentence": "Tu essayas de fuir.",
+              "sentenceEnglish": "You tried to flee."
+            },
+            "il/elle": {
+              "form": "essaya",
+              "english": "he/she tried",
+              "sentence": "Il essaya de comprendre.",
+              "sentenceEnglish": "He tried to understand."
+            },
+            "on": {
+              "form": "essaya",
+              "english": "we tried",
+              "sentence": "On essaya ensemble.",
+              "sentenceEnglish": "We tried together."
+            },
+            "nous": {
+              "form": "essayâmes",
+              "english": "we tried",
+              "sentence": "Nous essayâmes de résister.",
+              "sentenceEnglish": "We tried to resist."
+            },
+            "vous": {
+              "form": "essayâtes",
+              "english": "you tried",
+              "sentence": "Vous essayâtes en vain.",
+              "sentenceEnglish": "You tried in vain."
+            },
+            "ils/elles": {
+              "form": "essayèrent",
+              "english": "they tried",
+              "sentence": "Ils essayèrent de s'échapper.",
+              "sentenceEnglish": "They tried to escape."
+            }
+          }
+        }
+      },
+      "note": "Regular imparfait stem 'essay-' (from nous essayons): j'essayais, tu essayais, il/elle essayait, nous essayions, vous essayiez, ils/elles essayaient"
+    },
+    "futur": {
+      "name": "Futur (Future)",
+      "aspects": {
+        "simple": {
+          "name": "Futur Simple",
+          "description": "Simple future tense",
+          "forms": {
+            "je": {
+              "form": "essaierai",
+              "english": "I will try",
+              "sentence": "J'essaierai de venir.",
+              "sentenceEnglish": "I will try to come."
+            },
+            "tu": {
+              "form": "essaieras",
+              "english": "you will try",
+              "sentence": "Tu essaieras encore?",
+              "sentenceEnglish": "Will you try again?"
+            },
+            "il/elle": {
+              "form": "essaiera",
+              "english": "he/she will try",
+              "sentence": "Il essaiera de comprendre.",
+              "sentenceEnglish": "He will try to understand."
+            },
+            "on": {
+              "form": "essaiera",
+              "english": "we will try",
+              "sentence": "On essaiera ensemble.",
+              "sentenceEnglish": "We will try together."
+            },
+            "nous": {
+              "form": "essaierons",
+              "english": "we will try",
+              "sentence": "Nous essaierons de réussir.",
+              "sentenceEnglish": "We will try to succeed."
+            },
+            "vous": {
+              "form": "essaierez",
+              "english": "you will try",
+              "sentence": "Vous essaierez ce plat?",
+              "sentenceEnglish": "Will you try this dish?"
+            },
+            "ils/elles": {
+              "form": "essaieront",
+              "english": "they will try",
+              "sentence": "Elles essaieront demain.",
+              "sentenceEnglish": "They will try tomorrow."
+            }
+          }
+        },
+        "proche": {
+          "name": "Futur Proche",
+          "description": "Near future tense",
+          "forms": {
+            "je": {
+              "form": "essaierai",
+              "english": "I am going to try",
+              "sentence": "Je vais essayer ce restaurant.",
+              "sentenceEnglish": "I am going to try that restaurant."
+            },
+            "tu": {
+              "form": "essaieras",
+              "english": "you are going to try",
+              "sentence": "Tu vas essayer encore?",
+              "sentenceEnglish": "Are you going to try again?"
+            },
+            "il/elle": {
+              "form": "essaiera",
+              "english": "he/she is going to try",
+              "sentence": "Elle va essayer de comprendre.",
+              "sentenceEnglish": "She is going to try to understand."
+            },
+            "on": {
+              "form": "essaiera",
+              "english": "we are going to try",
+              "sentence": "On va essayer ensemble.",
+              "sentenceEnglish": "We are going to try together."
+            },
+            "nous": {
+              "form": "essaierons",
+              "english": "we are going to try",
+              "sentence": "Nous allons essayer de réussir.",
+              "sentenceEnglish": "We are going to try to succeed."
+            },
+            "vous": {
+              "form": "essaierez",
+              "english": "you are going to try",
+              "sentence": "Vous allez essayer ce plat?",
+              "sentenceEnglish": "Are you going to try this dish?"
+            },
+            "ils/elles": {
+              "form": "essaieront",
+              "english": "they are going to try",
+              "sentence": "Ils vont essayer de trouver.",
+              "sentenceEnglish": "They are going to try to find."
+            }
+          }
+        },
+        "antérieur": {
+          "name": "Futur Antérieur",
+          "description": "Future perfect tense",
+          "auxiliary": "avoir",
+          "forms": {
+            "je": {
+              "form": "aurai essayé",
+              "english": "I will have tried",
+              "sentence": "J'aurai essayé plusieurs fois.",
+              "sentenceEnglish": "I will have tried several times."
+            },
+            "tu": {
+              "form": "auras essayé",
+              "english": "you will have tried",
+              "sentence": "Tu auras essayé d'appeler?",
+              "sentenceEnglish": "Will you have tried to call?"
+            },
+            "il/elle": {
+              "form": "aura essayé",
+              "english": "he/she will have tried",
+              "sentence": "Elle aura essayé de comprendre.",
+              "sentenceEnglish": "She will have tried to understand."
+            },
+            "on": {
+              "form": "aura essayé",
+              "english": "we will have tried",
+              "sentence": "On aura essayé ensemble.",
+              "sentenceEnglish": "We will have tried together."
+            },
+            "nous": {
+              "form": "aurons essayé",
+              "english": "we will have tried",
+              "sentence": "Nous aurons essayé de trouver.",
+              "sentenceEnglish": "We will have tried to find."
+            },
+            "vous": {
+              "form": "aurez essayé",
+              "english": "you will have tried",
+              "sentence": "Vous aurez essayé ce plat?",
+              "sentenceEnglish": "Will you have tried this dish?"
+            },
+            "ils/elles": {
+              "form": "auront essayé",
+              "english": "they will have tried",
+              "sentence": "Ils auront essayé tout.",
+              "sentenceEnglish": "They will have tried everything."
+            }
+          }
+        }
+      },
+      "note": "Stem-changing future: Y changes to I before silent e: j'essaierai, tu essaieras, il/elle essaiera, nous essaierons, vous essaierez, ils/elles essaieront"
+    }
+  }
+}

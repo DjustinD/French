@@ -1,6 +1,7 @@
 {
   "infinitive": "passer",
   "english": "to pass / to spend time",
+  "cefr": "A1",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de passer",
+              "form": "passe",
               "english": "I am passing",
               "sentence": "Je suis en train de passer.",
               "sentenceEnglish": "I am passing."
             },
             "tu": {
-              "form": "es en train de passer",
+              "form": "passes",
               "english": "you are passing",
               "sentence": "Tu es en train de passer.",
               "sentenceEnglish": "You are passing."
             },
             "il/elle": {
-              "form": "est en train de passer",
+              "form": "passe",
               "english": "he/she is passesing",
               "sentence": "Elle est en train de passer.",
               "sentenceEnglish": "She is passesing."
             },
             "on": {
-              "form": "est en train de passer",
+              "form": "passe",
               "english": "we are passing",
               "sentence": "On est en train de passer.",
               "sentenceEnglish": "We are passing."
             },
             "nous": {
-              "form": "sommes en train de passer",
+              "form": "passons",
               "english": "we are passing",
               "sentence": "Nous sommes en train de passer.",
               "sentenceEnglish": "We are passing."
             },
             "vous": {
-              "form": "êtes en train de passer",
+              "form": "passez",
               "english": "you are passing",
               "sentence": "Vous êtes en train de passer.",
               "sentenceEnglish": "You are passing."
             },
             "ils/elles": {
-              "form": "sont en train de passer",
+              "form": "passent",
               "english": "they are passing",
               "sentence": "Ils sont en train de passer.",
               "sentenceEnglish": "They are passing."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais passer",
+              "form": "passerai",
               "english": "I am going to pass",
               "sentence": "Je vais passer.",
               "sentenceEnglish": "I am going to pass."
             },
             "tu": {
-              "form": "vas passer",
+              "form": "passeras",
               "english": "you are going to pass",
               "sentence": "Tu vas passer.",
               "sentenceEnglish": "You are going to pass."
             },
             "il/elle": {
-              "form": "va passer",
+              "form": "passera",
               "english": "he/she is going to passes",
               "sentence": "Elle va passer.",
               "sentenceEnglish": "She is going to passes."
             },
             "on": {
-              "form": "va passer",
+              "form": "passera",
               "english": "we are going to pass",
               "sentence": "On va passer.",
               "sentenceEnglish": "We are going to pass."
             },
             "nous": {
-              "form": "allons passer",
+              "form": "passerons",
               "english": "we are going to pass",
               "sentence": "Nous allons passer.",
               "sentenceEnglish": "We are going to pass."
             },
             "vous": {
-              "form": "allez passer",
+              "form": "passerez",
               "english": "you are going to pass",
               "sentence": "Vous allez passer.",
               "sentenceEnglish": "You are going to pass."
             },
             "ils/elles": {
-              "form": "vont passer",
+              "form": "passeront",
               "english": "they are going to pass",
               "sentence": "Ils vont passer.",
               "sentenceEnglish": "They are going to pass."

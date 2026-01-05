@@ -16,6 +16,11 @@
 
         <div class="dimension-nav" aria-hidden="true">
             <div class="selector-group">
+                <div class="dimension-label" aria-hidden="true">Niveau de difficulté (CEFR)</div>
+                <div class="selector-buttons" id="cefrSelector"></div>
+            </div>
+
+            <div class="selector-group">
                 <div class="dimension-label" aria-hidden="true">Sélectionner un verbe</div>
                 <select class="verb-dropdown" id="verbSelector">
                     <option value="">Chargement...</option>
@@ -141,10 +146,12 @@
 
         // Application state
         let verbList = [];
+        let filteredVerbList = [];
         let currentVerbData = null;
         let currentVerb = 'aller';
         let currentTimeFrame = 'présent';
         let currentAspect = 'simple';
+        let currentCEFR = 'all';
 
         // Load verb list
         async function loadVerbList() {
@@ -153,6 +160,8 @@
                 if (!response.ok) throw new Error('Failed to load verb list');
                 const data = await response.json();
                 verbList = data.verbs;
+                filterVerbsByCEFR();
+                renderCEFRSelector();
                 renderVerbSelector();
                 await loadVerb(currentVerb);
             } catch (error) {
@@ -178,16 +187,62 @@
             }
         }
 
+        // Filter verbs by CEFR level
+        function filterVerbsByCEFR() {
+            if (currentCEFR === 'all') {
+                filteredVerbList = verbList;
+            } else {
+                filteredVerbList = verbList.filter(v => v.cefr === currentCEFR);
+            }
+        }
+
+        // Render CEFR selector
+        function renderCEFRSelector() {
+            const container = document.getElementById('cefrSelector');
+            container.innerHTML = '';
+            
+            const levels = [
+                { key: 'all', label: 'Tous' },
+                { key: 'A1', label: 'A1 (Débutant)' },
+                { key: 'A2', label: 'A2 (Élémentaire)' },
+                { key: 'B1', label: 'B1 (Intermédiaire)' }
+            ];
+            
+            levels.forEach(level => {
+                const btn = document.createElement('button');
+                btn.className = 'selector-btn';
+                btn.setAttribute('aria-hidden', 'true');
+                if (level.key === currentCEFR) btn.classList.add('active');
+                btn.textContent = level.label;
+                
+                btn.addEventListener('click', () => {
+                    currentCEFR = level.key;
+                    filterVerbsByCEFR();
+                    renderCEFRSelector();
+                    renderVerbSelector();
+                    // If current verb is filtered out, switch to first available
+                    if (!filteredVerbList.find(v => v.infinitive === currentVerb)) {
+                        if (filteredVerbList.length > 0) {
+                            loadVerb(filteredVerbList[0].infinitive);
+                        }
+                    }
+                });
+                
+                container.appendChild(btn);
+            });
+        }
+
         // Render verb selector dropdown
         function renderVerbSelector() {
             const selector = document.getElementById('verbSelector');
             selector.innerHTML = '';
             selector.setAttribute('aria-hidden', 'true');
             
-            verbList.forEach(verb => {
+            filteredVerbList.forEach(verb => {
                 const option = document.createElement('option');
                 option.value = verb.infinitive;
-                option.textContent = `${verb.infinitive} (${verb.english})`;
+                const cefrBadge = verb.cefr ? ` [${verb.cefr}]` : '';
+                option.textContent = `${verb.infinitive} (${verb.english})${cefrBadge}`;
                 if (verb.infinitive === currentVerb) {
                     option.selected = true;
                 }
@@ -316,6 +371,9 @@
             verbInfo.className = 'verb-info';
             
             let headerHTML = `<div class="verb-infinitive">${currentVerbData.infinitive}`;
+            if (currentVerbData.cefr) {
+                headerHTML += `<span class="cefr-badge">${currentVerbData.cefr}</span>`;
+            }
             if (currentVerbData.irregular) {
                 headerHTML += '<span class="irregular-badge">irrégulière</span>';
             } else {

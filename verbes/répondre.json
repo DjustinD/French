@@ -1,6 +1,7 @@
 {
   "infinitive": "répondre",
   "english": "to answer / to reply",
+  "cefr": "A2",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de répondre",
+              "form": "réponds",
               "english": "I answering",
               "sentence": "Je suis en train de répondre.",
               "sentenceEnglish": "I answering."
             },
             "tu": {
-              "form": "es en train de répondre",
+              "form": "réponds",
               "english": "you answering",
               "sentence": "Tu es en train de répondre.",
               "sentenceEnglish": "you answering."
             },
             "il/elle": {
-              "form": "est en train de répondre",
+              "form": "répond",
               "english": "he/she answersing",
               "sentence": "Elle est en train de répondre.",
               "sentenceEnglish": "he/she answersing."
             },
             "on": {
-              "form": "est en train de répondre",
+              "form": "répond",
               "english": "we answering",
               "sentence": "On est en train de répondre.",
               "sentenceEnglish": "we answering."
             },
             "nous": {
-              "form": "sommes en train de répondre",
+              "form": "répondons",
               "english": "we answering",
               "sentence": "Nous sommes en train de répondre.",
               "sentenceEnglish": "we answering."
             },
             "vous": {
-              "form": "êtes en train de répondre",
+              "form": "répondez",
               "english": "you answering",
               "sentence": "Vous êtes en train de répondre.",
               "sentenceEnglish": "you answering."
             },
             "ils/elles": {
-              "form": "sont en train de répondre",
+              "form": "répondent",
               "english": "they answering",
               "sentence": "Ils sont en train de répondre.",
               "sentenceEnglish": "they answering."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais répondre",
+              "form": "répondrai",
               "english": "going to I answer",
               "sentence": "Je vais répondre.",
               "sentenceEnglish": "I am going to I answer."
             },
             "tu": {
-              "form": "vas répondre",
+              "form": "répondras",
               "english": "going to you answer",
               "sentence": "Tu vas répondre.",
               "sentenceEnglish": "You are going to you answer."
             },
             "il/elle": {
-              "form": "va répondre",
+              "form": "répondra",
               "english": "going to he/she answers",
               "sentence": "Elle va répondre.",
               "sentenceEnglish": "She is going to he/she answers."
             },
             "on": {
-              "form": "va répondre",
+              "form": "répondra",
               "english": "going to we answer",
               "sentence": "On va répondre.",
               "sentenceEnglish": "We are going to we answer."
             },
             "nous": {
-              "form": "allons répondre",
+              "form": "répondrons",
               "english": "going to we answer",
               "sentence": "Nous allons répondre.",
               "sentenceEnglish": "We are going to we answer."
             },
             "vous": {
-              "form": "allez répondre",
+              "form": "répondrez",
               "english": "going to you answer",
               "sentence": "Vous allez répondre.",
               "sentenceEnglish": "You are going to you answer."
             },
             "ils/elles": {
-              "form": "vont répondre",
+              "form": "répondront",
               "english": "going to they answer",
               "sentence": "Ils vont répondre.",
               "sentenceEnglish": "They are going to they answer."

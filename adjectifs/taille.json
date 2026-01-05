@@ -5,6 +5,7 @@
         "masculinPlural": "grands",
         "femininPlural": "grandes",
         "english": "big, tall, large",
+        "cefr": "A1",
         "position": "avant",
         "irregular": false,
         "formChanges": {
@@ -13,14 +14,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un grand homme",
-                "english": "a tall man"
-            },
-            {
-                "french": "une grande maison",
-                "english": "a big house"
-            }
+            { "french": "un grand homme", "english": "a tall man" },
+            { "french": "une grande maison", "english": "a big house" },
+            { "french": "un grand arbre", "english": "a big tree" },
+            { "french": "une grande école", "english": "a large school" },
+            { "french": "un grand chien", "english": "a big dog" },
+            { "french": "une grande table", "english": "a large table" },
+            { "french": "une grande fenêtre", "english": "a large window" },
+            { "french": "un grand jardin", "english": "a big garden" },
+            { "french": "un grand lit", "english": "a big bed" },
+            { "french": "une grande ville", "english": "a large city" }
         ],
         "image": null
     },
@@ -30,6 +33,7 @@
         "masculinPlural": "petits",
         "femininPlural": "petites",
         "english": "small, little",
+        "cefr": "A1",
         "position": "avant",
         "irregular": false,
         "formChanges": {
@@ -38,14 +42,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un petit chat",
-                "english": "a small cat"
-            },
-            {
-                "french": "une petite fille",
-                "english": "a little girl"
-            }
+            { "french": "un petit chat", "english": "a small cat" },
+            { "french": "une petite fille", "english": "a little girl" },
+            { "french": "une petite maison", "english": "a small house" },
+            { "french": "un petit chien", "english": "a little dog" },
+            { "french": "une petite voiture", "english": "a small car" },
+            { "french": "un petit oiseau", "english": "a small bird" },
+            { "french": "une petite pomme", "english": "a small apple" },
+            { "french": "une petite chaise", "english": "a small chair" },
+            { "french": "un petit bateau", "english": "a small boat" },
+            { "french": "une petite main", "english": "a small hand" }
         ],
         "image": null
     },
@@ -55,6 +61,7 @@
         "masculinPlural": "gros",
         "femininPlural": "grosses",
         "english": "fat, big, thick",
+        "cefr": "A1",
         "position": "avant",
         "irregular": true,
         "formChanges": {
@@ -63,14 +70,16 @@
             "femPlur": "grosses"
         },
         "examples": [
-            {
-                "french": "un gros livre",
-                "english": "a thick book"
-            },
-            {
-                "french": "une grosse voiture",
-                "english": "a big car"
-            }
+            { "french": "un gros livre", "english": "a thick book" },
+            { "french": "une grosse voiture", "english": "a big car" },
+            { "french": "un gros chien", "english": "a big dog" },
+            { "french": "une grosse pomme", "english": "a large apple" },
+            { "french": "un gros nuage", "english": "a large cloud" },
+            { "french": "une grosse valise", "english": "a large suitcase" },
+            { "french": "un gros sac", "english": "a big bag" },
+            { "french": "une grosse pierre", "english": "a big stone" },
+            { "french": "un gros chat", "english": "a big cat" },
+            { "french": "une grosse boîte", "english": "a big box" }
         ],
         "image": null
     },
@@ -80,6 +89,7 @@
         "masculinPlural": "longs",
         "femininPlural": "longues",
         "english": "long",
+        "cefr": "A1",
         "position": "après",
         "irregular": true,
         "formChanges": {
@@ -88,14 +98,16 @@
             "femPlur": "longues"
         },
         "examples": [
-            {
-                "french": "un long voyage",
-                "english": "a long journey"
-            },
-            {
-                "french": "une longue route",
-                "english": "a long road"
-            }
+            { "french": "un long voyage", "english": "a long journey" },
+            { "french": "une longue route", "english": "a long road" },
+            { "french": "un long pantalon", "english": "long pants" },
+            { "french": "une longue robe", "english": "a long dress" },
+            { "french": "un long film", "english": "a long movie" },
+            { "french": "une longue lettre", "english": "a long letter" },
+            { "french": "un long escalier", "english": "a long staircase" },
+            { "french": "une longue journée", "english": "a long day" },
+            { "french": "un long couloir", "english": "a long corridor" },
+            { "french": "une longue histoire", "english": "a long story" }
         ],
         "image": null
     },
@@ -105,6 +117,7 @@
         "masculinPlural": "courts",
         "femininPlural": "courtes",
         "english": "short",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -113,14 +126,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un film court",
-                "english": "a short film"
-            },
-            {
-                "french": "une jupe courte",
-                "english": "a short skirt"
-            }
+            { "french": "un film court", "english": "a short film" },
+            { "french": "une jupe courte", "english": "a short skirt" },
+            { "french": "un court voyage", "english": "a short trip" },
+            { "french": "une courte lettre", "english": "a short letter" },
+            { "french": "un court texte", "english": "a short text" },
+            { "french": "une courte pause", "english": "a short break" },
+            { "french": "un court film d'animation", "english": "a short animated film" },
+            { "french": "une courte nuit", "english": "a short night" },
+            { "french": "un court chemin", "english": "a short path" },
+            { "french": "une courte histoire", "english": "a short story" }
         ],
         "image": null
     },
@@ -130,6 +145,7 @@
         "masculinPlural": "larges",
         "femininPlural": "larges",
         "english": "wide, broad",
+        "cefr": "A2",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -138,14 +154,16 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un couloir large",
-                "english": "a wide corridor"
-            },
-            {
-                "french": "des épaules larges",
-                "english": "broad shoulders"
-            }
+            { "french": "un couloir large", "english": "a wide corridor" },
+            { "french": "des épaules larges", "english": "broad shoulders" },
+            { "french": "une rue large", "english": "a wide street" },
+            { "french": "une fenêtre large", "english": "a wide window" },
+            { "french": "un espace large", "english": "a large space" },
+            { "french": "une robe large", "english": "a loose dress" },
+            { "french": "des chaussures larges", "english": "wide shoes" },
+            { "french": "une table large", "english": "a large table" },
+            { "french": "un siège large", "english": "a wide seat" },
+            { "french": "une place large", "english": "a large square" }
         ],
         "image": null
     },
@@ -155,6 +173,7 @@
         "masculinPlural": "étroits",
         "femininPlural": "étroites",
         "english": "narrow, tight",
+        "cefr": "A2",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -163,14 +182,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un passage étroit",
-                "english": "a narrow passage"
-            },
-            {
-                "french": "une rue étroite",
-                "english": "a narrow street"
-            }
+            { "french": "un passage étroit", "english": "a narrow passage" },
+            { "french": "une rue étroite", "english": "a narrow street" },
+            { "french": "un pantalon étroit", "english": "tight pants" },
+            { "french": "une robe étroite", "english": "a tight dress" },
+            { "french": "un couloir étroit", "english": "a narrow corridor" },
+            { "french": "un espace étroit", "english": "a tight space" },
+            { "french": "une porte étroite", "english": "a narrow door" },
+            { "french": "des escaliers étroits", "english": "narrow stairs" },
+            { "french": "une chaussure étroite", "english": "a narrow shoe" },
+            { "french": "une ruelle très étroite", "english": "a very narrow alley" }
         ],
         "image": null
     },
@@ -180,6 +201,7 @@
         "masculinPlural": "hauts",
         "femininPlural": "hautes",
         "english": "high, tall",
+        "cefr": "A1",
         "position": "après",
         "irregular": false,
         "formChanges": {
@@ -188,14 +210,16 @@
             "femPlur": "+ es"
         },
         "examples": [
-            {
-                "french": "un bâtiment haut",
-                "english": "a tall building"
-            },
-            {
-                "french": "une montagne haute",
-                "english": "a high mountain"
-            }
+            { "french": "un bâtiment haut", "english": "a tall building" },
+            { "french": "une montagne haute", "english": "a high mountain" },
+            { "french": "un immeuble haut", "english": "a tall apartment building" },
+            { "french": "un plafond haut", "english": "a high ceiling" },
+            { "french": "une tour haute", "english": "a high tower" },
+            { "french": "un arbre haut", "english": "a tall tree" },
+            { "french": "un mur haut", "english": "a high wall" },
+            { "french": "une montagne très haute", "english": "a very high mountain" },
+            { "french": "une étagère haute", "english": "a high shelf" },
+            { "french": "un toit haut", "english": "a high roof" }
         ],
         "image": null
     },
@@ -205,6 +229,7 @@
         "masculinPlural": "bas",
         "femininPlural": "basses",
         "english": "low",
+        "cefr": "A2",
         "position": "après",
         "irregular": true,
         "formChanges": {
@@ -213,14 +238,16 @@
             "femPlur": "basses"
         },
         "examples": [
-            {
-                "french": "un prix bas",
-                "english": "a low price"
-            },
-            {
-                "french": "une table basse",
-                "english": "a low table"
-            }
+            { "french": "un prix bas", "english": "a low price" },
+            { "french": "une table basse", "english": "a low table" },
+            { "french": "un meuble bas", "english": "a low piece of furniture" },
+            { "french": "un plafond bas", "english": "a low ceiling" },
+            { "french": "un niveau bas", "english": "a low level" },
+            { "french": "une chaise basse", "english": "a low chair" },
+            { "french": "un volume bas", "english": "a low volume" },
+            { "french": "un lit bas", "english": "a low bed" },
+            { "french": "un mur bas", "english": "a low wall" },
+            { "french": "un arbre bas", "english": "a short/low tree" }
         ],
         "image": null
     },
@@ -230,6 +257,7 @@
         "masculinPlural": "énormes",
         "femininPlural": "énormes",
         "english": "enormous, huge",
+        "cefr": "A2",
         "position": "avant",
         "irregular": false,
         "formChanges": {
@@ -238,14 +266,16 @@
             "femPlur": "+ s"
         },
         "examples": [
-            {
-                "french": "un énorme éléphant",
-                "english": "an enormous elephant"
-            },
-            {
-                "french": "une énorme surprise",
-                "english": "a huge surprise"
-            }
+            { "french": "un énorme éléphant", "english": "an enormous elephant" },
+            { "french": "une énorme surprise", "english": "a huge surprise" },
+            { "french": "un énorme gâteau", "english": "a huge cake" },
+            { "french": "une énorme maison", "english": "a huge house" },
+            { "french": "un énorme problème", "english": "a huge problem" },
+            { "french": "un énorme bateau", "english": "a huge ship" },
+            { "french": "une énorme valise", "english": "a huge suitcase" },
+            { "french": "une énorme foule", "english": "a huge crowd" },
+            { "french": "un énorme arbre", "english": "a huge tree" },
+            { "french": "une énorme montagne", "english": "a huge mountain" }
         ],
         "image": null
     }

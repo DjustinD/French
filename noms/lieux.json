@@ -2,81 +2,129 @@
   {
     "singular": "le marché",
     "plural": "les marchés",
+    "french": "marché",
+    "english": "market",
+    "cefr": "A1",
     "image": "images/marche.jpg"
   },
   {
     "singular": "la ville",
     "plural": "les villes",
+    "french": "ville",
+    "english": "city",
+    "cefr": "A1",
     "image": "images/ville.jpg"
   },
   {
     "singular": "le magasin",
     "plural": "les magasins",
+    "french": "magasin",
+    "english": "shop",
+    "cefr": "A1",
     "image": "images/magasin.jpg"
   },
   {
     "singular": "la boulangerie",
     "plural": "les boulangeries",
+    "french": "boulangerie",
+    "english": "bakery",
+    "cefr": "A1",
     "image": "images/boulangerie.jpg"
   },
   {
     "singular": "le marchand",
     "plural": "les marchands",
+    "french": "marchand",
+    "english": "merchant",
+    "cefr": "A2",
     "image": "images/marchand.jpg"
   },
   {
     "singular": "le produit",
     "plural": "les produits",
+    "french": "produit",
+    "english": "product",
+    "cefr": "A1",
     "image": "images/produit.jpg"
   },
   {
     "singular": "le sac",
     "plural": "les sacs",
+    "french": "sac",
+    "english": "bag",
+    "cefr": "A1",
     "image": "images/sac.jpg"
   },
   {
     "singular": "l'argent",
     "plural": "les argents",
+    "french": "argent",
+    "english": "money",
+    "cefr": "A1",
     "image": "images/argent.jpg"
   },
   {
     "singular": "le dollar",
     "plural": "les dollars",
+    "french": "dollar",
+    "english": "dollar",
+    "cefr": "A1",
     "image": "images/dollar.jpg"
   },
   {
     "singular": "le prix",
     "plural": "les prix",
+    "french": "prix",
+    "english": "price",
+    "cefr": "A1",
     "image": "images/prix.jpg"
   },
   {
     "singular": "le kilo",
     "plural": "les kilos",
+    "french": "kilo",
+    "english": "kilo",
+    "cefr": "A2",
     "image": "images/kilo.jpg"
   },
   {
     "singular": "le chemin",
     "plural": "les chemins",
+    "french": "chemin",
+    "english": "path",
+    "cefr": "A2",
     "image": "images/chemin.jpg"
   },
   {
     "singular": "le parc",
     "plural": "les parcs",
+    "french": "parc",
+    "english": "park",
+    "cefr": "A1",
     "image": "images/parc.jpg"
   },
   {
     "singular": "l'école",
     "plural": "les écoles",
+    "french": "école",
+    "english": "school",
+    "cefr": "A1",
     "image": "images/ecole.jpg"
   },
   {
     "singular": "la cour",
     "plural": "les cours",
+    "french": "cour",
+    "english": "courtyard",
+    "cefr": "A2",
     "image": "images/cour.jpg"
   },
   {
     "singular": "la cantine",
     "plural": "les cantines",
+    "french": "cantine",
+    "english": "canteen",
+    "cefr": "A2",
     "image": "images/cantine.jpg"
   }
 ]

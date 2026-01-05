@@ -2,251 +2,401 @@
   {
     "singular": "le médecin",
     "plural": "les médecins",
+    "french": "médecin",
+    "english": "doctor",
+    "cefr": "A1",
     "image": "images/medecin.jpg"
   },
   {
     "singular": "l'infirmier",
     "plural": "les infirmiers",
+    "french": "infirmier",
+    "english": "nurse",
+    "cefr": "A1",
     "image": "images/infirmier.jpg"
   },
   {
     "singular": "l'infirmière",
     "plural": "les infirmières",
+    "french": "infirmière",
+    "english": "nurse",
+    "cefr": "A1",
     "image": "images/infirmiere.jpg"
   },
   {
     "singular": "le professeur",
     "plural": "les professeurs",
+    "french": "professeur",
+    "english": "teacher",
+    "cefr": "A1",
     "image": "images/professeur.jpg"
   },
   {
     "singular": "l'enseignant",
     "plural": "les enseignants",
+    "french": "enseignant",
+    "english": "teacher",
+    "cefr": "A1",
     "image": "images/enseignant.jpg"
   },
   {
     "singular": "l'enseignante",
     "plural": "les enseignantes",
+    "french": "enseignante",
+    "english": "teacher",
+    "cefr": "A1",
     "image": "images/enseignante.jpg"
   },
   {
     "singular": "l'avocat",
     "plural": "les avocats",
+    "french": "avocat",
+    "english": "lawyer",
+    "cefr": "A2",
     "image": "images/avocat_metier.jpg"
   },
   {
     "singular": "l'avocate",
     "plural": "les avocates",
+    "french": "avocate",
+    "english": "lawyer",
+    "cefr": "A2",
     "image": "images/avocate.jpg"
   },
   {
     "singular": "l'ingénieur",
     "plural": "les ingénieurs",
+    "french": "ingénieur",
+    "english": "engineer",
+    "cefr": "A2",
     "image": "images/ingenieur.jpg"
   },
   {
     "singular": "le policier",
     "plural": "les policiers",
+    "french": "policier",
+    "english": "policeman",
+    "cefr": "A1",
     "image": "images/policier.jpg"
   },
   {
     "singular": "la policière",
     "plural": "les policières",
+    "french": "policière",
+    "english": "policewoman",
+    "cefr": "A1",
     "image": "images/policiere.jpg"
   },
   {
     "singular": "le pompier",
     "plural": "les pompiers",
+    "french": "pompier",
+    "english": "firefighter",
+    "cefr": "A1",
     "image": "images/pompier.jpg"
   },
   {
     "singular": "le cuisinier",
     "plural": "les cuisiniers",
+    "french": "cuisinier",
+    "english": "cook",
+    "cefr": "A1",
     "image": "images/cuisinier.jpg"
   },
   {
     "singular": "la cuisinière",
     "plural": "les cuisinières",
+    "french": "cuisinière",
+    "english": "cook",
+    "cefr": "A1",
     "image": "images/cuisiniere.jpg"
   },
   {
     "singular": "le serveur",
     "plural": "les serveurs",
+    "french": "serveur",
+    "english": "waiter",
+    "cefr": "A1",
     "image": "images/serveur.jpg"
   },
   {
     "singular": "la serveuse",
     "plural": "les serveuses",
+    "french": "serveuse",
+    "english": "waitress",
+    "cefr": "A1",
     "image": "images/serveuse.jpg"
   },
   {
     "singular": "le boulanger",
     "plural": "les boulangers",
+    "french": "boulanger",
+    "english": "baker",
+    "cefr": "A1",
     "image": "images/boulanger.jpg"
   },
   {
     "singular": "la boulangère",
     "plural": "les boulangères",
+    "french": "boulangère",
+    "english": "baker",
+    "cefr": "A1",
     "image": "images/boulangere.jpg"
   },
   {
     "singular": "le coiffeur",
     "plural": "les coiffeurs",
+    "french": "coiffeur",
+    "english": "hairdresser",
+    "cefr": "A1",
     "image": "images/coiffeur.jpg"
   },
   {
     "singular": "la coiffeuse",
     "plural": "les coiffeuses",
+    "french": "coiffeuse",
+    "english": "hairdresser",
+    "cefr": "A1",
     "image": "images/coiffeuse.jpg"
   },
   {
     "singular": "le mécanicien",
     "plural": "les mécaniciens",
+    "french": "mécanicien",
+    "english": "mechanic",
+    "cefr": "A1",
     "image": "images/mecanicien.jpg"
   },
   {
     "singular": "la mécanicienne",
     "plural": "les mécaniciennes",
+    "french": "mécanicienne",
+    "english": "mechanic",
+    "cefr": "A1",
     "image": "images/mecanicienne.jpg"
   },
   {
     "singular": "l'électricien",
     "plural": "les électriciens",
+    "french": "électricien",
+    "english": "electrician",
+    "cefr": "A2",
     "image": "images/electricien.jpg"
   },
   {
     "singular": "l'électricienne",
     "plural": "les électriciennes",
+    "french": "électricienne",
+    "english": "electrician",
+    "cefr": "A2",
     "image": "images/electricienne.jpg"
   },
   {
     "singular": "le plombier",
     "plural": "les plombiers",
+    "french": "plombier",
+    "english": "plumber",
+    "cefr": "A2",
     "image": "images/plombier.jpg"
   },
   {
     "singular": "le dentiste",
     "plural": "les dentistes",
+    "french": "dentiste",
+    "english": "dentist",
+    "cefr": "A2",
     "image": "images/dentiste.jpg"
   },
   {
     "singular": "le pharmacien",
     "plural": "les pharmaciens",
+    "french": "pharmacien",
+    "english": "pharmacist",
+    "cefr": "A2",
     "image": "images/pharmacien.jpg"
   },
   {
     "singular": "la pharmacienne",
     "plural": "les pharmaciennes",
+    "french": "pharmacienne",
+    "english": "pharmacist",
+    "cefr": "A2",
     "image": "images/pharmacienne.jpg"
   },
   {
     "singular": "l'architecte",
     "plural": "les architectes",
+    "french": "architecte",
+    "english": "architect",
+    "cefr": "A2",
     "image": "images/architecte.jpg"
   },
   {
     "singular": "le menuisier",
     "plural": "les menuisiers",
+    "french": "menuisier",
+    "english": "carpenter",
+    "cefr": "A2",
     "image": "images/menuisier.jpg"
   },
   {
     "singular": "le peintre",
     "plural": "les peintres",
+    "french": "peintre",
+    "english": "painter",
+    "cefr": "A2",
     "image": "images/peintre.jpg"
   },
   {
     "singular": "le jardinier",
     "plural": "les jardiniers",
+    "french": "jardinier",
+    "english": "gardener",
+    "cefr": "A1",
     "image": "images/jardinier.jpg"
   },
   {
     "singular": "la jardinière",
     "plural": "les jardinières",
+    "french": "jardinière",
+    "english": "gardener",
+    "cefr": "A1",
     "image": "images/jardiniere.jpg"
   },
   {
     "singular": "l'agriculteur",
     "plural": "les agriculteurs",
+    "french": "agriculteur",
+    "english": "farmer",
+    "cefr": "A1",
     "image": "images/agriculteur.jpg"
   },
   {
     "singular": "l'agricultrice",
     "plural": "les agricultrices",
+    "french": "agricultrice",
+    "english": "farmer",
+    "cefr": "A1",
     "image": "images/agricultrice.jpg"
   },
   {
     "singular": "le vétérinaire",
     "plural": "les vétérinaires",
+    "french": "vétérinaire",
+    "english": "veterinarian",
+    "cefr": "A2",
     "image": "images/veterinaire.jpg"
   },
   {
     "singular": "le facteur",
     "plural": "les facteurs",
+    "french": "facteur",
+    "english": "postman",
+    "cefr": "A1",
     "image": "images/facteur.jpg"
   },
   {
     "singular": "la factrice",
     "plural": "les factrices",
+    "french": "factrice",
+    "english": "postwoman",
+    "cefr": "A1",
     "image": "images/factrice.jpg"
   },
   {
     "singular": "le chauffeur",
     "plural": "les chauffeurs",
+    "french": "chauffeur",
+    "english": "driver",
+    "cefr": "A1",
     "image": "images/chauffeur.jpg"
   },
   {
     "singular": "le pilote",
     "plural": "les pilotes",
+    "french": "pilote",
+    "english": "pilot",
+    "cefr": "A2",
     "image": "images/pilote.jpg"
   },
   {
     "singular": "le musicien",
     "plural": "les musiciens",
+    "french": "musicien",
+    "english": "musician",
+    "cefr": "A2",
     "image": "images/musicien.jpg"
   },
   {
     "singular": "la musicienne",
     "plural": "les musiciennes",
+    "french": "musicienne",
+    "english": "musician",
+    "cefr": "A2",
     "image": "images/musicienne.jpg"
   },
   {
     "singular": "le chanteur",
     "plural": "les chanteurs",
+    "french": "chanteur",
+    "english": "singer",
+    "cefr": "A2",
     "image": "images/chanteur.jpg"
   },
   {
     "singular": "la chanteuse",
     "plural": "les chanteuses",
+    "french": "chanteuse",
+    "english": "singer",
+    "cefr": "A2",
     "image": "images/chanteuse.jpg"
   },
   {
     "singular": "l'acteur",
     "plural": "les acteurs",
+    "french": "acteur",
+    "english": "actor",
+    "cefr": "A2",
     "image": "images/acteur.jpg"
   },
   {
     "singular": "l'actrice",
     "plural": "les actrices",
+    "french": "actrice",
+    "english": "actress",
+    "cefr": "A2",
     "image": "images/actrice.jpg"
   },
   {
     "singular": "l'artiste",
     "plural": "les artistes",
+    "french": "artiste",
+    "english": "artist",
+    "cefr": "A2",
     "image": "images/artiste.jpg"
   },
   {
     "singular": "l'écrivain",
     "plural": "les écrivains",
+    "french": "écrivain",
+    "english": "writer",
+    "cefr": "A2",
     "image": "images/ecrivain.jpg"
   },
   {
     "singular": "le journaliste",
     "plural": "les journalistes",
+    "french": "journaliste",
+    "english": "journalist",
+    "cefr": "A2",
     "image": "images/journaliste.jpg"
   },
   {
     "singular": "le photographe",
     "plural": "les photographes",
+    "french": "photographe",
+    "english": "photographer",
+    "cefr": "A2",
     "image": "images/photographe.jpg"
   }
 ]

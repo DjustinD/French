@@ -1,6 +1,7 @@
 {
   "infinitive": "dire",
   "english": "to say / to tell",
+  "cefr": "A1",
   "irregular": true,
   "conjugations": {
     "présent": {
@@ -10,26 +11,96 @@
           "name": "Présent Simple",
           "description": "Simple present tense",
           "forms": {
-            "je": { "form": "dis", "english": "I say / I tell", "sentence": "Je dis la vérité.", "sentenceEnglish": "I tell the truth." },
-            "tu": { "form": "dis", "english": "you say / you tell", "sentence": "Tu dis quoi?", "sentenceEnglish": "What are you saying?" },
-            "il/elle": { "form": "dit", "english": "he/she says / tells", "sentence": "Elle dit bonjour.", "sentenceEnglish": "She says hello." },
-            "on": { "form": "dit", "english": "we say / we tell", "sentence": "On dit que c'est vrai.", "sentenceEnglish": "We say it's true." },
-            "nous": { "form": "disons", "english": "we say / we tell", "sentence": "Nous disons au revoir.", "sentenceEnglish": "We say goodbye." },
-            "vous": { "form": "dites", "english": "you say / you tell", "sentence": "Vous dites la vérité?", "sentenceEnglish": "Are you telling the truth?" },
-            "ils/elles": { "form": "disent", "english": "they say / they tell", "sentence": "Ils disent merci.", "sentenceEnglish": "They say thank you." }
+            "je": {
+              "form": "dis",
+              "english": "I say / I tell",
+              "sentence": "Je dis la vérité.",
+              "sentenceEnglish": "I tell the truth."
+            },
+            "tu": {
+              "form": "dis",
+              "english": "you say / you tell",
+              "sentence": "Tu dis quoi?",
+              "sentenceEnglish": "What are you saying?"
+            },
+            "il/elle": {
+              "form": "dit",
+              "english": "he/she says / tells",
+              "sentence": "Elle dit bonjour.",
+              "sentenceEnglish": "She says hello."
+            },
+            "on": {
+              "form": "dit",
+              "english": "we say / we tell",
+              "sentence": "On dit que c'est vrai.",
+              "sentenceEnglish": "We say it's true."
+            },
+            "nous": {
+              "form": "disons",
+              "english": "we say / we tell",
+              "sentence": "Nous disons au revoir.",
+              "sentenceEnglish": "We say goodbye."
+            },
+            "vous": {
+              "form": "dites",
+              "english": "you say / you tell",
+              "sentence": "Vous dites la vérité?",
+              "sentenceEnglish": "Are you telling the truth?"
+            },
+            "ils/elles": {
+              "form": "disent",
+              "english": "they say / they tell",
+              "sentence": "Ils disent merci.",
+              "sentenceEnglish": "They say thank you."
+            }
           }
         },
         "continu": {
           "name": "Présent Continu",
           "description": "Present continuous tense",
           "forms": {
-            "je": { "form": "suis en train de dire", "english": "I am saying / telling", "sentence": "Je suis en train de dire quelque chose.", "sentenceEnglish": "I am saying something." },
-            "tu": { "form": "es en train de dire", "english": "you are saying / telling", "sentence": "Tu es en train de dire la vérité?", "sentenceEnglish": "Are you telling the truth?" },
-            "il/elle": { "form": "est en train de dire", "english": "he/she is saying / telling", "sentence": "Elle est en train de dire au revoir.", "sentenceEnglish": "She is saying goodbye." },
-            "on": { "form": "est en train de dire", "english": "we are saying / telling", "sentence": "On est en train de dire merci.", "sentenceEnglish": "We are saying thank you." },
-            "nous": { "form": "sommes en train de dire", "english": "we are saying / telling", "sentence": "Nous sommes en train de dire bonjour.", "sentenceEnglish": "We are saying hello." },
-            "vous": { "form": "êtes en train de dire", "english": "you are saying / telling", "sentence": "Vous êtes en train de dire quoi?", "sentenceEnglish": "What are you saying?" },
-            "ils/elles": { "form": "sont en train de dire", "english": "they are saying / telling", "sentence": "Ils sont en train de dire la vérité.", "sentenceEnglish": "They are telling the truth." }
+            "je": {
+              "form": "dis",
+              "english": "I am saying / telling",
+              "sentence": "Je suis en train de dire quelque chose.",
+              "sentenceEnglish": "I am saying something."
+            },
+            "tu": {
+              "form": "dis",
+              "english": "you are saying / telling",
+              "sentence": "Tu es en train de dire la vérité?",
+              "sentenceEnglish": "Are you telling the truth?"
+            },
+            "il/elle": {
+              "form": "dit",
+              "english": "he/she is saying / telling",
+              "sentence": "Elle est en train de dire au revoir.",
+              "sentenceEnglish": "She is saying goodbye."
+            },
+            "on": {
+              "form": "dit",
+              "english": "we are saying / telling",
+              "sentence": "On est en train de dire merci.",
+              "sentenceEnglish": "We are saying thank you."
+            },
+            "nous": {
+              "form": "disons",
+              "english": "we are saying / telling",
+              "sentence": "Nous sommes en train de dire bonjour.",
+              "sentenceEnglish": "We are saying hello."
+            },
+            "vous": {
+              "form": "dites",
+              "english": "you are saying / telling",
+              "sentence": "Vous êtes en train de dire quoi?",
+              "sentenceEnglish": "What are you saying?"
+            },
+            "ils/elles": {
+              "form": "disent",
+              "english": "they are saying / telling",
+              "sentence": "Ils sont en train de dire la vérité.",
+              "sentenceEnglish": "They are telling the truth."
+            }
           }
         }
       },
@@ -43,26 +114,96 @@
           "description": "Completed actions with present relevance",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "ai dit", "english": "I said / I told / I have said", "sentence": "J'ai dit la vérité.", "sentenceEnglish": "I told the truth." },
-            "tu": { "form": "as dit", "english": "you said / you told / you have said", "sentence": "Tu as dit quoi?", "sentenceEnglish": "What did you say?" },
-            "il/elle": { "form": "a dit", "english": "he/she said / told / has said", "sentence": "Elle a dit oui.", "sentenceEnglish": "She said yes." },
-            "on": { "form": "a dit", "english": "we said / we told / we have said", "sentence": "On a dit merci.", "sentenceEnglish": "We said thank you." },
-            "nous": { "form": "avons dit", "english": "we said / we told / we have said", "sentence": "Nous avons dit au revoir.", "sentenceEnglish": "We said goodbye." },
-            "vous": { "form": "avez dit", "english": "you said / you told / you have said", "sentence": "Vous avez dit la vérité?", "sentenceEnglish": "Did you tell the truth?" },
-            "ils/elles": { "form": "ont dit", "english": "they said / they told / they have said", "sentence": "Ils ont dit bonjour.", "sentenceEnglish": "They said hello." }
+            "je": {
+              "form": "ai dit",
+              "english": "I said / I told / I have said",
+              "sentence": "J'ai dit la vérité.",
+              "sentenceEnglish": "I told the truth."
+            },
+            "tu": {
+              "form": "as dit",
+              "english": "you said / you told / you have said",
+              "sentence": "Tu as dit quoi?",
+              "sentenceEnglish": "What did you say?"
+            },
+            "il/elle": {
+              "form": "a dit",
+              "english": "he/she said / told / has said",
+              "sentence": "Elle a dit oui.",
+              "sentenceEnglish": "She said yes."
+            },
+            "on": {
+              "form": "a dit",
+              "english": "we said / we told / we have said",
+              "sentence": "On a dit merci.",
+              "sentenceEnglish": "We said thank you."
+            },
+            "nous": {
+              "form": "avons dit",
+              "english": "we said / we told / we have said",
+              "sentence": "Nous avons dit au revoir.",
+              "sentenceEnglish": "We said goodbye."
+            },
+            "vous": {
+              "form": "avez dit",
+              "english": "you said / you told / you have said",
+              "sentence": "Vous avez dit la vérité?",
+              "sentenceEnglish": "Did you tell the truth?"
+            },
+            "ils/elles": {
+              "form": "ont dit",
+              "english": "they said / they told / they have said",
+              "sentence": "Ils ont dit bonjour.",
+              "sentenceEnglish": "They said hello."
+            }
           }
         },
         "imparfait": {
           "name": "Imparfait",
           "description": "Ongoing or habitual actions in the past",
           "forms": {
-            "je": { "form": "disais", "english": "I was saying / I used to say / I used to tell", "sentence": "Je disais toujours la vérité.", "sentenceEnglish": "I always used to tell the truth." },
-            "tu": { "form": "disais", "english": "you were saying / you used to say / you used to tell", "sentence": "Tu disais quoi?", "sentenceEnglish": "What were you saying?" },
-            "il/elle": { "form": "disait", "english": "he/she was saying / used to say / used to tell", "sentence": "Elle disait bonjour.", "sentenceEnglish": "She used to say hello." },
-            "on": { "form": "disait", "english": "we were saying / we used to say / we used to tell", "sentence": "On disait ça souvent.", "sentenceEnglish": "We used to say that often." },
-            "nous": { "form": "disions", "english": "we were saying / we used to say / we used to tell", "sentence": "Nous disions au revoir.", "sentenceEnglish": "We were saying goodbye." },
-            "vous": { "form": "disiez", "english": "you were saying / you used to say / you used to tell", "sentence": "Vous disiez la vérité?", "sentenceEnglish": "Were you telling the truth?" },
-            "ils/elles": { "form": "disaient", "english": "they were saying / they used to say / they used to tell", "sentence": "Ils disaient merci.", "sentenceEnglish": "They used to say thank you." }
+            "je": {
+              "form": "disais",
+              "english": "I was saying / I used to say / I used to tell",
+              "sentence": "Je disais toujours la vérité.",
+              "sentenceEnglish": "I always used to tell the truth."
+            },
+            "tu": {
+              "form": "disais",
+              "english": "you were saying / you used to say / you used to tell",
+              "sentence": "Tu disais quoi?",
+              "sentenceEnglish": "What were you saying?"
+            },
+            "il/elle": {
+              "form": "disait",
+              "english": "he/she was saying / used to say / used to tell",
+              "sentence": "Elle disait bonjour.",
+              "sentenceEnglish": "She used to say hello."
+            },
+            "on": {
+              "form": "disait",
+              "english": "we were saying / we used to say / we used to tell",
+              "sentence": "On disait ça souvent.",
+              "sentenceEnglish": "We used to say that often."
+            },
+            "nous": {
+              "form": "disions",
+              "english": "we were saying / we used to say / we used to tell",
+              "sentence": "Nous disions au revoir.",
+              "sentenceEnglish": "We were saying goodbye."
+            },
+            "vous": {
+              "form": "disiez",
+              "english": "you were saying / you used to say / you used to tell",
+              "sentence": "Vous disiez la vérité?",
+              "sentenceEnglish": "Were you telling the truth?"
+            },
+            "ils/elles": {
+              "form": "disaient",
+              "english": "they were saying / they used to say / they used to tell",
+              "sentence": "Ils disaient merci.",
+              "sentenceEnglish": "They used to say thank you."
+            }
           }
         },
         "plus-que-parfait": {
@@ -70,26 +211,96 @@
           "description": "Actions completed before another past action",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "avais dit", "english": "I had said / I had told", "sentence": "J'avais dit la vérité.", "sentenceEnglish": "I had told the truth." },
-            "tu": { "form": "avais dit", "english": "you had said / you had told", "sentence": "Tu avais dit quoi?", "sentenceEnglish": "What had you said?" },
-            "il/elle": { "form": "avait dit", "english": "he/she had said / had told", "sentence": "Elle avait dit oui.", "sentenceEnglish": "She had said yes." },
-            "on": { "form": "avait dit", "english": "we had said / we had told", "sentence": "On avait dit merci.", "sentenceEnglish": "We had said thank you." },
-            "nous": { "form": "avions dit", "english": "we had said / we had told", "sentence": "Nous avions dit au revoir.", "sentenceEnglish": "We had said goodbye." },
-            "vous": { "form": "aviez dit", "english": "you had said / you had told", "sentence": "Vous aviez dit ça?", "sentenceEnglish": "Had you said that?" },
-            "ils/elles": { "form": "avaient dit", "english": "they had said / they had told", "sentence": "Ils avaient dit bonjour.", "sentenceEnglish": "They had said hello." }
+            "je": {
+              "form": "avais dit",
+              "english": "I had said / I had told",
+              "sentence": "J'avais dit la vérité.",
+              "sentenceEnglish": "I had told the truth."
+            },
+            "tu": {
+              "form": "avais dit",
+              "english": "you had said / you had told",
+              "sentence": "Tu avais dit quoi?",
+              "sentenceEnglish": "What had you said?"
+            },
+            "il/elle": {
+              "form": "avait dit",
+              "english": "he/she had said / had told",
+              "sentence": "Elle avait dit oui.",
+              "sentenceEnglish": "She had said yes."
+            },
+            "on": {
+              "form": "avait dit",
+              "english": "we had said / we had told",
+              "sentence": "On avait dit merci.",
+              "sentenceEnglish": "We had said thank you."
+            },
+            "nous": {
+              "form": "avions dit",
+              "english": "we had said / we had told",
+              "sentence": "Nous avions dit au revoir.",
+              "sentenceEnglish": "We had said goodbye."
+            },
+            "vous": {
+              "form": "aviez dit",
+              "english": "you had said / you had told",
+              "sentence": "Vous aviez dit ça?",
+              "sentenceEnglish": "Had you said that?"
+            },
+            "ils/elles": {
+              "form": "avaient dit",
+              "english": "they had said / they had told",
+              "sentence": "Ils avaient dit bonjour.",
+              "sentenceEnglish": "They had said hello."
+            }
           }
         },
         "simple": {
           "name": "Passé Simple",
           "description": "Literary past tense",
           "forms": {
-            "je": { "form": "dis", "english": "I said / I told", "sentence": "Je dis la vérité.", "sentenceEnglish": "I told the truth." },
-            "tu": { "form": "dis", "english": "you said / you told", "sentence": "Tu dis quoi?", "sentenceEnglish": "What did you say?" },
-            "il/elle": { "form": "dit", "english": "he/she said / told", "sentence": "Elle dit oui.", "sentenceEnglish": "She said yes." },
-            "on": { "form": "dit", "english": "we said / we told", "sentence": "On dit merci.", "sentenceEnglish": "We said thank you." },
-            "nous": { "form": "dîmes", "english": "we said / we told", "sentence": "Nous dîmes au revoir.", "sentenceEnglish": "We said goodbye." },
-            "vous": { "form": "dîtes", "english": "you said / you told", "sentence": "Vous dîtes la vérité?", "sentenceEnglish": "Did you tell the truth?" },
-            "ils/elles": { "form": "dirent", "english": "they said / they told", "sentence": "Ils dirent bonjour.", "sentenceEnglish": "They said hello." }
+            "je": {
+              "form": "dis",
+              "english": "I said / I told",
+              "sentence": "Je dis la vérité.",
+              "sentenceEnglish": "I told the truth."
+            },
+            "tu": {
+              "form": "dis",
+              "english": "you said / you told",
+              "sentence": "Tu dis quoi?",
+              "sentenceEnglish": "What did you say?"
+            },
+            "il/elle": {
+              "form": "dit",
+              "english": "he/she said / told",
+              "sentence": "Elle dit oui.",
+              "sentenceEnglish": "She said yes."
+            },
+            "on": {
+              "form": "dit",
+              "english": "we said / we told",
+              "sentence": "On dit merci.",
+              "sentenceEnglish": "We said thank you."
+            },
+            "nous": {
+              "form": "dîmes",
+              "english": "we said / we told",
+              "sentence": "Nous dîmes au revoir.",
+              "sentenceEnglish": "We said goodbye."
+            },
+            "vous": {
+              "form": "dîtes",
+              "english": "you said / you told",
+              "sentence": "Vous dîtes la vérité?",
+              "sentenceEnglish": "Did you tell the truth?"
+            },
+            "ils/elles": {
+              "form": "diront",
+              "english": "they said / they told",
+              "sentence": "Ils dirent bonjour.",
+              "sentenceEnglish": "They said hello."
+            }
           }
         }
       },
@@ -102,26 +313,96 @@
           "name": "Futur Simple",
           "description": "Actions that will happen",
           "forms": {
-            "je": { "form": "dirai", "english": "I will say / I will tell", "sentence": "Je dirai la vérité.", "sentenceEnglish": "I will tell the truth." },
-            "tu": { "form": "diras", "english": "you will say / you will tell", "sentence": "Tu diras quoi?", "sentenceEnglish": "What will you say?" },
-            "il/elle": { "form": "dira", "english": "he/she will say / will tell", "sentence": "Il dira oui.", "sentenceEnglish": "He will say yes." },
-            "on": { "form": "dira", "english": "we will say / we will tell", "sentence": "On dira merci.", "sentenceEnglish": "We will say thank you." },
-            "nous": { "form": "dirons", "english": "we will say / we will tell", "sentence": "Nous dirons au revoir.", "sentenceEnglish": "We will say goodbye." },
-            "vous": { "form": "direz", "english": "you will say / you will tell", "sentence": "Vous direz la vérité?", "sentenceEnglish": "Will you tell the truth?" },
-            "ils/elles": { "form": "diront", "english": "they will say / they will tell", "sentence": "Elles diront bonjour.", "sentenceEnglish": "They will say hello." }
+            "je": {
+              "form": "dirai",
+              "english": "I will say / I will tell",
+              "sentence": "Je dirai la vérité.",
+              "sentenceEnglish": "I will tell the truth."
+            },
+            "tu": {
+              "form": "diras",
+              "english": "you will say / you will tell",
+              "sentence": "Tu diras quoi?",
+              "sentenceEnglish": "What will you say?"
+            },
+            "il/elle": {
+              "form": "dira",
+              "english": "he/she will say / will tell",
+              "sentence": "Il dira oui.",
+              "sentenceEnglish": "He will say yes."
+            },
+            "on": {
+              "form": "dira",
+              "english": "we will say / we will tell",
+              "sentence": "On dira merci.",
+              "sentenceEnglish": "We will say thank you."
+            },
+            "nous": {
+              "form": "dirons",
+              "english": "we will say / we will tell",
+              "sentence": "Nous dirons au revoir.",
+              "sentenceEnglish": "We will say goodbye."
+            },
+            "vous": {
+              "form": "direz",
+              "english": "you will say / you will tell",
+              "sentence": "Vous direz la vérité?",
+              "sentenceEnglish": "Will you tell the truth?"
+            },
+            "ils/elles": {
+              "form": "diront",
+              "english": "they will say / they will tell",
+              "sentence": "Elles diront bonjour.",
+              "sentenceEnglish": "They will say hello."
+            }
           }
         },
         "proche": {
           "name": "Futur Proche",
           "description": "Near future actions",
           "forms": {
-            "je": { "form": "vais dire", "english": "I am going to say / tell", "sentence": "Je vais dire la vérité.", "sentenceEnglish": "I am going to tell the truth." },
-            "tu": { "form": "vas dire", "english": "you are going to say / tell", "sentence": "Tu vas dire quoi?", "sentenceEnglish": "What are you going to say?" },
-            "il/elle": { "form": "va dire", "english": "he/she is going to say / tell", "sentence": "Il va dire oui.", "sentenceEnglish": "He is going to say yes." },
-            "on": { "form": "va dire", "english": "we are going to say / tell", "sentence": "On va dire merci.", "sentenceEnglish": "We are going to say thank you." },
-            "nous": { "form": "allons dire", "english": "we are going to say / tell", "sentence": "Nous allons dire au revoir.", "sentenceEnglish": "We are going to say goodbye." },
-            "vous": { "form": "allez dire", "english": "you are going to say / tell", "sentence": "Vous allez dire la vérité?", "sentenceEnglish": "Are you going to tell the truth?" },
-            "ils/elles": { "form": "vont dire", "english": "they are going to say / tell", "sentence": "Ils vont dire bonjour.", "sentenceEnglish": "They are going to say hello." }
+            "je": {
+              "form": "dirai",
+              "english": "I am going to say / tell",
+              "sentence": "Je vais dire la vérité.",
+              "sentenceEnglish": "I am going to tell the truth."
+            },
+            "tu": {
+              "form": "diras",
+              "english": "you are going to say / tell",
+              "sentence": "Tu vas dire quoi?",
+              "sentenceEnglish": "What are you going to say?"
+            },
+            "il/elle": {
+              "form": "dira",
+              "english": "he/she is going to say / tell",
+              "sentence": "Il va dire oui.",
+              "sentenceEnglish": "He is going to say yes."
+            },
+            "on": {
+              "form": "dira",
+              "english": "we are going to say / tell",
+              "sentence": "On va dire merci.",
+              "sentenceEnglish": "We are going to say thank you."
+            },
+            "nous": {
+              "form": "dirons",
+              "english": "we are going to say / tell",
+              "sentence": "Nous allons dire au revoir.",
+              "sentenceEnglish": "We are going to say goodbye."
+            },
+            "vous": {
+              "form": "direz",
+              "english": "you are going to say / tell",
+              "sentence": "Vous allez dire la vérité?",
+              "sentenceEnglish": "Are you going to tell the truth?"
+            },
+            "ils/elles": {
+              "form": "diront",
+              "english": "they are going to say / tell",
+              "sentence": "Ils vont dire bonjour.",
+              "sentenceEnglish": "They are going to say hello."
+            }
           }
         },
         "antérieur": {
@@ -129,13 +410,48 @@
           "description": "Actions that will be completed by a future time",
           "auxiliary": "avoir",
           "forms": {
-            "je": { "form": "aurai dit", "english": "I will have said / told", "sentence": "J'aurai dit la vérité.", "sentenceEnglish": "I will have told the truth." },
-            "tu": { "form": "auras dit", "english": "you will have said / told", "sentence": "Tu auras dit quoi?", "sentenceEnglish": "What will you have said?" },
-            "il/elle": { "form": "aura dit", "english": "he/she will have said / told", "sentence": "Elle aura dit oui.", "sentenceEnglish": "She will have said yes." },
-            "on": { "form": "aura dit", "english": "we will have said / told", "sentence": "On aura dit merci.", "sentenceEnglish": "We will have said thank you." },
-            "nous": { "form": "aurons dit", "english": "we will have said / told", "sentence": "Nous aurons dit au revoir.", "sentenceEnglish": "We will have said goodbye." },
-            "vous": { "form": "aurez dit", "english": "you will have said / told", "sentence": "Vous aurez dit ça?", "sentenceEnglish": "Will you have said that?" },
-            "ils/elles": { "form": "auront dit", "english": "they will have said / told", "sentence": "Ils auront dit bonjour.", "sentenceEnglish": "They will have said hello." }
+            "je": {
+              "form": "aurai dit",
+              "english": "I will have said / told",
+              "sentence": "J'aurai dit la vérité.",
+              "sentenceEnglish": "I will have told the truth."
+            },
+            "tu": {
+              "form": "auras dit",
+              "english": "you will have said / told",
+              "sentence": "Tu auras dit quoi?",
+              "sentenceEnglish": "What will you have said?"
+            },
+            "il/elle": {
+              "form": "aura dit",
+              "english": "he/she will have said / told",
+              "sentence": "Elle aura dit oui.",
+              "sentenceEnglish": "She will have said yes."
+            },
+            "on": {
+              "form": "aura dit",
+              "english": "we will have said / told",
+              "sentence": "On aura dit merci.",
+              "sentenceEnglish": "We will have said thank you."
+            },
+            "nous": {
+              "form": "aurons dit",
+              "english": "we will have said / told",
+              "sentence": "Nous aurons dit au revoir.",
+              "sentenceEnglish": "We will have said goodbye."
+            },
+            "vous": {
+              "form": "aurez dit",
+              "english": "you will have said / told",
+              "sentence": "Vous aurez dit ça?",
+              "sentenceEnglish": "Will you have said that?"
+            },
+            "ils/elles": {
+              "form": "auront dit",
+              "english": "they will have said / told",
+              "sentence": "Ils auront dit bonjour.",
+              "sentenceEnglish": "They will have said hello."
+            }
           }
         }
       },

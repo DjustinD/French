@@ -1,40 +1,161 @@
 {
-    "infinitive": "rencontrer",
-    "english": "to meet",
-    "group": "1",
-    "auxiliaire": "avoir",
-    "conjugations": {
-        "présent": {
-            "je": { "form": "rencontre", "english": "I meet", "sentence": "Je rencontre mes amis.", "sentenceEnglish": "I meet my friends." },
-            "tu": { "form": "rencontres", "english": "you meet", "sentence": "Tu rencontres de nouvelles personnes.", "sentenceEnglish": "You meet new people." },
-            "il/elle": { "form": "rencontre", "english": "he/she meets", "sentence": "Elle rencontre son professeur.", "sentenceEnglish": "She meets her teacher." },
-            "nous": { "form": "rencontrons", "english": "we meet", "sentence": "Nous rencontrons la famille.", "sentenceEnglish": "We meet the family." },
-            "vous": { "form": "rencontrez", "english": "you meet", "sentence": "Vous rencontrez le directeur.", "sentenceEnglish": "You meet the director." },
-            "ils/elles": { "form": "rencontrent", "english": "they meet", "sentence": "Ils rencontrent leurs voisins.", "sentenceEnglish": "They meet their neighbors." }
-        },
-        "passé composé": {
-            "je": { "form": "ai rencontré", "english": "I met", "sentence": "J'ai rencontré mon ami hier.", "sentenceEnglish": "I met my friend yesterday." },
-            "tu": { "form": "as rencontré", "english": "you met", "sentence": "Tu as rencontré ta cousine.", "sentenceEnglish": "You met your cousin." },
-            "il/elle": { "form": "a rencontré", "english": "he/she met", "sentence": "Il a rencontré le maire.", "sentenceEnglish": "He met the mayor." },
-            "nous": { "form": "avons rencontré", "english": "we met", "sentence": "Nous avons rencontré des gens intéressants.", "sentenceEnglish": "We met interesting people." },
-            "vous": { "form": "avez rencontré", "english": "you met", "sentence": "Vous avez rencontré le professeur.", "sentenceEnglish": "You met the teacher." },
-            "ils/elles": { "form": "ont rencontré", "english": "they met", "sentence": "Elles ont rencontré leurs amies.", "sentenceEnglish": "They met their friends." }
-        },
-        "imparfait": {
-            "je": { "form": "rencontrais", "english": "I was meeting / I used to meet", "sentence": "Je rencontrais souvent mes amis.", "sentenceEnglish": "I used to meet my friends often." },
-            "tu": { "form": "rencontrais", "english": "you were meeting / you used to meet", "sentence": "Tu rencontrais tes voisins.", "sentenceEnglish": "You used to meet your neighbors." },
-            "il/elle": { "form": "rencontrait", "english": "he/she was meeting / he/she used to meet", "sentence": "Elle rencontrait son ami chaque jour.", "sentenceEnglish": "She used to meet her friend every day." },
-            "nous": { "form": "rencontrions", "english": "we were meeting / we used to meet", "sentence": "Nous rencontrions la famille.", "sentenceEnglish": "We used to meet the family." },
-            "vous": { "form": "rencontriez", "english": "you were meeting / you used to meet", "sentence": "Vous rencontriez vos collègues.", "sentenceEnglish": "You used to meet your colleagues." },
-            "ils/elles": { "form": "rencontraient", "english": "they were meeting / they used to meet", "sentence": "Ils rencontraient leurs amis.", "sentenceEnglish": "They used to meet their friends." }
-        },
-        "futur simple": {
-            "je": { "form": "rencontrerai", "english": "I will meet", "sentence": "Je rencontrerai mes amis demain.", "sentenceEnglish": "I will meet my friends tomorrow." },
-            "tu": { "form": "rencontreras", "english": "you will meet", "sentence": "Tu rencontreras le directeur.", "sentenceEnglish": "You will meet the director." },
-            "il/elle": { "form": "rencontrera", "english": "he/she will meet", "sentence": "Elle rencontrera sa famille.", "sentenceEnglish": "She will meet her family." },
-            "nous": { "form": "rencontrerons", "english": "we will meet", "sentence": "Nous rencontrerons de nouvelles personnes.", "sentenceEnglish": "We will meet new people." },
-            "vous": { "form": "rencontrerez", "english": "you will meet", "sentence": "Vous rencontrerez le professeur.", "sentenceEnglish": "You will meet the teacher." },
-            "ils/elles": { "form": "rencontreront", "english": "they will meet", "sentence": "Ils rencontreront leurs voisins.", "sentenceEnglish": "They will meet their neighbors." }
-        }
+  "infinitive": "rencontrer",
+  "english": "to meet",
+  "cefr": "A2",
+  "group": "1",
+  "auxiliaire": "avoir",
+  "conjugations": {
+    "présent": {
+      "je": {
+        "form": "rencontre",
+        "english": "I meet",
+        "sentence": "Je rencontre mes amis.",
+        "sentenceEnglish": "I meet my friends."
+      },
+      "tu": {
+        "form": "rencontres",
+        "english": "you meet",
+        "sentence": "Tu rencontres de nouvelles personnes.",
+        "sentenceEnglish": "You meet new people."
+      },
+      "il/elle": {
+        "form": "rencontre",
+        "english": "he/she meets",
+        "sentence": "Elle rencontre son professeur.",
+        "sentenceEnglish": "She meets her teacher."
+      },
+      "nous": {
+        "form": "rencontrons",
+        "english": "we meet",
+        "sentence": "Nous rencontrons la famille.",
+        "sentenceEnglish": "We meet the family."
+      },
+      "vous": {
+        "form": "rencontrez",
+        "english": "you meet",
+        "sentence": "Vous rencontrez le directeur.",
+        "sentenceEnglish": "You meet the director."
+      },
+      "ils/elles": {
+        "form": "rencontrent",
+        "english": "they meet",
+        "sentence": "Ils rencontrent leurs voisins.",
+        "sentenceEnglish": "They meet their neighbors."
+      }
+    },
+    "passé composé": {
+      "je": {
+        "form": "ai rencontré",
+        "english": "I met",
+        "sentence": "J'ai rencontré mon ami hier.",
+        "sentenceEnglish": "I met my friend yesterday."
+      },
+      "tu": {
+        "form": "as rencontré",
+        "english": "you met",
+        "sentence": "Tu as rencontré ta cousine.",
+        "sentenceEnglish": "You met your cousin."
+      },
+      "il/elle": {
+        "form": "a rencontré",
+        "english": "he/she met",
+        "sentence": "Il a rencontré le maire.",
+        "sentenceEnglish": "He met the mayor."
+      },
+      "nous": {
+        "form": "avons rencontré",
+        "english": "we met",
+        "sentence": "Nous avons rencontré des gens intéressants.",
+        "sentenceEnglish": "We met interesting people."
+      },
+      "vous": {
+        "form": "avez rencontré",
+        "english": "you met",
+        "sentence": "Vous avez rencontré le professeur.",
+        "sentenceEnglish": "You met the teacher."
+      },
+      "ils/elles": {
+        "form": "ont rencontré",
+        "english": "they met",
+        "sentence": "Elles ont rencontré leurs amies.",
+        "sentenceEnglish": "They met their friends."
+      }
+    },
+    "imparfait": {
+      "je": {
+        "form": "rencontrais",
+        "english": "I was meeting / I used to meet",
+        "sentence": "Je rencontrais souvent mes amis.",
+        "sentenceEnglish": "I used to meet my friends often."
+      },
+      "tu": {
+        "form": "rencontrais",
+        "english": "you were meeting / you used to meet",
+        "sentence": "Tu rencontrais tes voisins.",
+        "sentenceEnglish": "You used to meet your neighbors."
+      },
+      "il/elle": {
+        "form": "rencontrait",
+        "english": "he/she was meeting / he/she used to meet",
+        "sentence": "Elle rencontrait son ami chaque jour.",
+        "sentenceEnglish": "She used to meet her friend every day."
+      },
+      "nous": {
+        "form": "rencontrions",
+        "english": "we were meeting / we used to meet",
+        "sentence": "Nous rencontrions la famille.",
+        "sentenceEnglish": "We used to meet the family."
+      },
+      "vous": {
+        "form": "rencontriez",
+        "english": "you were meeting / you used to meet",
+        "sentence": "Vous rencontriez vos collègues.",
+        "sentenceEnglish": "You used to meet your colleagues."
+      },
+      "ils/elles": {
+        "form": "rencontraient",
+        "english": "they were meeting / they used to meet",
+        "sentence": "Ils rencontraient leurs amis.",
+        "sentenceEnglish": "They used to meet their friends."
+      }
+    },
+    "futur simple": {
+      "je": {
+        "form": "rencontrerai",
+        "english": "I will meet",
+        "sentence": "Je rencontrerai mes amis demain.",
+        "sentenceEnglish": "I will meet my friends tomorrow."
+      },
+      "tu": {
+        "form": "rencontreras",
+        "english": "you will meet",
+        "sentence": "Tu rencontreras le directeur.",
+        "sentenceEnglish": "You will meet the director."
+      },
+      "il/elle": {
+        "form": "rencontrera",
+        "english": "he/she will meet",
+        "sentence": "Elle rencontrera sa famille.",
+        "sentenceEnglish": "She will meet her family."
+      },
+      "nous": {
+        "form": "rencontrerons",
+        "english": "we will meet",
+        "sentence": "Nous rencontrerons de nouvelles personnes.",
+        "sentenceEnglish": "We will meet new people."
+      },
+      "vous": {
+        "form": "rencontrerez",
+        "english": "you will meet",
+        "sentence": "Vous rencontrerez le professeur.",
+        "sentenceEnglish": "You will meet the teacher."
+      },
+      "ils/elles": {
+        "form": "rencontreront",
+        "english": "they will meet",
+        "sentence": "Ils rencontreront leurs voisins.",
+        "sentenceEnglish": "They will meet their neighbors."
+      }
     }
+  }
 }

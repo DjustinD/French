@@ -1,6 +1,7 @@
 {
   "infinitive": "rendre",
   "english": "to return / to give back",
+  "cefr": "A2",
   "irregular": false,
   "conjugations": {
     "présent": {
@@ -59,43 +60,43 @@
           "description": "Present continuous tense",
           "forms": {
             "je": {
-              "form": "suis en train de rendre",
+              "form": "rends",
               "english": "I returning",
               "sentence": "Je suis en train de rendre.",
               "sentenceEnglish": "I returning."
             },
             "tu": {
-              "form": "es en train de rendre",
+              "form": "rends",
               "english": "you returning",
               "sentence": "Tu es en train de rendre.",
               "sentenceEnglish": "you returning."
             },
             "il/elle": {
-              "form": "est en train de rendre",
+              "form": "rend",
               "english": "he/she returnsing",
               "sentence": "Elle est en train de rendre.",
               "sentenceEnglish": "he/she returnsing."
             },
             "on": {
-              "form": "est en train de rendre",
+              "form": "rend",
               "english": "we returning",
               "sentence": "On est en train de rendre.",
               "sentenceEnglish": "we returning."
             },
             "nous": {
-              "form": "sommes en train de rendre",
+              "form": "rendons",
               "english": "we returning",
               "sentence": "Nous sommes en train de rendre.",
               "sentenceEnglish": "we returning."
             },
             "vous": {
-              "form": "êtes en train de rendre",
+              "form": "rendez",
               "english": "you returning",
               "sentence": "Vous êtes en train de rendre.",
               "sentenceEnglish": "you returning."
             },
             "ils/elles": {
-              "form": "sont en train de rendre",
+              "form": "rendent",
               "english": "they returning",
               "sentence": "Ils sont en train de rendre.",
               "sentenceEnglish": "they returning."
@@ -361,43 +362,43 @@
           "description": "Near future tense",
           "forms": {
             "je": {
-              "form": "vais rendre",
+              "form": "rendrai",
               "english": "going to I return",
               "sentence": "Je vais rendre.",
               "sentenceEnglish": "I am going to I return."
             },
             "tu": {
-              "form": "vas rendre",
+              "form": "rendras",
               "english": "going to you return",
               "sentence": "Tu vas rendre.",
               "sentenceEnglish": "You are going to you return."
             },
             "il/elle": {
-              "form": "va rendre",
+              "form": "rendra",
               "english": "going to he/she returns",
               "sentence": "Elle va rendre.",
               "sentenceEnglish": "She is going to he/she returns."
             },
             "on": {
-              "form": "va rendre",
+              "form": "rendra",
               "english": "going to we return",
               "sentence": "On va rendre.",
               "sentenceEnglish": "We are going to we return."
             },
             "nous": {
-              "form": "allons rendre",
+              "form": "rendrons",
               "english": "going to we return",
               "sentence": "Nous allons rendre.",
               "sentenceEnglish": "We are going to we return."
             },
             "vous": {
-              "form": "allez rendre",
+              "form": "rendrez",
               "english": "going to you return",
               "sentence": "Vous allez rendre.",
               "sentenceEnglish": "You are going to you return."
             },
             "ils/elles": {
-              "form": "vont rendre",
+              "form": "rendront",
               "english": "going to they return",
               "sentence": "Ils vont rendre.",
               "sentenceEnglish": "They are going to they return."
