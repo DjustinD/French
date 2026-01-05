@@ -1,0 +1,5 @@
+Fichier final: artiste.jpg
+
+Créez une photographie d'un artiste peintre dans son atelier lumineux, travaillant devant un grand chevalet. L'artiste tient une palette de couleurs vives dans une main et un pinceau dans l'autre, concentré sur la toile en cours. L'atelier est rempli de lumière naturelle provenant de grandes fenêtres. Autour de l'espace, on voit d'autres toiles terminées appuyées contre les murs, des pots de peinture, des pinceaux et du matériel artistique. L'atmosphère est créative et inspirante avec une palette de couleurs variées. L'image capture la passion artistique, le processus créatif et l'environnement bohème d'un atelier d'artiste.
+
+Spécifications : JPEG 400×300 px (4:3), optimiser pour ≈100 KB, pas de texte ni de logos.

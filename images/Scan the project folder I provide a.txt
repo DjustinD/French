@@ -9,5 +9,5 @@ Rules:
 Only create prompts for images that are referenced in the JSON but missing from images.
 Do not overwrite existing .prompt files unless I explicitly ask.
 Be sure to create a prompt that shows the entire scene in the picture
-Batch the work and create up to 10 prompts at once.
+Batch the work and create up to 100 prompts at once.
 Return a short report listing the created .prompt file paths and the original missing filenames.

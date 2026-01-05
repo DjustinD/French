@@ -35,7 +35,21 @@
 │   ├── Consider the state of the FRENCH fo.txt
 │   ├── Scan the project folder I provide a.txt
 │   ├── abeille.jpg
+│   ├── acteur.jpg
+│   ├── actrice.jpg
+│   ├── adulte.jpg
+│   ├── aeroport.jpg
+│   ├── agriculteur.jpg
+│   ├── agricultrice.jpg
+│   ├── ambulance.jpg
+│   ├── ami.jpg
+│   ├── anniversaire.jpg
+│   ├── appartement.jpg
+│   ├── arc_en_ciel.jpg
+│   ├── architecte.jpg
 │   ├── argent.jpg
+│   ├── armoire.jpg
+│   ├── arret_bus.jpg
 │   ├── bague.jpg
 │   ├── baguette.jpg
 │   ├── baleine.jpg
@@ -45,8 +59,16 @@
 │   ├── blouson.jpg
 │   ├── botte.jpg
 │   ├── botte_2.jpg
+│   ├── boulanger.jpg
+│   ├── boulangere.jpg
 │   ├── boulangerie.jpg
+│   ├── bouleau.jpg
+│   ├── branche.jpg
+│   ├── bras.jpg
+│   ├── brouillard.jpg
+│   ├── bureau.jpg
 │   ├── cactus.jpg
+│   ├── cafe.jpg
 │   ├── canard.jpg
 │   ├── carotte.jpg
 │   ├── casquette.jpg
@@ -115,7 +137,7 @@
 │   ├── pain.jpg
 │   ├── palmier.jpg
 │   ├── pantalon.jpg
-│   ├── papillon..jpg
+│   ├── papillon.jpg
 │   ├── parapluie.jpg
 │   ├── peche.jpg
 │   ├── poire.jpg
@@ -129,64 +151,36 @@
 │   ├── prix.jpg
 │   ├── produit.jpg
 │   ├── prompts
-│   │   ├── abeille.prompt
-│   │   ├── anniversaire_sophie_1.prompt
-│   │   ├── anniversaire_sophie_2.prompt
-│   │   ├── anniversaire_sophie_3.prompt
-│   │   ├── anniversaire_sophie_4.prompt
-│   │   ├── anniversaire_sophie_5.prompt
-│   │   ├── anniversaire_sophie_6.prompt
-│   │   ├── anniversaire_sophie_7.prompt
-│   │   ├── anniversaire_sophie_8.prompt
-│   │   ├── baleine.prompt
-│   │   ├── botte.prompt
-│   │   ├── cravate.prompt
-│   │   ├── crocodile.prompt
-│   │   ├── cygne.prompt
-│   │   ├── dauphin.prompt
-│   │   ├── echarpe.prompt
-│   │   ├── elephant.prompt
-│   │   ├── gant.prompt
-│   │   ├── girafe.prompt
-│   │   ├── grenouille.prompt
-│   │   ├── journee_ecole_1.prompt
-│   │   ├── journee_ecole_2.prompt
-│   │   ├── journee_ecole_3.prompt
-│   │   ├── journee_ecole_4.prompt
-│   │   ├── le_chien_au_parc_1.prompt
-│   │   ├── le_chien_au_parc_2.prompt
-│   │   ├── le_chien_au_parc_3.prompt
-│   │   ├── le_chien_au_parc_4.prompt
-│   │   ├── le_chien_au_parc_5.prompt
-│   │   ├── le_chien_au_parc_6.prompt
-│   │   ├── le_chien_au_parc_7.prompt
-│   │   ├── le_chien_au_parc_8.prompt
-│   │   ├── lion.prompt
-│   │   ├── lys.prompt
-│   │   ├── maillot.prompt
-│   │   ├── maison.prompt
-│   │   ├── marguerite.prompt
-│   │   ├── oiseau.prompt
-│   │   ├── orange.prompt
-│   │   ├── orchidee.prompt
-│   │   ├── ours.prompt
-│   │   ├── palmier.prompt
-│   │   ├── papillon.prompt
-│   │   ├── peche.prompt
-│   │   ├── poire.prompt
-│   │   ├── pomme_de_terre.prompt
-│   │   ├── porte.prompt
-│   │   ├── poule.prompt
-│   │   ├── raisin.prompt
-│   │   ├── requin.prompt
-│   │   ├── sandale.prompt
-│   │   ├── serpent.prompt
-│   │   ├── singe.prompt
-│   │   ├── tomate.prompt
-│   │   ├── tortue.prompt
-│   │   ├── tournesol.prompt
-│   │   ├── vache.prompt
-│   │   └── violette.prompt
+│   │   ├── artiste.txt
+│   │   ├── auto.txt
+│   │   ├── autobus.txt
+│   │   ├── autocar.txt
+│   │   ├── autoroute.txt
+│   │   ├── avion.txt
+│   │   ├── avocat_metier.txt
+│   │   ├── avocate.txt
+│   │   ├── bagage.txt
+│   │   ├── baignoire.txt
+│   │   ├── balle.txt
+│   │   ├── bambou.txt
+│   │   ├── bateau.txt
+│   │   ├── beau_frere.txt
+│   │   ├── beau_pere.txt
+│   │   ├── bebe.txt
+│   │   ├── belle_fille.txt
+│   │   ├── belle_mere.txt
+│   │   ├── belle_soeur.txt
+│   │   ├── bicyclette.txt
+│   │   ├── biere.txt
+│   │   ├── billet.txt
+│   │   ├── biscuit.txt
+│   │   ├── bois.txt
+│   │   ├── bouche.txt
+│   │   ├── boue.txt
+│   │   ├── bougie.txt
+│   │   ├── bus.txt
+│   │   ├── cadeau.txt
+│   │   └── this is a french language practice.txt
 │   ├── pull.jpg
 │   ├── pyjama.jpg
 │   ├── raisin.jpg
@@ -241,6 +235,8 @@
 ├── noms_français.json
 ├── phrases_et_sentences.html
 ├── style.css
+├── temp_needed1.txt
+├── temp_needed2.txt
 ├── tools
 │   ├── fix_verbes.py
 │   ├── generate_verbes_index.py
