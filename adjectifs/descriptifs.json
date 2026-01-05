@@ -648,5 +648,155 @@
             }
         ],
         "image": null
+    },
+    {
+        "masculinSingular": "joyeux",
+        "femininSingular": "joyeuse",
+        "masculinPlural": "joyeux",
+        "femininPlural": "joyeuses",
+        "english": "joyful, merry",
+        "position": "après",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "-eux → -euse",
+            "mascPlur": "no change",
+            "femPlur": "-eux → -euses"
+        },
+        "examples": [
+            {
+                "french": "un enfant joyeux",
+                "english": "a joyful child"
+            },
+            {
+                "french": "une chanson joyeuse",
+                "english": "a merry song"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "heureux",
+        "femininSingular": "heureuse",
+        "masculinPlural": "heureux",
+        "femininPlural": "heureuses",
+        "english": "happy",
+        "position": "après",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "-eux → -euse",
+            "mascPlur": "no change",
+            "femPlur": "-eux → -euses"
+        },
+        "examples": [
+            {
+                "french": "un homme heureux",
+                "english": "a happy man"
+            },
+            {
+                "french": "une vie heureuse",
+                "english": "a happy life"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "nerveux",
+        "femininSingular": "nerveuse",
+        "masculinPlural": "nerveux",
+        "femininPlural": "nerveuses",
+        "english": "nervous",
+        "position": "après",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "-eux → -euse",
+            "mascPlur": "no change",
+            "femPlur": "-eux → -euses"
+        },
+        "examples": [
+            {
+                "french": "un élève nerveux",
+                "english": "a nervous student"
+            },
+            {
+                "french": "une personne nerveuse",
+                "english": "a nervous person"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "attentif",
+        "femininSingular": "attentive",
+        "masculinPlural": "attentifs",
+        "femininPlural": "attentives",
+        "english": "attentive, careful",
+        "position": "après",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "-if → -ive",
+            "mascPlur": "+ s",
+            "femPlur": "-if → -ives"
+        },
+        "examples": [
+            {
+                "french": "un étudiant attentif",
+                "english": "an attentive student"
+            },
+            {
+                "french": "une écoute attentive",
+                "english": "careful listening"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "gentil",
+        "femininSingular": "gentille",
+        "masculinPlural": "gentils",
+        "femininPlural": "gentilles",
+        "english": "kind, nice",
+        "position": "après",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "-il → -ille",
+            "mascPlur": "+ s",
+            "femPlur": "-il → -illes"
+        },
+        "examples": [
+            {
+                "french": "un garçon gentil",
+                "english": "a kind boy"
+            },
+            {
+                "french": "une fille gentille",
+                "english": "a nice girl"
+            }
+        ],
+        "image": null
+    },
+    {
+        "masculinSingular": "délicieux",
+        "femininSingular": "délicieuse",
+        "masculinPlural": "délicieux",
+        "femininPlural": "délicieuses",
+        "english": "delicious",
+        "position": "après",
+        "irregular": true,
+        "formChanges": {
+            "femSing": "-eux → -euse",
+            "mascPlur": "no change",
+            "femPlur": "-eux → -euses"
+        },
+        "examples": [
+            {
+                "french": "un repas délicieux",
+                "english": "a delicious meal"
+            },
+            {
+                "french": "une tarte délicieuse",
+                "english": "a delicious pie"
+            }
+        ],
+        "image": null
     }
 ]

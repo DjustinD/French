@@ -14,10 +14,31 @@
         "description": "A rabbit learns about sharing and counting vegetables"
     },
     {
+        "title": "Le Chien au Parc",
+        "file": "le_chien_au_parc.json",
+        "level": "Niveau 2-3",
+        "cefr": "A1.2-A2.1",
+        "description": "A happy dog discovers the park and makes new friends"
+    },
+    {
         "title": "La Famille Dubois au Marché",
         "file": "la_famille_au_marche.json",
         "level": "Niveau 3-4",
         "cefr": "A2.1-A2.2",
         "description": "A family goes shopping at the market, learning colors and numbers"
+    },
+    {
+        "title": "L'Anniversaire de Sophie",
+        "file": "anniversaire_sophie.json",
+        "level": "Niveau 3-4",
+        "cefr": "A2.1-A2.2",
+        "description": "Sophie celebrates her birthday with family and friends"
+    },
+    {
+        "title": "Une Journée à l'École",
+        "file": "journee_ecole.json",
+        "level": "Niveau 4-5",
+        "cefr": "A2.2-B1.1",
+        "description": "Marc discovers his new school and learns many things"
     }
 ]

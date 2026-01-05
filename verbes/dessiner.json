@@ -1,0 +1,40 @@
+{
+    "infinitive": "dessiner",
+    "english": "to draw",
+    "group": "1",
+    "auxiliaire": "avoir",
+    "conjugations": {
+        "présent": {
+            "je": { "form": "dessine", "english": "I draw", "sentence": "Je dessine un chat.", "sentenceEnglish": "I draw a cat." },
+            "tu": { "form": "dessines", "english": "you draw", "sentence": "Tu dessines bien.", "sentenceEnglish": "You draw well." },
+            "il/elle": { "form": "dessine", "english": "he/she draws", "sentence": "Elle dessine une maison.", "sentenceEnglish": "She draws a house." },
+            "nous": { "form": "dessinons", "english": "we draw", "sentence": "Nous dessinons ensemble.", "sentenceEnglish": "We draw together." },
+            "vous": { "form": "dessinez", "english": "you draw", "sentence": "Vous dessinez des fleurs.", "sentenceEnglish": "You draw flowers." },
+            "ils/elles": { "form": "dessinent", "english": "they draw", "sentence": "Ils dessinent à l'école.", "sentenceEnglish": "They draw at school." }
+        },
+        "passé composé": {
+            "je": { "form": "ai dessiné", "english": "I drew", "sentence": "J'ai dessiné un arbre.", "sentenceEnglish": "I drew a tree." },
+            "tu": { "form": "as dessiné", "english": "you drew", "sentence": "Tu as dessiné un beau paysage.", "sentenceEnglish": "You drew a beautiful landscape." },
+            "il/elle": { "form": "a dessiné", "english": "he/she drew", "sentence": "Il a dessiné sa famille.", "sentenceEnglish": "He drew his family." },
+            "nous": { "form": "avons dessiné", "english": "we drew", "sentence": "Nous avons dessiné des animaux.", "sentenceEnglish": "We drew animals." },
+            "vous": { "form": "avez dessiné", "english": "you drew", "sentence": "Vous avez dessiné un portrait.", "sentenceEnglish": "You drew a portrait." },
+            "ils/elles": { "form": "ont dessiné", "english": "they drew", "sentence": "Elles ont dessiné des étoiles.", "sentenceEnglish": "They drew stars." }
+        },
+        "imparfait": {
+            "je": { "form": "dessinais", "english": "I was drawing / I used to draw", "sentence": "Je dessinais tous les jours.", "sentenceEnglish": "I used to draw every day." },
+            "tu": { "form": "dessinais", "english": "you were drawing / you used to draw", "sentence": "Tu dessinais souvent.", "sentenceEnglish": "You used to draw often." },
+            "il/elle": { "form": "dessinait", "english": "he/she was drawing / he/she used to draw", "sentence": "Elle dessinait dans son cahier.", "sentenceEnglish": "She used to draw in her notebook." },
+            "nous": { "form": "dessinions", "english": "we were drawing / we used to draw", "sentence": "Nous dessinions ensemble.", "sentenceEnglish": "We used to draw together." },
+            "vous": { "form": "dessiniez", "english": "you were drawing / you used to draw", "sentence": "Vous dessiniez bien.", "sentenceEnglish": "You used to draw well." },
+            "ils/elles": { "form": "dessinaient", "english": "they were drawing / they used to draw", "sentence": "Ils dessinaient à l'école.", "sentenceEnglish": "They used to draw at school." }
+        },
+        "futur simple": {
+            "je": { "form": "dessinerai", "english": "I will draw", "sentence": "Je dessinerai un paysage.", "sentenceEnglish": "I will draw a landscape." },
+            "tu": { "form": "dessineras", "english": "you will draw", "sentence": "Tu dessineras un portrait.", "sentenceEnglish": "You will draw a portrait." },
+            "il/elle": { "form": "dessinera", "english": "he/she will draw", "sentence": "Elle dessinera sa maison.", "sentenceEnglish": "She will draw her house." },
+            "nous": { "form": "dessinerons", "english": "we will draw", "sentence": "Nous dessinerons ensemble.", "sentenceEnglish": "We will draw together." },
+            "vous": { "form": "dessinerez", "english": "you will draw", "sentence": "Vous dessinerez des fleurs.", "sentenceEnglish": "You will draw flowers." },
+            "ils/elles": { "form": "dessineront", "english": "they will draw", "sentence": "Ils dessineront demain.", "sentenceEnglish": "They will draw tomorrow." }
+        }
+    }
+}

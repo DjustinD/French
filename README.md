@@ -1,4 +1,4 @@
-# 🇫🇷 French Language Learning Resources
+# French Language Learning Resources
 
 An interactive web-based French learning platform designed for English speakers. This project provides comprehensive resources for learning French verbs, adjectives, nouns, and phrases through an intuitive interface.
 

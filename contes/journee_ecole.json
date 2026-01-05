@@ -1,0 +1,55 @@
+{
+    "title": "Une Journée à l'École",
+    "level": "Niveau 4-5",
+    "cefr": "A2.2-B1.1",
+    "description": "Marc découvre sa nouvelle école et apprend beaucoup de choses",
+    "image": "journee_ecole_cover.jpg",
+    "vocabulary_used": {
+        "verbes": ["être", "avoir", "aller", "arriver", "apprendre", "lire", "écrire", "compter", "dessiner", "parler", "écouter", "poser", "répondre", "commencer", "finir"],
+        "noms": ["école", "classe", "professeur", "élève", "livre", "cahier", "crayon", "stylo", "tableau", "bureau", "chaise", "porte", "fenêtre", "mathématiques", "français", "récréation"],
+        "adjectifs": ["nouveau", "gentil", "intelligent", "attentif", "intéressant", "difficile", "facile", "content"],
+        "nombres": ["dix", "quinze", "vingt", "vingt-cinq", "trente"]
+    },
+    "paragraphs": [
+        {
+            "french": "Marc arrive à sa nouvelle école le lundi matin. Il est un peu nerveux mais aussi content.",
+            "english": "Marc arrives at his new school on Monday morning. He is a little nervous but also happy.",
+            "image": "journee_ecole_1.jpg"
+        },
+        {
+            "french": "Sa classe se trouve au deuxième étage. Il y a vingt-cinq élèves dans la classe.",
+            "english": "His classroom is on the second floor. There are twenty-five students in the class.",
+            "image": "journee_ecole_2.jpg"
+        },
+        {
+            "french": "Madame Leblanc est le professeur. Elle est très gentille. Elle dit bonjour à Marc.",
+            "english": "Mrs. Leblanc is the teacher. She is very kind. She says hello to Marc.",
+            "image": "journee_ecole_3.jpg"
+        },
+        {
+            "french": "Le cours commence à huit heures et demie. D'abord, ils ont français. Marc lit un texte à haute voix.",
+            "english": "Class starts at eight-thirty. First, they have French. Marc reads a text aloud.",
+            "image": "journee_ecole_4.jpg"
+        },
+        {
+            "french": "À dix heures, c'est la récréation. Marc joue au football avec quinze autres garçons dans la cour.",
+            "english": "At ten o'clock, it's recess. Marc plays soccer with fifteen other boys in the yard.",
+            "image": "journee_ecole_5.jpg"
+        },
+        {
+            "french": "Après la récréation, ils ont mathématiques. Le professeur pose des questions. Marc répond bien et compte jusqu'à trente.",
+            "english": "After recess, they have math. The teacher asks questions. Marc answers well and counts to thirty.",
+            "image": "journee_ecole_6.jpg"
+        },
+        {
+            "french": "À midi, Marc mange à la cantine avec ses nouveaux amis. Ils parlent de leurs familles et de leurs animaux.",
+            "english": "At noon, Marc eats in the cafeteria with his new friends. They talk about their families and their pets.",
+            "image": "journee_ecole_7.jpg"
+        },
+        {
+            "french": "L'après-midi, ils dessinent et écrivent une histoire. Marc écrit sur son chien. La journée finit à trois heures et demie. Marc aime beaucoup sa nouvelle école!",
+            "english": "In the afternoon, they draw and write a story. Marc writes about his dog. The day ends at three-thirty. Marc loves his new school very much!",
+            "image": "journee_ecole_8.jpg"
+        }
+    ]
+}

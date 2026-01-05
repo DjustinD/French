@@ -1,0 +1,54 @@
+{
+    "title": "Le Chien au Parc",
+    "level": "Niveau 2-3",
+    "cefr": "A1.2-A2.1",
+    "description": "Un chien joyeux découvre le parc et fait de nouveaux amis",
+    "vocabulary_used": {
+        "verbes": ["être", "avoir", "courir", "jouer", "sauter", "aimer", "regarder", "trouver", "rencontrer"],
+        "noms": ["chien", "parc", "arbre", "fleur", "oiseau", "ami", "balle", "herbe", "soleil"],
+        "adjectifs": ["grand", "petit", "joyeux", "beau", "content", "jaune", "vert", "rouge"],
+        "nombres": ["un", "deux", "trois", "quatre", "cinq"]
+    },
+    "paragraphs": [
+        {
+            "french": "Voici Max, un grand chien brun. Aujourd'hui, il va au parc avec son ami Pierre.",
+            "english": "Here is Max, a big brown dog. Today, he goes to the park with his friend Pierre.",
+            "image": "le_chien_au_parc_1.jpg"
+        },
+        {
+            "french": "Le parc est très beau. Il y a beaucoup d'arbres verts et de fleurs rouges et jaunes.",
+            "english": "The park is very beautiful. There are many green trees and red and yellow flowers.",
+            "image": "le_chien_au_parc_2.jpg"
+        },
+        {
+            "french": "Max est très joyeux! Il court sur l'herbe verte. Il saute partout.",
+            "english": "Max is very happy! He runs on the green grass. He jumps everywhere.",
+            "image": "le_chien_au_parc_3.jpg"
+        },
+        {
+            "french": "Soudain, Max voit une balle rouge. Il court chercher la balle.",
+            "english": "Suddenly, Max sees a red ball. He runs to fetch the ball.",
+            "image": "le_chien_au_parc_4.jpg"
+        },
+        {
+            "french": "Max trouve quatre oiseaux près d'un grand arbre. Les oiseaux chantent.",
+            "english": "Max finds four birds near a big tree. The birds are singing.",
+            "image": "le_chien_au_parc_5.jpg"
+        },
+        {
+            "french": "Puis Max rencontre un petit chien blanc. Le petit chien s'appelle Bella.",
+            "english": "Then Max meets a little white dog. The little dog's name is Bella.",
+            "image": "le_chien_au_parc_6.jpg"
+        },
+        {
+            "french": "Max et Bella jouent ensemble. Ils courent et sautent. Ils sont très contents.",
+            "english": "Max and Bella play together. They run and jump. They are very happy.",
+            "image": "le_chien_au_parc_7.jpg"
+        },
+        {
+            "french": "Le soleil brille. Max aime le parc. Il a cinq nouveaux amis aujourd'hui!",
+            "english": "The sun is shining. Max loves the park. He has five new friends today!",
+            "image": "le_chien_au_parc_8.jpg"
+        }
+    ]
+}

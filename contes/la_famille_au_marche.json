@@ -3,6 +3,7 @@
     "level": "Niveau 3-4",
     "cefr": "A2.1-A2.2",
     "description": "Une famille fait les courses au marché et découvre les couleurs et les nombres",
+    "image": "la_famille_au_marche_cover.jpg",
     "vocabulary_used": {
         "verbes": ["aller", "acheter", "voir", "choisir", "payer", "coûter", "porter", "préférer"],
         "noms": ["famille", "marché", "mère", "père", "enfant", "pomme", "banane", "tomate", "carotte", "fromage", "pain", "sac"],

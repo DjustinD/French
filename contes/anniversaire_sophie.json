@@ -1,0 +1,55 @@
+{
+    "title": "L'Anniversaire de Sophie",
+    "level": "Niveau 3-4",
+    "cefr": "A2.1-A2.2",
+    "description": "Sophie fête son anniversaire avec sa famille et ses amis",
+    "image": "anniversaire_sophie_cover.jpg",
+    "vocabulary_used": {
+        "verbes": ["être", "avoir", "faire", "donner", "ouvrir", "manger", "boire", "chanter", "danser", "inviter", "recevoir"],
+        "noms": ["anniversaire", "gateau", "bougie", "cadeau", "famille", "ami", "fille", "garçon", "mère", "père", "frère", "soeur", "jus", "chocolat", "biscuit"],
+        "adjectifs": ["heureux", "grand", "petit", "beau", "rose", "bleu", "delicieux", "joli"],
+        "nombres": ["sept", "huit", "neuf", "dix"]
+    },
+    "paragraphs": [
+        {
+            "french": "Aujourd'hui, c'est l'anniversaire de Sophie. Elle a sept ans aujourd'hui!",
+            "english": "Today is Sophie's birthday. She is seven years old today!",
+            "image": "anniversaire_sophie_1.jpg"
+        },
+        {
+            "french": "Sa mère fait un grand gâteau au chocolat. Il y a sept bougies roses sur le gâteau.",
+            "english": "Her mother makes a big chocolate cake. There are seven pink candles on the cake.",
+            "image": "anniversaire_sophie_2.jpg"
+        },
+        {
+            "french": "Sophie invite huit amis à sa fête. Ils arrivent à trois heures de l'après-midi.",
+            "english": "Sophie invites eight friends to her party. They arrive at three o'clock in the afternoon.",
+            "image": "anniversaire_sophie_3.jpg"
+        },
+        {
+            "french": "Les enfants jouent ensemble dans le jardin. Ils sont très heureux.",
+            "english": "The children play together in the garden. They are very happy.",
+            "image": "anniversaire_sophie_4.jpg"
+        },
+        {
+            "french": "À quatre heures, tout le monde chante «Joyeux anniversaire». Sophie souffle les bougies.",
+            "english": "At four o'clock, everyone sings 'Happy Birthday'. Sophie blows out the candles.",
+            "image": "anniversaire_sophie_5.jpg"
+        },
+        {
+            "french": "Sophie ouvre ses cadeaux. Elle reçoit neuf cadeaux! Il y a des livres, des jouets et une belle robe bleue.",
+            "english": "Sophie opens her presents. She receives nine presents! There are books, toys and a beautiful blue dress.",
+            "image": "anniversaire_sophie_6.jpg"
+        },
+        {
+            "french": "Ensuite, les enfants mangent du gâteau délicieux avec des biscuits. Ils boivent du jus d'orange.",
+            "english": "Then, the children eat delicious cake with cookies. They drink orange juice.",
+            "image": "anniversaire_sophie_7.jpg"
+        },
+        {
+            "french": "À six heures, les amis rentrent chez eux. Sophie dit merci à sa famille. C'est le plus beau jour de l'année!",
+            "english": "At six o'clock, the friends go home. Sophie says thank you to her family. It's the best day of the year!",
+            "image": "anniversaire_sophie_8.jpg"
+        }
+    ]
+}

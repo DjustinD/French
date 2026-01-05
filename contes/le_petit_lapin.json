@@ -3,6 +3,7 @@
     "level": "Niveau 2-3",
     "cefr": "A1.2-A2.1",
     "description": "Un lapin apprend à partager et à compter les légumes",
+    "image": "le_petit_lapin_cover.jpg",
     "vocabulary_used": {
         "verbes": ["avoir", "être", "vouloir", "manger", "donner", "apprendre", "compter"],
         "noms": ["lapin", "carotte", "jardin", "ami", "légume"],

@@ -1,0 +1,87 @@
+[
+  {
+    "singular": "l'anniversaire",
+    "plural": "les anniversaires",
+    "image": "images/anniversaire.jpg"
+  },
+  {
+    "singular": "la fête",
+    "plural": "les fêtes",
+    "image": "images/fete.jpg"
+  },
+  {
+    "singular": "le cadeau",
+    "plural": "les cadeaux",
+    "image": "images/cadeau.jpg"
+  },
+  {
+    "singular": "la bougie",
+    "plural": "les bougies",
+    "image": "images/bougie.jpg"
+  },
+  {
+    "singular": "le jouet",
+    "plural": "les jouets",
+    "image": "images/jouet.jpg"
+  },
+  {
+    "singular": "la balle",
+    "plural": "les balles",
+    "image": "images/balle.jpg"
+  },
+  {
+    "singular": "l'herbe",
+    "plural": "les herbes",
+    "image": "images/herbe.jpg"
+  },
+  {
+    "singular": "le soleil",
+    "plural": "les soleils",
+    "image": "images/soleil.jpg"
+  },
+  {
+    "singular": "la classe",
+    "plural": "les classes",
+    "image": "images/classe.jpg"
+  },
+  {
+    "singular": "le professeur",
+    "plural": "les professeurs",
+    "image": "images/professeur.jpg"
+  },
+  {
+    "singular": "l'élève",
+    "plural": "les élèves",
+    "image": "images/eleve.jpg"
+  },
+  {
+    "singular": "le livre",
+    "plural": "les livres",
+    "image": "images/livre.jpg"
+  },
+  {
+    "singular": "le cahier",
+    "plural": "les cahiers",
+    "image": "images/cahier.jpg"
+  },
+  {
+    "singular": "le crayon",
+    "plural": "les crayons",
+    "image": "images/crayon.jpg"
+  },
+  {
+    "singular": "le stylo",
+    "plural": "les stylos",
+    "image": "images/stylo.jpg"
+  },
+  {
+    "singular": "le tableau",
+    "plural": "les tableaux",
+    "image": "images/tableau.jpg"
+  },
+  {
+    "singular": "la récréation",
+    "plural": "les récréations",
+    "image": "images/recreation.jpg"
+  }
+]

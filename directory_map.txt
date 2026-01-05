@@ -8,8 +8,11 @@
 ├── adjectifs_français.html
 ├── adjectifs_français.json
 ├── contes
+│   ├── anniversaire_sophie.json
+│   ├── journee_ecole.json
 │   ├── la_famille_au_marche.json
 │   ├── le_chat_curieux.json
+│   ├── le_chien_au_parc.json
 │   └── le_petit_lapin.json
 ├── directory_map.txt
 ├── ecoute
@@ -29,14 +32,19 @@
 │   └── niveau_12.json
 ├── extract_française.py
 ├── images
+│   ├── Consider the state of the FRENCH fo.txt
+│   ├── Scan the project folder I provide a.txt
+│   ├── abeille.jpg
 │   ├── argent.jpg
 │   ├── bague.jpg
 │   ├── baguette.jpg
+│   ├── baleine.jpg
 │   ├── banane.jpg
 │   ├── beurre.jpg
 │   ├── bijou.jpg
 │   ├── blouson.jpg
 │   ├── botte.jpg
+│   ├── botte_2.jpg
 │   ├── boulangerie.jpg
 │   ├── cactus.jpg
 │   ├── canard.jpg
@@ -49,19 +57,26 @@
 │   ├── chaussure.jpg
 │   ├── chemin.jpg
 │   ├── chemise.jpg
+│   ├── cheval.jpg
 │   ├── chien.jpg
 │   ├── cochon.jpg
 │   ├── collant.jpg
 │   ├── concombre.jpg
 │   ├── coquelicot.jpg
 │   ├── cravate.jpg
+│   ├── crocodile.jpg
+│   ├── cygne.jpg
+│   ├── dauphin.jpg
 │   ├── dollar.jpg
 │   ├── echarpe.jpg
+│   ├── elephant.jpg
 │   ├── fenetre.jpg
 │   ├── for vscode chat.txt
 │   ├── fraise.jpg
 │   ├── fromage.jpg
 │   ├── gant.jpg
+│   ├── girafe.jpg
+│   ├── grenouille.jpg
 │   ├── jean.jpg
 │   ├── jupe.jpg
 │   ├── kilo.jpg
@@ -75,6 +90,10 @@
 │   ├── le_chat_curieux_6.png
 │   ├── le_chat_curieux_7.jpg
 │   ├── le_chat_curieux_8.png
+│   ├── le_petit_lapin_1.jpg.png
+│   ├── le_petit_lapin_2.jpg.png
+│   ├── le_petit_lapin_cover.png
+│   ├── lion.jpg
 │   ├── loup.jpg
 │   ├── lunettes.jpg
 │   ├── lys.jpg
@@ -89,11 +108,14 @@
 │   ├── mouton.jpg
 │   ├── oeuf.jpg
 │   ├── oiseau.jpg
+│   ├── oiseau_2.jpg
 │   ├── orange.jpg
 │   ├── orchidee.jpg
+│   ├── ours.jpg
 │   ├── pain.jpg
 │   ├── palmier.jpg
 │   ├── pantalon.jpg
+│   ├── papillon..jpg
 │   ├── parapluie.jpg
 │   ├── peche.jpg
 │   ├── poire.jpg
@@ -102,45 +124,90 @@
 │   ├── pomme.jpg
 │   ├── pomme_de_terre.jpg
 │   ├── porte.jpg
+│   ├── poule.jpg
 │   ├── poulet.jpg
 │   ├── prix.jpg
 │   ├── produit.jpg
 │   ├── prompts
+│   │   ├── abeille.prompt
+│   │   ├── anniversaire_sophie_1.prompt
+│   │   ├── anniversaire_sophie_2.prompt
+│   │   ├── anniversaire_sophie_3.prompt
+│   │   ├── anniversaire_sophie_4.prompt
+│   │   ├── anniversaire_sophie_5.prompt
+│   │   ├── anniversaire_sophie_6.prompt
+│   │   ├── anniversaire_sophie_7.prompt
+│   │   ├── anniversaire_sophie_8.prompt
+│   │   ├── baleine.prompt
+│   │   ├── botte.prompt
 │   │   ├── cravate.prompt
+│   │   ├── crocodile.prompt
+│   │   ├── cygne.prompt
+│   │   ├── dauphin.prompt
 │   │   ├── echarpe.prompt
+│   │   ├── elephant.prompt
 │   │   ├── gant.prompt
+│   │   ├── girafe.prompt
+│   │   ├── grenouille.prompt
+│   │   ├── journee_ecole_1.prompt
+│   │   ├── journee_ecole_2.prompt
+│   │   ├── journee_ecole_3.prompt
+│   │   ├── journee_ecole_4.prompt
+│   │   ├── le_chien_au_parc_1.prompt
+│   │   ├── le_chien_au_parc_2.prompt
+│   │   ├── le_chien_au_parc_3.prompt
+│   │   ├── le_chien_au_parc_4.prompt
+│   │   ├── le_chien_au_parc_5.prompt
+│   │   ├── le_chien_au_parc_6.prompt
+│   │   ├── le_chien_au_parc_7.prompt
+│   │   ├── le_chien_au_parc_8.prompt
+│   │   ├── lion.prompt
 │   │   ├── lys.prompt
 │   │   ├── maillot.prompt
 │   │   ├── maison.prompt
 │   │   ├── marguerite.prompt
+│   │   ├── oiseau.prompt
 │   │   ├── orange.prompt
 │   │   ├── orchidee.prompt
+│   │   ├── ours.prompt
 │   │   ├── palmier.prompt
+│   │   ├── papillon.prompt
 │   │   ├── peche.prompt
 │   │   ├── poire.prompt
 │   │   ├── pomme_de_terre.prompt
 │   │   ├── porte.prompt
+│   │   ├── poule.prompt
 │   │   ├── raisin.prompt
+│   │   ├── requin.prompt
 │   │   ├── sandale.prompt
+│   │   ├── serpent.prompt
+│   │   ├── singe.prompt
 │   │   ├── tomate.prompt
+│   │   ├── tortue.prompt
 │   │   ├── tournesol.prompt
+│   │   ├── vache.prompt
 │   │   └── violette.prompt
 │   ├── pull.jpg
 │   ├── pyjama.jpg
 │   ├── raisin.jpg
 │   ├── renard.jpg
+│   ├── requin.jpg
 │   ├── robe.jpg
 │   ├── rose.jpg
 │   ├── sac.jpg
 │   ├── sandale.jpg
+│   ├── serpent.jpg
 │   ├── short.jpg
+│   ├── singe.jpg
 │   ├── souris.jpg
 │   ├── tigre.jpg
 │   ├── tomate.jpg
+│   ├── tortue.jpg
 │   ├── tournesol.jpg
 │   ├── tshirt.jpg
 │   ├── tulipe.jpg
 │   ├── vache.jpg
+│   ├── vache_2.jpg
 │   ├── veste.jpg
 │   ├── viande.jpg
 │   ├── ville.jpg
@@ -163,8 +230,12 @@
 │   ├── famille.json
 │   ├── lieux.json
 │   ├── maison.json
+│   ├── metiers.json
+│   ├── nature.json
 │   ├── nourriture.json
+│   ├── objets.json
 │   ├── plantes.json
+│   ├── transports.json
 │   └── vetements.json
 ├── noms_français.html
 ├── noms_français.json
@@ -182,8 +253,10 @@
 │   ├── commencer.json
 │   ├── comprendre.json
 │   ├── connaître.json
+│   ├── courir.json
 │   ├── croire.json
 │   ├── demander.json
+│   ├── dessiner.json
 │   ├── devoir.json
 │   ├── dire.json
 │   ├── donner.json
@@ -204,6 +277,7 @@
 │   ├── pouvoir.json
 │   ├── prendre.json
 │   ├── regarder.json
+│   ├── rencontrer.json
 │   ├── rendre.json
 │   ├── rester.json
 │   ├── répondre.json

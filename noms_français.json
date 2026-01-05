@@ -38,5 +38,20 @@
         "name": "Lieux et Commerce",
         "file": "lieux.json",
         "description": "Places and shopping locations"
+    },
+    {
+        "name": "Métiers et Professions",
+        "file": "metiers.json",
+        "description": "Jobs and professions"
+    },
+    {
+        "name": "Transports et Voyage",
+        "file": "transports.json",
+        "description": "Transportation and travel"
+    },
+    {
+        "name": "Nature et Météo",
+        "file": "nature.json",
+        "description": "Nature, weather, and geography"
     }
 ]

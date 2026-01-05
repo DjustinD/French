@@ -3,6 +3,7 @@
     "level": "Niveau 1-2",
     "cefr": "A1.1-A1.2",
     "description": "Une histoire simple sur un chat curieux qui explore la maison",
+    "image": "le_chat_curieux_cover.jpg",
     "vocabulary_used": {
         "verbes": ["être", "avoir", "voir", "regarder", "aller", "trouver"],
         "noms": ["chat", "maison", "porte", "fenêtre", "cuisine", "jardin"],

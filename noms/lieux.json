@@ -58,5 +58,25 @@
     "singular": "le chemin",
     "plural": "les chemins",
     "image": "images/chemin.jpg"
+  },
+  {
+    "singular": "le parc",
+    "plural": "les parcs",
+    "image": "images/parc.jpg"
+  },
+  {
+    "singular": "l'école",
+    "plural": "les écoles",
+    "image": "images/ecole.jpg"
+  },
+  {
+    "singular": "la cour",
+    "plural": "les cours",
+    "image": "images/cour.jpg"
+  },
+  {
+    "singular": "la cantine",
+    "plural": "les cantines",
+    "image": "images/cantine.jpg"
   }
 ]

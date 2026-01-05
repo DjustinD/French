@@ -1,0 +1,40 @@
+{
+    "infinitive": "courir",
+    "english": "to run",
+    "group": "irregular",
+    "auxiliaire": "avoir",
+    "conjugations": {
+        "présent": {
+            "je": { "form": "cours", "english": "I run", "sentence": "Je cours vite.", "sentenceEnglish": "I run fast." },
+            "tu": { "form": "cours", "english": "you run", "sentence": "Tu cours au parc.", "sentenceEnglish": "You run to the park." },
+            "il/elle": { "form": "court", "english": "he/she runs", "sentence": "Elle court tous les jours.", "sentenceEnglish": "She runs every day." },
+            "nous": { "form": "courons", "english": "we run", "sentence": "Nous courons ensemble.", "sentenceEnglish": "We run together." },
+            "vous": { "form": "courez", "english": "you run", "sentence": "Vous courez rapidement.", "sentenceEnglish": "You run quickly." },
+            "ils/elles": { "form": "courent", "english": "they run", "sentence": "Ils courent dans le jardin.", "sentenceEnglish": "They run in the garden." }
+        },
+        "passé composé": {
+            "je": { "form": "ai couru", "english": "I ran", "sentence": "J'ai couru trois kilomètres.", "sentenceEnglish": "I ran three kilometers." },
+            "tu": { "form": "as couru", "english": "you ran", "sentence": "Tu as couru très vite.", "sentenceEnglish": "You ran very fast." },
+            "il/elle": { "form": "a couru", "english": "he/she ran", "sentence": "Il a couru au magasin.", "sentenceEnglish": "He ran to the store." },
+            "nous": { "form": "avons couru", "english": "we ran", "sentence": "Nous avons couru ensemble.", "sentenceEnglish": "We ran together." },
+            "vous": { "form": "avez couru", "english": "you ran", "sentence": "Vous avez couru ce matin.", "sentenceEnglish": "You ran this morning." },
+            "ils/elles": { "form": "ont couru", "english": "they ran", "sentence": "Elles ont couru au parc.", "sentenceEnglish": "They ran to the park." }
+        },
+        "imparfait": {
+            "je": { "form": "courais", "english": "I was running / I used to run", "sentence": "Je courais tous les jours.", "sentenceEnglish": "I used to run every day." },
+            "tu": { "form": "courais", "english": "you were running / you used to run", "sentence": "Tu courais au parc.", "sentenceEnglish": "You used to run to the park." },
+            "il/elle": { "form": "courait", "english": "he/she was running / he/she used to run", "sentence": "Il courait le matin.", "sentenceEnglish": "He used to run in the morning." },
+            "nous": { "form": "courions", "english": "we were running / we used to run", "sentence": "Nous courions ensemble.", "sentenceEnglish": "We used to run together." },
+            "vous": { "form": "couriez", "english": "you were running / you used to run", "sentence": "Vous couriez vite.", "sentenceEnglish": "You used to run fast." },
+            "ils/elles": { "form": "couraient", "english": "they were running / they used to run", "sentence": "Ils couraient partout.", "sentenceEnglish": "They used to run everywhere." }
+        },
+        "futur simple": {
+            "je": { "form": "courrai", "english": "I will run", "sentence": "Je courrai demain.", "sentenceEnglish": "I will run tomorrow." },
+            "tu": { "form": "courras", "english": "you will run", "sentence": "Tu courras avec moi.", "sentenceEnglish": "You will run with me." },
+            "il/elle": { "form": "courra", "english": "he/she will run", "sentence": "Elle courra ce soir.", "sentenceEnglish": "She will run this evening." },
+            "nous": { "form": "courrons", "english": "we will run", "sentence": "Nous courrons ensemble.", "sentenceEnglish": "We will run together." },
+            "vous": { "form": "courrez", "english": "you will run", "sentence": "Vous courrez la semaine prochaine.", "sentenceEnglish": "You will run next week." },
+            "ils/elles": { "form": "courront", "english": "they will run", "sentence": "Ils courront au parc.", "sentenceEnglish": "They will run to the park." }
+        }
+    }
+}

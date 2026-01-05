@@ -1,0 +1,1 @@
+Consider the state of the FRENCH folder. I want to add 3 more stories to the livre_de_contes. you will need to adjust the livre_de_contes.json as well as adding files to the contes directory. use the vocabulaire from the adjectifs, ecoute, nombres, noms, verbes. if the storybook needs additional vocabulary then we should add it to the appropriate vocabulary section as well.

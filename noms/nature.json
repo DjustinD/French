@@ -1,0 +1,252 @@
+[
+  {
+    "singular": "le soleil",
+    "plural": "les soleils",
+    "image": "images/soleil.jpg"
+  },
+  {
+    "singular": "la lune",
+    "plural": "les lunes",
+    "image": "images/lune.jpg"
+  },
+  {
+    "singular": "l'étoile",
+    "plural": "les étoiles",
+    "image": "images/etoile.jpg"
+  },
+  {
+    "singular": "le ciel",
+    "plural": "les cieux",
+    "image": "images/ciel.jpg"
+  },
+  {
+    "singular": "le nuage",
+    "plural": "les nuages",
+    "image": "images/nuage.jpg"
+  },
+  {
+    "singular": "la pluie",
+    "plural": "les pluies",
+    "image": "images/pluie.jpg"
+  },
+  {
+    "singular": "la neige",
+    "plural": "les neiges",
+    "image": "images/neige.jpg"
+  },
+  {
+    "singular": "le vent",
+    "plural": "les vents",
+    "image": "images/vent.jpg"
+  },
+  {
+    "singular": "l'orage",
+    "plural": "les orages",
+    "image": "images/orage.jpg"
+  },
+  {
+    "singular": "l'éclair",
+    "plural": "les éclairs",
+    "image": "images/eclair.jpg"
+  },
+  {
+    "singular": "le tonnerre",
+    "plural": "les tonnerres",
+    "image": "images/tonnerre.jpg"
+  },
+  {
+    "singular": "l'arc-en-ciel",
+    "plural": "les arcs-en-ciel",
+    "image": "images/arc_en_ciel.jpg"
+  },
+  {
+    "singular": "le brouillard",
+    "plural": "les brouillards",
+    "image": "images/brouillard.jpg"
+  },
+  {
+    "singular": "la tempête",
+    "plural": "les tempêtes",
+    "image": "images/tempete.jpg"
+  },
+  {
+    "singular": "la montagne",
+    "plural": "les montagnes",
+    "image": "images/montagne.jpg"
+  },
+  {
+    "singular": "la colline",
+    "plural": "les collines",
+    "image": "images/colline.jpg"
+  },
+  {
+    "singular": "la vallée",
+    "plural": "les vallées",
+    "image": "images/vallee.jpg"
+  },
+  {
+    "singular": "la forêt",
+    "plural": "les forêts",
+    "image": "images/foret.jpg"
+  },
+  {
+    "singular": "le bois",
+    "plural": "les bois",
+    "image": "images/bois.jpg"
+  },
+  {
+    "singular": "la jungle",
+    "plural": "les jungles",
+    "image": "images/jungle.jpg"
+  },
+  {
+    "singular": "le désert",
+    "plural": "les déserts",
+    "image": "images/desert.jpg"
+  },
+  {
+    "singular": "la plage",
+    "plural": "les plages",
+    "image": "images/plage.jpg"
+  },
+  {
+    "singular": "la mer",
+    "plural": "les mers",
+    "image": "images/mer.jpg"
+  },
+  {
+    "singular": "l'océan",
+    "plural": "les océans",
+    "image": "images/ocean.jpg"
+  },
+  {
+    "singular": "la rivière",
+    "plural": "les rivières",
+    "image": "images/riviere.jpg"
+  },
+  {
+    "singular": "le fleuve",
+    "plural": "les fleuves",
+    "image": "images/fleuve.jpg"
+  },
+  {
+    "singular": "le lac",
+    "plural": "les lacs",
+    "image": "images/lac.jpg"
+  },
+  {
+    "singular": "l'étang",
+    "plural": "les étangs",
+    "image": "images/etang.jpg"
+  },
+  {
+    "singular": "la cascade",
+    "plural": "les cascades",
+    "image": "images/cascade.jpg"
+  },
+  {
+    "singular": "la chute d'eau",
+    "plural": "les chutes d'eau",
+    "image": "images/chute_eau.jpg"
+  },
+  {
+    "singular": "l'île",
+    "plural": "les îles",
+    "image": "images/ile.jpg"
+  },
+  {
+    "singular": "la péninsule",
+    "plural": "les péninsules",
+    "image": "images/peninsule.jpg"
+  },
+  {
+    "singular": "le volcan",
+    "plural": "les volcans",
+    "image": "images/volcan.jpg"
+  },
+  {
+    "singular": "le rocher",
+    "plural": "les rochers",
+    "image": "images/rocher.jpg"
+  },
+  {
+    "singular": "la pierre",
+    "plural": "les pierres",
+    "image": "images/pierre.jpg"
+  },
+  {
+    "singular": "le sable",
+    "plural": "les sables",
+    "image": "images/sable.jpg"
+  },
+  {
+    "singular": "la terre",
+    "plural": "les terres",
+    "image": "images/terre.jpg"
+  },
+  {
+    "singular": "la boue",
+    "plural": "les boues",
+    "image": "images/boue.jpg"
+  },
+  {
+    "singular": "la glace",
+    "plural": "les glaces",
+    "image": "images/glace_nature.jpg"
+  },
+  {
+    "singular": "l'iceberg",
+    "plural": "les icebergs",
+    "image": "images/iceberg.jpg"
+  },
+  {
+    "singular": "le glacier",
+    "plural": "les glaciers",
+    "image": "images/glacier.jpg"
+  },
+  {
+    "singular": "la grotte",
+    "plural": "les grottes",
+    "image": "images/grotte.jpg"
+  },
+  {
+    "singular": "la caverne",
+    "plural": "les cavernes",
+    "image": "images/caverne.jpg"
+  },
+  {
+    "singular": "le champ",
+    "plural": "les champs",
+    "image": "images/champ.jpg"
+  },
+  {
+    "singular": "le pré",
+    "plural": "les prés",
+    "image": "images/pre.jpg"
+  },
+  {
+    "singular": "la prairie",
+    "plural": "les prairies",
+    "image": "images/prairie.jpg"
+  },
+  {
+    "singular": "la vague",
+    "plural": "les vagues",
+    "image": "images/vague.jpg"
+  },
+  {
+    "singular": "la marée",
+    "plural": "les marées",
+    "image": "images/maree.jpg"
+  },
+  {
+    "singular": "le courant",
+    "plural": "les courants",
+    "image": "images/courant.jpg"
+  },
+  {
+    "singular": "la planète",
+    "plural": "les planètes",
+    "image": "images/planete.jpg"
+  }
+]
