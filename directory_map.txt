@@ -30,10 +30,17 @@
 ├── extract_française.py
 ├── images
 │   ├── argent.jpg
+│   ├── bague.jpg
 │   ├── baguette.jpg
+│   ├── banane.jpg
+│   ├── beurre.jpg
+│   ├── bijou.jpg
+│   ├── blouson.jpg
 │   ├── botte.jpg
 │   ├── boulangerie.jpg
+│   ├── cactus.jpg
 │   ├── canard.jpg
+│   ├── carotte.jpg
 │   ├── casquette.jpg
 │   ├── ceinture.jpg
 │   ├── chapeau.jpg
@@ -44,14 +51,21 @@
 │   ├── chemise.jpg
 │   ├── chien.jpg
 │   ├── cochon.jpg
+│   ├── collant.jpg
+│   ├── concombre.jpg
+│   ├── coquelicot.jpg
 │   ├── cravate.jpg
 │   ├── dollar.jpg
 │   ├── echarpe.jpg
+│   ├── fenetre.jpg
 │   ├── for vscode chat.txt
+│   ├── fraise.jpg
+│   ├── fromage.jpg
 │   ├── gant.jpg
 │   ├── jean.jpg
 │   ├── jupe.jpg
 │   ├── kilo.jpg
+│   ├── lait.jpg
 │   ├── lapin.jpg
 │   ├── le_chat_curieux_1.jpg
 │   ├── le_chat_curieux_2.jpg
@@ -62,37 +76,75 @@
 │   ├── le_chat_curieux_7.jpg
 │   ├── le_chat_curieux_8.png
 │   ├── loup.jpg
+│   ├── lunettes.jpg
+│   ├── lys.jpg
 │   ├── magasin.jpg
 │   ├── maillot.jpg
+│   ├── maison.jpg
 │   ├── manteau.jpg
 │   ├── marchand.jpg
 │   ├── marche.png
+│   ├── marguerite.jpg
+│   ├── montre.jpg
 │   ├── mouton.jpg
+│   ├── oeuf.jpg
 │   ├── oiseau.jpg
+│   ├── orange.jpg
+│   ├── orchidee.jpg
+│   ├── pain.jpg
+│   ├── palmier.jpg
 │   ├── pantalon.jpg
+│   ├── parapluie.jpg
+│   ├── peche.jpg
+│   ├── poire.jpg
 │   ├── poisson.jpg
+│   ├── poisson_nourriture.jpg
+│   ├── pomme.jpg
+│   ├── pomme_de_terre.jpg
+│   ├── porte.jpg
+│   ├── poulet.jpg
 │   ├── prix.jpg
 │   ├── produit.jpg
 │   ├── prompts
-│   │   ├── botte.prompt
-│   │   ├── ceinture.prompt
 │   │   ├── cravate.prompt
 │   │   ├── echarpe.prompt
 │   │   ├── gant.prompt
+│   │   ├── lys.prompt
 │   │   ├── maillot.prompt
-│   │   └── sandale.prompt
+│   │   ├── maison.prompt
+│   │   ├── marguerite.prompt
+│   │   ├── orange.prompt
+│   │   ├── orchidee.prompt
+│   │   ├── palmier.prompt
+│   │   ├── peche.prompt
+│   │   ├── poire.prompt
+│   │   ├── pomme_de_terre.prompt
+│   │   ├── porte.prompt
+│   │   ├── raisin.prompt
+│   │   ├── sandale.prompt
+│   │   ├── tomate.prompt
+│   │   ├── tournesol.prompt
+│   │   └── violette.prompt
 │   ├── pull.jpg
+│   ├── pyjama.jpg
+│   ├── raisin.jpg
 │   ├── renard.jpg
 │   ├── robe.jpg
+│   ├── rose.jpg
 │   ├── sac.jpg
 │   ├── sandale.jpg
 │   ├── short.jpg
 │   ├── souris.jpg
 │   ├── tigre.jpg
+│   ├── tomate.jpg
+│   ├── tournesol.jpg
 │   ├── tshirt.jpg
+│   ├── tulipe.jpg
 │   ├── vache.jpg
 │   ├── veste.jpg
-│   └── ville.jpg
+│   ├── viande.jpg
+│   ├── ville.jpg
+│   └── violette.jpg
 ├── index.html
 ├── livre_de_contes.html
 ├── livre_de_contes.json
