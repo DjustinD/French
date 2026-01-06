@@ -1,4 +1,5 @@
 /French/
+├── RAPPORT_PROMPTS_CREATION.txt
 ├── README.md
 ├── adjectifs
 │   ├── bags.json
@@ -11,6 +12,7 @@
 │   ├── anniversaire_sophie.json
 │   ├── journee_ecole.json
 │   ├── la_famille_au_marche.json
+│   ├── la_famille_au_marche.prompt.txt
 │   ├── le_chat_curieux.json
 │   ├── le_chien_au_parc.json
 │   └── le_petit_lapin.json
@@ -31,6 +33,8 @@
 │   ├── niveau_11.json
 │   └── niveau_12.json
 ├── extract_française.py
+├── find_missing_images.py
+├── generate_prompts.py
 ├── images
 │   ├── Consider the state of the FRENCH fo.txt
 │   ├── Scan the project folder I provide a.txt
@@ -50,15 +54,42 @@
 │   ├── argent.jpg
 │   ├── armoire.jpg
 │   ├── arret_bus.jpg
+│   ├── artiste.jpg
+│   ├── auto.jpg
+│   ├── autobus.jpg
+│   ├── autocar.jpg
+│   ├── autoroute.jpg
+│   ├── avion.jpg
+│   ├── avocat_metier.jpg
+│   ├── avocate.jpg
+│   ├── bagage.jpg
 │   ├── bague.jpg
 │   ├── baguette.jpg
+│   ├── baignoire.jpg
 │   ├── baleine.jpg
+│   ├── balle.jpg
+│   ├── bambou.jpg
 │   ├── banane.jpg
+│   ├── bateau.jpg
+│   ├── beau_frere.jpg
+│   ├── beau_pere.jpg
+│   ├── bebe.jpg
+│   ├── belle_fille.jpg
+│   ├── belle_mere.jpg
+│   ├── belle_soeur.jpg
 │   ├── beurre.jpg
+│   ├── bicyclette.jpg
+│   ├── biere.jpg
 │   ├── bijou.jpg
+│   ├── billet.jpg
+│   ├── biscuit.jpg
 │   ├── blouson.jpg
+│   ├── bois.jpg
 │   ├── botte.jpg
 │   ├── botte_2.jpg
+│   ├── bouche.jpg
+│   ├── boue.jpg
+│   ├── bougie.jpg
 │   ├── boulanger.jpg
 │   ├── boulangere.jpg
 │   ├── boulangerie.jpg
@@ -67,7 +98,9 @@
 │   ├── bras.jpg
 │   ├── brouillard.jpg
 │   ├── bureau.jpg
+│   ├── bus.jpg
 │   ├── cactus.jpg
+│   ├── cadeau.jpg
 │   ├── cafe.jpg
 │   ├── canard.jpg
 │   ├── carotte.jpg
@@ -112,8 +145,9 @@
 │   ├── le_chat_curieux_6.png
 │   ├── le_chat_curieux_7.jpg
 │   ├── le_chat_curieux_8.png
-│   ├── le_petit_lapin_1.jpg.png
-│   ├── le_petit_lapin_2.jpg.png
+│   ├── le_petit_lapin_1.png
+│   ├── le_petit_lapin_2.png
+│   ├── le_petit_lapin_3.png
 │   ├── le_petit_lapin_cover.png
 │   ├── lion.jpg
 │   ├── loup.jpg
@@ -151,35 +185,106 @@
 │   ├── prix.jpg
 │   ├── produit.jpg
 │   ├── prompts
-│   │   ├── artiste.txt
-│   │   ├── auto.txt
-│   │   ├── autobus.txt
-│   │   ├── autocar.txt
-│   │   ├── autoroute.txt
-│   │   ├── avion.txt
-│   │   ├── avocat_metier.txt
-│   │   ├── avocate.txt
-│   │   ├── bagage.txt
-│   │   ├── baignoire.txt
-│   │   ├── balle.txt
-│   │   ├── bambou.txt
-│   │   ├── bateau.txt
-│   │   ├── beau_frere.txt
-│   │   ├── beau_pere.txt
-│   │   ├── bebe.txt
-│   │   ├── belle_fille.txt
-│   │   ├── belle_mere.txt
-│   │   ├── belle_soeur.txt
-│   │   ├── bicyclette.txt
-│   │   ├── biere.txt
-│   │   ├── billet.txt
-│   │   ├── biscuit.txt
-│   │   ├── bois.txt
-│   │   ├── bouche.txt
-│   │   ├── boue.txt
-│   │   ├── bougie.txt
-│   │   ├── bus.txt
-│   │   ├── cadeau.txt
+│   │   ├── cahier.prompt
+│   │   ├── camion.prompt
+│   │   ├── camion_pompiers.prompt
+│   │   ├── canape.prompt
+│   │   ├── cantine.prompt
+│   │   ├── cascade.prompt
+│   │   ├── caverne.prompt
+│   │   ├── cerisier.prompt
+│   │   ├── cerveau.prompt
+│   │   ├── chaise.prompt
+│   │   ├── chambre.prompt
+│   │   ├── champ.prompt
+│   │   ├── chanteur.prompt
+│   │   ├── chanteuse.prompt
+│   │   ├── chauffeur.prompt
+│   │   ├── chene.prompt
+│   │   ├── cheveux.prompt
+│   │   ├── chocolat.prompt
+│   │   ├── chute_eau.prompt
+│   │   ├── ciel.prompt
+│   │   ├── citronnier.prompt
+│   │   ├── classe.prompt
+│   │   ├── coeur.prompt
+│   │   ├── coiffeur.prompt
+│   │   ├── coiffeuse.prompt
+│   │   ├── colline.prompt
+│   │   ├── cou.prompt
+│   │   ├── coude.prompt
+│   │   ├── cour.prompt
+│   │   ├── courant.prompt
+│   │   ├── cousin.prompt
+│   │   ├── cousine.prompt
+│   │   ├── crayon.prompt
+│   │   ├── cuisine.prompt
+│   │   ├── cuisinier.prompt
+│   │   ├── cuisiniere.prompt
+│   │   ├── dent.prompt
+│   │   ├── dentiste.prompt
+│   │   ├── desert.prompt
+│   │   ├── doigt.prompt
+│   │   ├── dos.prompt
+│   │   ├── douche.prompt
+│   │   ├── eau.prompt
+│   │   ├── eclair.prompt
+│   │   ├── ecole.prompt
+│   │   ├── ecrivain.prompt
+│   │   ├── electricien.prompt
+│   │   ├── electricienne.prompt
+│   │   ├── eleve.prompt
+│   │   ├── enfant.prompt
+│   │   ├── enseignant.prompt
+│   │   ├── enseignante.prompt
+│   │   ├── epaule.prompt
+│   │   ├── epouse.prompt
+│   │   ├── epoux.prompt
+│   │   ├── erable.prompt
+│   │   ├── escalier.prompt
+│   │   ├── estomac.prompt
+│   │   ├── etagere.prompt
+│   │   ├── etang.prompt
+│   │   ├── etoile.prompt
+│   │   ├── facteur.prompt
+│   │   ├── factrice.prompt
+│   │   ├── famille.prompt
+│   │   ├── fauteuil.prompt
+│   │   ├── femme_epouse.prompt
+│   │   ├── ferry.prompt
+│   │   ├── fete.prompt
+│   │   ├── feu_rouge.prompt
+│   │   ├── feuille.prompt
+│   │   ├── fille.prompt
+│   │   ├── fils.prompt
+│   │   ├── fleur.prompt
+│   │   ├── fleuve.prompt
+│   │   ├── foret.prompt
+│   │   ├── fougere.prompt
+│   │   ├── four.prompt
+│   │   ├── frere.prompt
+│   │   ├── fruit.prompt
+│   │   ├── fusee.prompt
+│   │   ├── garage.prompt
+│   │   ├── gare.prompt
+│   │   ├── gateau.prompt
+│   │   ├── gendre.prompt
+│   │   ├── genou.prompt
+│   │   ├── glace.prompt
+│   │   ├── glace_nature.prompt
+│   │   ├── glacier.prompt
+│   │   ├── grand_mere.prompt
+│   │   ├── grand_pere.prompt
+│   │   ├── grands_parents.prompt
+│   │   ├── grotte.prompt
+│   │   ├── helicoptere.prompt
+│   │   ├── herbe.prompt
+│   │   ├── horloge.prompt
+│   │   ├── iceberg.prompt
+│   │   ├── ile.prompt
+│   │   ├── infirmier.prompt
+│   │   ├── infirmiere.prompt
+│   │   ├── ingenieur.prompt
 │   │   └── this is a french language practice.txt
 │   ├── pull.jpg
 │   ├── pyjama.jpg
@@ -209,6 +314,8 @@
 ├── index.html
 ├── livre_de_contes.html
 ├── livre_de_contes.json
+├── missing_images_for_prompts.txt
+├── missing_images_list.txt
 ├── niveaux_quebec.html
 ├── nombres
 │   ├── cardinaux_21_100.json
@@ -235,6 +342,7 @@
 ├── noms_français.json
 ├── phrases_et_sentences.html
 ├── style.css
+├── temp_existing_images.txt
 ├── temp_needed1.txt
 ├── temp_needed2.txt
 ├── tools

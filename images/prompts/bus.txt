@@ -1,5 +1,0 @@
-Fichier final: bus.jpg
-
-Créez une photographie d'un bus urbain moderne en circulation sur une avenue de ville par une journée ensoleillée. Le véhicule présente une carrosserie aux couleurs vives typiques du transport public (rouge, bleu ou vert), de larges fenêtres panoramiques et plusieurs portes. Le bus affiche sa ligne et destination sur un panneau électronique à l'avant. On aperçoit des passagers à travers les vitres. L'environnement urbain comprend des immeubles, des arrêts de bus, des voies dédiées et d'autres véhicules. L'éclairage naturel crée des reflets sur la carrosserie. L'image évoque le transport public urbain, la mobilité collective et les services municipaux.
-
-Spécifications : JPEG 400×300 px (4:3), optimiser pour ≈100 KB, pas de texte ni de logos.

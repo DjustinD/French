@@ -1,5 +1,0 @@
-Fichier final: billet.jpg
-
-Créez une photographie en gros plan d'un billet de banque stylisé reposant sur une surface neutre. Le billet présente des couleurs vives typiques de la monnaie papier avec des motifs géométriques complexes, des chiffres indicatifs de valeur et des éléments de sécurité visibles comme des hologrammes ou filigranes. Le design est générique mais élégant, évoquant la monnaie internationale sans représenter une devise spécifique réelle. L'éclairage met en valeur les détails complexes et les reflets des éléments de sécurité. L'arrière-plan est simple et professionnel. L'image transmet la valeur monétaire, les transactions financières et l'économie.
-
-Spécifications : JPEG 400×300 px (4:3), optimiser pour ≈100 KB, pas de texte ni de logos.

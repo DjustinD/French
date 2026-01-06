@@ -1,5 +1,0 @@
-Fichier final: autobus.jpg
-
-Créez une photographie d'un grand autobus de transport urbain moderne circulant sur une avenue de ville. Le véhicule présente une carrosserie aux couleurs vives du transport public, de grandes fenêtres panoramiques et des portes larges pour l'embarquement. On peut voir quelques passagers à travers les vitres. Le bus se déplace sur une voie dédiée avec des arrêts de bus visibles en arrière-plan. L'environnement urbain comprend des immeubles, des feux de circulation et des arbres d'alignement. L'éclairage diurne crée une scène claire et dynamique. L'image capture le transport public collectif, la mobilité urbaine et les services de la ville.
-
-Spécifications : JPEG 400×300 px (4:3), optimiser pour ≈100 KB, pas de texte ni de logos.

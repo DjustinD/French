@@ -179,14 +179,29 @@
                 singularLabel.className = 'label-tag singular-tag tooltip-trigger';
                 singularLabel.textContent = 'sg.';
                 
-                const singularTooltip = document.createElement('span');
-                singularTooltip.className = 'tooltip';
-                singularTooltip.setAttribute('aria-hidden', 'true');
-                singularTooltip.textContent = 'Singular';
-                singularLabel.appendChild(singularTooltip);
+                const singularLabelTooltip = document.createElement('span');
+                singularLabelTooltip.className = 'tooltip';
+                singularLabelTooltip.setAttribute('aria-hidden', 'true');
+                singularLabelTooltip.textContent = 'Singular';
+                singularLabel.appendChild(singularLabelTooltip);
                 
                 singularDiv.appendChild(singularLabel);
-                singularDiv.appendChild(document.createTextNode(' ' + word.singular));
+                singularDiv.appendChild(document.createTextNode(' '));
+                
+                // Add French word with English tooltip
+                const singularWord = document.createElement('span');
+                singularWord.className = 'tooltip-trigger';
+                singularWord.textContent = word.singular;
+                
+                if (word.english) {
+                    const singularTooltip = document.createElement('span');
+                    singularTooltip.className = 'tooltip';
+                    singularTooltip.setAttribute('aria-hidden', 'true');
+                    singularTooltip.textContent = word.english;
+                    singularWord.appendChild(singularTooltip);
+                }
+                
+                singularDiv.appendChild(singularWord);
                 
                 // Create plural section with tooltip
                 const pluralDiv = document.createElement('div');
@@ -196,34 +211,32 @@
                 pluralLabel.className = 'label-tag plural-tag tooltip-trigger';
                 pluralLabel.textContent = 'pl.';
                 
-                const pluralTooltip = document.createElement('span');
-                pluralTooltip.className = 'tooltip';
-                pluralTooltip.setAttribute('aria-hidden', 'true');
-                pluralTooltip.textContent = 'Plural';
-                pluralLabel.appendChild(pluralTooltip);
+                const pluralLabelTooltip = document.createElement('span');
+                pluralLabelTooltip.className = 'tooltip';
+                pluralLabelTooltip.setAttribute('aria-hidden', 'true');
+                pluralLabelTooltip.textContent = 'Plural';
+                pluralLabel.appendChild(pluralLabelTooltip);
                 
                 pluralDiv.appendChild(pluralLabel);
-                pluralDiv.appendChild(document.createTextNode(' ' + word.plural));
+                pluralDiv.appendChild(document.createTextNode(' '));
                 
-                // Add English translation with tooltip if available
+                // Add French plural with English tooltip
+                const pluralWord = document.createElement('span');
+                pluralWord.className = 'tooltip-trigger';
+                pluralWord.textContent = word.plural;
+                
                 if (word.english) {
-                    const englishDiv = document.createElement('div');
-                    englishDiv.className = 'word-english tooltip-trigger';
-                    englishDiv.textContent = '🇬🇧';
-                    
-                    const englishTooltip = document.createElement('span');
-                    englishTooltip.className = 'tooltip';
-                    englishTooltip.setAttribute('aria-hidden', 'true');
-                    englishTooltip.textContent = word.english;
-                    englishDiv.appendChild(englishTooltip);
-                    
-                    info.appendChild(singularDiv);
-                    info.appendChild(pluralDiv);
-                    info.appendChild(englishDiv);
-                } else {
-                    info.appendChild(singularDiv);
-                    info.appendChild(pluralDiv);
+                    const pluralTooltip = document.createElement('span');
+                    pluralTooltip.className = 'tooltip';
+                    pluralTooltip.setAttribute('aria-hidden', 'true');
+                    pluralTooltip.textContent = word.english;
+                    pluralWord.appendChild(pluralTooltip);
                 }
+                
+                pluralDiv.appendChild(pluralWord);
+                
+                info.appendChild(singularDiv);
+                info.appendChild(pluralDiv);
 
                 card.appendChild(imageDiv);
                 card.appendChild(info);

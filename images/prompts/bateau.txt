@@ -1,5 +1,0 @@
-Fichier final: bateau.jpg
-
-Créez une photographie d'un bateau de plaisance moderne naviguant sur un lac calme par une journée ensoleillée. L'embarcation présente une coque blanche élégante, un pont spacieux et possiblement une petite cabine. Des voiles blanches sont hissées et gonflées par le vent. L'eau bleue réfléchit le ciel et crée de légères vaguelettes autour de la coque. L'arrière-plan montre des collines verdoyantes sur les rives du lac et un ciel bleu avec quelques nuages blancs. L'éclairage naturel crée une ambiance estivale et relaxante. L'image évoque la navigation de plaisance, les loisirs nautiques, la liberté et la sérénité.
-
-Spécifications : JPEG 400×300 px (4:3), optimiser pour ≈100 KB, pas de texte ni de logos.

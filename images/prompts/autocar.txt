@@ -1,5 +1,0 @@
-Fichier final: autocar.jpg
-
-Créez une photographie d'un autocar de tourisme élégant stationné sur une aire de repos autoroutière. Le véhicule est long et moderne, avec une carrosserie aux teintes de blanc et couleurs vives, de très grandes fenêtres teintées et un compartiment à bagages visible sur le côté. L'autocar présente des détails chromés et un design aérodynamique. L'arrière-plan montre une aire de repos avec des arbres, des bancs et éventuellement d'autres véhicules. Le ciel est dégagé et l'éclairage naturel souligne l'élégance du véhicule. L'image évoque les voyages longue distance, le tourisme en groupe et le confort des déplacements interurbains.
-
-Spécifications : JPEG 400×300 px (4:3), optimiser pour ≈100 KB, pas de texte ni de logos.

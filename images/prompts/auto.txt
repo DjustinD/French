@@ -1,5 +1,0 @@
-Fichier final: auto.jpg
-
-Créez une photographie d'une voiture familiale moderne stationnée dans une allée résidentielle par une belle journée. L'automobile présente un design contemporain, quatre portes, des lignes élégantes et une carrosserie brillante dans une couleur attrayante comme le bleu métallique ou le gris argenté. Les roues sont propres et les phares modernes reflètent la lumière. L'arrière-plan montre une maison de banlieue avec une pelouse verte et quelques arbres. L'éclairage naturel met en valeur les courbes du véhicule. L'image transmet la mobilité personnelle, le transport familial et la vie quotidienne moderne.
-
-Spécifications : JPEG 400×300 px (4:3), optimiser pour ≈100 KB, pas de texte ni de logos.
