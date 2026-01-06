@@ -1,4 +1,4 @@
-Scan the project folder I provide and find all image filenames referenced in JSON files under noms (or another folder I name). For each referenced JPEG that does not exist in images, create a .prompt text file in prompts named exactly like the missing JPEG but with a .prompt extension (example: boulangerie.prompt). For each prompt file:
+Scan the project folder "French" and find all image filenames referenced in JSON files under noms (or another folder I name). For each referenced JPEG that does not exist in images, create a .prompt text file in prompts named exactly like the missing JPEG but with a .prompt extension (example: boulangerie.prompt). For each prompt file:
 
 Write the content in French.
 Start with a first line: Fichier final: <filename>.jpg.
@@ -11,3 +11,4 @@ Do not overwrite existing .prompt files unless I explicitly ask.
 Be sure to create a prompt that shows the entire scene in the picture
 Batch the work and create up to 100 prompts at once.
 Return a short report listing the created .prompt file paths and the original missing filenames.
+Be very careful that the prompt you generate is appropriate for the noun.

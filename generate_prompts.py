@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+import sys
 
 # Dictionary mapping image filenames to detailed French prompts
 # Each prompt describes the full scene that should appear in the image
@@ -249,12 +250,27 @@ all_prompts = {**prompt_templates, **prompts_continued}
 with open('missing_images_for_prompts.txt', 'r', encoding='utf-8') as f:
     missing_images = [line.strip() for line in f.readlines()]
 
-# Create prompt files for the first 100 missing images
+# Determine batch start and count from CLI args (defaults: start=0, count=100)
+start = 0
+count = 100
+if len(sys.argv) >= 2:
+    try:
+        start = int(sys.argv[1])
+    except Exception:
+        start = 0
+if len(sys.argv) >= 3:
+    try:
+        count = int(sys.argv[2])
+    except Exception:
+        count = 100
+
+# Create prompt files for the requested batch of missing images
 created_files = []
 prompts_folder = Path('images/prompts')
 prompts_folder.mkdir(parents=True, exist_ok=True)
 
-for img_filename in missing_images[:100]:
+end = start + count
+for img_filename in missing_images[start:end]:
     prompt_filename = img_filename.replace('.jpg', '.prompt')
     prompt_path = prompts_folder / prompt_filename
     
@@ -280,8 +296,12 @@ for img_filename in missing_images[:100]:
 
 # Generate report
 print(f"\n=== RAPPORT DE CRÉATION DES PROMPTS ===\n")
+print(f"Batch start: {start}, count: {count}")
 print(f"Nombre total d'images manquantes : {len(missing_images)}")
 print(f"Nombre de prompts créés : {len(created_files)}\n")
-print("Fichiers .prompt créés:\n")
-for prompt_file, original_img in created_files:
-    print(f"  - images/prompts/{prompt_file} (pour {original_img})")
+if created_files:
+    print("Fichiers .prompt créés:\n")
+    for prompt_file, original_img in created_files:
+        print(f"  - images/prompts/{prompt_file} (pour {original_img})")
+else:
+    print("Aucun nouveau fichier .prompt créé pour ce batch (peut-être déjà existants).")

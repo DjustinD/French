@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container">
-        <header>
+        <header aria-hidden="true">
             <h1>Apprendre les Noms Français</h1>
             <p class="subtitle">Apprenez le vocabulaire français avec des images</p>
         </header>
@@ -178,6 +178,7 @@
                 const singularLabel = document.createElement('span');
                 singularLabel.className = 'label-tag singular-tag tooltip-trigger';
                 singularLabel.textContent = 'sg.';
+                singularLabel.setAttribute('aria-hidden', 'true');
                 
                 const singularLabelTooltip = document.createElement('span');
                 singularLabelTooltip.className = 'tooltip';
@@ -210,6 +211,7 @@
                 const pluralLabel = document.createElement('span');
                 pluralLabel.className = 'label-tag plural-tag tooltip-trigger';
                 pluralLabel.textContent = 'pl.';
+                pluralLabel.setAttribute('aria-hidden', 'true');
                 
                 const pluralLabelTooltip = document.createElement('span');
                 pluralLabelTooltip.className = 'tooltip';

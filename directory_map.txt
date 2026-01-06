@@ -102,41 +102,156 @@
 │   ├── cactus.jpg
 │   ├── cadeau.jpg
 │   ├── cafe.jpg
+│   ├── cahier.jpg
+│   ├── camion.jpg
+│   ├── camion_pompiers.jpg
+│   ├── canape.jpg
 │   ├── canard.jpg
+│   ├── cantine.jpg
 │   ├── carotte.jpg
+│   ├── cascade.jpg
 │   ├── casquette.jpg
+│   ├── caverne.jpg
 │   ├── ceinture.jpg
+│   ├── cerisier.jpg
+│   ├── cerveau.jpg
+│   ├── chaise.jpg
+│   ├── chambre.jpg
+│   ├── champ.jpg
+│   ├── chanteur.jpg
+│   ├── chanteuse.jpg
 │   ├── chapeau.jpg
 │   ├── chat.jpg
+│   ├── chauffeur.jpg
 │   ├── chaussette.jpg
 │   ├── chaussure.jpg
 │   ├── chemin.jpg
 │   ├── chemise.jpg
+│   ├── chene.jpg
 │   ├── cheval.jpg
+│   ├── cheveux.jpg
 │   ├── chien.jpg
+│   ├── chocolat.jpg
+│   ├── chute_eau.jpg
+│   ├── ciel.jpg
+│   ├── citronnier.jpg
+│   ├── classe.jpg
 │   ├── cochon.jpg
+│   ├── coiffeur.jpg
+│   ├── coiffeuse.jpg
 │   ├── collant.jpg
+│   ├── colline.jpg
 │   ├── concombre.jpg
 │   ├── coquelicot.jpg
+│   ├── cou.jpg
+│   ├── coude.jpg
+│   ├── cour.jpg
+│   ├── courant.jpg
+│   ├── cousin.jpg
+│   ├── cousine.jpg
 │   ├── cravate.jpg
+│   ├── crayon.jpg
 │   ├── crocodile.jpg
+│   ├── cuisine.jpg
+│   ├── cuisinier.jpg
+│   ├── cuisiniere.jpg
 │   ├── cygne.jpg
+│   ├── cœur.jpg
 │   ├── dauphin.jpg
+│   ├── dent.jpg
+│   ├── dentiste.jpg
+│   ├── desert.jpg
+│   ├── doigt.jpg
 │   ├── dollar.jpg
+│   ├── dos.jpg
+│   ├── douche.jpg
+│   ├── eau.png
 │   ├── echarpe.jpg
+│   ├── eclair.jpg
+│   ├── ecole.jpg
+│   ├── ecrivain.jpg
+│   ├── electricien.jpg
+│   ├── electricienne.jpg
 │   ├── elephant.jpg
+│   ├── eleve.jpg
+│   ├── enfant.jpg
+│   ├── enseignant.jpg
+│   ├── enseignante.jpg
+│   ├── epaule.jpg
+│   ├── epouse.jpg
+│   ├── epoux.jpg
+│   ├── erable.jpg
+│   ├── escalier.jpg
+│   ├── estomac.jpg
+│   ├── etagere.jpg
+│   ├── etang.jpg
+│   ├── etoile.jpg
+│   ├── facteur.jpg
+│   ├── factrice.jpg
+│   ├── famille.jpg
+│   ├── fauteuil.jpg
+│   ├── femme_epouse.jpg
 │   ├── fenetre.jpg
+│   ├── ferry.jpg
+│   ├── fete.jpg
+│   ├── feu_rouge.jpg
+│   ├── feuille.jpg
+│   ├── fille.jpg
+│   ├── fils.jpg
+│   ├── fleur.jpg
+│   ├── fleuve.jpg
 │   ├── for vscode chat.txt
+│   ├── foret.jpg
+│   ├── fougere.jpg
+│   ├── four.jpg
 │   ├── fraise.jpg
+│   ├── frere.jpg
 │   ├── fromage.jpg
+│   ├── fruit.jpg
+│   ├── fusee.jpg
 │   ├── gant.jpg
+│   ├── garage.jpg
+│   ├── gare.jpg
+│   ├── gateau.jpg
+│   ├── gendre.jpg
+│   ├── genou.jpg
 │   ├── girafe.jpg
+│   ├── glace.jpg
+│   ├── glace_nature.jpg
+│   ├── glacier.jpg
+│   ├── grand_mere.jpg
+│   ├── grand_pere.jpg
+│   ├── grands_parents.jpg
 │   ├── grenouille.jpg
+│   ├── grotte.jpg
+│   ├── helicoptere.jpg
+│   ├── herbe.jpg
+│   ├── horloge.jpg
+│   ├── iceberg.jpg
+│   ├── ile.jpg
+│   ├── infiermier.jpg
+│   ├── infirmiere.jpg
+│   ├── ingenieur.jpg
+│   ├── jambe.jpg
+│   ├── jardin.jpg
+│   ├── jardinier.jpg
+│   ├── jardinière.jpg
 │   ├── jean.jpg
+│   ├── jouet.jpg
+│   ├── journalist.jpg
+│   ├── jumeau.jpg
+│   ├── jumelle.jpg
+│   ├── jungle.jpg
 │   ├── jupe.jpg
+│   ├── jus.jpg
 │   ├── kilo.jpg
+│   ├── lac.jpg
 │   ├── lait.jpg
+│   ├── lampe.jpg
+│   ├── langue.jpg
 │   ├── lapin.jpg
+│   ├── lavabo.jpg
+│   ├── lave_vaisselle.jpg
 │   ├── le_chat_curieux_1.jpg
 │   ├── le_chat_curieux_2.jpg
 │   ├── le_chat_curieux_3.jpg
@@ -149,17 +264,32 @@
 │   ├── le_petit_lapin_2.png
 │   ├── le_petit_lapin_3.png
 │   ├── le_petit_lapin_cover.png
+│   ├── legume.jpg
+│   ├── lierre.jpg
 │   ├── lion.jpg
+│   ├── lit.jpg
+│   ├── livre.jpg
 │   ├── loup.jpg
+│   ├── lune.jpg
 │   ├── lunettes.jpg
 │   ├── lys.jpg
+│   ├── machine_a_laver.jpg
 │   ├── magasin.jpg
 │   ├── maillot.jpg
+│   ├── main.jpg
 │   ├── maison.jpg
 │   ├── manteau.jpg
 │   ├── marchand.jpg
+│   ├── marche.jpg
 │   ├── marche.png
+│   ├── maree.jpg
 │   ├── marguerite.jpg
+│   ├── mari.jpg
+│   ├── mecanicien.jpg
+│   ├── mecanicienne.jpg
+│   ├── medecin.jpg
+│   ├── menuisier.jpg
+│   ├── mer.jpg
 │   ├── montre.jpg
 │   ├── mouton.jpg
 │   ├── oeuf.jpg
@@ -185,106 +315,7 @@
 │   ├── prix.jpg
 │   ├── produit.jpg
 │   ├── prompts
-│   │   ├── cahier.prompt
-│   │   ├── camion.prompt
-│   │   ├── camion_pompiers.prompt
-│   │   ├── canape.prompt
-│   │   ├── cantine.prompt
-│   │   ├── cascade.prompt
-│   │   ├── caverne.prompt
-│   │   ├── cerisier.prompt
-│   │   ├── cerveau.prompt
-│   │   ├── chaise.prompt
-│   │   ├── chambre.prompt
-│   │   ├── champ.prompt
-│   │   ├── chanteur.prompt
-│   │   ├── chanteuse.prompt
-│   │   ├── chauffeur.prompt
-│   │   ├── chene.prompt
-│   │   ├── cheveux.prompt
-│   │   ├── chocolat.prompt
-│   │   ├── chute_eau.prompt
-│   │   ├── ciel.prompt
-│   │   ├── citronnier.prompt
-│   │   ├── classe.prompt
-│   │   ├── coeur.prompt
-│   │   ├── coiffeur.prompt
-│   │   ├── coiffeuse.prompt
-│   │   ├── colline.prompt
-│   │   ├── cou.prompt
-│   │   ├── coude.prompt
-│   │   ├── cour.prompt
-│   │   ├── courant.prompt
-│   │   ├── cousin.prompt
-│   │   ├── cousine.prompt
-│   │   ├── crayon.prompt
-│   │   ├── cuisine.prompt
-│   │   ├── cuisinier.prompt
-│   │   ├── cuisiniere.prompt
-│   │   ├── dent.prompt
-│   │   ├── dentiste.prompt
-│   │   ├── desert.prompt
-│   │   ├── doigt.prompt
-│   │   ├── dos.prompt
-│   │   ├── douche.prompt
-│   │   ├── eau.prompt
-│   │   ├── eclair.prompt
-│   │   ├── ecole.prompt
-│   │   ├── ecrivain.prompt
-│   │   ├── electricien.prompt
-│   │   ├── electricienne.prompt
-│   │   ├── eleve.prompt
-│   │   ├── enfant.prompt
-│   │   ├── enseignant.prompt
-│   │   ├── enseignante.prompt
-│   │   ├── epaule.prompt
-│   │   ├── epouse.prompt
-│   │   ├── epoux.prompt
-│   │   ├── erable.prompt
-│   │   ├── escalier.prompt
-│   │   ├── estomac.prompt
-│   │   ├── etagere.prompt
-│   │   ├── etang.prompt
-│   │   ├── etoile.prompt
-│   │   ├── facteur.prompt
-│   │   ├── factrice.prompt
-│   │   ├── famille.prompt
-│   │   ├── fauteuil.prompt
-│   │   ├── femme_epouse.prompt
-│   │   ├── ferry.prompt
-│   │   ├── fete.prompt
-│   │   ├── feu_rouge.prompt
-│   │   ├── feuille.prompt
-│   │   ├── fille.prompt
-│   │   ├── fils.prompt
-│   │   ├── fleur.prompt
-│   │   ├── fleuve.prompt
-│   │   ├── foret.prompt
-│   │   ├── fougere.prompt
-│   │   ├── four.prompt
-│   │   ├── frere.prompt
-│   │   ├── fruit.prompt
-│   │   ├── fusee.prompt
-│   │   ├── garage.prompt
-│   │   ├── gare.prompt
-│   │   ├── gateau.prompt
-│   │   ├── gendre.prompt
-│   │   ├── genou.prompt
-│   │   ├── glace.prompt
-│   │   ├── glace_nature.prompt
-│   │   ├── glacier.prompt
-│   │   ├── grand_mere.prompt
-│   │   ├── grand_pere.prompt
-│   │   ├── grands_parents.prompt
-│   │   ├── grotte.prompt
-│   │   ├── helicoptere.prompt
-│   │   ├── herbe.prompt
-│   │   ├── horloge.prompt
-│   │   ├── iceberg.prompt
-│   │   ├── ile.prompt
-│   │   ├── infirmier.prompt
-│   │   ├── infirmiere.prompt
-│   │   ├── ingenieur.prompt
+│   │   ├── prompts.txt
 │   │   └── this is a french language practice.txt
 │   ├── pull.jpg
 │   ├── pyjama.jpg
@@ -340,6 +371,17 @@
 │   └── vetements.json
 ├── noms_français.html
 ├── noms_français.json
+├── paroles
+│   ├── C'est Ma Journée.txt
+│   ├── Ce Que J'aime.txt
+│   ├── Je Peux Le Faire.txt
+│   ├── Ma Journée.txt
+│   ├── New folder
+│   ├── Petit papillon.txt
+│   ├── Week-end Magique.txt
+│   ├── Woodstock.txt
+│   ├── ce soir l'amour est dans tes yeux.txt
+│   └── lis-moi.txt
 ├── phrases_et_sentences.html
 ├── style.css
 ├── temp_existing_images.txt

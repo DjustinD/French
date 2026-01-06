@@ -21,19 +21,19 @@
 
             <div class="selector-group">
                 <div class="dimension-label" aria-hidden="true">Sélectionner un verbe</div>
-                <select class="verb-dropdown" id="verbSelector">
+                <select class="verb-dropdown" id="verbSelector" aria-hidden="true">
                     <option value="">Chargement...</option>
                 </select>
             </div>
 
             <div class="selector-group">
                 <div class="dimension-label" aria-hidden="true">Sélectionner une période temporelle</div>
-                <div class="selector-buttons" id="timeFrameSelector"></div>
+                <div class="selector-buttons" id="timeFrameSelector" aria-hidden="true"></div>
             </div>
 
             <div class="selector-group">
                 <div class="dimension-label" aria-hidden="true">Sélectionner un aspect</div>
-                <div class="selector-buttons" id="aspectSelector"></div>
+                <div class="selector-buttons" id="aspectSelector" aria-hidden="true"></div>
             </div>
         </div>
 
@@ -304,47 +304,96 @@
         }
 
         // Create a conjugation row
+        // Small helper to escape HTML for inserted text
+        function escapeHtml(str) {
+            return String(str)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;');
+        }
+
+        // Create a conjugation row (renders two example phrases if possible)
         function createConjugationRow(subject, data) {
             const row = document.createElement('tr');
-            
+
             // Subject cell
             const subjectCell = document.createElement('td');
             subjectCell.className = 'tooltip-trigger';
             subjectCell.textContent = subject;
-            
+
             const subjectInfo = subjectData[subject];
             const subjectTooltip = document.createElement('span');
             subjectTooltip.className = 'tooltip tooltip-subject';
             subjectTooltip.setAttribute('aria-hidden', 'true');
             subjectTooltip.textContent = `${subjectInfo.english}\n${subjectInfo.number}\n${subjectInfo.gender}`;
             subjectCell.appendChild(subjectTooltip);
-            
+
             // Form cell
             const formCell = document.createElement('td');
             formCell.className = 'tooltip-trigger';
             formCell.textContent = data.form;
-            
+
             const formTooltip = document.createElement('span');
             formTooltip.className = 'tooltip tooltip-verb';
             formTooltip.setAttribute('aria-hidden', 'true');
             formTooltip.textContent = data.english;
             formCell.appendChild(formTooltip);
-            
-            // Sentence cell
+
+            // Sentence cell: attempt to show two example phrases
             const sentenceCell = document.createElement('td');
             sentenceCell.className = 'tooltip-trigger';
-            sentenceCell.textContent = data.sentence;
-            
+
+            // Determine primary and secondary sentences
+            let primaryFr = '';
+            let primaryEn = '';
+            let secondaryFr = '';
+            let secondaryEn = '';
+
+            if (Array.isArray(data.sentences) && data.sentences.length > 0) {
+                primaryFr = data.sentences[0].sentence || data.sentences[0].fr || '';
+                primaryEn = data.sentences[0].sentenceEnglish || data.sentences[0].en || '';
+                if (data.sentences.length > 1) {
+                    secondaryFr = data.sentences[1].sentence || data.sentences[1].fr || '';
+                    secondaryEn = data.sentences[1].sentenceEnglish || data.sentences[1].en || '';
+                }
+            } else {
+                primaryFr = data.sentence || '';
+                primaryEn = data.sentenceEnglish || data.english || '';
+            }
+
+            // Fallback generator for a second example when none provided
+            if (!secondaryFr) {
+                const subjText = subject.split('/')[0];
+                const subjCap = subjText.charAt(0).toUpperCase() + subjText.slice(1);
+                secondaryFr = `${subjCap} ${data.form} à la maison.`;
+                const subjEng = (subjectInfo && subjectInfo.english) ? subjectInfo.english : subjText;
+                const baseEng = (data.english || primaryEn).split('/')[0].trim();
+                secondaryEn = `${subjEng} ${baseEng} to the house.`;
+            }
+
+            // Visible French sentences (two lines)
+            const firstLine = document.createElement('div');
+            firstLine.className = 'sentence-line';
+            firstLine.textContent = primaryFr;
+
+            const secondLine = document.createElement('div');
+            secondLine.className = 'sentence-line secondary';
+            secondLine.textContent = secondaryFr;
+
+            sentenceCell.appendChild(firstLine);
+            sentenceCell.appendChild(secondLine);
+
+            // Tooltip containing English equivalents (hidden from screen readers)
             const sentenceTooltip = document.createElement('span');
             sentenceTooltip.className = 'tooltip tooltip-sentence';
             sentenceTooltip.setAttribute('aria-hidden', 'true');
-            sentenceTooltip.textContent = data.sentenceEnglish;
+            sentenceTooltip.textContent = `${primaryEn}${secondaryEn ? '\n' + secondaryEn : ''}`;
             sentenceCell.appendChild(sentenceTooltip);
-            
+
             row.appendChild(subjectCell);
             row.appendChild(formCell);
             row.appendChild(sentenceCell);
-            
+
             return row;
         }
 
